@@ -20,7 +20,7 @@
             {{ range $index, $item := first ($limit) ($archives) }}
                 {{- $id := lower (replace $item.Key " " "-") -}}
                 {{- $months := $item.Pages.GroupByDate "2006-01" -}}
-                <details class="archives-year-details" {{ if eq $index 0 }}open{{ end }}>
+                <details class="archives-year-details">
                     <summary>
                         <span class="year">{{ $item.Key }}</span>
                         <span class="count">{{ len $item.Pages }}</span>
