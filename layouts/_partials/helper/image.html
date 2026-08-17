@@ -1,0 +1,16 @@
+{{/* Override: remote image URLs are hotlinked directly (no resources.GetRemote
+     download/processing) so builds never fetch the ~300k gallery covers.
+     Local images keep the original theme behaviour. */}}
+{{ $result := dict }}
+{{ if .Image }}
+    {{ $url := urls.Parse .Image }}
+    {{ if in (slice "https" "http") $url.Scheme }}
+        {{ $result = dict "Resource" nil "Permalink" .Image "Height" nil "Width" nil }}
+    {{ else }}
+        {{ $result = dict "Resource" nil "Permalink" .Image "Height" nil "Width" nil }}
+        {{ with .Resources.Get (printf "%s" (.Image | safeURL)) }}
+            {{ $result = dict "Resource" . "Permalink" .RelPermalink "Height" .Height "Width" .Width }}
+        {{ end }}
+    {{ end }}
+{{ end }}
+{{ return $result }}

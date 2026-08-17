@@ -1,0 +1,74 @@
+name: Backfill
+
+on:
+  workflow_dispatch:
+    inputs:
+      start_page:
+        description: "Start list page (inclusive)"
+        required: true
+      end_page:
+        description: "End list page (inclusive)"
+        required: true
+
+concurrency:
+  group: pages-deploy
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install python deps
+        run: pip install requests beautifulsoup4
+
+      - name: Backfill posts
+        run: python scripts/backfill.py --start-page "${{ inputs.start_page }}" --end-page "${{ inputs.end_page }}"
+
+      - name: Commit changes
+        id: commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add content/ scripts/cache/
+          if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "backfill: pages ${{ inputs.start_page }}-${{ inputs.end_page }} [skip ci]"
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Push
+        if: steps.commit.outputs.changed == 'true'
+        run: |
+          git pull --rebase
+          git push
+
+      - name: Setup Hugo
+        if: steps.commit.outputs.changed == 'true'
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: "0.165.0"
+          extended: true
+
+      - name: Build
+        if: steps.commit.outputs.changed == 'true'
+        run: hugo --minify
+
+      - name: Deploy to Cloudflare Pages
+        if: steps.commit.outputs.changed == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy public --project-name=4kupcos

@@ -1,0 +1,68 @@
+baseURL = "https://4kupcos.pages.dev/"
+title = "4kup Coser"
+theme = "hugo-theme-stack"
+defaultContentLanguage = "zh-cn"
+languageCode = "zh-CN"
+hasCJKLanguage = true
+timeZone = "Asia/Shanghai"
+
+[pagination]
+  pagerSize = 20
+
+[permalinks]
+  posts = "/p/:slug/"
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  models = "models"
+
+[[menu.main]]
+  name = "首页"
+  url = "/"
+  weight = -100
+  [menu.main.params]
+    icon = "home"
+
+[[menu.main]]
+  name = "归档"
+  url = "/archives/"
+  weight = -90
+  [menu.main.params]
+    icon = "archives"
+
+[[menu.main]]
+  name = "搜索"
+  url = "/search/"
+  weight = -80
+  [menu.main.params]
+    icon = "search"
+
+[params]
+  mainSections = ["posts"]
+  rssFullContent = false
+
+  [params.footer]
+    since = 2026
+    customText = "Content mirrored from 4kup.net"
+
+  [params.sidebar]
+    emoji = "📷"
+    subtitle = "Coser 图集镜像"
+
+  [params.article]
+    toc = false
+    readingTime = false
+    [params.article.list]
+      showTags = false
+
+  [params.widgets]
+    homepage = [
+      { type = "search" },
+      { type = "archives", params = { limit = 5 } },
+      { type = "categories", params = { limit = 10 } }
+    ]
+    page = []
+
+  [params.comments]
+    enabled = false

@@ -1,0 +1,7 @@
+public/
+resources/
+.hugo_build.lock
+plan.md
+apikey.md
+__pycache__/
+*.pyc
