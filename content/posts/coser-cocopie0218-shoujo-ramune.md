@@ -1,0 +1,87 @@
+---
+title: "Coser@cocopie0218 Shoujo Ramune"
+date: "2025-06-05T22:47:30"
+slug: "coser-cocopie0218-shoujo-ramune"
+wp_id: 40890
+source: "https://4kup.net/coser-cocopie0218-shoujo-ramune/"
+categories:
+  - "Asian"
+  - "Coser"
+models:
+  - "cocopie0218"
+photos: 83
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg03K1zRG1LaPo7CYbC9WyLp9C-3VBSYZ3_IHv7VcO7nQoJwmgvYILZahxvkOdVCB3QwhLXrA29i7TmSKQK9zPaKsACBizC9d6AdwGca9wrG-3s-PbJSHPWkCcrD4gs9HoconzMkTV1NIIA_o87qwZzkuLhSvHRlF6JFOkuci-SlTtcNDzg0SXqGEDiwoh9/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-019.webp"
+---
+
+**Album:** Coser@cocopie0218 Shoujo Ramune  
+**Photos:** 83
+
+{{< download "https://1024terabox.com/s/1UYLDP5nKs9Gku0z2YQVe_g" "Download from 1024terabox.com" >}}
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg03K1zRG1LaPo7CYbC9WyLp9C-3VBSYZ3_IHv7VcO7nQoJwmgvYILZahxvkOdVCB3QwhLXrA29i7TmSKQK9zPaKsACBizC9d6AdwGca9wrG-3s-PbJSHPWkCcrD4gs9HoconzMkTV1NIIA_o87qwZzkuLhSvHRlF6JFOkuci-SlTtcNDzg0SXqGEDiwoh9/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-019.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigJDcGB04gB_GvD1EHAJrJHlm_xAADMf7pAq73TZ0081gEpxFRVc7sUtwykaWMR_Z7e5qylQiqxgJ2UojCEDZrDGHX727yyXwW13wWPrn6ZRDAUJcxroUPEs84XZOoaUVT-cFJ1kZ3nY3zJTpquGjUL11QBmlYjekg9SNumB3Wds_cT-FanbJmvSgejYWZ/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-023.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJrfYG4nke8AOsktFaOkulpsJu8g8qMmyCMH-3KLNWXBOabfQ2GiAPJaSpzNNvuOvKIQjdtWEp22C6MTg9hmya7zgOsHQPgRedevzWziCe1D2ZPBb-jVnWWrfjFPsIOCPZjYuAhvr2tf9fmdO6sFneylqueq_m-aN9SNYSHXSPy_DSbHbD4-qDBcyzAg3j/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-025.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOlt97KmZOkDv0nk5-OCb7yBVIRjrhs5JTa-imT9QnwRKuXaMn6iihegXCUB_nEadsUaSFSpXTzWQjymPkXHES3xTNkTYWYHSRhchh9k6BzB1lMo9WkyM36P491PUfmZ3OClVzUjzFwINEQ44-PU_sJ8CXHuP1H5yEhuAU18yrDWnggJeMXA2GGiDBDEIF/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-027.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjodgFrgWtbREIzlHpnkJLAC5H67wYeN_Vk_Gyi84NJ8BeXPPey9ADQl_9W9UixNrjKtwX1SVJKaj1GRwv1vd1eiaENJIYBHcQomNRzwAH5qoYLvACfMVwsuKHQk_ukcbXSLbUrNHaLA8wNo6iJ0GUzkzQK19kGYteW9OgPgC8hM4_g3gs4ZP8C4mLiLcLu/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-028.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT1IMRRwTfpeua_LltD8-XVe3ORUsrmytetdZpUpzefkliovujy2T0QerMoj3WabhN3tPmDqfIo0XPHvMfUe5Y3E5a5Y0RMPVstA6xko7XVfXtSJQYlwxt_gH4K4CdwguLtmxtbGXolMPzBwOlIz5QTDLpgqcUuXDDaVGROulZriFR2SDhPRq76xGxc7xf/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-030.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZCO9poOg2UPu-bCle9ae8LaCLR_w8Vb-IJlKjQ8iW7eJ-oHaM4PZ3t02LjD8WIeQx5U3yLgiHJExQR3_XtS76CFY2gFpFIuAzRygbcBLF5cAFvDSZAl5E4eZLgoSR8e6i4PPEhET8JMyacgYQliN_8m9QSTitAbMn_YEYcvnLBUYNd3vHPqAi8lWdrp4h/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-033.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp12EoDEbBd-jfly2dTYWhAIYmZ_2_3ENiltsW8owR7uR9a__iUNm6ZytZ2p3UhvywoOXi0x6x6eVu8a-xVja6JUpIMVjoqfsSkJa_VIODtBAXuibT12BLUqf9dxfOEj05vf0MRenvRiUBCyoBF1N7ZlheXxwWiWGOjjC0cGDphVQaaSVRej6d8h3YfbsE/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-034.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQD9QskI22GJR-2PU-OvAPY4dQ0b0wH9KM7HNzYGgybztdf86NpHcK3_4N8wqviaKWIS0LA289yNVZhpkZlKuLF2HUCd1TDzZTa9YuzggDq7Zw79FNsH0yM19VufmU-TmzZRYDRsyI75xZKFi9EoGOyvIbBs8FUfENWycrnzEt5Q8jdKdtwXX1ivZ4hy23/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-035.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOa-R4T5dYCVH9tF_g6QFLXSlWsnCNFvbDuuHPyYs3hM7bmDOuKw35Zy729ybLglXMyVYjVNolWcY_aRZojThqvtmM7wJAbC5nG7rful6p1X8LBSdfXALopg0BWRSNWGt84tEEyITT1rFI1kRM0OmhrxcIoIrpSlxmRvR-6In5Isnow0_VHtGnQ7uwJsss/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-036.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh24kc7ViHGWPMtdIEJ1X7KIBkOlTrVzYchoaXSLd-r1DLbaWpm2qey8W4DJ4WpFwT7H_0t4whmzFxDxfJK9qMR5WGJWferuF7KERzQMp766pzUtEMsQM-Bs-9zXocIffJEAnsZ72uua24t2mE7dxip7fHnfPgly3TF6GgLH5Hvv8sBGeqKpap0q66vkxsz/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-039.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFyknnRVo-bjz1BVntbslm3fNk0gMhTSWYU-fFS9otoglmkUmxYySf9VHPApUZJ-lQ9b7cF53wXRx0ppzc1t7sBEKQfiQ03e3784_W_PPSdXcOsHNnlKw86_IrrefYRQuw8qhFt4svvleUEbiRIvmcpwzWbivZ5jSShLrkmWdO9BfmuZ_LXVaWsneMSzic/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-043.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaNEUyRTY-nDFQ7fZ-pX9RPKWxuIQOJJxggeDToTKCNMxdzfvnEzNiE1oIfqQf_-Ob4otPRJw_T5f0Wi4tSYO0ZaNa3wTx8q-4TPzbIKUKtoPfFD6N52blH66KL902I_FEofB9BvoWOCU45ObCUpT9Mhnumip_3gIhTBkicBhSvwJGWZzk6jivdFpU7tvr/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-044.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzVNZ7yiD4IPR0yq6UiyAJe8ZpkLwAkPlpQoqZbczE13HqJt72IG1iV_FW4EBEy-oxdFkBBHQtiyJn6PM8oUazcIST5ljcylCm4FmScIOhoV3cpssGnl3hIZggwS2afqzFGXu29kn_m8gPMH5Rd2d14z48AqYuTvQ1AM5EA4InV737AHDnJTTEUZassFMR/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-046.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGvgMZSyOGaBEihRWzmGWXyMoH-k3jLfHwpzif-ptdB9jDDv2fY7j1aNjpBYHb4iOCJJvrqWqKPskciz6ESrvZape9KSqVC0QBy7wvp8w13ei-Ny6oR4W2ESWhdfQwQ-6OF21x8vnAxb7fSIcvzaGf3BcILQRtL75hxcIIEeNZmkLbFIGpKSpTXXhieWQd/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-047.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfaqUkCshLEw1RBvx_dJLqfMVVa1yJ0UvugmEzFyi-oQyQQCrgf2-DLVCicbDkCWX3um8ZY33Mj8ENT9EjOT1LD7d8fDnOzgmswVJailqSi9fW_OB-ydgem8GCEia1VifnIYJmpmFDUD3eNInq7WqVw8U4nQks3k-GN0O4-5B71fD2jWd-6wEIOXpVrhGX/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-048.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmVAWo8IIh2rdtnB7yFcas7JoSQYWaSrGKXLdQBAP6z2D6tOk79s9ciHHOsIs6prrwoj19aRGpQUFsy5DmF340cXfIhqnxTTuBPNeJTxr6Q3e-dfrV4zDkzoFmz1WKGanZtASMwX9Hdb13rY9QK_TljqA7NA9nQesjVPKCkZnewckJ8RSau6yRWOOovR8_/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-050.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8AyUogrBxaFVeLcRwg4g7PhqzDjZVGscPeqhK02pPcDdda06USsJZ4jlMw9_-8XRg0zf0aeYXwe3vzHbgsrh6ZeQ6_3tUTqM_oLt-w0dY1591sXwh8HgjecLyFOwLvqdMCFpkWBQtJxK58hydR6JrLioTat2BRq2brFiHXfaoNqv_X49vExJfs16EDxVZ/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-053.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIMA57T1tkVAt1vy6GVp95qsDYUWUyqiqdRYmNy3lOuFWhNXAmPLE_ZxhLXmT-fkzFJJ_bYEFEz024GAfEZOu3YesXGnvd131EQkYSPDJJpqJA5CIT8chltgYK19bMTpoykd-xC5OBctara5WgL1KPNlEVwOYhidiII3jYkwXh0Ws39ubI1YtqekKkKes4/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-056.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOVusyzOizIFWBRFgNSWGctzWtt87_Hw7ZGpUgK1rRfXD-rZJthIk0LSVvYM42wQmuS_zshlR1jjDjeoaNFcss-TZHdaF5D0z2WKR9UGJSJEnaKChDP4sj4b1Tdspk6hWU09B8SVKgrkJRLocvA7smKkzM00Njv0FqiaTyH3LfC2JSNIvrEK5xKP8khu0/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-060.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfwvq7J30a1KAjDoNKrIFO0391FdmznDRlQqUYwJWsL1xR2W-_cPiaSPiQ8-SS0Uu_W-wYLCE1aJ7r9C_rPjfQR0UAtUvG5PIaSdd8-b3nShrKKOSAYc24h-0XVmSqCl_AjizayZI1IDgREktd35A3wd42n_CN8HXMi9UH0CFl2sgiabG2WsDc5AMyiRlV/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-062.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi42uzr5b6bqOwlNdGWyhIu9Rk6WMdEdaOLLEKM712Ok1nr0fJgtKFRY-U83a0I5yojiTp2hi-sAy3HQYw9gv0eysdYFhykaqZ9HWNWhJIk9eQ9_VFtPI7rm7J_jjXgVCoHIYDS0Uaf72DWhWBoe5a-6QsGzJy_XfGE-kaketEY2yXErtEPkGJitp-njxkT/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-064.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGkw5U9JtdocOwd9-tVTIw8NT7Z0hghePMNw8GHvGbw7A9KgRbG62XVo9EZhh3sYjAmK_vu7Cyd_h4ZcCUwf7CQTPW_qXwvTU_7UyvP1GqBMmHViW3kTogL7o89ON7PgqvEs2nKoMdOl5RCNUFGt0qXP9B4r9gqf5DuapSfxhuo6tQICvVmyucAC5X-YX9/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-065.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSOLMmv3JiMJKye0j08_AGzSXI79Xzo6uKg1zRMjpZ7GRwUk4CZY1qEf49zWqh2cnt4wLDnj_VSWoQvXkCrf4QPeE6dIXlDvJLkeecBiqdBCJiYl1JWvkdg9YhoXgo37UlDCo7c_pS9n1QjuMO1VZtDoOkTO9_jYqawIIWdvZDOYbvCRvzlcXUjuzhKyhh/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-066.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUeHaEgsstO1ca3-xrFQ3nJTj_jTbChR_uk7kUOjL7nhqCVpHpq_VeMXeyb8MEe9XSMjbnamjUPUFJEgwv_kWlF7nJB756BnFzCjkmvzyi1qkaakioGABBJN2VO8CBQyXJtWEwlMf0sFljF63F7tYcnfTnEon4ZyfIVCTlyuyY5UYGhYfmFT9P4IWzqClR/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-068.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg61XJLlttLOiotH8SeHF742i7t_YDjyx7sCBnQqQQkL4eyYZdjc9oW-ZYamjcjIP8ngkYMdBi96QT9fxE4kN0SaW29g3LhnJpVVbjRp63nEiBhaFOOdBqhlARTcxwnGVOcXOiMxlIeMmOeGH3XWVJtxbM1JkkgG1nOLp11i2plCaSFOSIoxnocZQMaKWP6/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-069.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcPzP5vRapt7dpGxSpUztU25cBC69e7vIxayRwsZB_sJFv0vLZbkWgpANe8bqBE0Qv-pGjjGUIYKeMmIYjP4q4vZ-1ewmQUahJPIbVtFxa8Q7KnEbG1iIs4QcsAqZsA6doYU-pRXGs0CABj-mtRk-WfHsV-32FPjglR4jb5AqQnIgg005j6LL7KdKDZ5W7/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-070.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbs87zR7EtujfkV6IDfjDq7Jjt1viy-dgQCiB-lY7q08EKUR-Kcn-yoaXC26ki6mT50tRHJBspPNmZiNedLZKKQ34jwikuiFOWZe4Qzin-49Fc8AA5CAXiJJlkVTnTz-PyCPMriCNtlWj_d3isqRu2uLU4hsTBLGmaOsOmD8GAzdPYBZtmDf1WZe3iQxku/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-074.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY8V5O9LiReR-zL4rlQ5oAHrIby8iP7YwoSbkeezGQKlRFRc6UovmNe4V1jwBD77Aipdtw82NmkhN5iBsCg4xILHlmBXNWumEJ1i2zZ0H7hDdG8i14ZtCDOxJwVffEfCSSrxP-AbZRQo0n4DlTu9Zu1v84pxhhtD9VhfNmvEh9hGYd8CV5q-37OAVurJiZ/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-075.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi-DYtTL1g_-iFZLLiwecovOxYci794JEhMHcGkWU_TR8BlCW_aqpg8r1mnRbRGIAGhuZx6eEK3vQwlEGooHwM0kuke4TEgKhyphenhyphenKm8Tu7vm2qQ1Q-Az5MZiVG35n8doXnuAfJeN-o2khWsDIDrchmIPxzI-i5_U8Ya8yZp8skKr28DhNodnafTiid79leAq/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-076.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVeMOqVVYVXDIeoqoVa3-Sigpao4-tCS4ikGWwMrIaeSyV3l8L8T88WSjwbT62aART49Or7wreg_uEt7fCyBS4cBtLVValwIMKONmYHrXLpTqzCk8OshtDtjKBYfczbymDW8NBZvhJrQMOCcR2oaCe0Nf6Xpj3VT4WZDiM3xxUecvLTtfiiMCFg0sFVOhR/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-077.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzDkI9vlAongJ-NbUGWITmRuc2laAgfVrEbmN9KPOpWFEhjrtA-65DnLtV4tI8iIJuExGKiN2O2bRA8fMiJ3K3Ivan1jdcTDIs1AAM-5_4VsDV2BWG-rHZ3-4DHMKfshkU7ciZFcw589LZDYEN-5TiMSsMX_86b5y6wFhUEtI60Gj4lUOiw0hL_RSZ-7NR/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-078.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigfW0j3Cp6BbDzkzlIbdwt4H6uPRsdXJKCmbB_kD7rIaZ58Q-bZbRdJulQVvaJpoHTqfL8hNQS_7wMA3Om0sC3dc5kgqKcl1SaW6-xZnjUvzDxcVOsuR636JPTxauzXGV70hXqvpiKBM_Wy4-8LkKjEzdjA6t_uJQnP7NnECec4mne7kYxgtLI6lCudSMD/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-080.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhygiDUZnCfgprqEvHY-ONIS6fMIThBYUXKyrJFD5Q4jGCYRyPY0EwAM67-VICzrIFsQbqrkVhOtd8YUHIaXWqahcQ3ydVUaZPeVvrjVs0rkRPL6oPNMXQrgH2fqtzy2F9Wygd0ZuhKxwKh2iq5mvf7xo_64IZKYXXZaXsf218T-bguG8zT2UnOo8yqo2oQ/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-083.webp)

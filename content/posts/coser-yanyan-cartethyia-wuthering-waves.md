@@ -1,0 +1,97 @@
+---
+title: "Coser@YanYan (ヤンヤン) Cartethyia (Wuthering Waves)"
+date: "2025-10-09T01:01:54"
+slug: "coser-yanyan-cartethyia-wuthering-waves"
+wp_id: 47640
+source: "https://4kup.net/coser-yanyan-cartethyia-wuthering-waves/"
+categories:
+  - "Asian"
+  - "Coser"
+photos: 70
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqB9ovoj09DT3sRU5JVqy4py7hFrhi40I5brZaIWNS7LAN8pbmGWT26iF6XV3GyRw-cj9EmPJG6MMQO824c-FiHKt8oh8s_P4MNMuLa0L6S59y7xqLfntjCKHJjHG7cmOHRguy9w-IsljAS4vextCDL9p6vKBsjJ-5lrdRmIXtvXN7THqTDnd0nEjBOQA/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-005.webp"
+---
+
+**Album:** Coser@YanYan (ヤンヤン) Cartethyia (Wuthering Waves)  
+**Photos:** 70
+
+{{< download "https://1024terabox.com/s/1NdLOduy2Dx5qTdK5pA7h4g" "Download from 1024terabox.com" >}}
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqB9ovoj09DT3sRU5JVqy4py7hFrhi40I5brZaIWNS7LAN8pbmGWT26iF6XV3GyRw-cj9EmPJG6MMQO824c-FiHKt8oh8s_P4MNMuLa0L6S59y7xqLfntjCKHJjHG7cmOHRguy9w-IsljAS4vextCDL9p6vKBsjJ-5lrdRmIXtvXN7THqTDnd0nEjBOQA/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-005.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglKtqDkgISecw19_VoqSuaw8eZrSnzQy1_abIG2cN23qy6U8LJs6xuPLVsP0nog6dDbmiI3yyLwTUr_HKNNHXxe74GVepv8js64Mb0l5Fyzy_FwVqd2cipthM9_uPSOJpC4ODnbi0AR_BxMq_Mk13WXoyucMEpUI48DWAbbp0nqq2c93IWnKqzoOTnNc4/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-006.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU47ITqLorGYU7skHoKFeE-H5MvqiM2L0Y47wFluKeAp5hrtJiaarp1o5ecGkiGC19roGv-fNaM31h5hipRdXpTLd0fm00RdAOsxRiFSi1EJHXPS-BCgaw9No7_Gkp_GX91XbUKCQpFVimFyNN625rUeXpVyazzG0VKJ-svHJbzu4RidOSQoh5oV_vRGg/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-008.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqbu2p47i5JWYPD70d-DQNbyHaXuhJzkdyEGzK32lLZqNW4Iw5E6gIoFpliJGCoyHDdz_KZAwIh4Dz_UaLSE32oT6QeXhtrMG0jl0Qq7Mh0CZl1omXzzLl1DNvdG51s5dk2k3lwwI1pvyQRw6I4DnpBWszj1J48ZJNTnFeY15rOagPtIzg9Wn12oRbbmc/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-009.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmhZQ-3hPtWmt7PmGTZhl-xaC0rBCwah6oyVF1CakemPfoP8wzwitk4VLut-k5-BrBp0I6lYvk8GqvEkb7wojKCYo-IYUATb-Hfvh4TAsJzydCP_I1qySgMvLJP0aJFx-a8ETx7_2pJhvk6wOTWwRkSCjWY-RgWuaLKhez-CcrtmZxsmY1RdjLKNwlxcE/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-011.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpa7TbE5NlcoW29b3r6ZO1evxG2CBPtoSfvBdQHbGmDVGalVgxniRXHlLs_yLQ3qzc9ffRFtp-UEiilAfGwI5TzJx6ogZ8WnFWIqjfNqtO_O-ayWD7rePFX_7ldY-Sm1fBjycgTZbbTV_zXjW5F0vsfUeMY5wLYhEwLjt0aggGhOjVvcbjOeakD3tilOk/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-012.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy_iknWa4nVjF1InXLOtxM2oKd1Ewq4ABMqrwzNBcdic4MvZ7SLYVHP-O_7fIcRTmRT7i8xB9HFNwY12jzkUsCeugow5AAaHR-nQOR5bMA0B2w2ZscuBdQEJ9FKnumC31lHthjcm6lLyfpQiNaHgA0QLR90SWLBa9Ed0zaZzU6wcX5PHq-RajetFKBj_Q/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-016.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhxKulP75Lt1Zn8Ph5YPsuKikxQx-NFoOUsAbUWJV-fKazz4ZeujAaBDtP4aP7QuWELZHPxWfF68px6xfuQI0_-AoCYAItdCInU0f2WmcOir61gCrBXhjkjTTYkvk4FJzHaH8x1PTbfEAoLwt9OayNVQ-gznXHH65y2laqKI_oWrNV_ifZvOD_UzXfX5c/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-019.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiBCvbOC4R3uLKBOBqbhqcSW3_RJ4QA0BYsHIoxtiwRQpfkTkkXSgp2aU-zB2VMJJcuImEejEoF9zmv6-Mh-VCFs244OMtQnbZYE-MJlyQNcp8d-z__0YboxxSeDQXa_kKbStqzHx48GDFy_dddyNFYM4rdv0Zic8q_OfYLstPRBuktoV-56-vydffnJg/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-021.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLBTF-_9E0LAawjDyP0mGdkU99goLs3x4xbykwxmNJq2iv9kr8p61NYvdvSV7A2_QTxes1aJtXsH5zRY3dZfkqibtasRBIJxiy7OjCLJ5VRDymS07lvHkKONrUgFuLyeBICMEQYc9loJrDgmRE-uJJXfWGTOBiCAHjHs4izZboVRTD-aLbSYOCN_rcKjE/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-023.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFs1nVWfqet6Gh-4NufPz-LRU8ZaXfcOaZIFB-oVTyL2P4RHWaNpdP1JNI3DT3L1dQyIHPHiIhHcoMU0WfEHqnXzzfNVbfjMUmjRsrkaQcfcZMcP_4mR3z39NM_BVP4I5IOdK0l_NRpI7DTtBxq90E9yuvAaKRkO6QTptCKm1eN2y8DC6kKCnBJPKWB3Y/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-024.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjh5cOvh1m82Da-CxGDp_mtha8nU9Ifc1zANfBDoy-K8jn-r1Cv23spjiqbqpI4MMfOZ9uFp3jxi72BS5VUP78hDQ3AJAJx23N1rodq8vCiAubl1EWZgvryDz223vp_0zp70NmOEyUh7_q9ZlONZHM2WRtHPDMhUaiPY55UoQI5blcZ-5G_nRnZ6AfG9FY/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-026.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig-aBMwib4cMlI86TnwvkYtMKqZx-Qn56XwP4RDtQLXALJadyoO7EsmqGYw6LA_aEZBXCulz-KMix-nZplLYxIkC672kKax6LcYV4_5GpyG5YWYlfTP50GATQuUl5LV3ff7SzvLvwROLAcY5mBG1f9Txn_HPOgei8GTMH1PsNa-Us9zNUiOPBzp33Z_AI/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-027.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAinXLDY3Uel0J8-BfwP9Co3fgMJSlQhdApO8xd8Luvs_1_kUf9O7GXFRy0DbFyJqJh3hyphenhyphenEKmF93xYuHQIB3ZK94lbIapKbDnMptajGXT9xXgpsWxttd7tKuOslMYyUHaGxDpVG1Z9z8fM3znrl1DGWb6IzncqBcrv7Q5HKBqNeX8EuWPf_JQiUeJIEts/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-029.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdkWY8ikTdEIt5dCu_BlB_Ws1BTgM2xJjP7TWTQa_vBTNkoaIZ_8crQ7XWmqKmUpk0y_4VAHoH1R5zq-6O5tpE2gXo4gIIkvGEaqfOCeadEfi6MLedlqlIg8bExQl_XJhAC-bzX3hOhyphenhypheny9hG-nTmifV2ZRvDAIkrPqFchXZPu-UaJknASSOaXA9oFhcXQ/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-030.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7yLBgjSUJZLFJ9X07237M416eaU_Jm90cQ8CwJR_vT34ihSVOphwBfiFDfZgVRIrd7hvXIn3XtfkVhcAueqZo-qqHmivGicQCudJTV2Y4NrOCWXqlw8BJ6Vne773Goz18TcmF9yFlRTNh3v48_iAAeC0flNJKPIfVGS46wPxPYoHddRTIunYsG9PauwM/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-032.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_FM42VfFfrw822NahUAMPbfpsxG5JkbsrCgUa4PLdVLNVNxvZ-oewzbFws7f7xObIm8Ojfiye2fzDMSzlQGTyIUhQyUQkE0fRNxMt93NlW1_BAStZRKLd7lhUI0on2rmExl7Kqw7LJXFRdvX3kUpmoPTijNOv7OIYYz0P21lLpNZo6PMCmgbxLth1EJY/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-037.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeaOr-m8OWYua92OSD2zDRysJq6EfFmsMkN4pv-SauxiQG-j6YLL5tBudVcAtTuGpNt6aMwaWM50VUDCS-ciO7R5pschL8DIVpzKzPtxB8tWLjHV082ZkTpYCmbD3yMpoCEMy-J-7uR-tHJBaR_lV_jKZMrwYGgxYwdicidLsCxB4yXCLlhesxTs4gs3o/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-038.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9zgiIuLWCa-T64RSowSw7G_b47RaCo0IYuiz5wYKr3EzeW7FF8fdw3LViJB844ljgX2kgFRq0trjPs0jMejmkOlfiWQSd0NOZhlwRoaV6WpvwtFDCI2_X7fEvP8-4LA0FU50WebshuXmh7QWdEtWkOMKgpbYlMEjEvU0E0X5GUCJJlwYpFpHD2U_LGSQ/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-039.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4dNq2p5ioNHu7EX9utR_vSyT2pSOF3oOpderBmxIZdIJzJq6FVa55vAVvQMTC106V4poh6eWwhhfl32DA293DBiGPEmRDaTB5x_AIUkCTo6WT4YeQP134OwcOnrOvk3-eWsS3KdIqqChJPxpwhWZ-9Gtp1YtLzEMC5_bSMKmjDcyX4GNVM6t3hoHZI_A/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-040.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhU7dGLbBhV7gspm-P5iBQ-CZcPJc23pA94PJLe9C2vCxdBo_R388FZtYGm1d7dLfgzC9Rlo2fFQ4AVfZsdW-SZY91LdCzNjmwVlQ3XaCl39uscTlmeP2_13SiBKjJ_UXCphUKCrqQk8E6sWwhuDz8MyVFFx26RKRWUy4RXSjjy1XPrn6uoe89R7nxOV0k/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-041.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinkajm-033f-Gk6qtPfSnmzZH7-XQyRV6I0EfLjIT8otJvh66KswX0HaSyfesjhAjWXA8bzP1iILLE97WCsI_YsTL70D86iNEuKJ8HgOF67L4W-ItftlkFwWNUSn33_JespGNJ_EiT39c-zHg-W2K6EedEGxwX0P2Ng9Czt5UxRwMnTPdPVnqwy-t7a4Q/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-044.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jmUdZVeGpZs4HnQ-q30XOpDnVOW5jKBhWzFICpTMsO0uILtRN-YABxHvqQS4cMfLzw0-qLFN44JXxzItuSYIFrY9_HftF4r4busuFq7Pl5j_lKcXzwLBX_c1u2DQSZFcm7k5klAaZmb_FqLSYl2Sc4s03B6ZtgJQOuPI6PooxtzmPER-guBo8E6KCzQ/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-045.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJKNJEIIxkirCg0xRgl427h2EHt7JTVlU7ebfTf7px81VfbQcj4NfNak8odxCXKx9TPX9VO6PIvwiBW_ONWIOCJJH4q3nQPQ6Cf9FhI3tj3JCKl90dP22dCsHVxAJvMOMOpILS4g0JuyOfIYBZYZLOQDaDFsiLiA9uVI3BaWcOqPDyAzReF9mxwOzwfhs/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-048.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicrC5Xvk3xOGD0nV01UpwLxilFk8qnw_dCsu-c48-G6EhyYOdrCL5W5SgoPhKVt6kkdQxc7ZImDf6CvVFqhZInvWpqIDNYNlQTty1szhy85n0iiv1-3ThGJvrR_40D3yUnPxQg-r6UJ7xYV3ZREHTQZ78-mJnHnzxSkm6AGxQuYa7io3THmQXJTCpTt04/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-049.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8qH3JTrplA7wkybDubXNqxVva0qqrECH6L3K1J_6tqSs2KdscplRl4T0dl3qMxJRahbeVrf8PMKL9OlUVJXrx0uESZDveEtuV3uOrAcTl9fYbcp81tPu-QyaidveSOOfkF3pTGIeA_mFMNGiBCmuUQGzn32MqtYIALz8DDP6YgvIEWs5OcuEQaseoG3E/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-052.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkHB9j8ReOd0q_RpZCs1qfrymXUQZaLZByKvmaqE6Vg3TFViBJcRUjFJgbTpg5CqsDrxXdaCxnUhbTibgxRe1IMSa5RgEnEJMDqWLWkLivKXP_dPE2ZQrgCOkVre9_JuKt-AXYMqseprEatrV49D0fCubVW8tuX4BLJ0xTVGXikYdefHNmdG08gTckoD8/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-054.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFn30N9hABfGEiHORHgejYHPMKY_yT8TeunnkHh6gHPxy_P8L66aVam4A7G2b0SHur2D03u-fTmSHjeKFuQnopur0oJ-M9U21Fjd0SkLiLthKfJWDuHbTfCWawwx0r-tB5LLv4lg3FSaYN-FrIbfL6ZjmDoxudrQmAyicscvCRM9OKnSU7mP18dZTYgxw/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-056.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis_2yx0EusYmuqa5ixmmKmO668XbY6q1hKnyH_ps4tBGo9PkuVKsqO0Qhl5M4WLM43OsyRe5K7u63-KLltUCkIbHd2msGB0Sr7p6IxRdm5rfAra-Z_LwiS6XdyZmsQvuH8L1cpFIZp57z9fEVqbqzmeGrfsAtv1itimfPk1dAb2UXqFA7CEuIHQnxNXOM/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-057.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXqoZ0TCQXpaez6B0wftGforlGF4656ZSzaTToOgen2rPYZbMxz27Jej5lYWPJIAIxxA5CmlJB9r5Nrofca3t-CVaS0hqO7tj08RNAZWTOQXh9FjOXiQhCPdnVGaTpIb_-Q8ekUf1TzkaCF0HT9Eii7txlGIfPpTL_bmj52lAw6dQBe9qLi6hhB9sOx-Y/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-058.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDh27Ik-8U6ITo5Lj1Zc0UOV4M-Tqzxmxk8tRps2FluiDzgSCRpSDzXXSdTI6X9SzkZmL-Tz3CHO2E_MytUbX7VispdMT4EYlH4C_Xn6d4Wy-uZgELIzeii-qLwf6gosg6lRxypR7ezRZ8Svm_WleX-Xmu89eroxVoKjnC7pJVgMEvoXxvZ7qiRVmkMWE/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-059.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4FuzUDcwdxcxy948VfT2WrUNggTA8_D56RMLKCa0Ar18Ak6nzPRjz2C2hTKoCiX9zzHPqoCt3fDyo5hilpIqL0Xr-ZNoZmwkL1-Hfkk6gaF3m4FHTZCbA3x1TaM8MbtRpLnectatj7jTwWkeEaf-q0DeFNJNZhLPV1JAmpj4ZpAtVc9_ZO0ZyOgi1rsY/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-060.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil1mE5CKQN3s9lTFC4MZYT9rSfH9BQWpXPDTriOn6xcVZhmoIgn5p12tK50KG4L9eekm9X5_247117UGtHc0Hh3ving8rUrBWgQXFMQHaTcVi28fgqGvAeLHLM1oCP1vbLxXp0jXl3IFxIRX5eOH0uF60jSmL7ZE35HcZJRjUiBlb3lubXPDIzDp8Gz_E/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-061.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXw-vB0BZeE8Uqbqfkis-ZwfyeRH2hSGJYLjEjJa4rIS3S1QSdQfwxVpiVajcX3m_CT3-oo_TgHqNqNlkedNyoxSARdFyywPWMn0gwbMWIfJlYVT3YLcvUlC-cZEPcPCB7CMUTbDprJJOPbikVccsZwK12qWs_fhk71eRqw8xaYilrPwLW05GkMFfSFMk/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-062.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrj2aAkxZDHFj34ogYNv_zzIpGA33eYwYD2RU8h0yNd8YildSWk3al7DMYCZk6GhFwZ5oP5H6RcLaUivTNDssFrCkxuGSFyCtNp3rWQ9IcVJZnXp9hOdVFOjNZoqywFUq4D04-m3BEy002ZH8Ca2uv531CZmdVYLBXoKh-Hn8L9x7Ua-MuWWK5jrWFurA/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-063.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggPfU4C8blj93DQ9DZe-kHvLs1rqHfPkPpgxlmv9KiKJDzFwMC9TE5xAMoy7Wk33FzdLoBklse50jYO69jOCb1Nc6MhdIoXoMxxDCaaamzc89Sr7i19WiTIIZfLaOfg49I8KjmCMbJJW-xCCoXYA8x89JMiDkipgryZboRvNcg6rd4fv2P-QTVs976Zlo/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-066.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4Irso2N56pQpapMjfwy_fudMm5dTLWv8XpPRlSkusZxx6WdY1JlOJqwM8dCGEUBrEnWUtrwK30E67TE6pY3p2MHGzb7_TAu0MtJmG52WaY8O71_K-o-PhTHBT1zrBPTiLFXIUVklGKHYXFS-fzcIOfEHGmB97vWfmeVAtRqAp2L1ml_9CjjlD57-00a8/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-068.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJUDTTrg5QqPceo61Y0Vj0ryXkjqm1Jy8XvVfxIlQgAZkGc4e1P53W0VClo6igXr_ztb_JBa0y8aInmG4pBmtDF3urvC6ZeATv5bH-LaX0teQF720TBckT-XMfWuwT0ReTCNxTvOpKvYzbEKYm9hEO-jjjSQiV2Y2RL-PRotTloBEb5undblrCRDld9Q8/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-069.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZsm2l2QsT5F0lUbKEgxir60F5kWHZhJJ86fCekOHEGcZ3jFZhJ47LFkQdilpaDXE_PMvUh2-ppUrjTVGBU1fWT-Upx_kKEoRkOzwrnMb4AGSjM3pjSdYqZd-EpeAW7DFZTNrjFUWBh80V4b6aUBiRhXIC-q7k1GJ1i4eIsFewqLMn0YLJUQ_0W-kmwHo/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-070.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfhqwr6BJqMkn0OGQPPWVwTyBnuXinZ_clo8cK_oWRPH2EnxHV6yG-OmSoENwXpj5J2oKFXvvAPxf5OXVKJvGdAWHh4y2hJBI0uJn01x_RBwhs3C5BU0EbdJ6S01s67Q44eqkp3TfCvCfOCcTogbelJHH9LtidfCG8mjuhy4zMFpQBrbLBCHL42ZLd-8k/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-262.webp)
