@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一只猫猫帽"
+tags:
+  - "一只猫猫帽"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKOTTpAavkz89L0IcH5MDCc-WuOxJMGl7uKckFGyJIBaHEX0oPZcWA6g86D6CCNYZo-uM4H9js8C_R0kv-qAWQjE0LKSU039xiy4tCpCm5oJTaoob2BVwEvbljlBrHjoCsuzPFciLy9g8CCeiWHs_hYC_Z9TbYoHfqiwk0iqiDJSAx7nLVxo-ixibceY7D/h1000-e7/Cosplayer-A-cat-in-a-hat-regensburg-61-4kUp-014.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi Ji Yun"
+tags:
+  - "Choi"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZjt8qt5fC0ppI3IyOtYmpFi29L5PivTjpHB27lZvne9SuP3C7RPvOYtI0J2Q1BMZA5a7LwshRmM9Co6R6LNZ3sxdv5MUJVXCAWGkT5RUBIYR3-SqaJYxe_WQnGHGcdegCc-Bo2LyTTYo-U8p1V4s-tgYdvbJHik-wREvMQ_AJl3zaG9nR5Fc1MH2-MTK/h1000-e7/Cosplayer-Choi-Ji-Yun-Kafka-20-4kUp-001.webp"
 ---

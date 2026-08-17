@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNylvIcIKOyhLCRkvW5V4Opy0Av3zV4PyFGNlPTvDI_DC3AUolfo0mUkq0m2dopHpKlj1aLqSv4DKmZgTpoP6w_4j0OKxSJKP2pR2ZEPY1xdWxSwkP2DzmK0KH0vipPllmkbJmofTejehWZKBbYanBNuUm6oQQzdl1kizJYLjWr3YTm5IQETkMCeEPNJU/h1000-e7/Cosplayer-Shimotsuki-shimo-Azurlane-Shinano-N-U-24-4kUp-004.webp"
 ---

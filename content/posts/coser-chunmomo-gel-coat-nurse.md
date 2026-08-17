@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "蠢沫沫 (chunmomo)"
+tags:
+  - "蠢沫沫"
 photos: 120
 image: "https://lh5.ggpht.com/-FOO1EdxG5lo/Y-rAQxVZ3HI/AAAAAAAAK5A/ojavGhDYxEUQgEH7XaWRmo3LJ8lzGqD2ACNcBGAsYHQ/h1000-e7/Coser-chunmomo-Gel-Coat-Nurse-4kUp-001.webp"
 ---

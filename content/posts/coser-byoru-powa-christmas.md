@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 52
 image: "https://lh5.ggpht.com/-V6hxnSHXy6c/YtHfEwmr0BI/AAAAAAAAQ0A/9j1Eb9rzx8QuPBZkbefxphtQ56uG3XY8ACNcBGAsYHQ/h1000-e7/Coser-Byoru-Powa-Christmas-4kUp-001.jpg"
 ---

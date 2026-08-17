@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 45
 image: "https://lh5.ggpht.com/-T-SVosbOrDE/ZZxusRgm6yI/AAAAAAAAJcM/hHPiLq_gThA0Js5eD3IkTO-ZwCXj_YyKQCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Viper-NIKKE-Bunny-4kUp-001.webp"
 ---

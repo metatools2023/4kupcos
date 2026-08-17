@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 10
 image: "https://lh5.ggpht.com/-BzovGDmRwJg/Zfxb1BGOPwI/AAAAAAAA-kQ/BuCV3bbsdpMfkvE1K2zmZ5dCD-yXYKYPACNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Raiden-Shogun-4kUp-001.webp"
 ---

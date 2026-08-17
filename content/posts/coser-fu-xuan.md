@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小樱"
+tags:
+  - "小樱"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsagUe9Jj_ikkmGgMFzi0RuOEvRNcjKHxBt94EeZATun-JsRwkzPnbCybNbViYPfJnbCqArsC0lzq_AJJkt-KowJ6dxBa3I9L2dxmFzOqFm5wKneJHGw_rojl1gofftJDZUPOY89JBRqT4CN3R-7oWjkpJN-Ew_85ul10WItTmi3BE9zEodROF0Pj-Uq0M/h1000-e7/Coser-Sakura-Fu-Xuan-25-4kUp-001.webp"
 ---

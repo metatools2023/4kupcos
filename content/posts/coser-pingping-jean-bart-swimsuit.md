@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgny193GC5ssc_QTR4VY8irknjNxgYl1PbTv9jQXMIz7Irg8WhJh9xh5bO0Uo3VwakAuPelqBpooiJBqyGWy6z5wtT3ndJK6LlS8XVWfSycx8iJDG-DdBfxaQdm3ouJx44ULFbnm4DDr-T8Wai978OSFc1eFrxUOojjUOkqeBioXnWRGfliB-vhiS81pne8/h1000-e7/Coser-PingPing-Jean-Bart-Swimsuit-12-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Master_Sila"
+tags:
+  - "Master_Sila"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbNVPD0eXL72XzP29_7a8z9rseJbfAcuF_2qU3BY2BrQbm_4jId_mrb1LEPBXDP4fbPIHlB_LcfZLem0HvLBmQC1BSgxXA6Nlmy_DgLMSTL0vIGAIzmwSi4CgWu6IvkmcWPc1Ct777Fm5ZycmsR8gK6Dt6V6cS98aXra3rdbOOtY8oHZLnWjOS6s7xFzfQ/h1000-e7/Coser-Master-Sila-Oozora-Subaru-47-4kUp-001.webp"
 ---

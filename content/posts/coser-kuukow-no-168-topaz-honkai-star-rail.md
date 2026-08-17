@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVVzZF8-IiZNl4FXQ5dhMDVIVf6l-ozZMn8NkjYPgwJAKIp3zKWK3TzFWFeId3f0IY9XJOWAMz8FYhmxK_znquRhE7djWMVKGlo-JAvuW_nF_S-PYA0o8az-0RG0yh7eSrrQ5nCMtS3krC_KwSkrQ5XS6xoBvbNA6w6tuI9-5dpQg_MR4xOuxLJlkc1-BV/h1000-e7/Coser-KuukoW-No.168-Topaz-Honkai-Star-Rail-39-4kUp-002.webp"
 ---

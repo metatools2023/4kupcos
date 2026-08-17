@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Umeko J"
+tags:
+  - "Umeko"
 photos: 140
 image: "https://lh5.ggpht.com/-JR13nUbSIw8/ZlT77czbUAI/AAAAAAAArh0/L2Q7d92fZ3w_2WlaT5lJytVoE_j8mopCQCNcBGAsYHQ/h1000-e7/Umeko-J-Amiya-Arknights-140-4kup-001.webp"
 ---

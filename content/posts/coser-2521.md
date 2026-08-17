@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "前野太太"
+tags:
+  - "前野太太"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhygvJPQ1i9Q-yM1zDEBLz06c1jqQJKzs_IClU54LIXpZ8lDsvfhV8Jm7cN3Yw9xwbukj-IfkhScNBw-ujcFMIN7MW4F1auEwIOi-Riek1ZeonS3Ze3rwES_u4-XSvEMdjyGhfiMev_Kib29H-SlD4fMr3ck-85bPm2pDAbnyePcCehW9BmSsCL2diGZys/h1000-e7/Cosplayer-Futa-Maeno-azur-lane-Noshiro-maid-33-4kUp-001.webp"
 ---

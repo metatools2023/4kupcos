@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzg1t2jgMI9cPzc3MlfhVpsru11s46uFguzGbnuiSfwLWjRhi-mcmUsi_5edqVxhVWnQODtogeGH-LlO0GoWlMXD5epa_q9sSgEyzrE5y1bztQ5Na8vqBX_88K7jft7egwSAhNa7qApr7uVnh4Iv_vt38NZgR77gDPfMgkYwLuRCLLeea-l652L6ADr2Y/h1000-e7/Cosplayer-Second-Assistant-Nisa-Date-A-Live-Kurumi-policewoman-23-4kUp-001.webp"
 ---

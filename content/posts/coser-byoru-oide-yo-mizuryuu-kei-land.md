@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 47
 image: "https://lh5.ggpht.com/-7zKh4tOAK7M/ZYtSp2QaIaI/AAAAAAABqkE/mmVUTLb9FBMGpa0FxgtkulZKxj-oMcuigCNcBGAsYHQ/h1000-e7/Coser-Byoru-Oide-yo-Mizuryuu-Kei-Land-4kUp-001.webp"
 ---

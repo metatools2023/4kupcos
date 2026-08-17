@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf0Kq0fP-PuJKuxWTc-uXwpgZP_PQYksQD2BUha8FYNsBxoX3C-BFZrZ4JC8hv0yFPeNOsbZLsX1UPOiDVNllkk56dsPL5kdQb-XMepY0y3UxlRpjzh5WlUE2qYKiE17QDUBhVlXWHjyvl01cjXtgaaCJ8EpR-CZyrOoq45CTQiSUGDEacYTlh2Y5j5aM/h1000-e7/Coser-Candy-Ball-Le-Malin-44-4kUp-001.webp"
 ---

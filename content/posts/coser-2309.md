@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRjnYBQB8paoLs8u0puPhy6jDkYi3lLcQ-ZA3tEFDCbxOYYjeOVfeGHyfIUFNJKx1ERyToM_Ee15yWD3ZSqhAE1m6a-b12mt5ez2True74plmHoaaKIrBDL41q5gw32FMtfwgiKxRMhruWAxRYnGuA0xlWkzsuB-8MHT-FChnkLy93NlWtz9NdhNy5AVWL/h1000-e7/Cosplayer-Shimizu-Nagi-Suitcase-with-gray-maid-52-4kUp-010.webp"
 ---

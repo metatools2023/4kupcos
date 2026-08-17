@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 68
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga40cOt4f3DmaNImfLWBxsFVL1lylFFJhOkdkxnq_0vW2SHHGDgdSso8p_JdeF7aqWMMpPRcwpOtaRomi3jwl6wvg_jY1f0gbYWAx8RW13AemhbGMnGIYHDu2ZemKsTSPMAL0B7LWVlQsoXEiMeUuGtqnBeRlX-TTiZFSJuQ3_m5dN2v8oUYOIBdTt9jf4/h1000-e7/Coser-Candy-Ball-Makima-68-4kUp-002.webp"
 ---

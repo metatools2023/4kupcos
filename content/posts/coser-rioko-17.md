@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "rioko凉凉子"
+tags:
+  - "rioko凉凉子"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsWO8oQnYR4JfhqctGZo8DAJ9xhqBBAfdZhVTv2uOtBgjXV-b2s8kHEMOmsWSlzohxzSVCq7edFpmnnqB42WYsbBIPX8sp6lPoIkh-TkR2ZPGlHcjyrBVFmC4JE5tIYkcEcsgTNKv_6GpDzqg_QZ_nJT-HCK_2iOfSXEUX3GiRNn7O0O7DUsaK4rDUWOnO/h1000-e7/Cosplay-rioko-Liangliangzi-G-o-d-e-s-f-V-i-c-t-r-y-N-k-Maiden-Ice-rose-45-4kUp-001.webp"
 ---

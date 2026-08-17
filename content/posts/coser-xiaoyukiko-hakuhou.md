@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Xiaoyukiko小鱼"
+tags:
+  - "Xiaoyukiko小鱼"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvDfuQPI62C7K3drgyuuzWn-uBoXdte6HsrNO_81tFvM9aJPKexHjQK_zTupbsphQpP05G37tKIqjbMS0GUnuVYd44qm8E7q3pOHjZdLQ45PO02-JAGCUgRT51e6AuhpBkrI4u1Tky1qrnooqmyf97rz2resDZDzjUCsxlQ_NLKKAuhhSSDXctKbybK3Q/h1000-e7/Cosplayer-Xiaoyukiko-small-fish-Hakuhou-Bai-Feng-36-4kUp-004.webp"
 ---

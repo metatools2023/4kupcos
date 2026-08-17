@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "黏黏团子兔"
+tags:
+  - "黏黏团子兔"
 photos: 71
 image: "https://lh5.ggpht.com/-ukd3eWK1U1M/ZfHVdIOcu4I/AAAAAAAA4Ao/qKjV4Esx57cVNC5dYghEUdZks9T2mQ6lwCNcBGAsYHQ/h1000-e7/Coser-nian-nian-tuan-zi-tu-Shake-it-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "可可小白兔"
+tags:
+  - "可可小白兔"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV20g7l0FVwEcJ8iPwquS4zSyEyamVFeY9SvVHmWIx0yhQgM3YxgYQs32N5xgDg-wko6bmkJCtmV4vbb-E5KTJDGlSKPyVK8Ho00_4vMYFJSCE6bzcHgYYnc85rRJdd_6TbkQlB1mf5cUWq5HMNnwxhnRlHREb-C5ql3rY4x_A1XhyqdcL5i7hyphenhyphenbYnPdE/h1000-e7/Coser-Ke-ke-xiao-bai-tu-28-4kUp-002.webp"
 ---

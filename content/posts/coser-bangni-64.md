@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bangni邦尼"
+tags:
+  - "Bangni邦尼"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSAo8ILBxM-vCPo6q2wBcy3z9f9wA3EEIYrOx_H6pck-PPWyH0R2cyFvi-Pg63u9Hm38HvHX-a9Jjt-DE4cq0svSsuEIWBpipvvp-nwcX2hyphenhyphenRahwxJ5Z40gWEyyp1bQI0VZ2fplMEhGVSgDq4qgUpqkFkPeqKy1g3ZBp5LMid-Rl5123uOL12VYM4WRko/h1000-e7/Cosplayer-Bangni-Bonnie-Shigure-Hagoromo-32-4kUp-008.webp"
 ---

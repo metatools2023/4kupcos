@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiDtD3Ugh6xMC9GBpf7eH9FPnaPUmks5FW6oZEVxLNsZ-IidP0Jjhp4X_Gkbd_PKbka2A7bQNBPPp3UYnnfJ0JPxuzxzg5rD6ih0MnaHVYGIbgMMMZ3qcoMGXvCpmA4T6L7Udp39mrUrlQEsuboEUcz_lQMBeIa7QNwfQ_-_pl_4s8dw9WVVE9HUAr3gJj/h1000-e7/Cosplay-Byoru-Mai-Shiranui-Onsen-54-4kUp-001.webp"
 ---

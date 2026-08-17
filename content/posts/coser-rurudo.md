@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小和甜酒"
+tags:
+  - "小和甜酒"
 photos: 141
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Gnd4Lx2YlD4hhP4Ep3u_aEjBFW81u2K_l6JbyovklhexcBI03742MooPcn19lzYLGBT5qKZ3LPwTq92DOb6eFGq0Wf0ry4qrO29VnSIGdiCHL7MMxxt7agaL1dHYSP-MA8D1f-z8UEUiKGDxyoVaiSS7yn1qmKKAdNQV3WB6K47FmZzr5jB0HydhLIc/h1000-e7/Coser-Xiao-he-tian-jiu-rurudo-142-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7VBsm2bpez_R-Kn6WbbWdq2CEbm_D0-T6vC2UH8GWnYJKr678jSUS9j6D5iZJeoLqMUZWgM0XoE9Ro1Nc0YQwoqjDMvE7JXkfFaZUiIqVnje9-S7CM6chdj9TfH7eJr29GiCETGYzMdQtkyrJQwzaBJw5Bq1vRVed7yc0DXf7_QsHJ-Yfar8f-7VXbjZG/h1000-e7/Coser-Shui-Miao-Aqua-Tide-Canterella-Selfie-25-4kUp-001.webp"
 ---

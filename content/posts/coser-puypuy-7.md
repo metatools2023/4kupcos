@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 98
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrCeeSDS_Y9PHNYyoaiEfE2_loqxr3s231NiI6tjRGvVdsFwRt_0s1_p8lQ9ntWT1ElBeuAiGs9XLl10liLQTWrefVgx5aLE-8RDf_Mr5HlsUb65xvf94WvleN6gjdQK7668aJL2B3SC9_7F0TJ6vJTtnrxC8Stpyt78rjQIAKetcbHJpWQJOuOWB3jWuE/h1000-e7/Cosplayer-PuyPuy-Ninja-Gaiden-Rachel-98-4kUp-016.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3rlstD7E7So18Scip0q6MprH5wXyVodv2jvS2T1InSzHZBxBJWGvnaIOkpaK3qE4-3CpK39Q2HFq2w4HS_s3q3G7zByH7kZxM-iW7X1ge8xLA-JUKUQHrsg-uoNPAocJkAES-ePp0YKWLxWULstVAFtOo6iT4kQvvk4MkhBj2jKEX72oiG__14bcn9Vss/h1000-e7/Coser-Byoru-Maiden-Ice-Rose-57-4kUp-002.webp"
 ---

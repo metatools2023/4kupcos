@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "sally多啦雪 (sally dorasnow)"
+tags:
+  - "Sally多啦雪"
 photos: 20
 image: "https://lh5.ggpht.com/-0ZGHEVPqmVo/ZD7-kVBss5I/AAAAAAAAlFU/Tsd1oTXszOQuFvSxEQLXsBXZ5BiL3Gi7ACNcBGAsYHQ/h1000-e7/Coser-Sally-Sally-Dorasnow-D.Va-4kUp-001.webp"
 ---

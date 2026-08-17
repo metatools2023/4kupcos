@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaXPM4Tc4MBW_2U4npDLa1xMOfCfXbll0GFOQ1ixUAhWY-IZ6Zy8DcNbxgLs8h23qRfM7CMvV8-ZsHrKAWBclPJaQBGACw3LOXIFRyuC21M3xfZuq3IQspg7cwNJj7q4stUgOvwhBA-mB8vBQ-ennzb-GVtREycL0vCwG5VnaQtzvou8Uko4wIHdXnwzAn/h1000-e7/Coser-ZinieQ-Persona5-Ann-Takamaki-Xmas-28-4kUp-001.webp"
 ---

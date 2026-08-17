@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC1JeigIM68MrHttC_Qn1ia0WxDpm6mWyCSl1hgylt5hbmvt2qba9prtwCCIzfs3phyC2Pd-JMTjxr0Fn7iNN8j4JWXnY9xZWqzyoC8aF7LnDVdPaPTsx08yH-y4pTNN-tp24NTO-ZU_uTmq62aryvGbu25aPu1uL_81Dg9EUhBrCQYpTL2eut1TfRobJ6/h1000-e7/Coser-PingPing-Mashu-Kyrielight-Dancer-42-4kUp-002.webp"
 ---

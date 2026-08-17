@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "香草奶喵"
+tags:
+  - "香草奶喵"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwBX5sRXguaily6wCAu_lcrEsJHc9kU-KwoAr7KXgpx0bGHTxkOuUz9JomGmThLLgqGXHkopgpAPfxJY1AI-JenEhBKJGSd8M8MaTprVbrywTdwRtrBd02SXI4LnUWi23JtHH2t0gG9WKkx50N9ihfnyqjkvIdygP12OptH9ARRV9FFAIoqvC2-ggaaVCz/h1000-e7/Cosplayer-Vanilla-Milk-Meow-Christmas-blessings-33-4kUp-001.webp"
 ---

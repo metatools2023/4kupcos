@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpvf8UfURyd3eKPvx1u-ATCK-xpq_m8f1CQgzX3v5f7ufJyW623XhzS9FCQKt_lLGhiP034edEcP4sYZbRsFaV7MmE-p-DGB7vTkypWUuS55rUr3wpqs8zFZTrqhbJHZa3L7aUlaf45rpPLY4uSfBVpp4PQ1jA7JrsbrTGtvUR-BdmBcNy_HYAgp9TGWBh/h1000-e7/Coser-Byoru-Xilonen-Genshin-Impact-78-4kUp-003.webp"
 ---

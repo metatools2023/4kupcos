@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce"
+tags:
+  - "Joyce"
 photos: 65
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyLpGbtjomwjCdOWYPvUCOZvMm1wQGNHvCL3SISYh2Ynn_-4YT2wAIABQNHQgW1rrUP3s-MZ1u8hRWmaUY2FVZqWih_MGWqlOx4sd8tRcq-RUOD7bd50YMpx1EcopVPDmr8JL50qQTxbIhGdpZh9lPts67VlRG6oH45_zIojAcghu8t-82YvqxdhHaL28/h1000-e7/Coser-Joyce-Lin-Kafka-65-4kUp-002.webp"
 ---

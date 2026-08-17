@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2wwAsfZX83Xu5Tvxf252H9FPKkwJWcmHe81Z3RfFHAOfwPvsbeLF0j3ce9_5LKafSxWaxJoMV7kaQlVt8dZ_zKEGc8H-moMiWPdXk-ayD4jmEu5TIfLq30euAYD_l5A6ZCuAzQ3_6hAPjj2La6NkHpnKMTt-esMbDI9EW1pmXc-zj6fmdULB5h1K0egA/h1000-e7/Coser-Azami-Ganyu-Bikini-33-4kUp-001.webp"
 ---

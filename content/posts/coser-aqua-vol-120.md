@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼aqua"
 photos: 161
 image: "https://lh5.ggpht.com/-N3i6fkqKnOc/YsB9Mo44roI/AAAAAAAACCY/KMqSZZn1FYM1PIBgYBySwblIKDoL-M73QCNcBGAsYHQ/h1000-e7/Coser-aqua-120-4kUp-001.jpg"
 ---

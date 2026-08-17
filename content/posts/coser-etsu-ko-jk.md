@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "纸悦Etsu_ko"
+tags:
+  - "纸悦Etsu_ko"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_fqH9j7qAZsYx1ieOQU-lyDyG5NdYotcQexajgviZw7Tb6hNlAervDTpsKeTf8LKbpL7g5Md4E9GVNhlBx9epywlhrjp3rjjZPz2BLxH-PxpBmCoacA6zLtKwchNLR9OTMpkbFDI2loI6QhHx1NuzcL2gzzxWrJyUf7LhuAnKFeHq259ZI4wAjzNnLsno/h1000-e7/Cosplayer-Zhiyue-Etsu-ko-Janus-JK-azur-lane-39-4kUp-004.webp"
 ---

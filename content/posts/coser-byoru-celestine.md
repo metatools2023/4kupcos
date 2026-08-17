@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 69
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCOwkLB2E1GenGOb1RekNYG3JhdlpIeQPxc6e-Q1l-ppME4dn7qxcjpWkZfgzjp7myQIg-8FT-L8Ocs5uJNX631fSFuY7HK-aAQGoE_UtE2JrL0EjL9K_EVSZHurSySrLxzCm206DjIMDtp9m3Vu1lssxAGCqzZ1yVz0v7-KSng8qRVqi6MuGtpB8Kr4jS/h1000-e7/Coser-Byoru-Celestine-69-4kUp-004.webp"
 ---

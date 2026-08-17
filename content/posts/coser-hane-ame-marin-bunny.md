@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane Ame"
+tags:
+  - "Hane"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjziTpirHRhoqp7BDSMoui0NZI0xaIPh48g8tTm1Y_iLLr-5ZS-qyrstKz1rlW1Vkh3AEWEiY6NbdKNOmryGEtwiuMloS0gdu0UBVZvVToH2ClYm0BYk6R9aXsOXHlPG90DzsH-tOIKjZZvwLAI56R4egQsQd-kvJt54j16RtvjyiLJRDIf2Seruci_xhI/h1000-e7/Coder-Hane-Ame-March-Bundny-20-4kUp-002.webp"
 ---

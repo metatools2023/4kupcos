@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip1O8xl5vgXMD8o8qeY8v1BDLBcuI5rYqqcEopR__LOLuFQVsXCaAU4h7qZn7t1BDiLD7qI83tnxNNbWL6JSNmyUuArRNBn4no8NifIL5533XNlrFApnhWp2OAyUnSl3fmEiia1lAPh9HeQsqPPr9yL1JqQSocg1xLNbV_kLmPm07Rqn-5Z4xAW0CBv_k/h1000-e7/Coser-Azami-Ulrich-von-Hutten-20-4kUp-001.webp"
 ---

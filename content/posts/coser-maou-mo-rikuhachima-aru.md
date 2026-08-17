@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Maou"
+tags:
+  - "Maou"
 photos: 13
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsOsMlNuZ6aMw46v2AwD990PgieKAYhHO1Mu1W-UrO7XJ9umpSEZUbo9ZU6rEtPA1vsjNHuyOSo9BMpZWloI81OjjwFZE54cETkrDXDt8Ag7G9vsoMhf_QWaf7o8djCqOVLaJ41OM1P-cjOpNuDZC_lufAjijYnGHvK0yxD6lgTG33JXYb0O2pglmj0xk/h1000-e7/Cosplay-Maou-Mo-Rikuhachima-Aru-13-4kUp-001.webp"
 ---

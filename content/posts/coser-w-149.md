@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "葛生w"
+tags:
+  - "葛生w"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzzOor2pCpq-wKp2oeIBOxZI4lXZqf_GNTF_EZZKlUmFqXmuhoATgLNHEUuBUK582uIW48HlzvR42F_Vxk0H6ccnLIjAmIzhmhyphenhyphenOSVlszlj41dYT_oo3DwLYMXNBqhU3psxDaVP4ZX0pTtNxPPERzKgBujCArpgyVzMgYhar8ow-uM_4eGzHz26c1b47qt/h1000-e7/Cosplayer-Kuzuo-w-Wisteria-Manman-20-4kUp-001.webp"
 ---

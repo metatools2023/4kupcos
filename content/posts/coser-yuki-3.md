@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛城雪Yuki"
+tags:
+  - "洛城雪Yuki"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHAOtopHstWp7287ZMQt5-k6vK3WeWMxBqxi_bzsoRysAnn6xdwbcHY15okc2tkgxLj_ZjTGmfU9qo3kjAfKX-lTtpSl8WQhE6OnbpUCEqUcGyIae4ajgNHF2Di2qOUFeNpM8sQODXK7tOwh2-3D2Kuo1mswhxAYzucv_GWThCw6T7NszGgN3airxAtBg/h1000-e7/Cosplayer-Los-Angeles-snow-Yuki-White-suspenders-22-4kUp-001.webp"
 ---

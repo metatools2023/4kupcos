@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 71
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij1vJQXoaa1quCasvo6_bw1o9hNZGU71jKPUXuvva-ipoveRni-LmPm1kbsB14OykGZgFTgJeLuyOAqy7ELdj8rAaKrss_2f3ytTD4GKuvySm7me06ZMQr0aRf2TJZgaqWEsFyCf5ZQ2h2xWstxjOpbOtb5HvE430fFwo8zldv8p9u7RLeg67muuRaMMI/h1000-e7/Coser-Byoru-Olga-Kuroinu-73-4kUp-003.webp"
 ---

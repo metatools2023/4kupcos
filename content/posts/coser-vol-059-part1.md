@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "黑川"
+tags:
+  - "黑川"
 photos: 123
 image: "https://lh5.ggpht.com/-8fbxoiOtAZA/YkkqUSjIFNI/AAAAAAAAKm8/Dfqcg1vrCH85T895RupNakvr5JFVMFdaACNcBGAsYHQ/h1000-e7/220313-Coser-Kurokawa-059-4kUp-001.jpg"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 56
 image: "https://lh5.ggpht.com/-W_6ZBj5HWNM/ZKnxgUjmwoI/AAAAAAAAMvc/t5gbkUxnqzE44b4bVQE5yZ8ZD7sSgn2cgCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.013-Yae-Kasumi-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白银81"
+tags:
+  - "白银81"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3B1uyI41VgzaHidJ1PC5E6JU2F4fOrLlKcnzn8zB6xYleM34a8a1ErLigS05TWWYXa7yftv9fTyOudVt7kYSc8Y-9MvR6oodtQmKe6luqXEhlUhJEzhDir6CUsG8F0PY_-8ca9WYV4Zdl6wWj7A0RQim2TdM-Jj7tZ-rJtiq0vr1Lv-jdekSbVHv4sO8F/h1000-e7/Cosplayer-Ah-Ban-is-very-happy-today-Red-46-4kUp-002.webp"
 ---

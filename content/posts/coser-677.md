@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻花麻花酱"
+tags:
+  - "麻花麻花酱"
 photos: 30
 image: "https://lh5.ggpht.com/-cPJs76AQ81Y/ZkvKnKcPl5I/AAAAAAAAo1E/ygFq10LeiNEaIzppeLymuLnGHuo-zRp3ACNcBGAsYHQ/h1000-e7/Coser-Mahua-Mahua-Jiang-30-4kUp-001.webp"
 ---

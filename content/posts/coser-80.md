@@ -10,6 +10,8 @@ categories:
 models:
   - "周叽是可爱兔兔"
   - "皮皮奶可可爱了啦"
+tags:
+  - "皮皮奶可可爱了啦"
 photos: 39
 image: "https://lh5.ggpht.com/-5CvysqT9QOg/ZF6q-f6ScdI/AAAAAAAADTA/6eXxrcISPMYmjA5I-7QzQcslZ4VOBoyiACNcBGAsYHQ/h1000-e7/Coser-and-4kUp-001.webp"
 ---

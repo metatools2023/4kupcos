@@ -11,6 +11,8 @@ models:
   - "九言"
   - "喜茶苍苍子"
   - "小瑶幺幺"
+tags:
+  - "小瑶幺幺"
 photos: 66
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIVVPee3BylxHfgEUxoawhZqVE6Ng5M2bHQXDnNckaQDD1AV-h73Zu0y7gBFvSLGuUZJg3L5dqI-4EvjyOt1mSPCDLUgQLiZlcxJhZGK5u0XW-7bzoF7rhyphenhyphenvw5SH2FMwFsRABN5vhDqThhusoP5yuDmxTm_iSf1BiWKnlh5nPNRYJK-lEW-HCrua07Micd/h1000-e7/Coser-and-jiu-yan-and-66-4kUp-001.webp"
 ---

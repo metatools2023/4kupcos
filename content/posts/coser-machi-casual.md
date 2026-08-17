@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Machi馬吉"
+tags:
+  - "Machi馬吉"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvZIzYCtdsN1uOWwv0xiQseOeoJGVlQGb9pd26ADome8Ww09tGR6iRWDtONXn7WIG1JGynXefoPubQ6_17Jss3z5-AOWMWb_jR1WaMoJXkmhX5wxMOXli-zx0or3HzMAknpdwuf1kYNXUXK_7KzxD4IiLnmZ-mfKEEbXwTkRus81oD-0KI1W6SAGou_w/h1000-e7/Cosplay-Machi-Ma-Ji-Casual-48-4kUp-001.webp"
 ---

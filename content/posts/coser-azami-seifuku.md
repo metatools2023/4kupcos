@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPC5s2RI1dPDh5k1QDjpyXwl-mOpKICplKr71KTujHzhDCclozBVYqqjYzy3bZqiz2eTYYihb5vE3VbgGeYi-mSz4uinpYyBVL3OK6s18NgD45J1WD9XZjHlPJt_YqTbWQCrQk4rYrS6zHbBkw1eLyk0rhyphenhyphenVi1kGjzyY94qyuRBSNwjBi2EyRRyuBENHA/h1000-e7/Coser-Azami-Seifuku-14-4kUp-001.webp"
 ---

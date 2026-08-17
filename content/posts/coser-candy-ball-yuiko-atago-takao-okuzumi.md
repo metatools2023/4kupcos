@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 108
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQeVB89lzXlOrKAEIEGdyESkS9u0faBosHUSqMPNvT3nC9VVyZYNBFPbcl1q604XonULvd8W3xyFY6bCbljTCaqz9Z9-8bV0knRhphVWT18oNJlTGX-Mw8Ont4r9Ib79O4OfpRFRYHHegUOa_Y8tiBWZ7W2UnOeXEgi3aNSSQ1CC_Io-TRYG3vRRPIEj0/h1000-e7/Coser-Candy-Ball-Yuiko-Atago-and-Takao-andOkuzumi-108-4kUp-002.webp"
 ---

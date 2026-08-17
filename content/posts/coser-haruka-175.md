@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Haruka_175"
+tags:
+  - "Haruka_175"
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhckNq-iKcYIOKCNZszU1NeHzcqepTvtZu-QEsH_2anDWLkqZFzU2ugvSoeHxsKNm7akT4IQzQMtRQB2SUWexF0qQxLNEYFhe2YD4-sajbBZYzAInMh24noUvHKPkCo-tX9ivWb05S4plV3NXJTBByTK9QFOYZ51xVB2BarO6WbOHB1_M2EmbNiFJMDs2NY/h1000-e7/Coser-Haruka-175-57-4kUp-003.webp"
 ---

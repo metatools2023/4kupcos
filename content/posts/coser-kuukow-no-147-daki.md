@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi913G7QQ9CwBcuqZQ7iTxYak5fKnEpvBkTIrv7DORp3uHe9uE4HFgbspahyphenhyphen6ESRtwP_z6wiGIKZFOpbanzJGY3B3mLj4Bb_O_daZ56_r5h5ABFDwpcwfD2E-KVoTslDI7fliOi0XrzWnQXRPK6u7m1NJ-25hyqzMKESue-Es7wU_OeGqrkMPIXkS1tiqg/h1000-e7/Coser-KuukoW-No.147-Daki-35-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 48
 image: "https://lh5.ggpht.com/-NdPm8PaZ3qs/ZagJJFi3rQI/AAAAAAAAQ38/D0CWYF0tIA4Kl_N_lNSeFXT2pWYe9jfRQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Fern-HD-4kUp-001.webp"
 ---

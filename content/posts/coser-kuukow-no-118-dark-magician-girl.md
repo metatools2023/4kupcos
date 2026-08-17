@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 25
 image: "https://lh5.ggpht.com/-pJ4AiavT4AY/Zohf81oiO-I/AAAAAAAAOJE/fhcKMnDWgl06_jjvvpkvvOjnTGcPuFTDACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.118-Dark-Magician-Girl-25-4kUp-001.webp"
 ---

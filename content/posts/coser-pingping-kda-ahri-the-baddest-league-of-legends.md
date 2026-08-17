@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGEGBtPI8bqDz9GZJ523iaNVFOt_x__H2kfrpNu5HLe7ar41Z_iJe6HWxyyot1pAD90DGhNmERdGMi9BmW2lOrRl6KAI3we211NbS3AY5lWb21q_iuOIoAftr94hsEAD56b4ZiNINACG9pojqbmYXSJPmWYd0Xegp6WZoAoTHOSEzmH9KNo5coHtNLJLOW/h1000-e7/Coser-PingPing-KDA-Ahri-The-Baddest-League-of-Legends-23-4kUp-001.webp"
 ---

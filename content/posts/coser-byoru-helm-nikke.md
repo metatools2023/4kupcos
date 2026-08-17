@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 44
 image: "https://lh5.ggpht.com/-DID9FeVJCHY/Y7yNIXyGaZI/AAAAAAAAJYY/jghnLzoo91ckrLRUzJ8fdzA1NVrGx4MOgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Helm-NIKKE-4kUp-001.webp"
 ---

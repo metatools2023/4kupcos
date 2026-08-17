@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 38
 image: "https://lh5.ggpht.com/-l4gn4OYTPww/ZnisR0eWg0I/AAAAAAAADz0/fd_i-noQ_BQF4o6F4SW8B8BjsZjJ4IxAACNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Kiriko-Overwatch-2-48-4kUp-001.webp"
 ---

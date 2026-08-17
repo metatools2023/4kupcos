@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "发条少女 (迷之呆梨)"
+tags:
+  - "发条少女"
 photos: 20
 image: "https://lh5.ggpht.com/-OSfypWcjJ6U/ZUAcYU9og3I/AAAAAAAAdWM/1a6MqohOuW4Q64-aDW9ZKSoN1UJES7n_QCNcBGAsYHQ/h1000-e7/Coser-FATIAO-Liii-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 197
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzdS6ESkIe4vlvXqACgyM09-8_2lypprLubXK1jXQfjDVvRFixJPe67uHTU1GOX0eqbKSEC4XeTs7ulKixPQUdLApTAhl4f-1y7trc18hy8YkNPetlNQd8I-DwJEyrvoyCpT5mB7vXR9P2dqnR85GOGbHXVxIFLErWVAeyTE_8bZcskzb2-AqF2pRSWi4/h1000-e7/Coser-PuyPuy-9Patreon-BB-Summer-2nd-204-4kUp-001.webp"
 ---

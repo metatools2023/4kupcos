@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTN4BW6N-57lRcD-i6mnSfHYhb4l5VyQW77hc0AuHQuh_b2G3ayIbjpjMpWNNZt8Tajx-MD3FwxNUz5URlbx8ty8cGoO7nhE3UdXvcs_51-Qs8LYXq9CUtlE9qEpkgO5WdYefuAvGZGunokIKFjQTUeoeMfz5lNCaWenwItRaWo1-et_I_v-Ufvft4Q9K_/h1000-e7/Cosplayer-Shimotsuki-shimo-Modernia-17-4kUp-001.webp"
 ---

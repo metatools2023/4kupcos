@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 13
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKlE5SWdMx-QUPYwf5YdJCjfGUSViTbVvUUtBYXF94usBJ_v9vF5MaOmvbZIYKrlUnkytOjFuSi7u4rPOTfCBaEZF0dD9SskdeVB4ABSRY2U0G49PLaz0PqQ-eHmJaH_ZkcGWWBmZAmeBZvjSQnQ0lrVfZ-aIAsqJsxCtzR2XBFHQJ48ViWUJy85rxNg/h1000-e7/Cosplay-Hachi-Oba-Hinata-Uzumaki-13-4kUp-001.webp"
 ---

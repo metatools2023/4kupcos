@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 24
 image: "https://lh5.ggpht.com/-1-jSnrVGwPg/ZKc0lqu71TI/AAAAAAAAKs8/OywhiLB4pcMbJMIxqtRSExJFzmXygPrtACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.008-Rosalia-Honkai-Impact-4kUp-001.webp"
 ---

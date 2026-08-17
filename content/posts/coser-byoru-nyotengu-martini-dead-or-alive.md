@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwCsObb8Ny5nv6NmRa7ZfLyxixoilO-BIrOvKbovz30X0O0WTrfqyGwU-WeZ_urZVrB58pSrziftL8exg-GHm0GEw2AQmxknEbwW4Ay6wuy0ZNaloi-l1nekTsYGaEiJ4t-IuSsA0c5rOOwJqHPP6V2lY-IrwqCeB4jofpxgKWu0Xkg5iiDfNfRkmvFDQ/h1000-e7/Coser-Byoru-Nyotengu-Martini-Dead-or-Alive-69-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "wendydydydy_酱油"
+tags:
+  - "wendydydydy_酱油"
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7pumn51b6ad77J8C56TpbxmCrkVeiX2pcWO_QloVXczxe-8wY7Uvuixml2wAuT4p4MhykmCjCeWasb5vzzjsr99BKMDqGUrDe3WeoFpZvZqKSLkbKk73njP3-g2Z7rZmSS1z5Qrzube6HJ_eIv2pqRtMuVRa-sSqh8978hG7TEHeU448Q2I9ZOyaC8tSf/h1000-e7/Cosplayer-wendydydydy-soy-sauce-FGO-Matthew-56-4kUp-009.webp"
 ---

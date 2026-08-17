@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 106
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOzD2ZCRGQiG5XWUsGyHHXYT0B7rT5eGXIxKZ7RE_OSYbPWEqFc9zx3-C4ooBdIx4haOa8qDC4ZyG8Z8MSfXwPkFiMyfddpz6TG5P4JcymIQO3FwlKGV_jL7KRsmQgVxHqVqqDxa_W1kak9NsuS-4Z2si14_5OLcKKc14Ar2qVDDI5VGHLJfyhsaGYiUc/h1000-e7/Coser-UmekoJ-Xilonen-Genshin-Impact-113-4kUp-002.webp"
 ---

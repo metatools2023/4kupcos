@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh05yLVgvsODtYoQcigHgogpzIgnOMwvfdnjDYNFCmvjB6MUpwzmLVAIZhm72twpSxMD5pbRcLLyc6DlQFlTIFa8hfCbrzhZNjs3K4zjLAb0LNcdvuo0WWY767yW8n5-yu0dOclYYM_AXNrG_iQdXb2G07sE9ltbI9aff09wHouHJBg9RLh8DhBa1gs504/h1000-e7/Coser-Sun-sun-zi-47-4kUp-006.webp"
 ---

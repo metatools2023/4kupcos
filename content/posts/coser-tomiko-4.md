@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tomiko (とみこ)"
+tags:
+  - "Tomiko"
 photos: 190
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiluU_dmvufgUAh2Ljs_ESFGpQdUVSMnztJF-efliZLx7kXbotCahzgZh17tF2voGY6PlhzqyjDVqDsX4Plc4bkfK7jDOW-b288qxShR7zqpP6pQrxOQBujvlnFishA57BZe-2sWNbWBP5ZviKF_IbgdgG1aedMTK3d0L4hWskAtINmdGSKAhj-S69M2FTi/h1000-e7/Coser-Tomiko-190-4kUp-010.webp"
 ---

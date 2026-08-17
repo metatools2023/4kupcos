@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Meenfox"
+tags:
+  - "MeenFox"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKbJ5WBBu_SqmIwF_o83Nev7wY_yfy-gatTPz89IX4V3xrjDQB1EBFlTVt8TsZmJFKOhIyqGzp39GGfbD74OxrNLM8RFqxPLy7OMuVCrD9HcRJMzHs4idyqvrTImAyjI1EPSzOrWJ7yL8ZriJXCZz_hsC6x4gZrMUExGp2J7puMZ0c3KM0sZQX-GYHiTw/h1000-e7/Coser-MeenFox-Warning-21-4kUp-001.webp"
 ---

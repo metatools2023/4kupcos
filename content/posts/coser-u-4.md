@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "你的真真u"
+tags:
+  - "你的真真u"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYPQhWGYftjRU33WBdzZ2h2zgSd_gXCj2Ib6YU6bv_zdGx_0OVS-YyF4URTwtRF6WlEd83fXaz4ju5HiHlTN7Lbeg7IqStSVa3rsVN6YMy6FXgXCVhalbBvkvc5jtbquL4UGWdF-pqJB5hJjsV8l_cj5hRZUYB7d0Kh1iAS-f4lFBhAd1GoCahsELiJNs/h1000-e7/Cosplayer-Yours-truly-u-Christmas-24-4kUp-001.webp"
 ---

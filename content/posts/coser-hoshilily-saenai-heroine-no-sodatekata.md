@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNWvVInLG9DZXDVStfLIIIvBqRp2e5O8GsshioLbi_1exITY_4EU4yCtgRUKNKAjcslyRzJP9EjbVOED6_HaMbivYh3XZUxBC2l3OILNffl6q-4HW3hdsUSuf3GfVoshHviqjQd_Ejsc0s0DrL8BLZl2AjCmQn-Dn1LimP0RNJKjxXG5m8gOGmHlH-vjoH/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-Saenai-Heroine-no-Sodatekata-51-4kUp-116.webp"
 ---

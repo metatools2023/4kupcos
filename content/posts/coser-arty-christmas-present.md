@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Arty亞緹"
+tags:
+  - "Arty亞緹"
 photos: 56
 image: "https://lh5.ggpht.com/-W4zW6eZm4i4/ZfXTr0K5UuI/AAAAAAAA65U/kyzTdik4NTM0kEvnpEBkPo8nUazvBQs-gCNcBGAsYHQ/h1000-e7/Coser-Arty-Christmas-Present-4kUp-001.webp"
 ---

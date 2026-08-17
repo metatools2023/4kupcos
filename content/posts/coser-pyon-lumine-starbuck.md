@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 41
 image: "https://lh5.ggpht.com/-3udSMJ7HaLI/ZjFlZP9mVII/AAAAAAAAYKc/DtBsJ4lmUPQwnKuSSpq7uEcD2N2FR9j1gCNcBGAsYHQ/h1000-e7/Coser-Pyon-Lumine-Starbuck-4kUp-001.webp"
 ---

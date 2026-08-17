@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX7jzn_gYQGVPOmRwCbis5JOiY8YeAdh9DsTc6Elprj8Brt1vX2zCvgIeGCzq8Z94LAIKwXPUTL_9pig3GAl2AfqHv5U-A9HuPW79djH-r0uFfcR7odtm6FBaOiIwb4SjZ_IY96uKsxo-fAACt-jWvoTD2uTw_UN0zgbZCkUeXt2n8DIBfF51a5AOAxMg/h1000-e7/Cosplayer-Byoru-Taihou-Bunny-48-4kUp-001.webp"
 ---

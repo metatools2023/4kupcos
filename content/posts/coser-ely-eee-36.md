@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ely_eee (ElyEE子)"
+tags:
+  - "Ely_eee"
 photos: 48
 image: "https://lh5.ggpht.com/-L8Ba1Lezeu4/ZbLjj0Tm9EI/AAAAAAAAZAg/czeUHbHb92csIXu6lgLAsObnW3QugLbywCNcBGAsYHQ/h1000-e7/Coser-Ely-eee-ElyEE-4kUp-001.webp"
 ---

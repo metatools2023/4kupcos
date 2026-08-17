@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEzRPylIA7iIoM53CEnLy8mQt7k3P7Gu4A29VuCmtvPK8BAC0RWGksu1G727wrtmFZ2WVmp4kUfJ6gQhURsuFBvmoL21WVGGGkbC8oHTBKghlQlgwrESqotMgD9Se5XPIG9p4_0p3XKn8-LKhUKRjaT-VyWrhiaJVXHLH_sBFHgjTGF0wzLdrelqFP8ORf/h1000-e7/Coser-ZinieQ-Toru-Hagakure-30-4kUp-001.webp"
 ---

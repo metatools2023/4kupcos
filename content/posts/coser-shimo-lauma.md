@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn1sctbvl3Cly7kp5HdVQwUPLxFOyvWVbFE9PGX8C8miDBxSUoZGtRKFEDDFZ791bERbAo-BF9GKw0lcGeTEtaAeBDv_hfDFWhN118-GEAtJM8VE6eFuyU55ozDyDTPQBFs6HuZ7y_IJOk3YSVSWLaMTrIrTi6UK9S_35YIKWyeUXYHUebJPm8-hAXuiY2/h1000-e7/Cosplayer-Shimotsuki-shimo-Genshin-La-Uma-Lauma-24-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 50
 image: "https://lh5.ggpht.com/-uSfwCdXCx_8/ZeEHWhJOH4I/AAAAAAAAt8M/dflVoddfgRA6zSBykJa4M-35y5dmAKwJACNcBGAsYHQ/h1000-e7/Coser-w-Fantia-Oct-2023-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXsBNHZOFBs3gtMu_33fj3OxdKCXfJunBg6HNSZlGr19VCtXlfYhyphenhyphenWXy9TFfzQEwKQK4OBptfJKTL7O9Pzmmlnweg_qvLhO-6w3RhEFZDXqumQd939Ww0XL7atoJkjsVdyLrFI1aDeBS3XVvHM7JKwxA34xb4lyeEh9zr6ueXu307yX0r4JOPONw85zL5B/h1000-e7/Coser-Potato-Godzilla-Chocola-34-4kUp-001.webp"
 ---

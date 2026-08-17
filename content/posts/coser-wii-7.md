@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "起司块wii"
+tags:
+  - "起司块wii"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYITD514fGv1S7glhwQMjOtFBrkG0QUIrxDSDgt-fxv1Cp1ccAelSa6rmFLqaZbmME22LHcx6jn8qArueutzwEbmXzup2SGMdDJw3L2J7vn0RnJk7fMqvICS4ERyrMVtTqXbHHGLM7D49cLD-h7VFESj2IhEHzGwypC-494I0HtBNg27lL3OwXOsQUjg/h1000-e7/Cosplay-Cheese-Block-Wii-Cheshire-Magician-44-4kUp-001.webp"
 ---

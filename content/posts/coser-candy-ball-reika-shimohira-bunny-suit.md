@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBNGzDvGtUh5lgsanAUczun52bCrkfo_RmhsNanAbGfmQSI5feQ5QpFxY5jPSOPccSmCltxMGYWi_KEXuJG3RBIG-alXs6EkvGRsQwpWvt30660fheN89i7WA6Qnlug5-t6A8J8QsTkh0_VvOY-cvD8rKcuI4QMSLAKonvTAHUOyTt2flaTBagKZVzfic/h1000-e7/Coser-Candy-Ball-Reika-Shimohira-Bunny-Suit-48-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDUet5BcdeDYBRSYKlCFEMi-P5ri5X8buXhqlupxHRNU7f-vUHLN-fFetV5zSGdUQCjhzdqWkMQdH5ZZo0PI417zeljl83-wOiAF6Fnvc0reXE3hwqVMQ4jDrpqzva8B7-wcdPLQZZhI1fXF60JASHZsqj4nWTg32_DMtiq6gDJo61-oOBEeTfR9WQjPA/h1000-e7/Cosplayer-Hoshilily-Azur-Lane-Mogador-Nurse-Costume-61-4kUp-003.webp"
 ---

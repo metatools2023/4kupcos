@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻花酱"
+tags:
+  - "麻花酱"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7h8qCfT2eLTUXpfk_W2yV8EVtxNWWDuJqirIFp8ILCBMoYuuVAvG_hAztMWYHfGeUdO5Re56Yfm8Fv78KkZ6RVkS0UfubbDDg2p1Ic08HRy01gX3LIflndsjqFCOh3TzOLDzV0Zqc3kera9wKfjDimuhplYQ1h9OMlcjvLc8qMI8iYiHCaTqUYeZUxxOY/h1000-e7/Coser-21-4kUp-001.webp"
 ---

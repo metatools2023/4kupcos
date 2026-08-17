@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Angel"
+tags:
+  - "Angel"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtqE_f_Ce-mywqzO7fnXSs-R0tKxnCs65fxGr-Z6PZGzTxW1JGBoLt2yXGlHCgvQbaQxTc0Dh3HStSMNbLjpRfHyiJ6lG0LLcegjU245u8EZyOk5jttGcrAZQ4_i5_yTvUgbmKgw0KX66KOnDXd0ftadJSG4XTOH4WpFGK8Dgb2f2D3-sCXt3yUeAt5wpe/h1000-e7/Cosplayer-Angel-Chan-Yor-52-4kUp-001.webp"
 ---

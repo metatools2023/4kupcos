@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce"
+tags:
+  - "Joyce"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_oG-eBK9ATwDL5ftsw_s2hTde0EIJX9HTPuPVNvcGYUfEeTroyGsBr_g5Z89XB87FALlS7P9XoXK_V-tb8_817mHSJRlgNWW0PEKkkaB3J_MzIFZwYfVWeKpCs7yGHnW39MjUIKNwMmuYTBQEnTN8bmbfF4hULv-ZC3UugjgIjgKOCaS0sBk54fqww40Y/h1000-e7/Cosplayer-Joyce-Lin-Genshin-Cole-40-4kUp-003.webp"
 ---

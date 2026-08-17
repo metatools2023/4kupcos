@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雯妹不讲道理"
+tags:
+  - "雯妹不讲道理"
 photos: 5
 image: "https://lh5.ggpht.com/-Hvp58617ptw/YyZJa2tPFpI/AAAAAAAAJbo/rkzAUPBRfZ4kVSq_zHkiKH3XcM1MHI9FACNcBGAsYHQ/h1000-e7/Coser-No.001-4kUp-001.jpg"
 ---

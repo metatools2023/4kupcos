@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "纸悦Etsu_ko"
+tags:
+  - "纸悦Etsu_ko"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf0ISLDs3eP4bzQHMVmRIL9yicCyKsBtPp9kMZJe-pBfwklWpHqMcOjRAfWcHvEzzOERgVFlknHdHZEF-BnBolnqM_7vmKgIpzpkP51XENTZJkQUV_0E8mXSDOUbM5gLZsVMF3-S_E36BAY4Ox1Mv2-2ZF_lZoxLFDMpV9F0ecx0gvX8AvhwQRGRzAAFs/h1000-e7/Cosplayer-Zhiyue-Etsu-ko-ketchup-hot-spring-22-4kUp-003.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 37
 image: "https://lh5.ggpht.com/-ISRxJFGQLl8/ZnmyUhJXsRI/AAAAAAAAEig/_vZyI7E48Kg79GyyE2Kwyk0MuS6zy2gDACNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Chainsaw-Man-Power-37-4kUp-002.webp"
 ---

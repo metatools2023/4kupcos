@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 46
 image: "https://lh5.ggpht.com/-X20Yf95rKI8/ZNWf1zlcTII/AAAAAAAAMTM/TaFn8lMxpZYMm9Ia0H103elhRDGq-IxZACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.053-Miku-Bunny-4kUp-001.webp"
 ---

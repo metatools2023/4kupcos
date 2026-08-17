@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "过期米线线喵"
+tags:
+  - "过期米线线喵"
 photos: 57
 image: "https://lh5.ggpht.com/-MbkEZYoRf_o/ZK8LYebUJ5I/AAAAAAAASE0/bU8JKAXSrowPGvkjbaGCF_tdC-ezl0EVACNcBGAsYHQ/h1000-e7/Coser-sama31598328-Vol.141-4kUp-001.webp"
 ---

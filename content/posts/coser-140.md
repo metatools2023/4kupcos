@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "樱岛嗷一"
+tags:
+  - "樱岛嗷一"
 photos: 40
 image: "https://lh5.ggpht.com/-1obXQ2t1UX4/ZJS-rj5A4LI/AAAAAAAAVOE/KDWgRHhkpJkCubpyDP7WaQQCoo1qtO4NgCNcBGAsYHQ/h1000-e7/Coser-40-4kUp-001.webp"
 ---

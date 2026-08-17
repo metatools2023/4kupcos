@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "屿鱼"
+tags:
+  - "屿鱼"
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwj_B3RRFe8wy91WM0GKZkxhwYorTx4O23hnucIL6XB-VyYz5tBhMq-Cvm7GIXM9UYFsZVZ_ZdJ6yS6lsnBIiHz4BEyc7h6hyphenhyphenvD1j5Ug54wgxOyVlXB9ZKDWuHhCKfMUlBZrN3Mib37UT336lhNrfJVpSJj-M4SQkpLTFNd91Bs5wOi8BxCSyf1i-uz1ku/h1000-e7/Cosplay-Island-Fish-Magic-on-Christmas-Eve-60-4kUp-001.webp"
 ---

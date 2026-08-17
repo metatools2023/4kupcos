@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 150
 image: "https://lh5.ggpht.com/-lI2hgJeQ8fE/ZEGa7uxAeaI/AAAAAAAAm6Y/bPU6NmE1WPU0oTD7722CAd74VHaiPHzdACNcBGAsYHQ/h1000-e7/Coser-Vol.036-Swimingthedrea-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sameki"
+tags:
+  - "Sameki"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigt8G4QBPAvndfHBKbWjYIpnx6sXLO25hKR1juDuvtz570kFGGlot_zRPM5V4qc0Qp5HMOuJbDHqpNYNM5l3cAdhibt1PiXq5ou5Jn0Mgi1OyEdyZ4675-qtFslBIwvQ7Ue9R-LWf1vhv4vQejoPiA370oau5tXnSqFKlYOnmj0lT7dzqqJOqO7fGL-w/h1000-e7/Cosplay-Sameki-Blue-Archive-Mari-24-4kUp-002.webp"
 ---

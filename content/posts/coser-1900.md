@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "金桔万岁"
+tags:
+  - "金桔万岁"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEbuTuhgxfG0_UUfYbw8hyphenhyphen4bFrDSrGECQQpRsm3vN8eQVK2I6tEmh7ScbXgQfbPzJOxpg7g35-MiH_07C7lxzf0Qd3SfmqttaZdMu_lZclBVOS-vpkQaJ0sy9a6v2hU3gPS0Bftc360hr5hm27zI8KV61VSg_Ezj51Zb8BdKcnW4mSt8n_mTixs__rxjmd/h1000-e7/Coser-Jin-ju-wan-sui-55-4kUp-001.webp"
 ---

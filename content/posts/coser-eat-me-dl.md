@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "けん研 (けんけん)"
+tags:
+  - "けん研"
 photos: 101
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjouR4y2Hr70AMkkRxmeeeUnavAQE7_iB07BCUlb00IEwxinZ8KqYkctCXrNU7rNOz_yqvD3jyFl4G-Z9ZgEwpQHhytuFbzFKmiWHmQRpa2kXS8f9WM-hVZbImKHvt7SLdIJthk1_8AX7NOjAVeLImbqlZVb-bhKxdK1XneKR_HbWnGuejVCsEGnuKkRnvk/h1000-e7/Cosplay-Kenken-Eat-me-Birthday-Celebration-Download-Photo-Collection-101-4kUp-022.webp"
 ---

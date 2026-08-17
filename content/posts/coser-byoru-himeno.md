@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 49
 image: "https://lh5.ggpht.com/-fN_NZoRu6zM/ZKwjd-lZcqI/AAAAAAAAOuo/eL1aRLlF5FoqmXuSyOrt52XJMmbhPxvXQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Himeno-4kUp-001.webp"
 ---

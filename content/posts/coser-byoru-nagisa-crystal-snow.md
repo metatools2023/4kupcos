@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru Nagisa"
+tags:
+  - "Byoru"
 photos: 39
 image: "https://lh5.ggpht.com/-3wNbcmfkqsU/ZWZniu3dsUI/AAAAAAABGjk/0fzKCjlQ8IAewysjWhLESfxtGKvBUt-_wCNcBGAsYHQ/h1000-e7/Coser-Byoru-Nagisa-Crystal-Snow-4kUp-001.webp"
 ---

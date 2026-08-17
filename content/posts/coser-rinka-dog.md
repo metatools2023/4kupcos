@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 36
 image: "https://lh5.ggpht.com/-inBMK8DS_Ng/ZQymzU2eUkI/AAAAAAAAVeA/Fuv_yH0NUDQ-P1aaA4X9VOg7pcrClrKCACNcBGAsYHQ/h1000-e7/Coser-Rinka-Dog-4kUp-001.webp"
 ---

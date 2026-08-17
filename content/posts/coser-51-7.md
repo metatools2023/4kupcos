@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "51酱"
+tags:
+  - "51酱"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaCOdYz7ycoOsVTKAKkHDzS4O4Xzw37Rg0vE4nZmH3fVm-Ou-pQG2sb8nmTD9EJQ4wqEIv58xMtk186MDiXyha8oGNs0vN_wasWG05riLvg72zJNgeBCQ5vPFXPs3gL2sGRYhICXwfOaC4baahj03E84G_KAHKkpzwqC9y0fpBOWhhXkR54SGnhfzYsg/h1000-e7/Cosplay-51-sauce-Guitar-Jeans-26-4kUp-002.webp"
 ---

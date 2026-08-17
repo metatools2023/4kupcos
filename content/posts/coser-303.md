@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星黛鹿鹿"
+tags:
+  - "星黛鹿鹿"
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD6nwTd80FPD8KP3kfmt-pMAZ19yhgoXPg6itwzaPW8bU71ExL2gC6ABHwgwhWb6ejerBhoFKKD7dZeQSw4dT0S3rbgz13BPOnKfGnzrc_nauee3MVYravq_p3x4B4LuPqrVy5ueMAwKk0W-7KIQCHwGBmT1gejVj6Efu4ZbcCAty9umT4ogrwpKTqhw/h1000-e7/Cosplay-Star-Deer-Prayer-for-the-Witch-56-4kUp-003.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪貓Yuki"
+tags:
+  - "雪貓Yuki"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih6IXjHcCYPrhU18YvygesPmLsq290M9Kyh-RQ0oUN_wqn5r7WVjTxVuY5ci2zWvEJOYKGUUyS0SLKgOTCndXS27WedBv2r-4zUTGKN0UWjk5k1ROzomv_IdGpHelfMYsEUO2e0QhCJKpBSeE94KRC_LbFltxgXZwdyFnseqtBON0gHqMy7tF8P7DCBPoA/h1000-e7/Coser-Xue-mao-Yuki-Azur-Lane-32-4kUp-001.webp"
 ---

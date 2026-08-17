@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 51
 image: "https://lh5.ggpht.com/-5kXrX7QX4b8/ZYYFjPaVrFI/AAAAAAABmOY/NG6yWzMVGZQIEy_Ak6busAV_xlrRcouzQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Summer-Vibe-Blue-Archive-4kUp-001.webp"
 ---

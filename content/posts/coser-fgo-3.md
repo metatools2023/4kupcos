@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻花麻花酱"
+tags:
+  - "麻花麻花酱"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiKGKaK_JWzGrOlb6ElVkFjwFAq0XWNyzn_q9xiOB1MYFJQj_HL_QtlbEPXKQD1bJFwaozTDbGWX3evjbAV2MnIQJQjo0bqcKPoD0y-ZnZvV2h_WSDn0SSzJMPCXNhDIylEKmS2zYC84lgg2sEvekDbUH_AT8DYlSr3BdPyLbEAgg5KOrT878MKCUWOGIE/h1000-e7/Cosplay-Twist-Sauce-FGO-Poppy-24-4kUp-001.webp"
 ---

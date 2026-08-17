@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一笑芳香沁"
+tags:
+  - "一笑芳香沁"
 photos: 19
 image: "https://lh5.ggpht.com/-CztGNBq6Ju4/Y7L_FS90TMI/AAAAAAAACow/GNrFn4c6VgoZeBJe1gia4l-72J7dEUkDACNcBGAsYHQ/h1000-e7/Coser%2540-Murasaki-Shikibu-4kUp-001.webp"
 ---

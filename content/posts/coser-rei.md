@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "山崎怜Rei"
+tags:
+  - "山崎怜Rei"
 photos: 65
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2WCxPFoKEcA29-bz5F8-X8UGJeccgzeiTK9jTJkFi1qFDeN-_hHt5oUjrObU_8AtmMKxN-U1KZj9Dhz-8X2mQafY11d7n9s-18SoZuFFf0FPwu8lVU1BORU-lqUHyAg4nF6-5HGJylxzeHwcMECGdouMO2MV1PNWFriDvkNW040YIiODiMUSyo88s4RUO/h1000-e7/Cosplayer-Rei-Yamazaki-The-funeral-of-Florian-Yubel-65-4kUp-003.webp"
 ---

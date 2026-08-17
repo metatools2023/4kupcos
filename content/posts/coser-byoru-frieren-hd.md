@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 42
 image: "https://lh5.ggpht.com/-HA9ggKihdcQ/ZalUtI5xmnI/AAAAAAAASFw/DkxuSe7Vc7cEEaeUu8jU_xMvz4gUWaPdwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Frieren-HD-4kUp-001.webp"
 ---

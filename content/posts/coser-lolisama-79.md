@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLaz6BT1k0uThQ9BBih9c7Q_bPkz4HFNEH4t4gfxrSVxsFSDVrtFifNHFTYWGlYiv_5EThVwgtsMl87H4o0u1Mte5lHN3uEW9VgZDC9RfUwhSFSu_L9IXClNrp9dYZDCcuMg3hxHMaM3etT2G9GsCbzpYPIvHFoVen6U9ZtcvqVRnmFJS6cnjiEVF35mxk/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-white-cheongsam-16-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "胡桃猫Kurumineko"
+tags:
+  - "胡桃猫Kurumineko"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLJNh2Z_nt2bSwhejOIBloksrR7Z3xKxWZ790jwRBBNYfTvB74g6RmgfsZEdHvGXnOLHjAZz-L7wm3Cwz2hpFWkA1BANS0qsYq1snUezeEolMmFOzEYDncWVkMOmG75puHBVzAGZpyMUU6h-Z8zH1gZzAsafUkHSvv2ERteWdz1gus_wfM79Bv3Uo-Tyto/h1000-e7/Cosplayer-walnut-cat-Kurumineko-Bai-Miyan-cheongsam-55-4kUp-001.webp"
 ---

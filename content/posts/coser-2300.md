@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUO7GE4EBkJ5yKtyGGHwCqbr-ADTWec-hdGX4oDlR8j1edJ4KiLUJ3EEe2sz-NWfC3k7NIlSFnG99KE-BtkWmH7MQcDyB67rebyLeUsKkd0UcrszF3-sUUeshlc1akF6bHIAJU5vlIl62jgXwvJX1s8Gu5ObCbDPCLPEbnKEGkbP5eBfMY7mgPZNljIzH9/h1000-e7/Cosplayer-Nagi-Shimizu-Kurosaki-Mea-28-4kUp-002.webp"
 ---

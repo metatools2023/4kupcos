@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny"
+tags:
+  - "Tiny"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqCjHn3pYHu0iBKI40tVRscoa_pb4yzC8lIvaQj_DVy4uxljJUSiWLnSq-7QEiTpIa8AdBtC-H3t2xmKi-a-yK32nqUSyhKQGgGRnwX4xFSoKw1s9FKiR0Zv1S54W5BTETH5THbRlCosXlhbvR1wtfGQL2v7mPi2VTzBbspBB4PaN4XeZlhgwJyOU0nUA/h1000-e7/Cosplay-Tiny-Asa-Genshin-Cow-22-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Atsuki (あつき)"
+tags:
+  - "Atsuki"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjdmzoIikod_U9_skx1z_iHeCntQktzKQzfnrbqvgkFVFkkG2-Y3o8Pd5pjvqUlz2WQaNkcYRfaD6ZEHRaUbvhJH2Juxz4tKtF4-4TIeg4N2mdeOaLzoQ2-OWyBwFZb83KfEJBQuFSnRqxV52prL-OarsxIQUgHS-Te-ugKcedgF7zMkMfz5lOwC5fLOwH/h1000-e7/Coser-Atsuki-Kaede-Takagaki-Selfies-40-4kUp-011.webp"
 ---

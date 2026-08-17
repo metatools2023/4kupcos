@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUohNPy5IQcP8rX0Do2pXghRhV6qu6oy_ystPaKoCONh0hYRNOWMjXXQSxXD2IFfeJAJDqjJ8o2NFLFj5qnfiz0Eb1ZBNUHFdP4kP9XH2JWQAuqqy_CBWt4-qpM9fvLe1qleVTOkmll3pJz7IThD14fpWySF3cFm-CkegRjH0gwLVMt5kP0aSipbgLnlk/h1000-e7/Coser-Candy-Ball-Valentines-Shibari-52-4kUp-004.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "落落Raku"
+tags:
+  - "落落Raku"
 photos: 15
 image: "https://lh5.ggpht.com/-T0qZFxXLXl8/ZgWUi2ZKqJI/AAAAAAABEIw/iscN4oAOregH4-yfO9TwbYcZrE_xTkPDwCNcBGAsYHQ/h1000-e7/Coser-Raku-Saintess-Hunting-Banquet-4kUp-001.webp"
 ---

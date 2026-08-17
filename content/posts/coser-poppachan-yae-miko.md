@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 55
 image: "https://lh5.ggpht.com/-GWrd8qu5ZA0/ZjgSK86tkDI/AAAAAAAAccI/X8_slniOoWMSRPtmFLcMir6BUbmy4waswCNcBGAsYHQ/h1000-e7/Coser-PoppaChan-Yae-Miko-4kUp-001.webp"
 ---

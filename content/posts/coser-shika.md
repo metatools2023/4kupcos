@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Shika小鹿鹿"
+tags:
+  - "Shika小鹿鹿"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr-FxyttDyj5751haMU6C5K8IiSEE66CWYxk1MqfZdOyoegJW70W9QJORy-Ym6yEios6VMFkAqxF1vALDoMEowri7n1e4cCv1XXJ0LrrD2lcnaWVt-Li0JJRcSTh4vjS3jW6hYiWcqzNhm09MqYu42sKGnzccay73BB1geSjT3AvajAz5714IiMtjSeb8T/h1000-e7/Cosplayer-Shika-deer-Classmate-Ellie-30-4kUp-002.webp"
 ---

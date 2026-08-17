@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Machi馬吉"
+tags:
+  - "Machi馬吉"
 photos: 68
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIXSNXgXSkOx9qVUBOSOngLeivosWG49A56l5GGr0Fw3ym_VZ-ISUzERuEgq3HauHgF4I_gkj6ku6-gGm1wkegfRMHFR-RxarkGoAMtGwsZvFcaa1C7hupLtdB4XHaNdQFyutMwhsRYiX62V9aeiFQlS3oLX9bBOZSyqATq46D69fMNotY4b_3XlW0ji0/h1000-e7/Coser-Machi-Kafka-68-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 149
 image: "https://lh5.ggpht.com/-QTp54vHIC_w/ZkADP4IyyuI/AAAAAAAAhz8/5jokEKGvQMA0KtF3YvF5WCBeNnG7roVwwCNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Spider-Gwen-4kUp-001.webp"
 ---

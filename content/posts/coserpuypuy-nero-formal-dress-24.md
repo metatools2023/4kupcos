@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 123
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC1Yjuhk5UvknwkzXEzIrGvHYl9ttbGIAwioOw0NM0BS4lbotkGQkjZSiNtI4I7EMAl95vaXSxFTHg_r9NTC8XOp6Dhss9Qm6LW2Br-bIviZPD0x9WMCDMuQGguZe5mu73GZb-MZQGZ_vpCSNPEFIijtblVJ75UEVuFLvRjh46UrUHfVdNM4D2ZvgC3Q_S/h1000-e7/Coser-PuyPuy-Nero-Formal-Dress-123-4kUp-010.webp"
 ---

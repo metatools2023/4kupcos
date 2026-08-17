@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK2QrQLleyM0momAMu86e589j-EsSE8JGUF5ud7R0pCm8YpgRQ5wRlyCvsOz_chHpPvwYlB8Z1vVPg7pUVq4M6f9GbGSa4Kwzzr1fApuW-JDnvtufhLOAe-fadqqIFPuRF8v0Hn8SxQXl3wqgW3JC2BdjMJ9ShkF4zhgBad9XkXSIuKvdF3-ujr6t6Nhdx/h1000-e7/Coser-KuukoW-No.161-Shizuka-Mikazuki-31-4kUp-002.webp"
 ---

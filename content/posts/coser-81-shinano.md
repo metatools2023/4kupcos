@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白银81"
+tags:
+  - "白银81"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp986EA2f5WG1xe6i5SiD386pNa9DzMOQrOwsk1UPEhk223yRH5qkXbAr6wgD08M1EApIOODUkWOwxSNfo7is4XpwlIVpf5X8MChPFFV8qRV8LWUVTkWfyPK7VY7DVYpyuM-qScb204pmBmjH5llW6cVeVLYwYl55WteNtr-cIx5RSPSUF6FdyAS_6FfbC/h1000-e7/Coser-Silver-81-Shinano-25-4kUp-001.webp"
 ---

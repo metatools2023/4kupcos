@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 51
 image: "https://lh5.ggpht.com/-C_kOE0MeXls/Za2dEOD7NLI/AAAAAAAAVcg/_2p6YLfVTZAUYXsqqRPIW8FCkg_RPw13wCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Neon-and-Valorant-Body-Oil-4kUp-001.webp"
 ---

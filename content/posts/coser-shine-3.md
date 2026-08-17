@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "羽天shine"
+tags:
+  - "羽天shine"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyjNCmSqOTjzsAjD0Koie6U1JNqk8ztOzNpOiK6fFaJKUhzJyBZEAkxte00GPdzdXWsnYiNUZI8TVnDMETJH2qPCDPlBh_yijpkBMvKtS5wTLcs9k2JtUHfxc3HlH6AMxe6ZrJqEajmW9hf62-xwtWkMPTuo1VubO4JO7Fr5rk3BVTwcJlQtFCXSFQWiM/h1000-e7/Coser-Yu-tian-shine-31-4kUp-001.webp"
 ---

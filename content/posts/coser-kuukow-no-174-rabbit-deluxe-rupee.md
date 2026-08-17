@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZz1GSs7lfyvwjCS4suR44r3vk9bFhYnAN_l7B-rUeYexkjp2mUg2aw9xjOLIdC13qtDJXsT2c9QzUbIkJsnPvYGnnmWItP5OmEtWFop2_femkdqMWTGXlSgIgNif0KCUM1W2Q01b4YcYu-UZU-PpqhTkPRegb69vaPqx4IbBoE41POWIPrFmUmNOjn5gc/h1000-e7/Coser-KuukoW-No.174-Rabbit-Deluxe-Rupee-42-4kUp-002.webp"
 ---

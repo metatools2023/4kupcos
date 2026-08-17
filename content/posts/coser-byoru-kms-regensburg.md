@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 51
 image: "https://lh5.ggpht.com/-3ZBMW8hqNRg/Ze8zaXJtgdI/AAAAAAAA1sQ/i8mgtxS8AZMhDZ0UwkOxN-PgwgpQ6KgDwCNcBGAsYHQ/h1000-e7/Coser-Byoru-KMS-Regensburg-4kUp-001.webp"
 ---

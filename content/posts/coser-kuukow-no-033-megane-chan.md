@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 52
 image: "https://lh5.ggpht.com/-iwcc7eyE-gs/ZLbBc5zsA4I/AAAAAAAAYVk/VL5yaLUztxk49SUeu0JRdIJt6JEve8loACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.033-Megane-Chan-4kUp-001.webp"
 ---

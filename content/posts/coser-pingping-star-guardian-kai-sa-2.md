@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 72
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4VMtPCEa4vWgCbq1LsDpMr0rIgzvFyuyJge5zTl-MQftZnziZ7XF1POZe1Op2dS9o03VN9Qyt_3JrhxBHEBAZE4VYDSX2VnyLwWIYXuM17u663spyMFZ8YbMBTtJupTdhvQSFRdyQu7een-TuZjGZsJAg1hkcNref2Q1pSponzTMy8URbPxrKBz34Wkaf/h1000-e7/Coser-PingPing-Star-Guardian-KaiSa-72-4kUp-001.webp"
 ---

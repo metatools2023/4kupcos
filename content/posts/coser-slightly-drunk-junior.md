@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜井宁宁"
+tags:
+  - "桜井宁宁"
 photos: 78
 image: "https://lh5.ggpht.com/-nskJkkm97I8/Y8iDy626XNI/AAAAAAAAC0I/2YU2VGxT9KkXMoYFHC9y3_54HpWT7jSQwCNcBGAsYHQ/h1000-e7/Coser-ying-jing-ning-ning-Slightly-Drunk-Junior-4kUp-001.webp"
 ---

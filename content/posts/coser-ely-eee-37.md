@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ely_eee (ElyEE子)"
+tags:
+  - "Ely_eee"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiyRbgSBxwBw3y7Zwh4k-pofd_cp-aGs_jn32kf2ccj7hkS29MX_8oT4JHZrQeG_808bAKkp_C5idNE_EQnHyk18RitaOWtfn74A5Pe1QhAE0w5PGhAne8G0kSaft40Faj0GSrooIZvjJAFRb9LtiSZ5Fl7uuDYXtvauuMFsEwaMKrApPHWmnMt0WckjeR/h1000-e7/Cosplayer-Ely-eee-ElyEE-child-absolute-zero-Yixuan-25-4kUp-001.webp"
 ---

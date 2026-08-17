@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 34
 image: "https://lh5.ggpht.com/-mqLKkzKWEHU/ZM2A_ywTYFI/AAAAAAAAGHU/VpQoPE5-uiUSaRAH5kkGj8ps26VGU_4HwCNcBGAsYHQ/h1000-e7/Coser-Rinka-Celestine-4kUp-001.webp"
 ---

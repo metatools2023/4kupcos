@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "杏仁曲奇"
+tags:
+  - "杏仁曲奇"
 photos: 40
 image: "https://lh5.ggpht.com/-tkhe5pM2lcU/ZlT7JOHI_OI/AAAAAAAArOY/jqHc2gC7CqsO9_h72_BI7Mrzalo1cr-TACNcBGAsYHQ/h1000-e7/Almond-Cookie-Azur-Lane-40-4kup-001.webp"
 ---

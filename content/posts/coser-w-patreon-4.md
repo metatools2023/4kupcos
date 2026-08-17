@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF5d0LM-k7TWxVKwPMPbBi_3Sf91Wwoyu5AHK9GkBV8JbGMXbEs1FH7DP-76Astbg-sB2GCQrM0e0kIOXpMPgy08FjtpC7A62HREWGLsNuFHFVOUanarQ4DlUyoz7v0Z3j6YX_WFaZGciMhftSJoYeBcLOG6nOodf9rA7iTUkVHBTtvbUYA-F5-FAxcZZp/h1000-e7/Cosplayer-small-store-chiyo-w-Patreon-subscription-virgin-killer-28-4kUp-004.webp"
 ---

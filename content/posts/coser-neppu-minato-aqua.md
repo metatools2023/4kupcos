@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Neppu (ネップ)"
+tags:
+  - "Neppu"
 photos: 49
 image: "https://lh5.ggpht.com/-ktNCk-gRzfk/YuakDdas1DI/AAAAAAAAgMo/Wl2-2O64lp0Sw4Lk8QPwl0-wSCXVejLmQCNcBGAsYHQ/h1000-e7/Coser-Neppu-Minato-Aqua-4kUp-001.webp"
 ---

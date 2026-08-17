@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 59
 image: "https://lh5.ggpht.com/-KFrB9WFN_jU/ZMgsF6WV7bI/AAAAAAAABo4/LqGY-NZhwuE75dgudK1ayXvR4mNrIjtWACNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Raven-Teen-Titans-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 22
 image: "https://lh5.ggpht.com/-fFKKifrN2Gw/ZoxrO5IFY3I/AAAAAAAAQrw/HwBEscUrydECy97A_cUz39sKpOrXm6pvQCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.121-Short-Sweater-22-4kUp-002.webp"
 ---

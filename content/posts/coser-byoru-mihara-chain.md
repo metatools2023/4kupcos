@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhT5c73eLfhdRuQ_LB3xkqesooVYyzRZWvx1av7d4gA5SpMpSh86CKx-an70hfD6JKwlZtHbHcxCPTakv-mZLnXDE79yZKJYEfr-UAg3w2cbbk74BtjB-oN8qfO_gGobv89-RJtBydZh3umEexpkp0gWVh6mqRGE9BJfbE8EaKLDa0tRrbADIO-WzQPNoWw/h1000-e7/Cosplay-byoru-mihara-chain-60-4kUp-001.webp"
 ---

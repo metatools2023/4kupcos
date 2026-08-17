@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCJ4vUXlaw0lYM4y9u_ZaFFzjXvtIEnptMh0jYJ96iaHGs3ywWbc53Z-viTyo6y0D_0_L0O0zx0c2sCINQdyEVsL0oqYElcvtbfQO7JGIeKI-XeyZFVXTP_riqgeQc2OnYHwI8EmG7wPw1SutkpRacY6DFxrcapoRZ6o1qIwv9xd9Umjt4fpuUtpAwaZM/h1000-e7/Coser-Byoru-Sakura-Summer-99-4kUp-004.webp"
 ---

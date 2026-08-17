@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw6oRFNAk57KqPztWDJoDXx6P_ZaVvgmZV9JiRi6FvZcAsY3iaWUpaZL50jwnGlyKvngGFhEpkU9QMCFPuajO_0q-NuxzdEd4dxnWf40s2D-E4FrnoR8kLwf09aii2eEXAfQbFKrTtkj7_XDDU2Ziw3TkB-eGndpZ9eLMymjE6VZxNUSjcDubFbXT7oXk/h1000-e7/Cosplayer-Shimotsuki-shimo-Haiyon-Hysilens-HSR-22-4kUp-001.webp"
 ---

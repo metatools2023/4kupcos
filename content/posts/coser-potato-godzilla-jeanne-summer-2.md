@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEje4sjzOiHMKXeFlVMR9NYxo4Lz68ahss26TpAsl32pTS-TJHIi2Gm14lagB420gGUEoC0qOlary6qX0RJT5FlvXr4WHATZlDjnj18iafjLQkiRVdc16PuGhIyP3ACEZGq2wLR-dri_kzuGd9kd826ZEhD7IqEYxiJ3I929qiGlDAt_ULaZBEu98VGjbH6B/h1000-e7/Coser-Potato-Godzilla-Jeanne-Summer-24-4kUp-001.webp"
 ---

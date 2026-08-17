@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimXfZaIDQSUVMrngERGzfe6rZoBQWZ6VqmYsrR6qcDEUEgZM6VsIGBqlqiTSRX7Gbwbjgz06MSf6yoINeM_6Eq1dm3tj9FlTLNZwtw7MEkhJAyMt8Eid8XuZi8dnxXnsQhav0gGaPy9M6sCXWeQQwNd27_wcLL3fwsuCQEWXTHSLJN1zmnduZ0hpI7RZDA/h1000-e7/Cosplayer-small-store-chiyo-w-NIKKE-goddess-of-victory-Rebel-51-4kUp-002.webp"
 ---

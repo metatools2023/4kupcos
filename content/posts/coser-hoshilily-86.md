@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 64
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgUYArBXxiRZDUtuxpg135SRwtWj41kZSkM6yNucHEnONJ2FjMmiIXtqlifmCcFDu2BqJSwhVINoqYrIkoXfq58p_2t3rmF3Lc5c2BS3fJhNs0OP9fNpg-ieUr7nsNKXSXSm55YHZuzTmIpfR2ci59vIA98waW-TqOl0ZAe6ngz5QYNIPFua0z5Ye6-aRh/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-Birthday-64-4kUp-002.webp"
 ---

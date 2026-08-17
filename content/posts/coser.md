@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "六味帝皇酱"
+tags:
+  - "六味帝皇酱"
 photos: 53
 image: "https://lh5.ggpht.com/-0sYgDIhaT8Y/YogbKPR0EHI/AAAAAAAANII/1vZUoqw2DR8l5DMEoYP87tMMOYAi3xzIQCNcBGAsYHQ/h1000-e7/Coser-4kUp-001.jpg"
 ---

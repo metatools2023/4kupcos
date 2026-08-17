@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 54
 image: "https://lh5.ggpht.com/-3shpMNtgsrA/Zolrx39fCiI/AAAAAAAAPZY/mqAio5MAZu81Rttwfqh8oU7aOYpxJgTcgCNcBGAsYHQ/h1000-e7/Coser-shimo-Yor-Forger-54-4kUp-001.webp"
 ---

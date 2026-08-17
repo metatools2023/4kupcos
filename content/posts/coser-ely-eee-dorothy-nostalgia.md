@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ely_eee (ElyEE子)"
+tags:
+  - "Ely_eee"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzP7L9oSt8zTspi_bdelmj-oiErDtupSwYmIzRBXgekaL8wNRf4IYoOLw7fsU2n7FD8YANg5GBTYFaNVuTRm3cP5J7Q-ueSjohK5xq9EYyB4vVyBAn7E8X44e4t0OhIOAIDrFo0tZg95JMrTTbcALHT3efKVIIuyOMsir88DeHc2fr7H_7kbL4QJdAw-up/h1000-e7/Coser-Ely-eee-ElyEE-Dorothy-Nostalgia-15-4kUp-001.webp"
 ---

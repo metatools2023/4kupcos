@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏"
+tags:
+  - "双木扶苏"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpC2fnwRTQ5uDgTcSCnGasBl5_Sw6PP2b5gZbNcQu7LzhoCGjEsI8cEOWw2UX14AdfI4KjxcJFhp0Ety0dLQV6-xSaEGkUeVTmco5e6GxRYVUJRfCxRJutPoRpx0Az5tDYL_kAFtE6w4nAl7pK3xOCNW__inSjLEHSYNuS1-F88XA9eotX2kX0aeGGEnZI/h1000-e7/Coser-ver-45-4kUp-001.webp"
 ---

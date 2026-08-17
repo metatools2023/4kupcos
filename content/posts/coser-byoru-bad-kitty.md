@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 27
 image: "https://lh5.ggpht.com/-FjOpgKNHBbU/Y8WL9SpTNaI/AAAAAAAAAxI/1g9-uI3jAvAb29TFxAw-MGjmdRBmIP7gwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Bad-Kitty-4kUp-001.webp"
 ---

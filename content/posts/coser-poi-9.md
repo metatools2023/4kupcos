@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "刺青Poi"
+tags:
+  - "刺青Poi"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtnBcKqF72lRU1CHVOvGsWqkLsaikkadu8F7ifANqhBe6R_huvEOyfOCX4ebB__L1Itr2tBvx2Zyvc50UJBLcz89qt3g_1MvDbpYWBk-uC57Uf-9vBQw1JNaQe8fm4r0KUjGAlrwXu-9ougcOcvJuEnwu28Vcs4arbEq-P8Bk8zoa1F9HDLHsa7wc7fZuw/h1000-e7/Coser-Ci-qing-Poi-24-4kUp-001.webp"
 ---

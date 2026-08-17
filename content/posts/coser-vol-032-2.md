@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 150
 image: "https://lh5.ggpht.com/-aJrj0u9Gc7w/Y7yNnX0C19I/AAAAAAAAJgE/sSHh_0NS5VYC22BqY2AfzlW3yr1U1tH5gCNcBGAsYHQ/h1000-e7/Coser-Vol.032-4kUp-001.webp"
 ---

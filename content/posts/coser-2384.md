@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijjSMprRu7uHG4BJzuEyfmG9vv7PyKZIO5PNjTI1a5H2I8Rv4X2FEgtz8SUhwo21VFtqb_UCoR7DmUCIq2_SlZOe1D4TW3-lf7mB_KRE581wmuO9ZRVbyJ6sNmvLmRmd024_6MUaGV7fbMeNhG-Xt94ycWOyyfNN6Oqw7NhP5lvGK5xiIdupsGQc3EVIeJ/h1000-e7/Cosplayer-Yuno-Shimizu-azur-lane-Hakuho-Kimono-43-4kUp-003.webp"
 ---

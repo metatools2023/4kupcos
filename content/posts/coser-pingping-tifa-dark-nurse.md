@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXxr77JNRTMuBLnLXDwhm6HWD2nm9U5XIaExY4PZuG2ofQHr4-TmpoZtnPuQuP3JPgaaXgY0nwQA2mJpDYdEEsf2ZFMMELBvYi1ghksOqTuWz86FVQ9jZx6PgInnd1asZnB_rxDY9z2wuZogA73BEPyZtR5P6baCHpMaiHd0JRDheX_kbaA7VLGhd0YnNB/h1000-e7/Coser-PingPing-Tifa-Dark-Nurse-23-4kUp-001.webp"
 ---

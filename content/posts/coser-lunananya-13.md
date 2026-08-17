@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "lunananya"
+tags:
+  - "lunananya"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxsh-CjDZ4OE5DYo0XorfYhjrtU4SAjVSB3xLtaMJAcFoAlrW2Nii23GbTHXwv-irllr2Is5CFKUHdml2-pYyLUsadsVT-KCz1Ceb1ly-By0QFSLOGXbKixNR-z5rAktHN3ojh-T5cwWPYitFYEE1dlNHU4w7YMsrqCnCugTc55gYw9poG2XlvmiwPpxWJ/h1000-e7/Cosplayer-lunananya-azur-lane-Lafite-II-55-4kUp-001.webp"
 ---

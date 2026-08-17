@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuYykDE5DTyip5-XMbWCNUD9CsNUTxrZz45A6C-6kZfGw5hS4PYpYkOxY_hv0Lr1HYd1clqQ5aXrPyeqEfjo5xY9wR3lOsUL-Rrg2QeaoIxkbti3sTP6rEmDBk0R1-yidNvmisyiY6cqKCirpDzqe6O36SWoQLCoblrKwMxzrP-M3QDZNxa4YQTTK-L1qN/h1000-e7/Coser-ZinieQ-Neon-Valorant-40-4kUp-004.webp"
 ---

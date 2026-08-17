@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "屿鱼"
+tags:
+  - "屿鱼"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKSNymKY9GTFlcYm6Ntg6bf4CX8qymY9pjN1S4ZcYVwYwzElhfamzvSIT5wG5x02a-bMkYUhVE0l73KQwyVdQL3U8DRmQx25ixPT1N_kkPKir1GwqFUycfj6euOXBJCsJ_v2iZhUATxOhglsRKPo38PjWbrGAjPHonRXopWQuOwxT0Oc1t43BSKlC_uOn/h1000-e7/Cosplayer-Island-fish-Azure-Files-Kiryu-Platycodon-43-4kUp-001.webp"
 ---

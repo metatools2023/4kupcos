@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg27xnWSBsnvgrs9XCYTI4XXH1MOCZ4uc489bjMCYzag6NPU0qrysKfFl2Tbmr3z9TkfJ-GtUGUpnU47rRVU3_rB00XgDC9Zy6BMK8y56da_O2mAfHHhd_8TYFa-88edmaj2YR2FYTSVyIWiyz5neqbjU-6INN7F1P0jRAzhHNsazj1JhUwOSuWK8QEhUg/h1000-e7/Cosplayer-Byoru-Rapi-Redhood-summer-goddess-of-victory-Nikki-Rabbi-Little-Red-Riding-Hood-45-4kUp-002.webp"
 ---

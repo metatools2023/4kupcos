@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 111
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYjWQ3pfvwq-LXAzxmDJR8sW5pDG52zhkjSGfCnSNemoWB7ndmPvbBhbcQBVlB6XsYKHtKDO28OxJdSmq4jPdtKO3_vh1lzjZ2q8bm1obEwyhFmslJlnY3Oqd9HHh3INv1YFguTQE_zCiFM6CIk3ahFgLRZA-VsGEC0y05HtwiJpqGrkyfab-3YYmmOuE/h1000-e7/Coser-Aqua-KuroInu-111-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 121
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTiSTTy_q37b3Jd8wN3_0HDIdM6VkPqs2OmLJR-0gjrXAAh66rQiTnET3gBBsPQb65aUwsURQ5bOp2M2iXOWs2Zv1TGAKDPpPRY2M_YIkdUUNW28vzadct8H8DxQ9zVqIEPyEo3tgacNh_-2IvnKFNEnis4veA6hyoEv-FE2AieMcxT8ey_1WiGTPOJxo_/h1000-e7/Coser-UmekoJ-Ellen-Joe-Zenless-Zone-Zero-129-4kUp-022.webp"
 ---

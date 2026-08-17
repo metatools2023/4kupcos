@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "lunananya"
+tags:
+  - "lunananya"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieeN59DPvsZdmJjf5Sj5RytgIugkjpLJGSItvZwrAdQXCs6CM1Jcb_-V65OJtVRoS3F0NuzT4gLJ_b-ZN1cZFZROWNbQ0_57IDv6gUmAfORVDxz_GacKt9aHnsKwlYtXCvyMsOauVD_vH25o6tQkGivhQawYeH0GrHh3xaacIu-G8QhXRm4SG50hoTqUV0/h1000-e7/Cosplayer-lunananya-Academy-Idol-Master-Koton-Fujita-38-4kUp-001.webp"
 ---

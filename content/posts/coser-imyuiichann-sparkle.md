@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Imyuiichann"
+tags:
+  - "Imyuiichann"
 photos: 11
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj78kuUhEBlEGWmpDfI7QIrDQbUs1c7KozkyRAHkz9lQj4x_JP6u1UE3hE-PxuO0vQzwiuKqssb1nfDNBjmU0u5oHgIxLZpbS8Gisx05jgWLXdjXknpgi7VjyaP9NgW_knqrD3LJWxgkTgq49ANAdjV2YTGjUJqmpi3WuutI9YEy9kAOZ3hPJ1yKWsvdpQ/h1000-e7/Cosplay-Inyuiichman-Sparkle-11-4kUp-001.webp"
 ---

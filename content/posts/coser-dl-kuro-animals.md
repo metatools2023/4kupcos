@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "けん研 (けんけん)"
+tags:
+  - "けん研"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijozX2GCpfrNhHoWYzKO3ZOvDTmD4xZth6EdHfZrv4WP8CXrbnftmv1-iz4ezNbICTbLcK5uqIL9ibahJzP_ZiWFwQSgcPZvewk8axIfIGs6NcGUgSfDVdkd1piRaZ3nk2G9aCipDHaWceC4r3d_jr8TcNeLY7DlnoFiO4qR3klXo2ILTyBZk_yf9Xh0w/h1000-e7/Cosplayer-Kenken-DL-photo-collection-KURO-Animals-48-4kUp-001.webp"
 ---

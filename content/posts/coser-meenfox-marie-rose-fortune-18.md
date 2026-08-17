@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Meenfox"
+tags:
+  - "MeenFox"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrY1OStSb7e9m7C6katl0VPEkwEhvhC4PU8hqZ9Z4yo65PxBA4vFluSn6TLTl0mDBd-qvC5uxHhuHXky_dBOGFTdZ7joibjnwfuj0JvgnVAgoFoKlcxAKVmKQgUgBgYiGHtGEsru02Arp8Jknbby0dCVrmIHJqLu6Ad_jbZPpoPW4OQ7WcePtK-SAlBrA/h1000-e7/Coser-MeenFox-Marie-Rose-Fortune-18-43-4kUp-001.webp"
 ---

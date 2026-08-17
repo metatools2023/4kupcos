@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3T1G3ttqa2j-Rp-pOfoG8C4rFd_d6NxwixPfol3d31a_oWrLh_TTPxd972nnm1XXa4kFlVVjjtYI4vQSu6RHN5sQI00NJE6U8DTejP1GaHT9syq858V1HlHlJqjHK1gaoMgj6fusP4kANRv_qMmAz7ngLT8KKQa07N3zeHTQQoMZJF0IW_oM_Qp_bixyp/h1000-e7/Cosplayer-Shimotsuki-shimo-2025-Year-09-monthly-subscription-houndstooth-underwear-Houndstooth-Underwear-26-4kUp-001.webp"
 ---

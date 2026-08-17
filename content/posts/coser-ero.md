@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "习呆呆"
+tags:
+  - "习呆呆"
 photos: 35
 image: "https://lh5.ggpht.com/-efxZ6Wg3Hm8/ZQtvLSUU2jI/AAAAAAAAUJY/C_nedGfk2XoCdjv7zVAkBtc0AECIIdtkQCNcBGAsYHQ/h1000-e7/Coser-Misa-ero-4kUp-001.webp"
 ---

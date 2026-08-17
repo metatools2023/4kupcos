@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "萌芽儿o0"
+tags:
+  - "萌芽儿o0"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1WWBQJSmQ8zs3ayUo5x_grfOH3j7hgbCvJgWWOJ8I1cm0ZQDxRdwfjrDbY_gfb9KAcvC9BMrEpbdZyLqjAsbtOaHkkmFz902b35eTqfiUl7MfnNJdAwAVLxpwiyOBF5Y92Dr1SFwuEr7keME3yol8roTJBK9ty95UATDtqbFkOed313mj-us2-JIWK5Xo/h1000-e7/Cosplayer-sprout-o0-The-sweet-daughter-of-the-Zuo-family-27-4kUp-002.webp"
 ---

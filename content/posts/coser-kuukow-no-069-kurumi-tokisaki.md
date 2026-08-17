@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 24
 image: "https://lh5.ggpht.com/-E-3yAS6Mq6A/ZO_fbH5MyPI/AAAAAAAAfh0/c7YRRA9hGeUxJfG0T7OkR7lduI8cENAhwCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.069-Kurumi-Tokisaki-4kUp-001.webp"
 ---

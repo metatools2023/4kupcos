@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 73
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLrhc_Td0Aneej6BjQSCvAEfLgpyFvDeGkjiXalsrVJc3ZxiRSFUSa_TlgnJ99P9g3W4e3WxDyDZuydmA0xk2kuuKAzA-3Oo7Ut-IT_i1sKMwLAAlB180AqnI35Ey_N_8UbEhcikWNRGY5aW3yGqWyu9kw8J34RM75Od__xUhL_dqr93W6ADkU9ZbUsA/h1000-e7/Cosplay-Astra-Blonde-Bunny-73-4kUp-001.webp"
 ---

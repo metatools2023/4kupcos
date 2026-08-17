@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "萌芽儿o0"
+tags:
+  - "萌芽儿o0"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkiN6UT7mb51JgXqYWWIRTN56PmE86elEtzQFt9VIuA221obMbm3s5S4VEKpY2QygnRJWtvH5CGSQgvRG_vr-02L3d_CTkoY3PQQHkfoJHpCnGwWx80dsMxz-xUBVoM1aBJuhVvJQ0gAU_YbPFs8A5AADN_X4p-i9gkRSkg9w7KhPRsAgzBxdPxhtTiFU/h1000-e7/Cosplayer-sprout-o0-pumpkin-pajamas-27-4kUp-001.webp"
 ---

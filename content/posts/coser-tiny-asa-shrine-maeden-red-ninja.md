@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtsZgo9ZtoGWzlI7Nniea2XELGNhqCZh9gafAsgcAPITfxwu4jZ6ZqXCRPl4KrooWN48IIneULakWYiKyO_Ws4b-TAy2ZLs1brtkFL9qHtT-IBe6_cZjUilNkcx7IuTe1E5gijJbFK7bYVQkP4B3CJ70x7uep4Bk5vi_dtlLcHRm4kUSpObXF7tbqzO1PL/h1000-e7/Coser-Tiny-Asa-Shrine-Maeden-Red-Ninja-22-4kUp-001.webp"
 ---

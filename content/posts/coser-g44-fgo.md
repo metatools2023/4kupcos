@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "g44不会受伤"
+tags:
+  - "G44不会受伤"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipdzjFxjW2nJlKN58UAsM67FGZyz_l2DuWNkRZ4YX_UeZalhdWEKJrGfTEsKJoX11LplMWZTKstyVbwNV4hznRIUkonosc0grQsYqBxD6QNlfOM5k1AIAHGXnHkCBUXDKGb_k90Ezgio97wzinYI-_7r3OCq0HPrHBp0eQsjzqQV5NwMHj_CtkK4wDRw/h1000-e7/Cosplay-G44-wont-get-hurt-FGO-White-Moonie-22-4kUp-001.webp"
 ---

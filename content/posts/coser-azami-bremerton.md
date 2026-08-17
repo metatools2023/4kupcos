@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTx38-wpsb_QZy1oDOGM9KOrooiM9PHoLmQJZlfc1Grvor4zHX2ad31aRJ7cQoCnI6gtOD6sRLZvBbfPRIC80oT3xm4jFeYC48TdooKp5guKGHjz7iZvVVpttPyD0JaCGIZ_gOqHoNtIy2ZF2D6APGiIMYyqZv4o8zO58hVRDPq5qVd4rzDFRfkB81DW9C/h1000-e7/Coser-Azami-Bremerton-15-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge-P0gQ0-wWDO8YJoRpxW_1TgqEZZA32xDuIyJhpW2N2yeQItAFIm-Bmr_vCJn6KB26kx4B_1o2W-o9AWqsqFsjReEUYqnRTIuhZbG6Y2Wg-6vh-rSWj1acVxlCCgVRZOhTwv3mloWyXX25Lf1A3usbvHtiCv_Q0a9NZcpj5LDrQ6R-ltK0iT8lCFKXiWe/h1000-e7/Cosplayer-Mochi-is-delicious-wine-red-tribute-23-4kUp-002.webp"
 ---

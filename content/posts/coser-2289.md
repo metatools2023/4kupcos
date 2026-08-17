@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgMxvEkesC4ALTwZNxPeHeNUpULgtIIPizRKRKaH8ryQSMNag94G3g4RTkCmoaRmZIELLOvfMhGLVNJBjBRkNSnhv_PqLbkhmqoEMCMsWAX_UGAwIk-izlytWCqPE9ZxlFMhOXpq8M3ATXSBHB3Jhq8-BGAtVRwIyuSAtfdP-sYaEZn9rn5TzrYXpODxA3/h1000-e7/Cosplayer-Half-half-son-Atago-37-4kUp-001.webp"
 ---

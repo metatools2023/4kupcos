@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "前野太太"
+tags:
+  - "前野太太"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBJpM2sVNLqcz4M1yUggasykvQpQ2l2gB7RmtW_BQu7yNsxRfSCffwjB5MgztCaGS6V8Tm2HDw3Zy8IBVn_jClqka18K771A-WZ3k3HX4xnHHDGJZTLjgRO3JjkzOPGk49wgjQUfJhe5dYIJucKmEcNw3GAzVbXEKKwb0zTKonLIEZNFzocBhSjulBhA2p/h1000-e7/Cosplayer-Futa-Maeno-Maiden-Ice-Rose-pure-white-scene-30-4kUp-002.webp"
 ---

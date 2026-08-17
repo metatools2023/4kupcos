@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ Canari (Pokémon Legends Z-A)"
+tags:
+  - "UmekoJ"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1bk8S0gIYOb6g-m7exGBDQYnClbAfzbFFhVVdkaWQQUHfSSaPQJBS740ewaKBrYeDdeGf6xYtF7YArW7vAfN9GuXkylYhkRxbJV-hI-VZMaMDVdav8YicORQ03pYNc_WrColvOoR_Tbx5N9_ZHDwDwHUUtzhs9V8N4iO-5SQnWG2qkVa_AopzTSDlo-2O/h1000-e7/Cosplayer-UmekoJ-Canari-Pok-and-mon-Legends-Z-A-52-4kUp-004.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一色雨"
+tags:
+  - "一色雨"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid1U22TY0hc-V4vIXBlAYalXu0rBW_akCcn42smvx3Bj0ngcB_DVgcN_B6YK1siZH_2Agv_fdr-2Ur2_4f1C8XkqH2ECKL7Ta4Nvwp0WQH7-GdsFswl_5Kcyhyphenhyphen0JuvDwXs7eK1JKBGTr11VJtz-smWoaOUZ04sfqQTliS8LMYb2VCBl0J56IV5ul-VSuy3/h1000-e7/Cosplayer-One-color-rain-dead-water-material-22-4kUp-001.webp"
 ---

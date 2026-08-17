@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 47
 image: "https://lh5.ggpht.com/-RF1LAmJii9U/ZQTWUtPtvfI/AAAAAAAAOi4/0sK_p4aganUkk0hs2kmfjJ-d2pJoDfvuACNcBGAsYHQ/h1000-e7/Coser-Byoru-Barbie-4kUp-001.webp"
 ---

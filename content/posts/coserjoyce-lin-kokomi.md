@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce"
+tags:
+  - "Joyce"
 photos: 49
 image: "https://lh5.ggpht.com/-iXTpsRApHy4/ZRn2T5RTVxI/AAAAAAAAAEU/f1n_1cKqQccd0dPs3bawAgD620XjQS4hgCNcBGAsYHQ/h1000-e7/Coser-Joyce-Lin-Kokomi-4kUp-001.webp"
 ---

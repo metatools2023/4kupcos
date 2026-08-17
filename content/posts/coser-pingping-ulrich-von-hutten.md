@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggbVW9BC8VWhP-3yimJIT7o_4sGDhfS976QYL8lCyK9cb8bDxgiLcb5govp8nrt7yqjLuzulMrAVm1sdYaZFL4JeHUTjVF8vGT3c6AEn9PVrJQK_0YjOzY0_YNMcGOq1w-SlOLrmpTUU8cdiTsiSV-e-PJITGnY18_kGyn6tmXTwdwudXj0SI9ocev84zf/h1000-e7/Coser-PingPing-Ulrich-von-Hutten-45-4kUp-001.webp"
 ---

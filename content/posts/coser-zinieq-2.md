@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrJRtB47lSIo1_BFH1TKe8_m_2PZURMV26kHnnX_6xX2lWIIto6ZcCUth_4wK2g5GKKS7TxxdJW39KBOlsFebO4vPWjyGGEzhXQQrvGPL4RM61bzoEJGWVJ6IrCSDsoO75mCu0y7BUYAFRbhWLWs14bCTFo93eL48tkiLS_FaAG6l1VV_xfqiolf-lEYY/h1000-e7/Cosplay-ZinieQ-Pokemon-Mimosa-41-4kUp-001.webp"
 ---

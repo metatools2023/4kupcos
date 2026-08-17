@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRvLzQYHpQmw-LNtiXLzSlbX3EB3amuP0OjRKnSwGxnkUBzZNDw_C5bbYgriqlsVkfQ2CTnfvsh3m5jhL-Y2e_9dGONr9aWAgIzNYnX-NGCVp702XiK1T68h1vB6T3BP1LzoHRTXC1tgnvcsgu7lG_OGqwT26llkMdOHfklGYmbpcS8R6Bb1yGPNnagNki/h1000-e7/Coser-PingPing-Bonus-XMAS-Set-22-4kUp-001.webp"
 ---

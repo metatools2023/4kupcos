@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "LancerAlter"
+tags:
+  - "LancerAlter"
 photos: 62
 image: "https://lh5.ggpht.com/-WCWtZaq7vcA/Y_5zi8ysrWI/AAAAAAAAMX0/4AxanMgN-V8DoSXTloRraTt9aX57lQVOACNcBGAsYHQ/h1000-e7/Coser-LancerAlter-Maid-4kUp-001.webp"
 ---

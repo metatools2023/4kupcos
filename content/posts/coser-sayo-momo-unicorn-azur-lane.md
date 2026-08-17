@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 36
 image: "https://lh5.ggpht.com/-eSy2bhDAE0k/ZoxruLhbRWI/AAAAAAAAQ3I/MtrECOA7gtgRtkzgWicrgZ7sqK5eByKbACNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Unicorn-Azur-Lane-36-4kUp-001.webp"
 ---

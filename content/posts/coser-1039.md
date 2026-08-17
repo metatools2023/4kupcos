@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 75
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNT0Vh9an_lLJGfUkicb3YDPvOPZ6TWX6YsIdSTUixbu4lRKUNdoqjleaH9mnN2pwMdu1uGUKAP4Wvj4riEL7IRiWbpgPYbpAFNyoxxJWDCk89dwuF0sSb39xPJo2iRqjwck_GgCHk0eA7x-Q6kIIWpaa5f0znas4t3_5oR2gC2Am2W-WwtAhLvY8Gcg/h1000-e7/Cosplay-Kamikazuka-Matsuhiro-White-Silk-Bear-77-4kUp-005.webp"
 ---

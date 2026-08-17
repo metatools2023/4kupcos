@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "cocopie0218"
+tags:
+  - "cocopie0218"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBI6OStk0irvGHzrmFDQfVMvY9x1Zph_8jk5rXxIhyphenhyphenowkqWF81O7vIKnsjL8d_BAEdIMarh-dwNWxlYHEArVp2ZI1ExdHqc1nygpap3WEKJUMEEvyIV9kA4eI5uhfOsN9h28pkNJONo6fDV9jgSBOPC5ocIgSs7Zv2XBohy0sJirrHzD138y30E3Czjekj/h1000-e7/Coser-cocopie0218-Short-hair-cos-photo-19-4kUp-001.webp"
 ---

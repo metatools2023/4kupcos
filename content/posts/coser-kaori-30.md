@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinXCoPzXUBuUpvrK3ga85uqDjkg9doc2E9zCu0x6oufD-mCVRSX2g9HEFgf046CZDqEuL6swa7Nq-D5pWXcUDFCDNCwTherI69VjJ3eiorK3G4ocGT0jgRfThsdoe0DRhh22Kmgjuz50K8TQfhhsNswTc2jZKFdu_hfc_sezsA_DDT0ciy7vWiBYhNt_Y/h1000-e7/Cosplayer-Axun-kaOri-Foot-bath-lady-26-4kUp-001.webp"
 ---

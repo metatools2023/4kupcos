@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 51
 image: "https://lh5.ggpht.com/-c0QkHeUp4QM/YqYfkVlI-jI/AAAAAAAAGu8/E2j8FhXf2XcpuxaNumwCpS21zTqQPAEKACNcBGAsYHQ/h1000-e7/Coser-Byoru-Maid-Mask-4kUp-001.jpg"
 ---

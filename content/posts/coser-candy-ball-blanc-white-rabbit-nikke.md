@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 67
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcKt7Xc1egwZ_9EFvY3xfoQVac4e9co1qTEeo_tvxv4MP2xsxtBduVGOr_J9JMWGzcZeIyG0TbHkk6fq4ryPBboT5da2sLqHLZLXkHIfFAKyks2DUyayZNDEqb1QoHvpelK0N7S_HT3JLMriXgfAE6lihT9w7ZPFH77U107MMQ9XQaqpvA_ESnP5lUickk/h1000-e7/Coser-Candy-Ball-Blanc-White-Rabbit-NIKKE-67-4kUp-002.webp"
 ---

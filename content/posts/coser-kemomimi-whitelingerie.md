@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "くろてぃあ (くろ)"
+tags:
+  - "くろてぃあ"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJUHhNbl-mpPski_Zy7BUJBE2_XXc8BI1VEwiwKhxppE6Zu3Sr06KacizXFzBXV6-ZqSiIG4GZEYKBgRW9q69ZoSDdjq0uFTP80Vwy4V_Lo_tQNISokgfrpaeQPHH15bLmeWsxm_xy7d_sTHoX_uulSz6NLVexk4pd_iO17expYzp_NSl0rdRR-rifHKY3/h1000-e7/Coser-a-a-a-a-a-a-a-a-KEMOMIMI-WHITEa-Lingerie-46-4kUp-01.webp"
 ---

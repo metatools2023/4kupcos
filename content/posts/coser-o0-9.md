@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "萌芽儿o0"
+tags:
+  - "萌芽儿o0"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6CdlU6G5jhg14en3XCSztxr8qbYGe0GvmBo_XDs6vn9llyJjcSo15XGKyd_tSuRK-u3JbNr7Z4nvtXoK_gwenMqeufxTA5a7wVpJ2uP5JN2GQ1nEvW8IIEwfG_IxS4wfQfkxeXNiec9jxyvTVfK7joD6pwtbZno9k05azr2v9XMtV560AKtR-oocWB1BK/h1000-e7/Cosplayer-sprout-o0-cinnabar-nevus-26-4kUp-001.webp"
 ---

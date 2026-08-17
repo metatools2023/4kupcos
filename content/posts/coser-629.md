@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZCvXgMTc6OM02FFWsY_FuTcUOIqk8gMwj19EU0IEGUcEsodWu1CN0NUvPcRYt4vbX1rn4LRcZJdrfnadsGi9DVJSFFYgQZNMKIoepsB7Xy6YnhwYHA06__as18go4UZBlfzQD3KJsWVRGu6goEVpo3ebD5tzMm_La628Ij0ymiTcNzCkEJLqpw_2hug/h1000-e7/Cosplay-Tao-Meow-Evening-Star-18-4kUp-001.webp"
 ---

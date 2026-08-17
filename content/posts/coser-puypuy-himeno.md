@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnNoDGoCRim_8q4lU0tG1Tc30efMEfPfeA5P0Wjy7e4l8ZfOXqEWuSbIvomljEUg5HivCUi9lGyjqB13-CFewoPP3E0wcn6qxOXNWObzqf1AcLo2hyAAOp5gBfS3YIljR_L2bCDJSb2dhxftliv3YZSHVjK9F2oyt0BAoXQt68n04vaBXsCqhCu-bMGPU/h1000-e7/Cosplayer-PuyPuy-Himeno-55-4kUp-009.webp"
 ---

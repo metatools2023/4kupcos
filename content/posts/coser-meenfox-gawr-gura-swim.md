@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Meenfox"
+tags:
+  - "MeenFox"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyFFkSoa7YBFO3rUDaTxtLAi_itJkcIBsMb__P19OmJ1tWN5NzLOlmkgqp7-c22W3S39fxlcSkSwkAY7B9srbC75DiMn5BVqfVmLHv-J2FRiKMDXumF9wE-Pc511KvfeKjTMf9FuALDDB79jr7AV2IWKbcca8wXTnvAetuF6uqLW-CIwZ14KtsFpWVZhY/h1000-e7/Coser-MeenFox-Gawr-Gura-Swim-40-4kUp-001.webp"
 ---

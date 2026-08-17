@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheEPDf2_T1OwRjGGwb3wloRbzSfE9bPURW3rvfB1SCaU6J4sUssrbthsWRqJsW1GiUvlrEWh3kPefECzCQkmCL7bbqe1U63T2z0XVHe7KaRZm7Q3QgI6fo-5TotXZXPbkj9dyohqo9tMXOyNckWZpspyDMFx9jPo4jmoLdrZdWPrj7S-FnwLigA6Phfw/h1000-e7/Cosplay-Shimizu-Yuno-Blue-Summer-29-4kUp-001.webp"
 ---

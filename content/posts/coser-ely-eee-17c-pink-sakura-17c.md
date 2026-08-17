@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ely_eee (ElyEE子)"
+tags:
+  - "Ely_eee"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvj55OzmhyphenhyphenS7LckL8G6hU_yE9-wqGdvmTZN4OEMaNb-2_ZwS5UH_gpAuSwiBVYdQcq3Xb2zFtIzSAOLwRctyCaUL-gpbJnwFsj0HEOoGL0hwd2O-AhJTpnrMqkbN1il05VGIwf0wBwfbLfKctGPaTw25LbZtDOgBO9aW7RxWLR1m-3BakJz5XYO4nGk9-l/h1000-e7/Coser-Ely-eee-ElyEE-17C-Pink-Sakura17C-4kUp-002.webp"
 ---

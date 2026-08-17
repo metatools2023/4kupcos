@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "钛合金TiTi"
+tags:
+  - "钛合金TiTi"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifSPTwo_rYcjqtg9DRE3oH1QKrM0XaSY1KjpTVy2eRxeJhIY9Td68KS60o-cfod-xKzv6WPDGoSO3RsMsxie8LlskPcQu8wGCIGSbbDynMDofM4FV9euhCtjWHs-HumSSMDmMIFrDy5VYyNektmsDgKEawoHcgSl4Zh7OyHstyRbd6ygdwKKAgaQrEBlCq/h1000-e7/Cosplayer-Titanium-alloy-TiTi-bunny-girl-DVA-15-4kUp-001.webp"
 ---

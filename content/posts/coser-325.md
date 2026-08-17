@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "黏黏团子兔『兔兔班车』"
+tags:
+  - "黏黏团子兔『兔兔班车』万圣小恶魔"
 photos: 41
 image: "https://lh5.ggpht.com/-EVuHXe4ss_0/ZWpZU2bzAfI/AAAAAAABJ_g/vmqRfmRnqxw8AMJuWO5y9OyxHLAFi76PACNcBGAsYHQ/h1000-e7/Coser-4kUp-001.webp"
 ---

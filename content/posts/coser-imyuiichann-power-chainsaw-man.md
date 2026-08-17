@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Imyuiichann"
+tags:
+  - "Imyuiichann"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmTTITXN06xcAvihJgsDpqWCId5gisXiBdPzzwsPZTq9tfkNk4zt7KTfC8-RMSKURpBpd7rHUzm2ay7qwh3mDKHfI99Lu2oipDHX9LRRGZZuckQ9hpN1cPfoIHiFdugXTO4iZBetRKml8EBBNmelqAgoimY0zxm72KrxnFMfUctkX77bpSHD1r-zF2CJ8/h1000-e7/Coser-Imyuiichann-Power-Chainsaw-Man-19-4kUp-002.webp"
 ---

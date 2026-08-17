@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 62
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8n68hYbBSTUk2HHn1q285fF3w9xDUFgY4mFfuLWDh1T54pENjvvg9Sl_ZXlPjmgRYtNcUhYvAj3lQ1jtWttnx-9zgeR9Fup-Mc0idZJh_bXTm0It-UHKUnhp68aaDMt9tEp5pcVE23ZTJ7e3rin3BhczsF8TI3ZIk28H7B2nRc72qFPSWWf154q2giV0/h1000-e7/Coser-Byoru-Ubel-Sousou-no-Frieren-62-4kUp-002.webp"
 ---

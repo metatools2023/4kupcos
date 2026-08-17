@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane Ame Nun"
+tags:
+  - "Hane"
 photos: 123
 image: "https://lh5.ggpht.com/-jNdpXSJG7CM/ZCdVWMyukcI/AAAAAAAAVpc/GSeFUeBSsLsF4JfMBHbomdJLBtibov73ACNcBGAsYHQ/h1000-e7/Coser-Hane-Ame-Nun-2B-4kUp-001.webp"
 ---

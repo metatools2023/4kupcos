@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 153
 image: "https://lh5.ggpht.com/-rm4HvNHefAs/ZobIqvFlt2I/AAAAAAAAMhk/2TAlCLI_j_QAHC-08IjvhI8ztrK4tIuCgCNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Rei-Ayanami-161-4kUp-001.webp"
 ---

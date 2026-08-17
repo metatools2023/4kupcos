@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 64
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy5svGUuJxUwIfVQdU4loP3uQVMy71Fy04Uxv-p55GVU84P6SzvSgTAk5cn-y0BfcU9UftmzyC2_tWMmeTK2DBsGZ5MuoO4TAqfMMbQaRoW_-biJ40T3d8Z-wjp9Sr4CSZ9EVIGihWX70uEmZsPzMOaIWPTqoqO03blBhdnrgKExiKUeDaHFNMY8UGacMT/h1000-e7/Cosplay-Shimizu-Yuno-Murasaki-65-4kUp-002.webp"
 ---

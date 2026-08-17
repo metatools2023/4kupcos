@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 30
 image: "https://lh5.ggpht.com/-tZ8KRk2UGlE/YzytrGKBWBI/AAAAAAAADI4/3LUUFLD4NuoSE3xS6A8WKJGe_qaxXNfpwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Nico-Robin-4kUp-001.jpg"
 ---

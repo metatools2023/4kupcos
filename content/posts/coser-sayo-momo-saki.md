@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo"
+tags:
+  - "Sayo"
 photos: 11
 image: "https://lh5.ggpht.com/-gbnMz6u6c2o/ZgRHJtYXU1I/AAAAAAABDZ8/KWZyFbcPZyEuTUEob-syIB6FTVjOG6QoQCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Saki-4kUp-001.webp"
 ---

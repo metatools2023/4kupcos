@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "十悲伤小木十"
+tags:
+  - "十悲伤小木十"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcnLV1YM4YudTRFyh9AWPxRNnSwb65u-IPKFwRBG6EeExcOlAnPWIu46T6aQPiaViyPRAaFVVmFerfOP3gDn-1BYA4lnEryH3h1ZVXJuLRcCJIDQ8-jUFSHbV7KNW1fOJCtfjR_LZgsYdXis7CFTyJkcrd54xj6_SiqPKd0HkHSzlxs4Xm5XF8Bhv3pNk/h1000-e7/Cosplayer-ten-sad-little-wood-azur-lane-Chapayev-30-4kUp-002.webp"
 ---

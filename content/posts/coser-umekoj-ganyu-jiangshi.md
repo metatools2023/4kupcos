@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 78
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGkFUFvi27haWOrWVFbrto1JrVmLTJamFyaBJJsHYvgbwC2ViIVcmbb3Cr5c3xYN4HLLrWTM3lTXEIz2vzVhebuLIACeWGYnsskE3PVHywSzjqBRCc3hp_HVOd6cNk4McyBkqQ0eY3-Dq5S6YRyY5y795Wb1IuIHKMmv5O7xXyLG5nIxQ0mlHnBqsZ1VhL/h1000-e7/Coser-UmekoJ-Ganyu-Jiangshi-89-4kUp-001.webp"
 ---

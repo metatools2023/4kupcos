@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 150
 image: "https://lh5.ggpht.com/-QegDmRij-bY/Zm4MM9yIUQI/AAAAAAAA7JE/fzXpJloAvZ4fZ6VtesfkE_lVzp01Z7SqwCNcBGAsYHQ/h1000-e7/Coser-Kagurazaka-mafuyu-Vol.074-152-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Xenon"
+tags:
+  - "Xenon"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQAmSeVqWqItQ7-frIla9omN7cmL0gsVo-5WCTC_ni701wuKvg7ldaJRQzE21EWxO_ypcJSAIaaYshpB4IPcl-4aq3wJpR10Lu3M2ipER9UUKOquzW1QhO0V_rnqi1pn8M-iygJsoznSmnY3-CQTJVSnYGQWf5M9qI3Iselj45_6zyUQluDyVo4przdrw/h1000-e7/Cosplay-Xenon-Miyabi-30-4kUp-001.webp"
 ---

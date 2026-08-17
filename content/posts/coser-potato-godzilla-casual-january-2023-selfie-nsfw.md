@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQqdIbVgrlTBsgl3uiWTKUlUr8dngbKYTdCMvIdn-jr4ErDDrRQZHf8OLqF4qVqdNAkX9ABzkP_2cFqhDBZMCyusAE1rhwchI3cBmH-akFFA-uIiZQnd7QY0FCKDDTEhCCHeAnmkgH_yml9erWwOYamVLrMdTEmTlrxMGlEm3jCME6QkQiu7A5JLwMMg8/h1000-e7/Coser-Potato-Godzilla-Casual-January-2023-Selfie-NSFW-26-4kUp-001.webp"
 ---

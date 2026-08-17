@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoFp8Gd9jrO7BAbyBxBMeshB2OYpv6K2DrkHmmcILDdHovMGtx33DJY1JN8JSGpznQaAq5RT660MbD0RUoGzUbFBGBCczjED6E19S17U-vElf2UHLG08QktXHlBJ8eX_PLPyJv_RoagXpWqba5B89caqg8eRtOPV51kzpbIiaDPCXPG7e9tAHpodAEgn0/h1000-e7/Coser-Byoru-Mai-OG-black-Outfit-55-4kUp-009.webp"
 ---

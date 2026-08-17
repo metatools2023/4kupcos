@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "蜜汁猫裘"
+tags:
+  - "蜜汁猫裘"
 photos: 35
 image: "https://lh5.ggpht.com/-dhPH9CtDqmw/YpP9pnSWqTI/AAAAAAAAGA8/f_LuQDNkBmYkQjf8bTgJO0__0cwdwV7vwCNcBGAsYHQ/h1000-e7/Coser-Mi-zhi-mao-qiu-082-4kUp-001.jpg"
 ---

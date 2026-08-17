@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 80
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGkYzy7CWGJue-9hwGW8g04ad-1zriV-4HXQ0MfHAzmLWJJ44dnUMCJICRXrZPUG-j9pArtwD3Zr2i8PG0gP0HHd9-9TaDlkuDz1-5R8Ht-sI5ZXfZ-WhBNa6VDs9_PqBFwfqXmIEVZJnZgLoOTOm-BeQshMpAoPjwCUrBBSQyaXHYtEGd3DXu9-vCag/h1000-e7/Cosplay-Shimotsuki-Holy-Church-Confession-Night-80-4kUp-005.webp"
 ---

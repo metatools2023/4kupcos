@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿半今天很开心"
+tags:
+  - "阿半今天很开心"
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_OkyRZGcPa4M21GJtSyfKURCGCULdgNejEFAvFWUPH-kEVjlyGZNu_BM-5-M4logRmbrXhYbwQgKTpNo5vwXg6920HEuSfg0ozKv8HMRYjfYG9JwQPiJh1Odi26CyJPz6dJ-3bKYSJw5iSr52wskQ9C3MHq-DNGWz0uklLhZ7_zknVaNbadph5SPpkCd/h1000-e7/Cosplayer-Ah-Ban-is-very-happy-today-FGO-Black-gun-stupid-maid-54-4kUp-002.webp"
 ---

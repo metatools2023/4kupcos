@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 20
 image: "https://lh5.ggpht.com/-RRxSdzG8x3Y/ZY9lgWtY9ZI/AAAAAAABvKg/2rOZeFjexhMQViEPda_btu52O8oD69UXwCNcBGAsYHQ/h1000-e7/Coser-w-Unzen-Bikini-4kUp-001.webp"
 ---

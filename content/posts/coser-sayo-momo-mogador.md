@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxfIVhBfIaJ0XwNTeDcUMuXirmyEq50-4Ea07HPvOL17Oqew3kaUvnGMkXwi1VnyjPHX8nPYr1eY9hTO4t9f2xvNtdNg2SjtKZR_ET16KaTNac40nwbB6GXORZ9P68ZTu91Eivjaq6m-tvENHh-Vcjn5dFn6jEeM-xXu5YTHoqdMJYCxEVDf8X8BqkAF0/h1000-e7/Cosplay-Sayo-Momo-Mogador-15-4kUp-001.webp"
 ---

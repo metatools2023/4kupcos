@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "前羽_rr"
+tags:
+  - "前羽_rr"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhHhyvwykFNpGAvTCU9ZkdIAsDU6sLzk2pamMNt1LWSIPNgmdT2vx9gij-_rub1ZuqiURglTv8I42WbM-B2CkGtT01FxQH17aojGcyvvRFvcEp3ppwAtLtgdklDjfK8ZAL66GrhmXhmNzizn-u8iv1JAmS_X9zQnmPdKkM-yj_pE1QnsUpRTxiq3xixFeZ/h1000-e7/Coser-rr-30-4kUp-001.webp"
 ---

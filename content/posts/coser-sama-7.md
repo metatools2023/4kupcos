@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪琪sama"
+tags:
+  - "雪琪SAMA"
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHJBsmOVIx0vSnbG02yF1q3Q91-tGifHphISjllMHCWSRk-XzPfOvZ6amvkhv0RuJ7V825z-lBtVrTLMbdLa9ZsMeQOLNhOw3udAZImgjfz1eGkNVU71KKnx-qGcJhDupLLuN64PhCsLAsvuNImDog4meGJxTXRoCORmBStE5HXOyHtYuBZXGqKmNrCw/h1000-e7/Cosplay-SAMA-Card-Bunny-Girl-49-4kUp-001.webp"
 ---

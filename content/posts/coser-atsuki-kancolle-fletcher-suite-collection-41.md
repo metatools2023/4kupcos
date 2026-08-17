@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Atsuki (あつき)"
+tags:
+  - "Atsuki"
 photos: 200
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAyK8xHShx_ubkFGAVmQHaQ-EFB3DbMS_tZuks507anNsQzMfaLXu3KeDEXgA3p_9kyH4OEgDssoVRnJ7fosevS9wRWira3PlvGJoeY3Vs54hOinoBGc1nvMGyiVcqOhisBM0suzGJRdGWJwG_BEGXEPtJbpHrQFmoiT1PMON5PIBbOwmCsmNRR65rwDNH/h1000-e7/Coser-Atsuki-KanColle-Fletcher-Suite-Collection.41-201-4kUp-031.webp"
 ---

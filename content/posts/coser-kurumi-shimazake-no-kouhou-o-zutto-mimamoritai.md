@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Kurumi (クルミ)"
+tags:
+  - "Kurumi"
 photos: 68
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu33ByAiYM9a3pqBa7lhpytqVokpzQW54cRzUa8Ju93QocYsewJR3I_tqkMT-EUHQOfT7LtNs2pHporzWGhDp760w2tSICUnc1KeJ8vzV9MWZGXHvlznjDVTyQ_TNkKOgUtGNvWhyihdPYkSeVAK1aGSTc5e7ZbE9p18UejAPJEakvZeUiJO_3s-gH1g/h1000-e7/Cosplay-Kurumi-I-want-to-keep-an-eye-on-Shimakazes-rear-Shimazake-no-kouhou-o-zutto-mimamoritai-199-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "焖焖碳"
+tags:
+  - "焖焖碳"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPJ_RoPgOlbY-soOPPqotElsQGbCKLwZ33fKP5kpUnFEDpqK5Fwoy-wvit1jSBEfm-2hBWEhv5cYj3gOWKGdR22SwJQShJYnfV4X4JxGdYwDglFKAsmt1SaTq0-1AJ6eVdVUEQGHfG6S5lhdW3idJzrvtw7lhIv6argxKJc4WKZ9a75Sucp6Ppe84HHfk/h1000-e7/Cosplayer-Braised-carbon-Dead-reservoir-water-20-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi Ji Yun"
+tags:
+  - "Choi"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipwSzZgst8Vqc5eJ-_cBYO9GJYnW1zVJcIG5B0mvjlsFoWMlaMjuUFhKpG8y93ZSFg4MIxCv9JSmrh9Zo8LYiBobB4a3FImKag6iOQCtFXXeTx9VtXSDxwyJMSBVvC-PCYaOe-5vSk_piVdvt3cE54PBNOVWB9icGKbqMrxp1Nij3kC9D7aqOsZ19SguCv/h1000-e7/Cosplayer-Choi-Ji-Yun-Power-Chainsaw-Man-23-4kUp-001.webp"
 ---

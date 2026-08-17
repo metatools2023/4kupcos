@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KANEKO_咔喵"
+tags:
+  - "KANEKO_咔喵"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLo6RX1n-4nqpKP-BPlNKeSSduIRMDwvpHzPJJb2udMVKQdw0oDmVCuJHbSTa5xkQBBUOt-uo_88mz1dgDLCcRH9QNadE4kJ70Pzars6FFD98HnlN9dIxYRzLSidZiShaXKki_k35vJZb5p9LDl0ZwKxuurQlHimxAvSde9KhUndQMT37MB_n2cLwThpp1/h1000-e7/Cosplay-KANEKO-Ka-Meow-Bikini-White-Nurse-45-4kUp-001.webp"
 ---

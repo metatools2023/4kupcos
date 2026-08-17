@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hijiri Kuronomori (黒ノ森聖)"
+tags:
+  - "Hijiri"
 photos: 100
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFRaL0UnQyXcsCu7qJskTrwHlH3aA-dp_kN-mvNOivcHIyndJSalR0YKuK4Z5yNIRNX5hfTcGch-J9IFHnI_ZKVbypt_4KQo79Ml2nzHl2apeG0RucRkr67npWq46vVbDtcMMmk_K7dkhkDQcy9HZ3u3xM7bsuJhx3LvwNNpE3EbE86J9dgn5ysJJ87w/h1000-e7/Cosplay-Hijiri-Kuronomori-Sei-Goddess-of-Love-Showdown-Kama-Karen-100-4kUp-001.webp"
 ---

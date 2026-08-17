@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPBJ1ED4-BTJaa4d0nkmtbJ0aIgg1aPvThtTaeeEtRJaawLcwaY6719d5PnUEA8TX9WwfpW2DHqGt_jJhoV-FUUkuTH9x67GFaUyNRVwn6Cp2TmsEdWDzV8-E-pV1PoRoKox1UHI8lFtX-QgjDHlt954D6zVBbRyv_8MmqPsgjzWDs9YvKa9Uk07n8KW8u/h1000-e7/Cosplayer-small-store-chiyo-w-Patreon-subscription-Momoko-Uzuki-29-4kUp-001.webp"
 ---

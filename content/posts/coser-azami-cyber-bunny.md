@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRX5HHqWTwq8xUNfsHCWqPtL9We3LcrL2ediDCuvZM-ADrqQpSS0sUeH11Ri1_tc7VsJonEjHUnq1wJncsPSEwunP7RmHzXS5DmrCrRwBF74GAscFHtPIr2wHjnzG5rupxilpnvE0UPdDvEBsJQmWv-9g7rRy9eRjSB0tGO2ptSDJNFVzsti-WaKizO_bK/h1000-e7/Coser-Azami-Cyber-Bunny-20-4kUp-001.webp"
 ---

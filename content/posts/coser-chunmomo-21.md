@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "蠢沫沫 (chunmomo)"
+tags:
+  - "蠢沫沫"
 photos: 66
 image: "https://lh5.ggpht.com/-JH3zIq0VJr0/ZgmCzvsgOrI/AAAAAAABGqw/uv2J8sSidz8N0QejMCk-YDtXQpB4ep2DgCNcBGAsYHQ/h1000-e7/Coser-chunmomo-chunmomo-4kUp-001.webp"
 ---

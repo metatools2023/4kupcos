@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "MissWarmJ"
+tags:
+  - "MissWarmJ"
 photos: 39
 image: "https://lh5.ggpht.com/-zbE1vdSY348/YngCr3f9pBI/AAAAAAAALZ0/pgoejBiPPAgpqAYkvQPFOfWz6Qx03xaPACNcBGAsYHQ/h1000-e7/Coser-MissWarmJ-Mash-Yoga-4kUp-001.jpg"
 ---

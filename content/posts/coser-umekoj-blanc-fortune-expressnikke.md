@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUoHzOzqvKxTTNCJstOaaa4JmIz3EJazY7sIqZOGenEJcyhqsl2gd0I5bwsRxTv02Bw1bGaNJK7TfrIJFVwaJK3ioIoeA507WInL0-z3IhTgCbv0DnLeZs5oW9D7xpJZnTExPopO-LeekVkzQ0f_f5AFx1rpt_Y4tR09e4kS7-LecbBTj9VqP5JsBObTcy/h1000-e7/Cosplayer-UmekoJ-Blanc-Fortune-Express-NIKKE-38-4kUp-002.webp"
 ---

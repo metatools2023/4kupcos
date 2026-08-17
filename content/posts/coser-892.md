@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星黛鹿鹿"
+tags:
+  - "星黛鹿鹿"
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-n1PkJ7M-kjizb8s9NehysO16nKnaY_NiQE3ECuZJPWdDLqdSIWraBB7He_3C8gb7zHgksBT7yJInGLdqveAfwA9Yy4uYiLGqT6Y69LzrOnOtGjDjFiVLKONf8_sDGOxFIn22YLjiDrIdPgNR45Slcqow1zYLqspf3igL6XmIIvk7pGV8xR5t6Kb7SA/h1000-e7/Cosplay-Star-Deer-Daily-Yukata-Indoor-49-4kUp-001.webp"
 ---

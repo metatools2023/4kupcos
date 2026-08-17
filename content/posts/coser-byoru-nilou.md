@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 16
 image: "https://lh5.ggpht.com/-ZIYxq_Mv9Zk/ZFqq453C8pI/AAAAAAAAABM/xT9HxrxDwcwIXmGyFyWFoTQRmVYyHta5QCNcBGAsYHQ/h1000-e7/Coser-Byoru-Nilou-4kUp-001.webp"
 ---

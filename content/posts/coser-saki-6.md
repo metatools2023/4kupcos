@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白金Saki"
+tags:
+  - "白金Saki"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivXuV7CERGIwox3ugpoVQ6hR0zvQq7HYo2_TxU5GKiIHTw5pbCrqI7ceWjjZDZHjBAWNv6mM6rTGTwmPjCnqnDumDWpflOJYm6Dpeb_VCZppk9CeRuSpklOlgKj4wy6KvY-hnavJ9tuQqMqMJuaMUrlkpf0LIcDYCMK1OBDyc3WHTE3odSRP1NSk7vpwMG/h1000-e7/Coser-Bai-jin-Saki-20-4kUp-001.webp"
 ---

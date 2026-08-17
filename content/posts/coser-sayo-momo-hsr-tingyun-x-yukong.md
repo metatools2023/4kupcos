@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 74
 image: "https://lh5.ggpht.com/-jJMi4dK0hPA/ZXjV9SVneiI/AAAAAAABYnI/am2SOmOZ9FMbTmW8v_El9mUgIU8lRTtkgCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-HSR-Tingyun-x-Yukong-4kUp-001.webp"
 ---

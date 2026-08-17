@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "omotechan (阿萌天) - おもてちゃん"
+tags:
+  - "Omotechan"
 photos: 134
 image: "https://lh5.ggpht.com/-wVHl1t-788c/YktoP9Wd9OI/AAAAAAAAWQQ/gJ-dvSCb0Z4NtoK3cGhu9nC50jTPk5VfwCNcBGAsYHQ/h1000-e7/220211-Coser-Omotechan--2-4kUp-001.jpg"
 ---

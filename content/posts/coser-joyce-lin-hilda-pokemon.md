@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce Lin"
+tags:
+  - "Joyce"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEhuLEqcL3WdlN_nhiyVks-tFWzEH3-k__yY4_ObkSlAvmr1H_qJv5qKyPNN0Jq8GCeC0zAddhciX_lW1LSTquc0Tmb88lKo07JTy_qdMpAxGcItVIqwTMLysD6LSGWcVjrwhyphenhyphenBLgsw8ejD6bddveVq_bo7-97Dq5DuE9lrWvpBBEqbF4p0l8Rx4AhHZg/h1000-e7/Coser-Joyce-Lin-Hilda-Pokemon-43-4kUp-003.webp"
 ---

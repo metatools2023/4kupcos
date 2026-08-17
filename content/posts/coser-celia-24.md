@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "切切Celia"
+tags:
+  - "切切Celia"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq0CMSvf3pJVwA0g3CRkAMQD8eGai6WPRqmjU7FBhYGyv3FOPmCarSgez_q9U37n8PhR_OfuQIejJmzrvWM5ARrnYgzZaNic_BwzmbRHaL8nREaup-sYzBwMfr0p9Q6B0H9Li33GYn5gFMHSOxuBAEg3nVCCAp5RmS-tyGYeu6JXvvkpr9T6lpYA-A4eEt/h1000-e7/Cosplayer-cut-Celia-Sword-Art-Online-Asuna-dress-28-4kUp-001.webp"
 ---

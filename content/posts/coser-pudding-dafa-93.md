@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "布丁大法 (Pudding Dafa)"
+tags:
+  - "布丁大法"
 photos: 88
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPr2KckkkJFdtwPx7WJtomsJcZ6xrgtHhQHLfYcxRvTRvDZfN8yUiVsvamREPx6tV1_RC86DlGvF_v2sqGOnPjzT3C9cUAxvlqHrqj-UDvKcz5tvjFf5kVcrhW-VOFtoY6cljisdKmIeHVE17CdCfktCRUu2eWjErr4rJjGItgtlw4COBifSuEYzVO_AG1/h1000-e7/Cosplay-Pudding-Dafa-Teacher-Cat-is-in-class-88-4kUp-004.webp"
 ---

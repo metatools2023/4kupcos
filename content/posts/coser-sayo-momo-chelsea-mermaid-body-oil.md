@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 52
 image: "https://lh5.ggpht.com/-OLuE8JqYYJo/ZTw2YpBwuGI/AAAAAAAAalc/Nz-WkpVzEKQjScqmFCTHLOFfB6Z70mBkgCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Chelsea-Mermaid-Body-Oil-4kUp-001.webp"
 ---

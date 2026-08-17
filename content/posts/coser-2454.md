@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpyxeuLTw0bp3YWVu1PFMLaALt-hpCh7KxA_a6AnwOJIwbHfDN-JnTycZ_RvJjzumgGgtgfjzqQKwRDnCDNtM0xYnr5k6mVAZGgr6xmKv5uZtqYg1HUncvvrALawwKki1aSS6EYec6B3P_BqKEaltSgsqk4CLEsCZiGZkuvhF7INM8JLWYFQgBQOTSpcAM/h1000-e7/Cosplayer-Half-son-Joan-of-Arc-Saintess-dressed-in-lanterns-and-flowers-Good-times-lights-43-4kUp-002.webp"
 ---

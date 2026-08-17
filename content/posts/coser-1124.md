@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "屿鱼"
+tags:
+  - "屿鱼"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiimVnaM_G-63QKcwQ3fIJ58vzX0Yv1rYSkueXYSOFYo3DQylVIhu6KhL_A8zfpWYHcfQrbUqsqxx7Pfvhxih4hUpAg7OmG1KoYuL8md5hVk1SiEkahc7QjRuQhZycWgaN48gkh3xR5AHyY5ItoI3tHEbwWY_D_RwPb5i-bLsQLUHpUvoW3jOlIMT_KcvE/h1000-e7/Coser-Yu-yu-40-4kUp-001.webp"
 ---

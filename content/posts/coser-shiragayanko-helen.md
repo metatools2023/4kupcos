@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ShiragaYanko"
+tags:
+  - "ShiragaYanko"
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7Bb8nr_O4NbABHs93_ZqRGLUTmukE913MXuqo7b41nqZRKJjxOgjt5cQKtmDcw3mfVZG7RFrzYh3u-qn31MtbGAuLUtZjIW2kW0g4MAqAVkILblHEkWURtXq5BwmTQHUYZ3GLKJ4csl4dpw3OsU-LoXSDTcwqZ5BoXOLV1SZxHrRK7gfkw3WJg_fELgdQ/h1000-e7/Coser-ShiragaYanko-Helen-60-4kUp-004.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "纸悦Etsu_ko"
+tags:
+  - "纸悦Etsu_ko"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXaNUmrNKH9twCx23KedHl45NhwmDXY6URwvfy4gBGrNtGqX_tJOf1GwOKrRKLALapCb5FNxYc08PXM8ug-GUVWksw7tEWSLOZ6d5_UeyLT4BvwlMO-rS9HIbbOi3aDfmPaUSF252pNbeIWu3_O9XJ-Q5myavrRa3U56ArWu4LHYNyskDQJ5zkz-oxYd4/h1000-e7/Coser-Etsu-ko-70-4kUp-002.webp"
 ---

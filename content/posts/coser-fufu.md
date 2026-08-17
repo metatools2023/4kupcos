@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "曲奇软fufu"
+tags:
+  - "曲奇软fufu"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOgmDC7dp8cUmD0dqRJkr8w7o1D1JpNg-zT6R5sqY1LPojXmXm0cfWN80mjM1koWnJfryQ2TJXluW3c589MUME1Fbu4uWWuvZtHzlqacRhHZvDsH012BNtHtx1oVghHehBBvvG6TEAVmC7AXT8AEkptX03YzXB668nDf6zPvlpFGNbqfsdWa_8n5GU7-A/h1000-e7/Cosplayer-Cookie-soft-fufu-home-39-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 90
 image: "https://lh5.ggpht.com/-Y5cx2I9jCs4/ZdN8a9v05EI/AAAAAAAAmPo/ZEBGcOsTCC0D2i7JdUfr8H_69K7a9kM5wCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-HSR-Topaz-4kUp-001.webp"
 ---

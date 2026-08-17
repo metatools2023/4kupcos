@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGI0Mfm2lOnlEEYpr81OTpR99F8rPZ-xwKxzROFHOv0hlpo20bs_GMnDu2DkMrrMtvYEhqdnUpDbfHTNsv9atfwswu0U60iJaz39m1X5jspIPoyZ4qVkbqpS13-34pP5AEQY8rurBmNHmUCL9WzzRTOlMgwgk6XJ_zacsUIbqnmSISWSY7iIvnG0M9aD4/h1000-e7/Cosplay-ZinieQ-HonkaiStar-Rail-49-4kUp-001.webp"
 ---

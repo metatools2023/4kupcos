@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "夏鸽鸽不想起床"
+tags:
+  - "夏鸽鸽不想起床"
 photos: 29
 image: "https://lh5.ggpht.com/-ZiyQbbms774/ZTGa_9ZAtXI/AAAAAAAASgQ/QKH8I0RBcOsylENkcCYrWtZ-fj9BjBtKACNcBGAsYHQ/h1000-e7/Coser-Vol.027-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小瑶幺幺"
+tags:
+  - "小瑶幺幺"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhang0rhlPiN_6_YX7JyV42gSVMpGmGqcwE4HMdn7fKLzv32R0acDBneAyX32nzgkNXk4cE4A1_BvsoRsvVphT0yPwVMHK47p7JszRGXDHlfIwYKQN-T9BLgx5d4iTiDM_ruw21AysNvNbShNREIcxOEw6Kg-T83B0UPO-F7xhyphenhyphen13h6ihZYos-AZR-P7n92/h1000-e7/Cosplay-Xiao-Yaoyao-Ganyu-Hai-Lantern-Festival-dress-40-4kUp-001.webp"
 ---

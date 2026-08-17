@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDZ-dNVnvzAcO7iVxvcrnFUAEb-BmBXACfPVlWrh92yHSgd9idmwgSg82x8C3t8Y_Q7drbVZWKsO2U-GYNauqXWURCR6GRfLoiXYHE_oJPsIfBTtY_L4esw_HICZd4K3SY-v98nBxGGr0BxPFzo6k9VL180ekHbiU1StqkIKAYl_3I1xQQ-2n-9Yl7QBf/h1000-e7/Coser-UmekoJ-Cipher-HonkaiStar-Rail-63-4kUp-01.webp"
 ---

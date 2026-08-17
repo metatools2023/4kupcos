@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXPuQ5ZI4vo5DeQwTPLSjbtCqKmQ7c9zHicvrVM6DNZojqhv73gEXQVnBq81wOFt1AaRVXRuwICRtrk8zI17iU5q7O2ijxgaCXPhKapm8t-EiTPfprCKuRA20IGi12zyMm6ScB8DcmHs71V9iHcUemmddqytFdj_UTJuNyCCrLo1cLkWR88DmqWChqe9Y/h1000-e7/Coser-Byoru-Rosanna-Summer-63-4kUp-001.webp"
 ---

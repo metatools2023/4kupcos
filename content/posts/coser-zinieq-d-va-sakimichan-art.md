@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfMwLhNPAcc4_d9wf1aPrepxoA7vsyuJ51IsTFXyvwgCCv8dzRTK8NNgSj4aCLdgnKzEvs0LR6jGL481OGRrPxcjgfXjNjI_GkJMt2oCWU3Iz88Gx0e7V75CWz1DTGtsja4aGxo_XHZdvb6bOBpSINhtJcZDkUpC8tWCZu8MOX1OSbCG0zz3Np-FXIaFY/h1000-e7/Coser-ZinieQ-D.Va-Sakimichan-Art-39-4kUp-001.webp"
 ---

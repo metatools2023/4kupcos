@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWymtMO_KggHR8qhr-xQfzwUYwFXMlNCDNS08xwSVN6pP4bK5s45_9baXzyFZGMXYVLYp7d0t7ISAKcYmcRBfVAY8Ha-DOwjqq4O3xAuKFfJsh_v58gEzxC0G0jzbe3ZJOqEL23x0HYh3TJ8rMzb8aiXRRHwC1AgIgjgk6vZ0rZ913EtkipC4eS6hknrE/h1000-e7/Coser-KuukoW-No.136-Quiet-Listener-38-4kUp-001.webp"
 ---

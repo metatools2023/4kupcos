@@ -10,6 +10,8 @@ categories:
 models:
   - "小和甜酒"
   - "橙风"
+tags:
+  - "小和甜酒"
 photos: 199
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNfrw6t37fbhC2Xge4v2USHfoglvAm6a1sl77FtrT38tEDk5e3Erv7A_Ysm6FEreHDmP31OkjxNBDZmD0ON2TUK7sS6koicch1bWHf3xjHO8XZ03a2a37nO6SQz8Gd-_uszZ5QT5jWVE8bTcjrzZGz6Twiw5-MSLNe6URenq2SYzlEOcbmHBzRcvaIOak/h1000-e7/Coser-Xiao-he-tian-jiu-and-199-4kUp-001.webp"
 ---

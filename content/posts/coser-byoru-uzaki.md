@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLpzooVryP1agLy4z_TGfYaqvYWpkGPfNJdi-8pn38CP3W1ltIR9gmk118MNy8esEVnWDQh-tJORLJO88h-8kx6aD7xnXDVIVSiESfaWIXEim1VRrXdlDSsFGfYfq31fSWjWQa0TYu9DykFq5IdpFgNuBLk0l9ta9uHG7A8f_oWIhEbu9HaEAEdWLWf5ck/h1000-e7/Cosplayer-Byoru-Uzaki-Tsuyoshi-30-4kUp-001.webp"
 ---

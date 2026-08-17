@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpKQir-US0O3SM2_qHdG46DPedHhEZGOvpZm7J2dMEP87nChf7koZ1jD90krDR3ZbJjzoLxoU4a5YHX8-F3AV3s3xPNHDWc9Pe3M8_IxDYOqYf9SS1j-XQzcJoV_fVne1XYJZirKR9crWRtitciPOSbxEbvMEZuCUiy_X43KpzUDdpGYgDyOx5DojK4kA/h1000-e7/Coser-Byoru-Eve-Xmas-Stellar-Blade-63-4kUp-007.webp"
 ---

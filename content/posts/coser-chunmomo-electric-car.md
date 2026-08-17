@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "蠢沫沫 (chunmomo)"
+tags:
+  - "蠢沫沫"
 photos: 120
 image: "https://lh5.ggpht.com/-bJpxSgiWuDc/ZA-gc6FKyqI/AAAAAAAAJes/mXHpPfxlEu8N7Z_PsbQeEh9OOuhMz7OuQCNcBGAsYHQ/h1000-e7/Coser-chunmomo-chunmomo-Electric-Car-4kUp-001.webp"
 ---

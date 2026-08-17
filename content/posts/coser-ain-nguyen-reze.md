@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ain Nguyen"
+tags:
+  - "Ain"
 photos: 20
 image: "https://lh5.ggpht.com/-k7VAtHrTSuI/Y4fSitVD78I/AAAAAAAABuc/m5RdIa03XaM15EmbolJcdvX8ewKjfeQmQCNcBGAsYHQ/h1000-e7/Coser-Ain-Nguyen-Reze-4kUp-001.webp"
 ---

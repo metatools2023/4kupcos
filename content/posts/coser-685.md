@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "木之本果"
+tags:
+  - "木之本果"
 photos: 20
 image: "https://lh5.ggpht.com/-dK3yxQLHMVI/ZlOyPmipnzI/AAAAAAAAq00/R0TlCyT1reY6zRG2u23T05fDX0Qe4vmqwCNcBGAsYHQ/h1000-e7/Kinomoto-hate-hana-4kup-001.webp"
 ---

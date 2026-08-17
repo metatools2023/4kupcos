@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "幼愛Youmeko"
+tags:
+  - "幼愛Youmeko"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqYZ3LbveH0WQ9qVbLouJ2sfOQmciJjBvP_djtwuTdAQHNsHyZvt_u5-386-aJzuYYEr6-JS_VMYxqAZoN7WY-COn7jDgMpspZu_bRnkILW9zlNRZH5PeTsjPPzlzaAJnI_E-VUMdIi6iGMhMdFNbitEsTZKuXiF2RNcmBEI6YEdr4GJ4qGdStFyc6EIni/h1000-e7/Cosplay-You-Ai-Youmeko-Azur-Lane-Ding-An-23-4kUp-001.webp"
 ---

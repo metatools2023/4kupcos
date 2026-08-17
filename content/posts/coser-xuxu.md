@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "XUXU"
+tags:
+  - "XUXU"
 photos: 91
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhj_Ty6fa4LL9O3nsD9UP3nj8i3lKVhpnnTewuQ9zGX80AXT98Sl2AsEouFeX6g4MZVgJLpjOeY9YzUx7A6h742WKe1k0DDTIa8LuMn7UIxQ4RK670RCshUj4jIDaYwIor1TmLh5o7Xif0IbnHTGTJJyOjK4njoygpiyb0ufqTWtXz7jEm3cFJJ3jF9ZWON/h1000-e7/Cosplay-XUXU-Blue-Archives-Bird-Time-91-4kUp-016.webp"
 ---

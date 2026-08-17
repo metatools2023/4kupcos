@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy-G1F9X4zAkQTZ9UPO5QXiO1grIquW3dwR-lFfy2fP3RJicMfrEaXM8mNIBxT9yNWPNZHpi0DHhbaG1v7deuvxDHTYYKpWwRBfVB29C-W5PvjPcK2lnN6m10C1muzfpjnMOtnSc6gkkeOL8ra71m131vKcOJpJmz-UUGCN13o3__D4m1HudZ16hE3f9g/h1000-e7/Coser-Potato-Godzilla-Magical-Wolf-18-4kUp-001.webp"
 ---

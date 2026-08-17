@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEwyfmMUE5r0d3Lus1d81S4JUhbDeoMviAbCiEI_lWCh4VpbuVbRMrzZq1Pg8CprGlp5_1DkDoPnSIeyMgSsqatT4ot9FgB5eagELjYANLelT5mIT2XGjHng16hYPKNSIHQ7CkT5wHODKl9B_M-XToJPOArgz6BUwP1OZVZoB2FrEy6xCUAUTKOWJqLE/h1000-e7/Coser-KuukoW-No.130-Iono-21-4kUp-002.webp"
 ---

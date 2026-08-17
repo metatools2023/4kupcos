@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 19
 image: "https://lh5.ggpht.com/-YYLk07zS5nI/ZMvehmztvZI/AAAAAAAAE84/1grxKoyEu8oa7sD_JTbrLhFNtJie4VmGwCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.047-Houshou-Marine-4kUp-001.webp"
 ---

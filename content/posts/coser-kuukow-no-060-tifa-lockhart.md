@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 30
 image: "https://lh5.ggpht.com/-sjLA2H3bo-Y/ZN2NEVg2UKI/AAAAAAAATqM/g2GONe6AMlE3Cd9vZcbKQoD2-5b7L9KZwCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.060-Tifa-Lockhart-4kUp-001.webp"
 ---

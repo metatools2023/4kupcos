@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Irisuare(愛莉)"
+tags:
+  - "Irisuare(愛莉)"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj502TXQhPkn1IB_OhNxLoaBMb9ELQYK-ZO5qfmJwjHR50i32BHVKx-g2wGFwIBEr5q_i7r2sZ-DDwi48p2cPkb04ne0Aa9QfbIo_U88sF8vzE3zHKftScw0WeZBeLd77ig-4AE8l24Ky5WtEKj3h5M0FLVfamSBX_8gDEVT8MEHlA61XF17MTN-OEW63Q/h1000-e7/Cosplayer-Irisuare-Airi-Illya-26-4kUp-001.webp"
 ---

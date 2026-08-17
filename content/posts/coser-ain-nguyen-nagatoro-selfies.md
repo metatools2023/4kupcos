@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ain Nguyen"
+tags:
+  - "Ain"
 photos: 22
 image: "https://lh5.ggpht.com/-davZlplOvTE/YkkfROXaGiI/AAAAAAAAIko/Wh44LOPdeC49FhjEHb1G_GOG8v4YIwhhgCNcBGAsYHQ/h1000-e7/220227-Coser-Nagatoro-Selfies-4kUp-001.png"
 ---

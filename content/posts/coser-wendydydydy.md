@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "wendydydydy_酱油"
+tags:
+  - "wendydydydy_酱油"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5rBXuy8taCShSPo7VPSGVNZ6oVr0TbzBgVEmG88ZDBMlTRZUU11T5nkHKqeAVbPonROGQiwjY7iJ32eiVGAlt6LTpsL39jXXRRiMY17-lClz3YKRFIBJ5YIeEvbxaKiN88oEDpRfo9UsnloFEjEtLslm9cGijqqz-1_T7pFymfJHV3bhStj4ptMDwKI8/h1000-e7/Cosplayer-wendydydydy-soy-sauce-Xiongxiong-18-4kUp-001.webp"
 ---

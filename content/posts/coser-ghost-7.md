@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "无影喵喵Ghost"
+tags:
+  - "无影喵喵Ghost"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCFV8kF8G1g0njDYfoKWN0LVHHfm1z-ToyOyZ0yGvx92xawLUVIethI53IfgAtNq5WYbtmkjPjYfsFBKuBDqyAkJaZufzwQ_VyFb5zjXgZI4ctlsWg_6d59W4J2vU6Ub1IAUxs0r-cgYApMzlv6MC4DF8Vd6kdEiS3kJXhRuTmqZ3BQRxn1bHeme0ct0X6/h1000-e7/Cosplayer-shadowless-meow-Ghost-Zhenhai-black-cheongsam-50-4kUp-002.webp"
 ---

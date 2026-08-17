@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪貓Yuki"
+tags:
+  - "雪貓Yuki"
 photos: 66
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7zWrEtqARLTHLFSPCPNzKAXMStbFagMPiffcmxgQHIeqqlr0roaf8xlWX4ZaFMKTasPhz0fezCC08rdb45LmTKbWB5rCQZpHKrJ0y-o1f2lBh_S8gjYNFupD64gPjz1R5AJZz00jw4P3h7TDFmQstx__kFGz_HdCNqKcHdU3qxryqm_KfJ0OmX2RLRXTI/h1000-e7/Coser-Xue-mao-Yuki-Prinz-Eugen-66-4kUp-001.webp"
 ---

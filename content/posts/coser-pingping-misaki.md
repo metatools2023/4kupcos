@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 105
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTI5fc9TBsU0dkhyrC4WCfKDy-J3kpASum-ymEGYPzMkoAGtmcuSKh1tksUluHz1BAFi2-LuaXqme_nS6tzlnibJeS0upzPru5cuhlwqEvKLDrbss3x40bjvzRheh-zRNx3zNdpl7nLEPzhpB1k90gCeHCM-gcuvzfjeCaqv5Nfc8FvRNU-L4cfZfnco6i/h1000-e7/Coser-PingPing-Misaki-105-4kUp-002.webp"
 ---

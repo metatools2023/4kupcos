@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "花铃"
+tags:
+  - "花铃"
 photos: 36
 image: "https://lh5.ggpht.com/-mXrf8mBVJSQ/ZnSSv-GtfuI/AAAAAAAACwo/Xjq4s9DR124_x4g4mi0LEogmo3HzQQ67ACNcBGAsYHQ/h1000-e7/Coser-Hua-Ling-36-4kUp-001.webp"
 ---

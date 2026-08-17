@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce Lin"
+tags:
+  - "Joyce"
 photos: 37
 image: "https://lh5.ggpht.com/-zeTBkCgVuYw/ZOAb61-NMAI/AAAAAAAAUbI/AaFrxv93Gz0uSZ6cGD7dBFRAfYCRvaF2wCNcBGAsYHQ/h1000-e7/Coser-Joyce-Lin-Raiden-Shogun-4kUp-001.webp"
 ---

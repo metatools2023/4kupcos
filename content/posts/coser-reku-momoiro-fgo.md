@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Reku Momoiro (桃色れく)"
+tags:
+  - "Reku"
 photos: 125
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC05c_V7Nfm1kKsyLFfz4KgM5xwwG12Eyb0DIMGWkByeKq1RZ2FXP8mK5XSkOdSM7GIpgdq1ieqdMEU2gz2G6ZOUZTo5XXu2jFVTmfkZrWrUoFH85V8ubwWY9JizsYT531sYXYYw2GXNqYVVK5A6Jb_ukuYgrc8UcB28tx8X7Kj8o0z1GcboCWyvc5dw/h1000-e7/Cosplay-Reku-Momoiro-FGO-Spear-Alternative-Girl-Photo-Collection-125-4kUp-037.webp"
 ---

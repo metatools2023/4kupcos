@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_c0sr2Hvs-VP3kaeSsFMW5LnnPGEtsFJCkFfjepzp2EcIJPkthxv-su28mLBrF1moelx8_zBDT4S6yZ6Oa0vUnbbBG65CiT3umbgLwtxpxzSpVXo0_p7OrF6hVXpiv077Du0DXJbfNt-zSP1MAsOcergvImrH4BmMczRnjfrmsB-Uz-uTrdmMVsbXXhu/h1000-e7/Coser-Shimizu-Yuno-Christmas-Trial-58-4kUp-002.webp"
 ---

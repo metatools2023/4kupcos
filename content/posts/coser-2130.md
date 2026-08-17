@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "三無人型"
+tags:
+  - "三無人型"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJJUz0YURJoQozNI88DppBYnMnsohuImcbP9z47jQwN9dDiamA-icAfo20WUJIcqgBN0SDxhvV0Oc6E-bviDvYWb16y3A4YuWtCcw4LidMQ5UlCnU0Pst91lr0Fpsx1Vvk0vzoHLHMhDIdPGnUBn8vyDY7uuUUXBH1T1qnTDRHDj8s9xo3xu4fHEsG_p_q/h1000-e7/Cosplay-Three-None-Type-Blue-Archives-Longhua-Feisaki-Cheongsam-42-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "封疆疆v"
+tags:
+  - "封疆疆v"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibkneVnVVtoPgYYdwecSR4sApKR4IRowOJOLdZayIcz7Vi6XKQJC80kM78l-MqXDCBJNUh_dfLYm09bX-jBjIGWIy9Ycw8CG9xfc3qouzvEQR1HbwT2H52x6NB89j3_ZU6eYMvoNlOp3dnQcZ1ObEIVJ3vZVW5xn-ZMGzps9CrrmV9CEBiP68qFvJFm5yy/h1000-e7/Cosplayer-Fengjiang-v-azur-lane-Pearl-32-4kUp-001.webp"
 ---

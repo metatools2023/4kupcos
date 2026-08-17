@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白金Saki"
+tags:
+  - "白金Saki"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit2hIKypG9I7n__A0HlQnMierH3qljeQYy6Uy8HkLEk6t5UChDKVnUVCaNhLpIBKWGubqlHG-acGcZvRn1I_JyZrCfd8BTjpyOwQ0V0mJqCoHz8SU40SYi80tex2sv1aO2L75c4QKa0kQyKxD-r44qMR6DtpOvbx7-XvD5VTBQYP8aFySOALUiW-28QMng/h1000-e7/Coser-Platinum-Saki-Tokisaki-Kurosan-29-4kUp-001.webp"
 ---

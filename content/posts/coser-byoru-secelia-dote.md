@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 37
 image: "https://lh5.ggpht.com/-JLCmJ5myeHo/ZTGZzh5Mx2I/AAAAAAAASQM/eP9LcdNT8n0PuXnkpWrzLgHDBAldbOJ2ACNcBGAsYHQ/h1000-e7/Coser-Byoru-Secelia-Dote-4kUp-001.webp"
 ---

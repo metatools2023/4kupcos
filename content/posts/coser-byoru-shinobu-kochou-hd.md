@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 72
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv3Ac5IteqMQpypxMkJdtMXAAgbhrEvy9VUxEfx3_qr94ITamGsRVngummaKPP9uhDgUYsY0_YU63afFNUDoMHo89mdx2HGwXYfhVvupp1t8a_dbFuFK6RCBIzV-hpa0ATzlqv22QLb0ep5BF5ejtUlWgVnIcDYKTs7Iv-iDzjP7R3NVPcDuPAOvwGwHU/h1000-e7/Cosplay-Byoru-Shinobu-Kochou-HD-D-e-m-o-n-S-l-a-y-r-K-i-t-s-u-Y-b-Butterfly-Ninja-72-4kUp-004.webp"
 ---

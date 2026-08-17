@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ely_eee (ElyEE子)"
+tags:
+  - "Ely_eee"
 photos: 60
 image: "https://lh5.ggpht.com/--nNSKKZVn-c/ZagJbmwlWoI/AAAAAAAAQ68/ijIeAPP-P_4YdeK1RQ7FiAYSMH-aUXGkgCNcBGAsYHQ/h1000-e7/Coser-Ely-eee-ElyEE-Scottish-Fold-Cat-Doll-4kUp-001.webp"
 ---

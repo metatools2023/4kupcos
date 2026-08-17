@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ninja阿寨寨"
+tags:
+  - "NinJA阿寨寨"
 photos: 20
 image: "https://lh5.ggpht.com/-IOgsl5fkPOk/YvaEG3Rnx-I/AAAAAAAAqZQ/lcTRtuVLjFkhjKbaikRH_baIF59gSAZrACNcBGAsYHQ/h1000-e7/Coser-NinJA-No.11-and-EVELYNN-1.0-4kUp-001.webp"
 ---

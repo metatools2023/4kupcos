@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 78
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5bvOwz6WpqGy-odF1HRPegTgEs8_rcQuzEqNffcrx10vVMv4FwsAj47k5F742goUlwU9NFZF4llsBG06bvxlZtfLHmAZ81R0HhGNnPYipIC_SORX-jFHpKKihgNHOW_5Mdab2DzWDuRdWGV3HUzTiZ1JhnCcAo0WpUFuLHmQGzzvYW-EHg_JN1PGcJgY/h1000-e7/Coser-Sayo-Momo-Mihara-78-4kUp-003.webp"
 ---

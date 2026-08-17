@@ -8,6 +8,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm4FGk6QV4qiRE26fKge20q6kKnXxZt3JKfSxH1nCIjm4rvw1v8m5MpIwnu6hVX1iOWTf8E-L7If6izOVCOfy6YwcKr40aQZwRg7iP8_BtyptzOW-pjn32ZN1egB3_qX7t80M0YFJ5od3sgoF6fPVyBJOJREVe5YVbEarZvNZ-KENrcTu1z63PokwI0g/h1000-e7/Cosplay-Ah-Hung-kaOri-Vulcan-Mavika-56-4kUp-001.webp"
 ---

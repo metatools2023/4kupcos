@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "安食Ajiki"
+tags:
+  - "安食Ajiki"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_5cYRc-SZTuDcBbRIRgAGr2cg1nKzlIutldu36n9fxHBakD8nsRWyDQsy6dWAMQETlbB-PtlXwQ8cDEscUuBFgYh_ZtgrOPInyFg7O06fM12tU-_q-AHfwavp53jFvvnA5vITYyST8b55HlyjftD22wxY-8FEdEJe2SGCernEtiYztHL8Vph3GA80Qw/h1000-e7/Cosplay-Ajiki-Home-35-4kUp-001.webp"
 ---

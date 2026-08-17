@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Yuki亭"
+tags:
+  - "Yuki亭"
 photos: 89
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgS3cUJLc_grLQtpekgYh95JwmvxJRJVFkjlHA6CFvVx3x5hCYVBij2yKqSxh8oQRXEMJfoOwN60Udz3EO0U90nmD4xn4mS8kjX1OW5Jf7dGl6NN0I5tC6VY-a1wm4dWKnIzoqJE3XuBKBkyolxTNFEY2jnsc28pHQubrzrn8zTegImthEn0Gy1h9F_ESri/h1000-e7/Cosplayer-Yuki-pavilion-Sisters-School-Romantica-89-4kUp-009.webp"
 ---

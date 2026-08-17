@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 152
 image: "https://lh5.ggpht.com/-5OYw9geS-z0/Zoq8PqgxdWI/AAAAAAAAQGk/78PVlqRASaIYeO-l43jkNLQwi8Z-vrAeQCNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Queen-Marika-the-Eternal-Elden-Ring-152-4kUp-001.webp"
 ---

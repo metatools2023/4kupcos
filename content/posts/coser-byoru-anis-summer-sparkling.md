@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 47
 image: "https://lh5.ggpht.com/-wbM6tjwJQ3U/ZUQZ54lAXSI/AAAAAAAAg74/46eYoVBMLgsE99BFeOHK0mI61-tL8jkRgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Anis-Summer-Sparkling-4kUp-001.webp"
 ---

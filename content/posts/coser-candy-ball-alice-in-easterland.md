@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgghrYgXQFDILdatars9f7ZGEf2xqoMjUzT8PyP8T6A33SGNtuxCgAIXikQs99y4Mkl2XKc_wv1Q6q2BhZYI9_ZExDMTySvQqRbILyXu5iq_mKwxeyAngAU_62p06PUTd2eznffqGsZLyg3bcDxd54FvA3DHhjWl1ybqqJ0RjW31dll32x-W4-WiIk-fwQ/h1000-e7/Coser-Candy-Ball-Alice-in-Easterland-58-4kUp-002.webp"
 ---

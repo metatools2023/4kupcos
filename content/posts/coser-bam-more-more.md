@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bam (ばむ)"
+tags:
+  - "Bam"
 photos: 180
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaRlH-sDN3R2amY31rnlm_EcQz3e-lYl89B4f99B-4v8axTK89LncqUYiiytNzPDFFkLyjALcP8ojEUws2sD2UKtM7gD7KDookpPpbj2NV8SvnOUpqobQPE6tR5868ubI21UqIBkVsOQo1UJcs3OZOK_3PXmg68h0G5fUjN5khWo_h05yFbZEAyj8M4g/h1000-e7/Cosplay-Bam-MORE-Bamuchimoa-180-4kUp-014.webp"
 ---

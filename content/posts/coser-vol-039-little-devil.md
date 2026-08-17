@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 150
 image: "https://lh5.ggpht.com/-0pK5cL2KGIE/ZEwIqyGcigI/AAAAAAAAvKw/P0ceuw4LDss8bMrTs6-m2rNx8Vn_PudMwCNcBGAsYHQ/h1000-e7/Coser-Vol.039-Little-Devil-4kUp-001.webp"
 ---

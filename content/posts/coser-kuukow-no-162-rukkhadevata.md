@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMF-LfSKzeFmRbWBncmtGg7pOYihaXua8r6-STN9Dw5AUEEXfUMT_B1KXmigW-A8eRxEhl6G8pyPPvIy8H4rFIZFM7_66_VtMfzKKWJLeE92GVG96yvFaggRejj0YRkleWYui4wkiswsZDjay8cMraUaF_AzWkO6fMKcEBYUA4_JgUkG25SbN0Eq8hoSWD/h1000-e7/Coser-KuukoW-No.162-Rukkhadevata-36-4kUp-002.webp"
 ---

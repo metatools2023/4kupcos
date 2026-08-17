@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 71
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmH5d88GauISUUIaHK7GN4DpAI1NMlvrQtDIXsgaPXwGbenwlRzsAvO28ovKRn2AMM4bF2z5FDqjdjsfyQNSB0rDHuD02bBTxFVptC8-W-T5LJw6G20qmLJFOxVrTc0Ir12yGrhiQnkNMVNRehvMuvdE6DDXJtNpyw-ZuN-5WWU9CkafCfHwxaqhGdGPSX/h1000-e7/Cosplay-Xueqing-Astra-Pork-Shredded-Commuter-OL-71-4kUp-007.webp"
 ---

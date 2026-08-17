@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgonM7iFOWSYkDvqtiz8gxTu3wCTx7XGbtxVC81shXvClV8g3gcDXOrCJk0uOxtqZ1YqVRx0H5uupMQ38vsjmece8WG-wjEsXqXbm7GeTY-gAsPDRl9pYRDt0X4znKVAatmN-_75F8t-7eGbxJVMRdPszCgB4tP72iYZpkXBEP_xRHwxPR0IHJHfno4EE/h1000-e7/Coser-KuukoW-No.146-Asuma-Toki-47-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 67
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsXkVoIa2nABv-831DdqOmeyKcBnYHms6WYj9oWNKDeCPwVhBAz7QGzz_NsAop_tVgRmVogZ4oX8sJfKfEj9JLCc2gPY3P-HikkgkjS_xo5sXRMmsFMbUZpurhd20-kidpxas2b3cuwl_ZktGuYEkDjOD3mf-_HeaWOCGRRh6eLdrUB_tb2ITv4t5GNQ4/h1000-e7/Coser-Byoru-Jane-Doe-67-4kUp-006.webp"
 ---

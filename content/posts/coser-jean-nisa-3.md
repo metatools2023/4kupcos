@@ -10,6 +10,8 @@ categories:
 models:
   - "九曲Jean"
   - "二佐Nisa"
+tags:
+  - "九曲Jean"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSbEFGTnkNuh7cn2WGum6WryaD9yuE6SaK0AtEecaYS6849IdFw4Sjbsv2hLPc1mw00RCOoNo3A7x_fUicEVepURLINQP17vOit1NbwOYsI_LBIleQH7imiC0mFgEtZKdCk_Dj35NJJbQv4jP2jqh5sJl8m0VcY_nPJGX1dVwSScHCh4O3OIop9cHrcew/h1000-e7/Coser-Jean-and-Nisa-54-4kUp-004.webp"
 ---

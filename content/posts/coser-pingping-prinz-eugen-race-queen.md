@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 71
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipkTdgp7Adtp9DXyu_-McAnqfNrXyELvWdaTl1hcxZ0wfGsuFqGDp4nA6M_52cGVpds7Ksi4y-KTXoOAc-n0fFnAHtxOqhv4qxwu3_g-uGcHXFgewx9WAA5giszPLcRh_VQbWAcqhbhG1RqA-1V-gs2T-VXdsHKH5mXrG_gC64jlZsa52K-B_xkW51oc4n/h1000-e7/Coser-PingPing-Prinz-Eugen-Race-Queen-71-4kUp-002.webp"
 ---

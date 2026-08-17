@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "十悲伤小木十"
+tags:
+  - "十悲伤小木十"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisndCQul9Os6tbfQYeqvM9JoEptm24ZnFsIt1kFtLgcEtZ2i3ZaiZ8iQ_kilPXI6nAASmo7SkYjJDo0MUjCt8-_3Z4Y6HKohRxjCqJ4xDdldqRduBor8H1uCqG8Y8zkxop7lTZmFH2hOI4ASRTTGtwziSTdQdiEohpGto2BYU8G-9dHzBM26-Mgxs8vxQ/h1000-e7/Cosplayer-ten-sad-little-wood-goddess-of-victory-Mihara-Pain-Eater-27-4kUp-034.webp"
 ---

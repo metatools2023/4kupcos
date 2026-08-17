@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 66
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbE9xXYPTvJ6TqjFkoHN-rncRiOwBGO3dFzIkimtwngURXR-8O-BcxhzPIIvfz6WRINiKGN3BcGVXuTr4k8e9oPcZpQBbK77xPiJgGCizTR1tHLKpUSz2Xjt59ALTyFKW4_nTxOa1YSJO3zwZWtOc2TYxOlKnTvwL4y2spTwB8xX6FahCMzxcJHtrSWV4C/h1000-e7/Coser-PuyPuy-Zelda-66-4kUp-001.webp"
 ---

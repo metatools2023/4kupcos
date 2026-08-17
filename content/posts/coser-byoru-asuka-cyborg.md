@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 49
 image: "https://lh5.ggpht.com/-DAeYCSwX9fc/Y5l3dyYdGYI/AAAAAAAALlw/-XcrzHNeXOMU1PEsGUuEQqxGJkkesnkvQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Asuka-Cyborg-4kUp-001.webp"
 ---

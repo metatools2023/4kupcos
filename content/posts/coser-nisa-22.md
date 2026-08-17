@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTNwDEl8hxVLEnDZGPStRON5zhFrdTatQQTCFTxaYR-j7XvYSQ-nCbPXZBmssUoLC0BCeNIdiRRj7Z4g5OK35tuf0pAOBIZCEUo0lclwZypUQhzS0pEr-LHZfVs336NUIYFlRncDG-yxCO0fK98YDK1cSYwn_rFigKoTd0fSlm8GtMi4La0K9590c4uPib/h1000-e7/Cosplayer-Second-Assistant-Nisa-Azure-Files-Asuna-cat-eared-maid-37-4kUp-003.webp"
 ---

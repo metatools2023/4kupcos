@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Xiaoyukiko小鱼"
+tags:
+  - "Xiaoyukiko小鱼"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgbrQbahjWl6RqzSAbnn-e_4N0eaDkkl4SmJ6c5-GK8H3N-vWz_MLzkDVwewjwWLUUIww9RcuodOnVjN6272K4umBkDE-mZTDvzMZSIYdvRQnZF54CV6jxWXATvnWPsezueODE9RM6k_xvzqUDo-5w0eO1tFHgXZE7xHOq1SFKSxsuF7vN4se1RDr0pAk/h1000-e7/Cosplayer-Xiaoyukiko-small-fish-Collapse-Kafka-28-4kUp-001.webp"
 ---

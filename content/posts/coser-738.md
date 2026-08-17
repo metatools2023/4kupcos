@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj40_HiYm0bWMK6LnTkNTrqRBPZeDko4PnDfTmtlx8zE7lRvihzCjsPqf8qpD-VjDWS9wh078mYeCGXlG5s7K_DvDMjhGqNJWKUzY0czVggg_JOwEXIP8E_EiuGHGD6NOgWWsEVk8Pyj6u-M255sUoxZsiDlpvjbnL-TllNQwInMAHWGm3MvpbXwczWFA/h1000-e7/Cosplay-Jiuyan-Birthday-Limited-Dream-of-Yue-Ruixi-30-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Shika小鹿鹿"
+tags:
+  - "Shika小鹿鹿"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiygHcpGgdMzgrXbXsRAoNKh-QP8DU7bnhYF-wsknlnOwbdGNS9XO_GBJf2GERkCISyZB2xNTUyFmx42x55sO3TSfCmjEtauKpz0vF3WHt7MYu1paJmdxFetp_UVf-RtV1QR5_yDxCauxnvmFgvrx_NF2q4W4SozYIRKN_6uboqzgGiL8A308kevzXLI4rQ/h1000-e7/Cosplayer-Shika-deer-NIKKE-Mihara-23-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 190
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8vDWQ9r96cNTqZamQVURktJMGTwJ_bf-_DoiNKRx14aAQmB-Teur1kyKEdXTlnX9gdCp2tEY4LI4oPpEZNF9jOcThh6XFDuPKcRr8aw5Z7gKzZcFQXcxeCuMYhpbfx7glZnxAwKPMqmbrha4xA14q856fgzBGLmUzenusVoq_BBWRXJiJnHsX7eDsuajy/h1000-e7/Coser-PuyPuy-Castoria-190-4kUp-023.webp"
 ---

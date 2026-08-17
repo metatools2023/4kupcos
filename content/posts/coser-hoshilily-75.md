@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY_inOAmBF67zjs1dbZOqpDFclX_m29v-usdCFzyRoa1caq9tS2Y2gLcqT6KAO6_9g-F-u2lyS3mm6UtduLqK_to_7bGiaK_6mqN02IHR-x3826robjbitjKmotnKHrrWDlfWRz3eucL9e3Pu_mSB6POGRqlDeX7vc3C4hES6Wltaw0X8JXs7FyTFHmEQ/h1000-e7/Cosplayer-Hoshilily-Azur-Lane-Nasimov-34-4kUp-001.webp"
 ---

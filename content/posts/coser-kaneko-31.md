@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KANEKO_咔喵"
+tags:
+  - "KANEKO_咔喵"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtImFzyXaglhE2UpUXrNpJeSjsauTl5VijLJRJiOvBA42POQaocPJtLxtczlPrNth5aYdHWA49EmkX7wc90NApQZYzEkdFyLTGnQylwdvG-fCBkKGPAjoms9sQRWAB_EQxS3gLsJzaD5bmtyvSeWxzkNUVGZoHCuliYaV07bNYV7P0U6LQ9GkH3xMds7-O/h1000-e7/Cosplay-KANEKO-Ka-Meow-Black-Love-Bikini-52-4kUp-001.webp"
 ---

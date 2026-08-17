@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 50
 image: "https://lh5.ggpht.com/-h7uuu6dwWCQ/Zm4M0GnEMEI/AAAAAAAA7dI/55ULO2JvDwEs_ZvFDEfiRLXulqvXY9NLgCNcBGAsYHQ/h1000-e7/Coser-shimo-Bright-Love-50-4kUp-002.webp"
 ---

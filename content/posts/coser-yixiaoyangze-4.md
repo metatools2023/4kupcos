@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一小央泽 (yixiaoyangze)"
+tags:
+  - "一小央泽"
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6EPCIygBwqVIyJCXeBER9RfBdo8SN6GMAJmKoc7NC_DsMj6Yb9LVhV_Fgx6L8rTMIe1b4VWGpR8fQovO3KsZlvju0PrwI6mQie5Z-yh0VlKx8sTxKvobdVLei7H7UHI7Ms6FF_GCofdE3PDa1P0y-iSNz9dTNS1pYQ5Duh8x18ExO2D8JCl_iMWwqLnmN/h1000-e7/Cosplayer-A-little-Yang-Ze-yixiaoyangze-King-Ada-ZeGe-51-4kUp-001.webp"
 ---

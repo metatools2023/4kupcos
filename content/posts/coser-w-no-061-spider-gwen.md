@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 20
 image: "https://lh5.ggpht.com/-dcZSsNnot9k/ZTmXVZnzRXI/AAAAAAAAYek/j1s6fxZAIJMkSyAzZy4utdsHK5MqLDybwCNcBGAsYHQ/h1000-e7/Coser-w-No.061-Spider-Gwen-4kUp-001.webp"
 ---

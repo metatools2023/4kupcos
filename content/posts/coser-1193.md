@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZiTldFt196xmeAkeOLv8R2AAZbME7f93A-gq91Z9E9EyLogWvi1quQZdtxLSPcvUWXbaj_s-C-V-2lqm4tBPMcpBo9XVZkaIZzpcRE4XFKebXTv1cfmLSTLlUVEHHXCsaJA7AJisGhSMROAj1WmnUdza3cSqBo_w5pytf9ZibYREQiTyOypV820smyVY/h1000-e7/Cosplay-Kagurazaka-Mafuyu-waist-twin-ponytails-37-4kUp-001.webp"
 ---

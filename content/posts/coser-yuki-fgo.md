@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Yuki亭"
+tags:
+  - "Yuki亭"
 photos: 95
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6tMoGJgUoXI7g-oA1R3IgAfdn8Kx8zLY1gxc3_iMxNvu3awdI6bSVxn2i4tV7GDdpzyZ4p_y12W1RuyKrq5QBmwbO3JCCeX1m5ExtkPXboFUWofHsZbzOy5uL3RbycJaJHBJcetJRISAbr1K5PbOu3qatVgyjSoBAqAEOg2N3lQmLZOfx-kWa30Ypqzrr/h1000-e7/Cosplayer-Yuki-pavilion-FGO-Matthew-Kyrelight-95-4kUp-003.webp"
 ---

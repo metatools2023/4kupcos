@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 51
 image: "https://lh5.ggpht.com/-WGokXE0PbhI/ZNhGyNCprKI/AAAAAAAAQYw/cfkzwrfIUr8JrVRd6HWX3HzZIiIlUkxAACNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Lil-Devil-Bride-4kUp-001.webp"
 ---

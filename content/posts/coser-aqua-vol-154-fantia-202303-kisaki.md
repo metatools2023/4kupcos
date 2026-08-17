@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 31
 image: "https://lh5.ggpht.com/-XRvY9kd_Bng/ZK8J6ad5XBI/AAAAAAAAR4M/M9zvAHBERdYRy6v1FHRF4Drqj6b22KeXwCNcBGAsYHQ/h1000-e7/Coser-Aqua-Vol.154-Fantia-202303-kisaki-4kUp-001.webp"
 ---

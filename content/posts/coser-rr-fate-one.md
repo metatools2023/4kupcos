@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "前羽_rr"
+tags:
+  - "前羽_rr"
 photos: 55
 image: "https://lh5.ggpht.com/-B54gDPfqYEw/ZVKpAwfZZKI/AAAAAAAAyjU/qvzsj416N7ELgdTGjPrJ6Gcd1LKK7lzegCNcBGAsYHQ/h1000-e7/Coser-rr-Fate-One-4kUp-001.webp"
 ---

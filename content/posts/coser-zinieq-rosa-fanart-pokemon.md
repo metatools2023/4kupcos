@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjm_P-dOxgecUYs9UZs291nzILW1XSA0tA078NHuTwM7eGh3DaU_WbDNK55a4ThVC3nKXmGGRUVQaHYziNK2qvIS4z1c6O3q9B_V3Kc77sKE2jQi2q2dAmpQUWOs-MV_mxhihiOBzqw19wr4ibmE6bnIhbZnVqQiAeAM6Qz4xnyxNTP1XMdui7a7TkpnDQ/h1000-e7/Coser-ZinieQ-Rosa-Fanart-Pokemon-29-4kUp-002.webp"
 ---

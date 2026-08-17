@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Rizuna"
+tags:
+  - "Rizuna"
 photos: 248
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd-ZyEdu8xQgskjdY2C4OZi2CyiAhggTkEz88JafgzVEoS5WdG0OD5-0WDOyygqa5ZO2-aDvUqTocDZ7r3eO4SU6gWgt4Jhc76MrbAuKT6PsDXVzcDC6SjRFX7C7loWFt6fdKpCv0rF_tpyOO_IUdU3EEDoASZUZzRbbPIQJfpKRFMGtJBLQuMw1o3VgQ/h1000-e7/Cosplay-Rizuna-Thats-248-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 136
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirCzdFRBCqDOheYneSL9TDxa1loEhFGT4ssHBrxDujBG9cv1e4V5Af-BxoqfN8vQ-gcK6A8M00k4uDZafF4EfnKwdna0lEDu3RerLmmUiLuwaXOSnANP6KP4iKY1uOgBdvdAwlXzMT6LBRTm2HDambqCD4zodwvqTZIpJcqegPsdeJnvqKSzHjDuGHTfU/h1000-e7/Cosplayer-Shimotsuki-shimo-Nu-Pu-Tu-Jian-Shimo-s-Maid-Collection-136-4kUp-004.webp"
 ---

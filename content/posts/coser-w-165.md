@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcr_hV0_2Jxi8O-cepUBjJiHhjxukrS5keDgBnIJRVSrMRDTq1oQDlSp1keHdUNTucKv4tvFTTA30aB-rXyjsaBsUpl-Ee3cXVuRLcN7UU2d7cmoLPJzcI-YaLY138Bj3fjJBDX_znI66-wFIlpVJPjcbsjmyVN46HISMlG5NU70evF_jbvoPeL3b0vNnS/h1000-e7/Cosplayer-small-store-chiyo-w-in-the-mist-16-4kUp-001.webp"
 ---

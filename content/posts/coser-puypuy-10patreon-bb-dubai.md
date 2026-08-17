@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 184
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibxVI2harnPcKHzM4PwmweIAHhDy_FbsZicmUEnL4Q_6XNiuBYBwKhbZofDsH6o3z5oO_8UrH5v7JqvHZEUuaG4KDGTiCl624viPk_wrjQ8ZwSaEVAJdRH1w4Oj4oJt_hxhOwM4ubIPRImxYRDtRorltvEmBT9FB2Tb9oIiypGEn27mY0wAv2V1Jks1yg/h1000-e7/Coser-PuyPuy-10patreon-BB-Dubai-191-4kUp-001.webp"
 ---

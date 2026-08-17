@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "萌芽儿o0"
+tags:
+  - "萌芽儿o0"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNMuPdxhworJwvGJXFPqn6DEb_7d9kczGtY3UXRL3CyVgfi7Io4_dF-aKacgvYUtvtwJ-YG7AAVm4Nud4ZDhckaPYJln-_d9oQrk_nBsDtt6a3D0QXzXgyriAgwPNOA2RdW3Ye-wtJsVrRPvXYdkWpAI38Jt2MGWdsXj5h9_QPMxP7ndsvCU7LFbv5r-c/h1000-e7/Cosplayer-sprout-o0-white-tea-refreshing-22-4kUp-001.webp"
 ---

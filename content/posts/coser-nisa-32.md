@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgccK7In_vj7kttUk0fz1RXknRY3huTbKkFHAJDKbofSCcCPnAGBkugZyzsZHUFOl11_4tUkOTjwVVfiv3s2pYjEglVX7epLdDoAEfRR680J0cV4ttDaITgC9AcRu8L2y_zwjA1KwUFKdDj5Mhj3R7hBblm5nGkkx3aHddA93GgvV0jDoCkMWhiIdnTRCQ/h1000-e7/Cosplayer-Second-Assistant-Nisa-azur-lane-Dafeng-poison-apple-28-4kUp-001.webp"
 ---

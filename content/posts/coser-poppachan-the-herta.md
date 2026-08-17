@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 114
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVguBDKZj-F8BRzQwEvKgrEY4jZgTGxiDkK3H95cRksgauDrIdGEZhm0m2lZ9SQK46aCbbVewUFawsXLMR5jEoYKuOSr6QR1fBdoEBY0iALjJpxKPHeq3VyPvz-p8EUqfLqgMPODWucste8LHUVIPz3FIMkvUcBs4mqRDA6RaQBachbccbRW6qzXKZxQ/h1000-e7/Poppachan-Sewing-The-Herta-114-4kUp-012.webp"
 ---

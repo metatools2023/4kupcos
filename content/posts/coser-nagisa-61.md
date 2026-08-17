@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "NAGISA魔物喵"
+tags:
+  - "NAGISA魔物喵"
 photos: 80
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrEtxkVspaopbSsAto5C9U2uU7ztUm8W_qJ1foBQudPNv-5zKdQAMLob-NllJMUlBtFRV3sOJO7UOrAPUgOrjitltBPB4gObv_JD41zDHzBGz0qgP7lVzUMurn23i1ioL5KWrOOSVIPkBgOvJw4asuB0PJ-SO6peGqz1iiH_sgVtEgbpSpYb0KDD622WcE/h1000-e7/Coser-NAGISA-Monster-Meow-80-4kUp-006.webp"
 ---

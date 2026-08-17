@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiARawRpoOXe0xfLHgPxN1nvhozpo2gH7jaZYtksCQ9yRj5vIH8MDhLYJJs1yYXmOHhoAumdEDvBCngXlhcYkxF6AWUrazayutGC6535JztqJcHr_6lYPwC5-Lnmx8n2CM3tK-NtOr2-U_KblfPx4cw-g3FVuBYq5BockZO1OcXzdQIybdFTsY3ZVT82Omg/h1000-e7/Cosplayer-Xue-Qing-Astra-2026-Year-05-moon-Yoga-24-4kUp-001.webp"
 ---

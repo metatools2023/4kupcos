@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "隼隼子"
+tags:
+  - "隼隼子"
 photos: 89
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhntoKhdGDJAmjgqVvaeHTxb_RAhGKTKmyraZSVAuZG1xHj4vhgZZxciJB0zbOVugMQYQLmdmAnRwV3VvbYIHOjgsifpDpzJAiw1yiuy_6oU-OOl9lZrfjJLE3rxU28FT3-skVaqmS6NNICiCgT-1jpJVP4HNFnEzTf7xu1o69X4cRQt8O-H3FWbej-bQ/h1000-e7/Cosplay-Falcon-Azur-Blue-Line-Enterprise-89-4kUp-004.webp"
 ---

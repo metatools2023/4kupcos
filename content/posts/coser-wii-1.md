@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "起司块wii"
+tags:
+  - "起司块wii"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd79ba9Vmkmmc7DgLdxMvCpK8QGyU4l5QaVgPjAWeBwnAHaikR2BRLrjGe7W3bfPIy2QScqH5cmlDa42W8OskjkGan5N7RHTT-QSWRZhehnM_1gTpPqyI0eMy6JCgvviPiJXf0pZezyXe6trQ00YesflXfBZ7pmvNRj_Xat4KFyobx6QZ7l3ANVmcs4Q/h1000-e7/Cosplay-cheese-block-wii-selfie-1-40-4kUp-007.webp"
 ---

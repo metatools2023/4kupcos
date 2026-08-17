@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiwaTSgtAD7bZ0S-i23fsGFaHshIK7AvCHjreTSFArsI8JWl4MFsZqKJULQHdxKRmdi1dA97EuN8Ue1zpHo_ziEBv6Cl2tekzla9YCOVJbizBDQbHXlLqNx1_RzY4PEWKXv7lhJCj2vH54vmTbeMObYMLgvMR-iMCVV3xXHFCp-0rLGZkYAuDO5vYQpIlw/h1000-e7/Cosplayer-Mochi-is-delicious-sweet-potato-35-4kUp-126.webp"
 ---

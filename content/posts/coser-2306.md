@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIv3-yzF512g_w3sH6G1apBtmJPUgrz5aF7p8mWGWWkN6nW2zW_xoVSv3tBF36p8I85tRMFN9jtasIMlz84K3FiIHhvZ2zeosG2GOO8oNLKypHOANYGu9OSlWju9fT1-UJi2Jbv9gsLzdV92CljFWdL3EEDDzbLQL7NFqr08d-m3DNIbSe5lQ9PzvUVEWE/h1000-e7/Cosplayer-Shimizu-Nagi-The-cat-said-you-can-have-cake-45-4kUp-008.webp"
 ---

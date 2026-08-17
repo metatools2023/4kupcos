@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hijiri Kuronomori (黒ノ森聖)"
+tags:
+  - "Hijiri"
 photos: 101
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy154T-iw_KohAYfSqkEqX4jOW4O5_d1MEAxaCtfQmi0pOdYH5HwAKXBkQXKKWUHEgFQuif5OyWoZ8PTFkb8V2jeIunBIaOgmUTvTl3Nv76C86ZH0VrZiZsc_eD6-ZRbCY4LncRaDk-vejOvWlnlWffUodXE3xi1S1fCSyBwbQgeTAVauhuy1HSO2IyQ/h1000-e7/Cosplay-Hijiri-Kuronomori-Sei-The-Secret-of-the-Fairy-Knight-105-4kUp-001.webp"
 ---

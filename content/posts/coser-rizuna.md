@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Rizuna"
+tags:
+  - "Rizuna"
 photos: 131
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjluz8Lk4Wm1u0LYOq1HLh8iKzgtoKiZYtckbr4r_fu3ot3yRQSZFoQZLvBIgnYuKz5XS8JTPhWfCnWnQtrpaY8npetQNHV18xNbhstRmWTp6kQhlvLUIHj1Ym5lJottze-gQ-15__uNveKiJsxalN19qFGcr9A4vq_vUyyhDrjT-Iife0OUcYe0chao2U/h1000-e7/Cosplay-Rizuna-Love-Christmas-131-4kUp-004.webp"
 ---

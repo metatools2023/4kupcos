@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Shika小鹿鹿"
+tags:
+  - "Shika小鹿鹿"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnw8aPqQHG0VXW5qfCrKKDQbvv1rl0MhH8DnamYUVw4iqSC743_Z_v4EwwvdtYcdGofSvwKYUVMp4qvbD7cZI2IXEeCfVFfrjdZksvE0CdsAKCPcIcWt-9IwUJnhto8WrhyLYC2ocFjRnaKVWZT6XaOYgp3D28UyGIpZaaC7PXL-w08JNPi0IuqYNCHsak/h1000-e7/Cosplayer-Shika-deer-new-year-red-cheongsam-30-4kUp-001.webp"
 ---

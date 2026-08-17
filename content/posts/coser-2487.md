@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf134pLFHZbIK5k5g1Uq8BdT_s1hcgIXRldfb8egP4mEHljKDfs9hJCvRLVddKGBafWga0JL3_Y1-1ErDv5wZiWs8hcx7fn_SYHCJ6pG4U0A9vPBFBl09hcDu38O7HuIF78Zcb1idgUiqjzUUk0JDCFY7Si1niQAkMJEBOVdGUHWlaaWP9dU_O93ajugk/h1000-e7/Cosplayer-Half-son-Blue-Archive-Rion-Moon-uniform-competitive-swimming-42-4kUp-014.webp"
 ---

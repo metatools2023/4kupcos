@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi Ji Yun"
+tags:
+  - "Choi"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggl3Qtcs4iEaD3ZhEZU0hDUXG9lb9jRFiPAZHL5tSAx0WCnszL_JzLKZPNiuj03utmKXVlKy-G7nX6EvIc4ThbuNZY-k1p5JfweOcUZRJ7R7_rnGODy8a5vMj1vsVj_meJlF4pTpb1AotkX0GEU1v72uNux_NhfDCi0ef70VjXdgqzS3E06d14UFYFHv4/h1000-e7/Cosplayer-Choi-Ji-Yun-Chun-Li-Swimsuit-20-4kUp-001.webp"
 ---

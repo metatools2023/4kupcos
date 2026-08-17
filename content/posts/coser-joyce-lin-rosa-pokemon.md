@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce"
+tags:
+  - "Joyce"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiqwEkvzOdSL_k_3wkVbnXDUfIepWCV9kzsWca3_g74Co5g0v158hQhHdHLz5Er1C5b2NDLSoAmfY1FisOG_vwNcah9lZvtUXtZwnmWL9TKHlcPednMyHSpBaBQMlDosEJQ-cM2pjXvHJGP0Ci7f0d62zoYObSDGAOEn73dOzQ6kGpJsm3qwwiPRDklWQ/h1000-e7/Coser-Joyce-Lin-Rosa-Pokemon-55-4kUp-002.webp"
 ---

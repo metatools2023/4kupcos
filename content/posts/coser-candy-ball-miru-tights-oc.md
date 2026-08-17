@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilMVhfWLMBcu8O1yJOP97HdnUe0QTSZQoRxFVMauUu4Ms3pBpmpwhcVOYBzSViKFafSVIniVMoMntpUKE3l8i387kVEN_VS0QA6NdaLA0aAzt2m_cCfIa9t5EeMp50ot-DYcKUX3N-p97Hd0_BgfZckn9x5Kbo_pUnMu5I36X9Pp3W_hH47XqkjhIz2DU/h1000-e7/Coser-Candy-Ball-Miru-Tights-OC-29-4kUp-001.webp"
 ---

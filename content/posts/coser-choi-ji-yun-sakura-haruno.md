@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi Ji Yun"
+tags:
+  - "Choi"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBORvg5su6Cpj39EhCvUveXtPAcMnFddZFaxj_VTEMEvT4UGRpFAUQ7gywUCXhmGPgTbjFMuxoN-U0AhySJ3je3HmGf4mgCODzksRVBAbS8nLIPCaNasnsOlRffyadHqtWm5uaNSmwfL6br_IgHU6cizxKOTEk9N4pyoJn_mQYGFI-_6zKmSl9j15I2Fsk/h1000-e7/Cosplayer-Choi-Ji-Yun-Sakura-Haruno-21-4kUp-001.webp"
 ---

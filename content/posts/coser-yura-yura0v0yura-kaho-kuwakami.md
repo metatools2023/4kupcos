@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Yura (yura0v0yura)"
+tags:
+  - "Yura"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-clTjFd1GP58_lZg2anc73QRFGDkW_U6QsdgC2mvRR2CxV0gNq1gIJk4HAFDhFviC3B8U5lbubnMnxdYlFq8DP3meAp32EoS9f_phyDOuTPIb0vrXmmkae3dI4gnJKFP2m6nMQCop2BTPWWcGrthmWZE-Km445QRb-3oXNDtx6xvIJHd1r_n5-_DpskTN/h1000-e7/Coser-Yura-yura0v0yura-Kaho-Kuwakami-46-4kUp-011.webp"
 ---

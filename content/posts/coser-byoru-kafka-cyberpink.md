@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru Kafka"
+tags:
+  - "Byoru"
 photos: 41
 image: "https://lh5.ggpht.com/-c23CLcfYTA4/ZTg_Yu0Ye5I/AAAAAAAAXSo/wHql4UURahUcSf1bHdHu6zcVzwwvSRThgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Kafka-Cyberpink-4kUp-001.webp"
 ---

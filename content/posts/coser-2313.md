@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏"
+tags:
+  - "双木扶苏"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik-x74WMfwzmaMkDONS479cWDkZ_GzwUsSnpdo5FHkl_dCtLMa9Z-YuXXd-aHuyDSaKEniIlAtTHycYkOj6AMBNqe33lR3ZBAWs4JNU0_KjA1HIYq8DrC3YE0xANTvUP21d4Y76xTU2paO8iXkM3cyAwAlgrUMPP8ktmJdp2c79QKNHXmbJ5SZ-l-1U0Og/h1000-e7/Cosplayer-Double-wood-fusu-brest-white-angel-33-4kUp-105.webp"
 ---

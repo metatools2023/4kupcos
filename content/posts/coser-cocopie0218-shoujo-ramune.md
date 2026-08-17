@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "cocopie0218"
+tags:
+  - "cocopie0218"
 photos: 83
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg03K1zRG1LaPo7CYbC9WyLp9C-3VBSYZ3_IHv7VcO7nQoJwmgvYILZahxvkOdVCB3QwhLXrA29i7TmSKQK9zPaKsACBizC9d6AdwGca9wrG-3s-PbJSHPWkCcrD4gs9HoconzMkTV1NIIA_o87qwZzkuLhSvHRlF6JFOkuci-SlTtcNDzg0SXqGEDiwoh9/h1000-e7/Coser-cocopie0218-Shoujo-Ramune-85-4kUp-019.webp"
 ---

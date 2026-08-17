@@ -10,6 +10,8 @@ categories:
 models:
   - "喵零"
   - "皮皮奶可可爱了啦"
+tags:
+  - "皮皮奶可可爱了啦"
 photos: 34
 image: "https://lh5.ggpht.com/--QkGp8qdfdA/ZHUrg0v60hI/AAAAAAAAU90/THw3EGrZhs8AmlngnwmG1wnvfM6LzZMgQCNcBGAsYHQ/h1000-e7/Coser-and-4kUp-001.webp"
 ---

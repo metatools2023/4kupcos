@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggQd6hD2wMMymDEItda7ilNy4TWqxPQ7GnYduyBscjd2kG9VGgw4TPdfu1bTEar55lkmKHDWIAXsQjikoH-ck2Jgt16oLdu4G3yP_h982hI2q7mPEuuYGEMRDr_-_d1B1HRmdijwCWt1zwS7mOdSL-_jstm1HHx7o13DsjNUUW10KmNex7LqAYpjvm0zcI/h1000-e7/Cosplayer-Nine-words-2-monthly-pass-Kitagawa-Sea-Dream-48-4kUp-058.webp"
 ---

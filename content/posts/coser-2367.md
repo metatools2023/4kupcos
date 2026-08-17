@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "真宝"
+tags:
+  - "真宝"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl3rGtMy5VxpvcxId73dOlSbrPVfcnhkgURq-7VnICoKYJewuc9BScB9y2UrnJa5kXkvBLaGi7tH2t3kCoEJVngkWZFLMEBel6wDKWgXvKZaIsxFWtatr0XThgMf_m_u_mDdPWz1Ah6KJGiDFffwxzkCiGhcfYQYG8f4p2Ti9dcRTXYFtwFXaFeVXPQmDg/h1000-e7/Cosplayer-Real-treasure-Christmas-24-4kUp-001.webp"
 ---

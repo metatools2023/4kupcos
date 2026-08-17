@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsR6BwCRoI8ObrX9nWTBUCGeLoiIUDZlyFrvvrJO84Mbp4YpeuHKI_LQ5C0sfi2d1hsSS0LCkfeLiap7INiCM1kUWkf8fOrwynC6WhqLK9zFjhXnIB1NhcCutsmpWk7zYr37WHaf-vNM-yMeLN0DDuv__H_y07UucM-UEcHXur7tktRrUHDVnOAtj1-oU/h1000-e7/Cosplay-Sakura-Tao-Miao-Black-Gold-50-4kUp-001.webp"
 ---

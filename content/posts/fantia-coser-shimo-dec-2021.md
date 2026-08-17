@@ -10,6 +10,8 @@ categories:
   - "Fantia"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 119
 image: "https://lh5.ggpht.com/-kbr3ViER5cA/YkhQHlp07eI/AAAAAAAACJo/n6-br0nipr0q7aoXVT-D1l0nRUuGuEQ_wCNcBGAsYHQ/h1000-e7/220318-Fantia-Coser-shimo-Dec-2021-4kUp-001.jpg"
 ---

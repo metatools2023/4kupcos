@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi Ji Yun"
+tags:
+  - "Choi"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_dEKre7QkxuyEgHOj5Lx1OFCdA_M1FznSFFO7msqZ3KL-YudB38fPZ3GvNTkf4omCWgiw5ax91RiAacjxfHjn3fIrsShr74lSbfAkMvEBbiWeaXJQbwDDu8ExTZldZOForz4FlkvmnuLjjnLtcps6Hn2l7MP4Yp8LZNpJIgt6z9X-obL-HwdwxZ65fjs/h1000-e7/Cosplayer-Choi-Ji-Yun-Hinata-Swimsuit-40-4kUp-001.webp"
 ---

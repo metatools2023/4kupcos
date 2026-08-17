@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan Phoebe (Wuthering Waves)"
+tags:
+  - "PoppaChan"
 photos: 100
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF8eBNCQ9V0S2FGPPtddqocybfq3KyY5Iou5S2qHiE73IXZyCclyrbD6JGpzMSqbPKyS06b2BPhCtViKfHCqVn0nX5PHUeuVd1AWZF3kiqs05F5UD5GzrXSWA6Ih2515jfMv_-xF_bm9vSzJ_EsvgtjDNC_WgtHXOZbHK6oZWUQbqtF22d7YfRFWh-ctM/h1000-e7/Cosplay-PoppaChan-Phoebe-Wuthering-Waves-100-4kUp-003.webp"
 ---

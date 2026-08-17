@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "絞肉姬Walküre"
+tags:
+  - "絞肉姬Walküre"
 photos: 99
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD7o_ENGWdYNqZ7cXocGcqwwVA7eD9TnC54icNHa_uh0QXRMN1cIXxrJBQMnzRG-9NDWi4HS3uzivRlE7_hi5O__fi49D-OeowKDrZgIPqVZ7YQ24Lu8qzIrNgmwRwXljL7pKFyDSYufGeVp1k-73PxYtbb4laKlYjlphKkcpDnuvnzKaLKfybdIYGA1Wb/h1000-e7/Coser-Jiao-rou-ji-Walkure-99-4kUp-012.webp"
 ---

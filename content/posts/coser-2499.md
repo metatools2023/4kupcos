@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "秋和柯基"
+tags:
+  - "秋和柯基"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYH6ZHhPHSvzi9faCvRWNuWY7dAxYPKyljmzKPsHLi46YXB3jE2_OPyp-GdAWo00w1dwa-Kll6Q6Ftnbp50SG0SNVck4y8-JQQWjVcE9Gu_vUqTVYWagqj011OYbBPxMfLtiqk9bvT0dm_76ryUj1IuM6bq1jAg2Hs5XTro8vwlyC63zpblUyMHtabeC8/h1000-e7/Cosplayer-Autumn-and-Corgi-Natsuki-photo-book-white-swimsuit-27-4kUp-005.webp"
 ---

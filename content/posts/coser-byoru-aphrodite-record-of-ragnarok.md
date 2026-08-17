@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhBGtHUg82rHgZKUc0kdX_kzW9zQ_ce39eq4BSUM-rW_8ZRIBZw65zG6pSp1P5DGedr46TR9EjxROTo43cimi5fLvdDO7jGmJEGESnL9nqYpnuqLC-n4OdR1MyK8q0hO21H1vIZriEymjLQEbvanrSMCmJmCEJ-4Ix6DtlFRghEWGiM0_NK0CQHj8GFKs/h1000-e7/Coser-Byoru-Aphrodite-Record-of-Ragnarok-53-4kUp-001.webp"
 ---

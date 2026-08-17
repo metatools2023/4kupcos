@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "前野太太"
+tags:
+  - "前野太太"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhseuXQOpl5XrrHD3AzY7orxqd0a63SNoS8TkDpbjbb-jEZUSA0qsSa-KsPCLKda9xsTOxHOEXhPrMo-0IuVNCY0Nkjo2iqqJs3kAUJEPtdhyRLmJ9PKr_PesyvwMV-lpmklu1TZrAXRqSUDhsmOqIbC4MZRPYOfJct5EYFKkDKFw5tNhkZPaEyCdoGeA/h1000-e7/Cosplay-Maeno-Christmas-29-4kUp-001.webp"
 ---

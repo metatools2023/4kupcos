@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 34
 image: "https://lh5.ggpht.com/-XOom0rHDAww/ZjqvO0Ij-hI/AAAAAAAAd5U/aQM9Xxm1aN0Njlty4T6NowetU6x2rbSggCNcBGAsYHQ/h1000-e7/Coser-Pyon-Saber-Kimono-4kUp-001.webp"
 ---

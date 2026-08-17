@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪貓Yuki"
+tags:
+  - "雪貓Yuki"
 photos: 10
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjvf5mqVrynNOk-eVz-obiA6N5cXUQ8F19Kwc56Tw9oWpoTgL67eoguT_IfMTaY5Z2Z_LRqVjs9TskCeEcD9KIDvwCgEbRje77s8Zehbl_YbDuxuoQ0DYWKeJiL2-vQbXrYl3HyIVwTOwY3PzNFUzzZIZisctqc3P3hWr_Rx62xGouelt7Qrd9eR_OEHPg/h1000-e7/Coser-Xue-mao-Yuki-Hokusai-10-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnUZNDnBXpaq8GPXxUqh9bX9REjMZvbmQewvlquZ6vyUjQMWaNQwpE-cIbXobTljHLAvk4GXdwq1nS2dzrnXSK6pChBDuh0JAQcny9IqIXt-cDCEHOjMk0xHVJH0F5LzboKncy58eI6huV361Jvt-5n7OVjvqV18NN_g8s2XRaRo_YgDwVyTwyBRuFOOmL/h1000-e7/Cosplayer-Second-Assistant-Nisa-azur-lane-saint-louis-The-flower-of-spring-24-4kUp-001.webp"
 ---

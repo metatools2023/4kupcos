@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "周叽是可爱兔兔"
+tags:
+  - "周叽是可爱兔兔"
 photos: 28
 image: "https://lh5.ggpht.com/-lupog1MLKDg/YowIibrA3GI/AAAAAAAAETY/pn9S_omJaT8gB7gnDd-KMbfjVwj-vBPRQCNcBGAsYHQ/h1000-e7/Coser-039-4kUp-001.jpg"
 ---

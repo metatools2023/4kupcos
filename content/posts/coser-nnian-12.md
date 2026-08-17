@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "年年Nnian"
+tags:
+  - "年年Nnian"
 photos: 30
 image: "https://lh5.ggpht.com/-nuWAt2YagMs/ZjqvH8wrIJI/AAAAAAAAd2Q/6mL3NhRegCw9qjpKxA4w-6zrXYbzqrCNQCNcBGAsYHQ/h1000-e7/Coser-Nnian-4kUp-001.webp"
 ---

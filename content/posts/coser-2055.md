@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "矢量鱼"
+tags:
+  - "矢量鱼"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiw5GtgUy0VQAK7bZ_l73_p7KirSG1NNNy1cJBLTfzlSaGZgo4TVOkZLERF0HW39AEiNGY2aNJaKxIYIVmusW58UFAWdZ8tQRBz-Og2I1Hy1Cwfnfrh-yxGmBhl8hTeEwNbnxdXXLoAtSjUUBgkuSeWNJcKm8qaUGvGmBFAUNtCJZKwEtP5kEXZwIxUnUlX/h1000-e7/Coser-Vector-fish-Halloween-34-4kUp-001.webp"
 ---

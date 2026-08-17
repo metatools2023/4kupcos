@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Seele麦麦"
+tags:
+  - "Seele麦麦"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWdDgpiy-IGT02sNhJSzOaMrfzoLZU4unvPaR7UHvE2_eCFhFH9Dc_HAMfKOt23w5gyuIJxw-K3qGGw2NgWiSYkVkFr6nMrQLPmtATRwq6kaGvfRnalabEqq2kGY8amE7xaQWeAuZR3z6pxZMZHLpoL_OU3pFAuRCITCKalyoVOKWy4dKINOHXYUclbg/h1000-e7/Cosplay-Seele-Mai-White-double-ponytail-16-4kUp-001.webp"
 ---

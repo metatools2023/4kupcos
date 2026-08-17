@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 59
 image: "https://lh5.ggpht.com/-bb4oIxNdvA4/Y36OLk-DeHI/AAAAAAAAH5A/ImNlmW0w2YwRAsSiQpMZauELcZQwDlQxgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Arlecchino-the-Knave-4kUp-001.webp"
 ---

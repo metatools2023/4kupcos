@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 59
 image: "https://lh5.ggpht.com/-kzr-5OKE7Rw/ZL76KeWLuaI/AAAAAAAAeFM/ZdE1Bj0FYzw68GBp_yXf_oNpTd9HvonMgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Anti-Gwenom-4kUp-001.webp"
 ---

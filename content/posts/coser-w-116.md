@@ -10,6 +10,8 @@ categories:
 models:
   - "一北亦北"
   - "是三不是世w"
+tags:
+  - "一北亦北"
 photos: 158
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihnObo3npPehYz-vk38MYDx9JSqJCmzk7PeI_9HnM1JJsdkGDFtlb0L520a7xv9KBtJlWJQUcUml8m_fsOI2j0bQvelTBHC3YYfXBQK3WcBx-QdCpImpBaJUgI8MIcyPoRVHKRrYS1wrJKt1rm5NtYJ0J9NhJ3ToXU5SLccXE0nL9N98nXmpvgPJrAgUfB/h1000-e7/Coser-One-North-and-Its-three-not-the-world-Hua-Lins-true-love-version-158-4kUp-001.webp"
 ---

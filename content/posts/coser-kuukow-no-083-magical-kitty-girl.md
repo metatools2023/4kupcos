@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 37
 image: "https://lh5.ggpht.com/-2t1dxe54oMY/ZRC39bgJm3I/AAAAAAAAXCM/u8-ZgUVK2moPd436rGUys8w_hzTkcAltgCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.083-Magical-Kitty-Girl-4kUp-001.webp"
 ---

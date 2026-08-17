@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeiByzMz3E8BzTK0U6dUVLag5mjVyYwfhb7sTUIqem5nLjnZyjaq6GpeR0RXMl903xjgbDZA6CxTTiGbzNOseM4Iq1mUXpKaoaF1oB5BcXb4z3j8ibgZ-Lmv960UyAOqDzUZhjidaJx3hz8-sFmQfHHSAGexBf0oS_Drm48qy2Ww_aC9_5mG9JfvKF_CyD/h1000-e7/Cosplayer-Yuno-Shimizu-Christmas-mulled-wine-37-4kUp-001.webp"
 ---

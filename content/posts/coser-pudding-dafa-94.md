@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "布丁大法 (Pudding Dafa)"
+tags:
+  - "布丁大法"
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_RXiIf5gzL1YCPvYFA2dVZYLaDHhL0XC6nH3AcyQSQ7vRIXZQoB9O1pJgmwwIlYxUbPtnLzFFaLrFY0u0PG1VIt4XkZQS3_aCovpIxp-9Ewo2aQzwWqwxnQH3aGO7qN6NnXA5t-mIEMAapKXF0iNnwNM2Xzh-E2tqv69tLiY3UIcLVk6uxHBU6nXWad56/h1000-e7/Cosplay-Pudding-Dafa-Mrs.-Black-Silk-Foot-15-4kUp-001.webp"
 ---

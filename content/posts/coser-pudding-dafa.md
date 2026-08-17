@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "布丁大法 (Pudding Dafa)"
+tags:
+  - "布丁大法"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkdu1CrsJ-nt-uVpQOwzKO5JKY-1Splm6Yo2ED7gwRgnbHYxu2_hNtJWtEx5QvGSGAkm4HJm7dpGAzoS-ymovZFgEkwtvUoIKw4GpRT25HR3qAt3rnrYJ2zlW_GLMJEglI_IZyj0gfYdDv7A9-z7wBVa6d-jxtMpWBMKC9BYvMbRq5ofB6FTY5hDGNH77t/h1000-e7/Cosplay-Pudding-Dafa-Sexy-sleeved-trousers-32-4kUp-001.webp"
 ---

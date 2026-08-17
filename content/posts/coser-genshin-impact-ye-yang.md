@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "习呆呆"
+tags:
+  - "习呆呆"
 photos: 45
 image: "https://lh5.ggpht.com/-sbLKL2xHbGM/ZPPHwjr4PvI/AAAAAAAABaQ/EouDNuWgicwaxdxRW9OcMOoTa8_MaavpgCNcBGAsYHQ/h1000-e7/Coser-Misa-Genshin-Impact-Ye-Yang-4kUp-001.webp"
 ---

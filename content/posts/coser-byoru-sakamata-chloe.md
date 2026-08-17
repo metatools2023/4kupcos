@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 90
 image: "https://lh5.ggpht.com/-zlW0qprrR5Y/YvgYf6xgAOI/AAAAAAAArUU/ejULUSpR6_YfEXj7lI08PvCpP8BnLdQNgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Sakamata-Chloe-4kUp-001.webp"
 ---

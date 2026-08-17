@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "爆机少女喵小吉 (Nekokoyoshi)"
+tags:
+  - "爆机少女喵小吉"
 photos: 11
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi83nUtYZrQuyX-pSoMb6xV0ebP_tB5yo0K6xxQ0OV0bTnZDGB6yYSAFneUQm587dXbjbclttc-z9u2J7LldpxfURTiOSdPRdrCY0yQdmF12OnaSF8IarakYQJHel6MRp6rkO44qHW7HTKLgd8TIQRqIj75xXYKxHbZoUlJ5qpVZkiswqbyJWbUUu_7NNs/h1000-e7/Coser-Nekokoyoshi-11-4kUp-001.webp"
 ---

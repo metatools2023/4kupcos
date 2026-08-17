@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "柒柒不可爱"
+tags:
+  - "柒柒不可爱"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzJWiPmK6mHCsMkIMnZ8A9uu942DHea8gBEAwbhV-R916O6eGHgDEHYeyiUjYm3kQfdQiy9JMa3ZILRmZk8qb_EMQjwcFtdtK6pbGJlEoZeug2JlHVoPi5LUhXXPnRLmW9FQMLds7NO9sWhuYIBvnH-Ldm7Nk2yMDL4SwjISrV6xDbiUtZfhTpCXfoZTc/h1000-e7/Cosplay-Qiqi-is-not-adorable-Green-Field-70-4kUp-016.webp"
 ---

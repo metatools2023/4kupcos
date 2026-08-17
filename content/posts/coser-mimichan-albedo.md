@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mimichan"
+tags:
+  - "Mimichan"
 photos: 12
 image: "https://lh5.ggpht.com/-yiM4njCDX1g/ZPvDIaKflMI/AAAAAAAAIAk/TSATgG09kLAnrJugybwTdG6TPKpMZ38ZQCNcBGAsYHQ/h1000-e7/Coser-Mimichan-Albedo-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNxegICQR2LFO_JYT9qYdL6xOLjZLbZg8FvMgoL6qwRiYqDSyeg9uglxuCgyHaE07ujlU6uU7xh_7k8TivzGdcUaHbxq1qYppq_8lwm1h-4K39UN7JAalz-wcijJ0E1TJkBZICf37dZOYveUS_qpB0vAcFrr99FqUBlbrtA2IhNPPK_1gknXRJhJApxc/h1000-e7/Cosplayer-Shimotsuki-shimo-Original-Maid-2026-20-4kUp-001.webp"
 ---

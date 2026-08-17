@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 43
 image: "https://lh5.ggpht.com/-b3rCBaF7qJ8/Zmt01ppmb8I/AAAAAAAA5IA/Y_gjzGhoU-QYZtI4lj30hs131ZjgCQiygCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Perona-43-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 41
 image: "https://lh5.ggpht.com/-ToupH2QVHgA/ZhF0ef_Qy7I/AAAAAAAAEGI/TZAEYqMPBRI2NULAiASKOuNjYguUkQArgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Mikasa-Ackerman-Attack-on-Titan-4kUp-001.webp"
 ---

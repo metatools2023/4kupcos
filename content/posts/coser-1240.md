@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "布丁大法 (Pudding Dafa)"
+tags:
+  - "布丁大法"
 photos: 69
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkeNIh0AhyphenhyphenOITu5p8WM3NFaihchRG4229OQSKl4NLdxtAmaXRYg2j9qEOJj64V9bWPa9rykELvt-JZZHja9pzPvWOVWhazECzfn5zfSzXaz82Qy_spli8Y5EmY7FY3bjkq4iLlF40DHYZDUMFo7HzGCjJoLjpirnUyczU-nFITTpaNAs_SmrF2lYQ21wSu/h1000-e7/Cosplayer-Pudding-method-Dafa-Perohub-2025-Year-06-Monthly-support-group-subscription-8-set-154-4kUp-003.webp"
 ---

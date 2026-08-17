@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "过期米线线喵"
+tags:
+  - "过期米线线喵"
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6C6MBhk3wQQLOpHSD4jfDOoWmdO7Ax_FPfumQk5mnD5wOj9IGLM4qkrOx_FLjI_Px2EqK0_wQr-s139uhSxQOlM3CqAnIpcTm3pRcypOgNQgSc8Is-DKmTjbfB9M8oZ6Cr7yZO8URafEDxCDVaFJ_sIzmeKC6ps479so5lObl-fXaxB9i-n_dVu7WkA/h1000-e7/Cosplay-Expired-Rice-Noodle-Meow-25-Years-of-Chinese-Valentines-Limited-Captain-Picture-Card-Bunny-Girl-49-4kUp-001.webp"
 ---

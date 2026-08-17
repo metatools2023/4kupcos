@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 38
 image: "https://lh5.ggpht.com/-6INyQk3OziY/ZXZELPdOEcI/AAAAAAABVZY/imr_PwaqCY0cBIFv0LgRUQOBQhCzmzfvgCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Juri-Han-4kUp-001.webp"
 ---

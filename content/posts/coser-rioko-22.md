@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "rioko凉凉子"
+tags:
+  - "rioko凉凉子"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZr5C619rfe-nUVW_0hVeZ5_1fj898lSq8uAich0V7fls_Jv-U3p8L2NN39z7dJgf9pU3zDXd458IFGA_DFBsV369H_rSbAwVpYUmBWCmf-lF0w3Q9VG7QAQ4sVGAI4BFYXPn1EWndXZK2dfPdho6CabsYP5NhGJ_xkhLJ5SjH7Zy_rZYsAXKsfGqCjwU/h1000-e7/Cosplayer-rioko-Liangliangzi-azur-lane-Hindenburg-cheongsam-Deep-Pavilion-Dance-Theater-23-4kUp-003.webp"
 ---

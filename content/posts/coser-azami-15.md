@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggMFZGBdoXufCtEOYYWZIpQ5AnV0DNOo7qxjPr_NJH-_YwEXSpSq5S_myrbqdn3UU8-ojSXuJnUPaEl-EBE9ptlyzTCC5GR_KhguaEKcrT5QkknqOnTMmHklIm2BRohnH4W4C0fqLl8HIRedSotXkg64qg6kAhb6rSzSMYyZcGMpHrEOPPx9fMM4Nqd6Q/h1000-e7/Coser-Azami-19-4kUp-002.webp"
 ---

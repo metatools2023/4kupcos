@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Coser@Byoru Fubuki (43P)"
+tags:
+  - "Byoru"
 photos: 43
 image: "https://lh5.ggpht.com/-Lm3GAlUWsuI/ZGaAJX9jIUI/AAAAAAAAIx8/vwm_u0Pu32w-GIHJq25zNKnzPmfn6GMBwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Fubuki-4kUp-001.webp"
 ---

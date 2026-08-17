@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJDAxLJmCP18tES2ea0lPCEXX3gyJo2Mjy4i4oC-PeiG9JfYQyov2YYnEYJmcn3o5JDhxlf764vDdDM6um-C6s8zfrm9P9brd0fd8ArSfnyQiSd_YVzKr1IEeMd115LItGRGjljfbvBxxMulWgvGwIBf7ZsjEtHTB4vt0vkg_oHmKkQ-k5KZ5Vpey9c1kW/h1000-e7/Coser-PingPing-Marin-Kitagawa-31-4kUp-001.webp"
 ---

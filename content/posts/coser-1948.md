@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小青茗"
+tags:
+  - "小青茗"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRXQ5yBq7xED-_-jGqZve1uYHd2U9kCLaMc347lW2ys8n_3F4-k3yuLp2WucSBquf0rBs2d5ZRXfUiyBJDzh3RkbA9P5vZBYZ0OceZpE15prp0flMouSXAYvXT8VRnJXmWA3QkIHwzQqgOUYCh4I0oBeKD-QFLY7sWaxglwknmiZenXqzU54W3LlhpJN4/h1000-e7/Coser-Xiao-qing-ming-43-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "无影喵喵Ghost"
+tags:
+  - "无影喵喵Ghost"
 photos: 77
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXDa3SCOIVJY0Ac6A8nsMc9ibQpw4Ba6b1I6JB3W0sh_wV8wx4UFD9D82GeMe3_SO-NLTOp0dou3QPfHSIRziSTtzQ_FU1jJZeEuuW5_0SEKweXUY1hB1fsSeKr0Tq5uU14xYFbeYlKVoRJHmJtk4JU_PuhZ8k9HPY6EDNhHF3XNkhSQy3DBvPYxJYvEPc/h1000-e7/Coser-Shadowless-Meow-Ghost-Nurse-77-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "切切Celia"
+tags:
+  - "切切Celia"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdS_7boKF9jLyDMU-yYQNnZnpwXs1MJUAnR4ZPnFbEAzmq5l3jyQ_OZUP4fyozuGv91CAG8GIEQIIgx_qSrawBuVv545Z2Kukyu18Ik0SOPSWGqbPrDIsYGPLNpY0lFMNJ2J_unKAZj6p5xJzbhkhDQqVSI3R75E8x3xDrW2k4xGIoL-WxYBh9DKEhlBT1/h1000-e7/Cosplayer-cut-Celia-red-lotus-shadow-flower-of-longing-26-4kUp-002.webp"
 ---

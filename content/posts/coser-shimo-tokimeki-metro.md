@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 100
 image: "https://lh5.ggpht.com/-HJLWSuSZZBk/ZpRbbd1H5tI/AAAAAAAAVek/YaMk0uKzx5416QXQ8fTk2h0Zgh7hVqzEQCNcBGAsYHQ/h1000-e7/Coser-shimo-Tokimeki-Metro-100-4kUp-002.webp"
 ---

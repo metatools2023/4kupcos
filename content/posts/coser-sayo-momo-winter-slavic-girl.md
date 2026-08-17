@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 71
 image: "https://lh5.ggpht.com/-hOZxFDi88tY/Za6PYd78mrI/AAAAAAAAWGU/r0SJ3gTUTecKpfL7tI32XMlJDe716GGJACNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Winter-Slavic-Girl-4kUp-001.webp"
 ---

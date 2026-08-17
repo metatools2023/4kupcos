@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYMgZPvI6NiuckBUjYItucYl492edVKhaUnH1AkggEuJbm1-Lb5TfH2a3L8-niEJrgbwSaFopJkO2M4fCKWLEUvzgkoxCqzTTK-6eaZnbA4W6lAFGC53ps4e6mJQR-kiXAYbBcryTo0-3UE3pPK9F7G7jlIboNcRJxg4Z8FZctXpVbpkhdUJ5dQfXsLBXm/h1000-e7/Coser-PingPing-NGE-Asuka-58-4kUp-003.webp"
 ---

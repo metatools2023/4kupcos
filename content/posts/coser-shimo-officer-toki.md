@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjMS8OHtr8ELUpRMKlb_cSKuKSYZPUf6J4QFRQAkUQrSVylf3RUINEUgriaQbB56sheuaHaAL-IhTfPzJMwuM0FPGGlaZE7HYKFOaXuiZ6o1r1PT0zbundP46cUYh_Iz03TWASi9gVsjyxWk7Hjkw7xPBIDwKM_NuYuiVKdT4cUFdn7ZcusUiKzEoDiuH_/h1000-e7/Cosplayer-Shimotsuki-shimo-Officer-Toki-25-4kUp-002.webp"
 ---

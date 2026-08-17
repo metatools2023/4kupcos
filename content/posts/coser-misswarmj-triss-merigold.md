@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "MissWarmJ"
+tags:
+  - "MisswarmJ"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimwp0f0iUwWWe5l_ucIT9udLx1wGIfhrB2gGvU9KH_infe8ZKqjlWitYaHyeFiFD42uttPmevwtB3bjcgqRuSYLVjq-ZYjM6M2NwkqGPrFtjK9hcn6MsO585TFUclqbWsnNd4m1ErgSE7JGSs-HS6k7oK6W9zB9JhN9NHb-Qnb_VRlAtdKew2RVGxPURI/h1000-e7/Coser-MisswarmJ-Triss-Merigold-47-4kUp-001.webp"
 ---

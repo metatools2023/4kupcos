@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg1bIRq8Mh4NQK4h8NW5yX4n-9pmuIxEn2bbdIDPl8YGNNa4YnBCZoR0r_D3KIiiBrPT9QnOBT0rNNeEXhQec1LvdvvjTrUGIJnpJLju1s4P98Iku8YtvBI243VvHo8ZI5Vm0tV4PHhyphenhyphenI-K3R9Kr-0SENx0zQqBFpP_e3XsmDN-Ox3Ww6_AgES9cfavMeh/h1000-e7/Cosplayer-Kagurazaka-Midwinter-pink-temptation-21-4kUp-001.webp"
 ---

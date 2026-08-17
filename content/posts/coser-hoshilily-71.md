@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 100
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8T8Dke_DedstkIJAoPZ_sHlHGm2Nocnw3yv-BJ_vSSwRJrt8k0keeD87HaqeQG7IuK3_n5hT3HEFOidtOY4GYE5yw43-bHVDtn-QYc4gUPLl5VFT39Sgc-uPv04hq56uHXZnf25JRISHjdcyJNhjni0uAEbgvwpfzTUIBJBAv0zyWCAFBpLGZcNua8Oio/h1000-e7/Cosplay-Stars-delay-Hoshilily-A-wonderful-encounter-on-a-rainy-day-100-4kUp-001.webp"
 ---

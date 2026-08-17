@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hana Bunny"
+tags:
+  - "Hana"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmHFM3vc_W9WftCYCf_03jAiFErM0id59x044eS5sw6AobKdFipH_ktHaUC1G3zKvsTCBDkkwYriUZhCOdamn4VlwRLhyphenhyphenvc6XQCSWu4F4UKsJmokb-zDN5C3GPJg1Vp5BFtFBXkb9mfa-MP09Rr5c_1i_uKpRtRUkgy1Eo6zXUsGCvhHttRjQuMgFC4hN0/h1000-e7/Coser-Hana-Bunny-Plumber-22-4kUp-001.webp"
 ---

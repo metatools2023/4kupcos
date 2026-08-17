@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "黏黏团子兔"
+tags:
+  - "黏黏团子兔"
 photos: 41
 image: "https://lh5.ggpht.com/-60mdtF3wlxs/ZdN8P5z7IHI/AAAAAAAAmNE/Dcr0vxcRvZk7xe8r_7zNS4WT-QMHl7ZLgCNcBGAsYHQ/h1000-e7/Coser-42-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 35
 image: "https://lh5.ggpht.com/-69HQWs8SVqc/ZQtvZGHOj2I/AAAAAAAAUNA/6pHtGkSVBKQsZxQ6uzVD2o7uYH2Mzz9GACNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Kafka-Mommy-Lingerie-4kUp-001.webp"
 ---

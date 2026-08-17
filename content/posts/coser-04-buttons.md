@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "黏黏团子兔"
+tags:
+  - "黏黏团子兔"
 photos: 145
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifI0DnpwOpMLtVoK4a2X_cj4CWoMZf4ZwHUgnOszeJviZZC4x5EDN1m0lZw3aogXhjxJGTawQXzirbl2vXFeQwWL8Ji3fecHdI9hzvBNOQwOQcKt6B_e5jrhqMV34hHdBO_AuW8ln2FHYG8atAUig9t6gNeKQyzqLNyWp9nBW9QAOKYk9cVCvbiEcRgIek/h1000-e7/Coser-Sticky-bunny-rabbit-04-Monthly-Works-Presidents-Guide-Buttons-146-4kUp-007.webp"
 ---

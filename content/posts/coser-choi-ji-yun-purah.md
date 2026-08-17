@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi"
+tags:
+  - "Choi"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtNAmEuwnfWjaM_7q_bFdO9-sz-UqrlxDcKSJ91hyphenhyphenzHSviUXkegySDJVMFPTVLqCnaa3ht9MbyeN1M2nvyA7XVbFsCKYd13zhydIIodyMb6SMf2QKKQihdFUqZpFI_hBUd00Z1RilY9osO3iAFS_KbUYlyQmTifUsLMA64w_esjUvgfD7mmtS0BWxAFRg/h1000-e7/Cosplayer-Choi-Ji-Yun-Purah-34-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 25
 image: "https://lh5.ggpht.com/-_2pboY7UTW0/ZJ4TlEamREI/AAAAAAAAcE8/UStEgT8WfE0rvVQQF0nAyPxJBCf16TiMwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Milky-Bunny-4kUp-001.webp"
 ---

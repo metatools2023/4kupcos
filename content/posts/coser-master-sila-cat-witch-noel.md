@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Master_Sila"
+tags:
+  - "Master_Sila"
 photos: 75
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoSlyBbgtxHWNpuoTXhoCNZq4HTqzUaPxVxQuJRFmO0tSTPZjc6S9HyxseTpBIIU7cw4RxgoBy55SXhg3gx-OJVlmBYuzZ3ZiQzpdgv0iFQIjl8HoYkujuQUEcVj_SzkzoHP-CCHZKO-HzYMUZwMFVJoiSX2d1iEqOE4jmIbyJlukx-Eoz_PpKOfHUq9hr/h1000-e7/Coser-Master-Sila-Cat-Witch-Noel-75-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "花兮_honoka"
+tags:
+  - "花兮_honoka"
 photos: 11
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXW5tCNzptw_AQZg8nEaqBCGBZ0GuRlHqDAD1H0uQZIq33FNw0sTPpAQiLhal6Emq7vYJN9zFHtmb6M_Ltcvvu8qbxbC4-lBRb8dKZBgEkQvUiEsgt3qo2kEC6THy7xwir7Q7pJyqHwfFIv6G-ClKjkuSoABD5RZwRVC1eOqymHFhZM8R-Ts-21aPoeX1a/h1000-e7/Cosplay-Hanako-honoka-Genshin-Impact-Yae-Kamiko-11-4kUp-001.webp"
 ---

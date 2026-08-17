@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 30
 image: "https://lh5.ggpht.com/-yLhMiYL3UO0/ZIZI_Ao3p4I/AAAAAAAAK0M/pf9Jz4mj1ok1qQECgI2gL5W84X8hJGAMgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Leifang-Autumn-Festival-Mooncake-4kUp-001.webp"
 ---

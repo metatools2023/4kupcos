@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bangni邦尼"
+tags:
+  - "Bangni邦尼"
 photos: 102
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2FPEfKGqTH3Oq1rryRafv0LBkBg7eB12TB2Kfl5eIXD1zIBMQxExrOVxMFx0aGe-aqRaQWwKYQ2mfehdPaO4X-e7Jozngpk6SR-I09j3SqejxPfSwUR_J-jJH-42a0E8wQlTk7YIWBMtWwTTdpQLFo04aPt9SO9En9T27D5yX7iroSyeix2VnEEeQKduE/h1000-e7/Coser-Bangni-102-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tenletters"
+tags:
+  - "Tenletters"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVGUkENM1ICILRC0T1_BaZ3FVOBfYbVb6roKITwSv2-SXIOgRSN7IkkJU0AT8ziBuL0s3fB7rgtcOr1yEebFHA8_bzJOnpXkHWC7SNieCDSi2w9PGDhjI35vuTesMfDLKh_N42MzpRPQiSb9oy2xFz3RY_r-rz-CvxZUYbRQk6tFhRPc_39NlOrvnATO0P/h1000-e7/Cosplay-Tenletters-Little-Red-Riding-Hood-and-Big-Bad-Wolf-48-4kUp-001.webp"
 ---

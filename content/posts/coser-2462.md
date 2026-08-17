@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkyO6j6XtJpk8b9E-WpHuiHJaHkfVj8FneFsQKlrsvi9qfXkh0XHe0U-zwqWRmBmvfsJK6K8UGxNM0KrN1g8sHLNTLT-PBWo_XUjpFMhMakD-WD3cXFamfD1tx6V6EvmoM8mmlivXxb7w7WTET_lWPrr14otA0EckO2w8O84na_h_39apu9FATSyo_UeE/h1000-e7/Cosplayer-Sakura-peach-meow-Greedy-for-coolness-16-4kUp-003.webp"
 ---

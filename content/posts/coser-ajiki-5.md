@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "安食Ajiki"
+tags:
+  - "安食Ajiki"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcg9vc1jw5XkigMOm9rBzNfc0gtw5DC4ItGk9ABn3sycK5XWvjK0QwAiZxejqnhr3OxPhWHO73cD1qYhMH0RY_1GCdW_wf2QVmnk_K1ULDfVYEGbmQgKdFqBQue6XOzmFsYDlURBImEI6gi4jAw8gABxdUfBRai07jtw_ZavpL4icHv_By9FrcxJu0ZzB-/h1000-e7/Cosplay-Anshi-Ajiki-The-Little-Successor-of-the-Episodes-22-4kUp-002.webp"
 ---

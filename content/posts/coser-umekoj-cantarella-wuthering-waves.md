@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 79
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJzTE73-neZ1HgbpwjjYEsTfBrAIMI-DMNmgblyPgurlv-bMhiiJ9aqgbCmC8OEDuBVUYUvAXKePHZxdsoSe0aQ17dzaraIJSvlQG9hJ4IQ9kxyx8IKCd21tLQUSidakRn-7G7ElFmIlX96WVTYW3cRISh9m02stRqbMPKquPtY0dZsk04_PzBMTk8Iw/h1000-e7/Sewing-Uumekoj-Cantella-Wuthering-Waves-79-4kUp-006.webp"
 ---

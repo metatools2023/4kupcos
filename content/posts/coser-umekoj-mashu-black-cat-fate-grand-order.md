@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 78
 image: "https://lh5.ggpht.com/--QoMpAbMexs/ZhAkptwYcbI/AAAAAAAADZk/b0rLjqkSEmQcagc-3rOPrRc-26nxPF7nACNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Mashu-Black-Cat-Fate-Grand-Order-4kUp-001.webp"
 ---

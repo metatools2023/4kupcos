@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 30
 image: "https://lh5.ggpht.com/-aO2KmHo2IQE/ZejxZr15tRI/AAAAAAAAx1Q/T_gTiSgkD3w2AtOI08PVz-xhTSXrRRmZACNcBGAsYHQ/h1000-e7/Coser-Byoru-Aphrodite-4kUp-001.webp"
 ---

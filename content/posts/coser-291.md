@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九柒喵"
+tags:
+  - "九柒喵"
 photos: 64
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7HxvYU5VhlRCShrEu4PEmpIDnmmtteAuRwkgySX8X93OpHYV020L8WoZkBpZ6qrPQ3t_gGAcoP1WPKDPgGGZci32paxAV0wqmEL6yK6_iMMrCm5NUl2GowwO7Jqq3WFVjy8vVmjH0KnHaW5nWN-yDM58cZClnvPmAcYBi5BmX1jnpwDMZqImBuHOWXw/h1000-e7/Cosplay-Jiuqi-Meow-Tuyue-Liyin-64-4kUp-001.webp"
 ---

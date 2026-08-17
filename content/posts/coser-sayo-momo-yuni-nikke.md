@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMDQ9cwYwciXOgmQJNFQsioFeZt15y7I1wwMcUr0SettiJVlfHuFqm5KSWKQxs4l45xQ85Cz57NwNlVJkQxJst409rfGsKwJp59UAa1W6GcGr79y7MegZOUvSTkLfG4rLP5shOUpPCX2cnvXRVWigxCuB-jlTs-6Nhx-sC1-d6czk88phUfQyUQgxSM8jD/h1000-e7/Coser-Sayo-Momo-Yuni-Nikke-31-4kUp-001.webp"
 ---

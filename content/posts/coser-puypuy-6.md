@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 180
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9yAM04XT05_Twtlh2hekTDTIQxYzvTSCq7oCHsoEMa7droMNix1DbP6cDLPE_lafQOihxOxaD1wC9cEPEVAK9jNdoYSGj_aQe4_e0hYXRruFG1F7OfXVW5XOGaSBaUciOEfvrGMuf0s_QKqOIQKv-huDYj13jIg3ec3C5Ba8Asfwsh5mHEmUhvws5bfij/h1000-e7/Cosplay-PuyPuy-Skaha-180-4kUp-029.jpg"
 ---

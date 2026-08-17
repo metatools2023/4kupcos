@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 13
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjchlfH_KN3sL47_dhJK-ErLS9ojl9GL9V0iFrv1REaHT3kAqrTwCtgQ674RecFda-dFTwOE12g_3X4rZ15huRU4oMSgLELWnYHOQ2i2xMREdCoB4rANjy3dnhyb4j0EdaSFNiFj366dA2dJWQItNf65AD17uB0UWFIRgYA9AG0PcGhbHQ7vPqw27RO6Icu/h1000-e7/Coser-PingPing-Megane-Maido-15-4kUp-001.webp"
 ---

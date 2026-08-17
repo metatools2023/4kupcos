@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 70
 image: "https://lh5.ggpht.com/-WzHhTCxcZMc/ZdZ6_PvtW2I/AAAAAAAAnNg/3164Wy341mQI9VQ_4Wy-Xj28SSufr-sSgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Aegir-HD-4kUp-001.webp"
 ---

@@ -7,6 +7,8 @@ source: "https://4kup.net/coser-yanyan-cartethyia-wuthering-waves/"
 categories:
   - "Asian"
   - "Coser"
+tags:
+  - "YanYan"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqB9ovoj09DT3sRU5JVqy4py7hFrhi40I5brZaIWNS7LAN8pbmGWT26iF6XV3GyRw-cj9EmPJG6MMQO824c-FiHKt8oh8s_P4MNMuLa0L6S59y7xqLfntjCKHJjHG7cmOHRguy9w-IsljAS4vextCDL9p6vKBsjJ-5lrdRmIXtvXN7THqTDnd0nEjBOQA/h1000-e7/Cosplay-YanYan-Cartethyia-Wuthering-Waves-72-4kUp-005.webp"
 ---

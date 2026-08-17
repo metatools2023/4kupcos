@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw_86EskAPjz8sHuF2hN_QWJ6hbjU0J5sMPdt5ILya8PxBfe1sgJL-lRUFhthlEWJggQgO-8sm9Vya4wY_qqeRpdMqyAzw6GFbfGj42QJl2QzPfxOuAgpf9K5ZIUdvqzVuC931OtFjcvqxk-JzfGtm11nz2teNptSY4GOMX-jADNmA2Un6agpwt-bvLrUi/h1000-e7/Cosplayer-small-store-chiyo-w-March-ends-20-4kUp-001.webp"
 ---

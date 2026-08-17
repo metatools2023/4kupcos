@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "胡桃猫Kurumineko"
+tags:
+  - "胡桃猫Kurumineko"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbyvIDXuFf6zpGfk9PA8femXsNGwGdEzzLXRI1ih6P6nY6TNPxd-xGSZAbo7SVyEWKvoIhZAdHyNIuCrG-VyUyixW6trqVYgk4OvTQ1WOc98FkUEzSzOM1TZQBDFZBetYVJp2TbC2xwqbE7gaILqr4CA45we_XGQit2uhXtrIF41NpWm1OyuSinQ7HBhY/h1000-e7/Cosplayer-walnut-cat-Kurumineko-The-secret-of-silk-pants-46-4kUp-230.webp"
 ---

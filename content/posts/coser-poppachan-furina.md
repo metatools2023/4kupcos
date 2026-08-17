@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO7v_ziHXYQvpgYMNBuDygMET2COvAx0RmNauuA2KX2_kIZiT-BaCFGo9i6j9LGEt7raSY-2gGChagiTPIIWcUCY-NX0FqkGLePGAoW6BGGjSQJ_NBO69dJwU07PIzZ1LOHtXeU2S6HSlnKVy4tMK1Pnl1NpBlDq0FKB1tDpIIfl3H4dxh3XKTPwBNn5w/h1000-e7/Coser-PoppaChan-Furina-41-4kUp-001.webp"
 ---

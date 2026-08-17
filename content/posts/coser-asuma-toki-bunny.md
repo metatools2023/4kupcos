@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "屿鱼 Asuma"
+tags:
+  - "屿鱼"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoFarbC_Y1lb_ET-lm1VphdDcSf8FggMU6koOyFQbIk1eWQPKC2O4SPLd-_bjja9TKTFiHRYFbML1cK-hn3goutBf317_8P-oDpikdddgG4JtNsRLdRi0CieHhUHMmfmxCn7dodTH1wfA9cmzuhV2Vn7BW2sX_SR_5PYL6G822oXc6AgYjI6RhJ0qilHfH/h1000-e7/Coser-Yu-yu-Asuma-Toki-Bunny-45-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Yukina (雪菜)"
+tags:
+  - "Yukina"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDLGu9Gn4SMMBUAsML0bclL-PECXmEhHrFVVYUTuhRIVRaj3aDWvKC2pTaff0OsmRTN6pL3a12TJoAeUiUB4yXGYS_2YZjxknsUursnVx6N7FI1aITl6w93Dxh0unUo05TyxBSOpFuXCkn9wtHMV8PBj-xMphUid08rtYpkywk77Cr_GdjKYroRHz3Q/h1000-e7/Cosplay-Island-Fish-Azur-Blue-Route-Big-Phoenix-Oath-50-4kUp-001.webp"
 ---

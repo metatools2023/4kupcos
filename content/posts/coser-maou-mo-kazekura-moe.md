@@ -8,6 +8,8 @@ categories:
   - "Coser"
 models:
   - "Maou"
+tags:
+  - "Maou"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiN2rFmOWcWf2CcS25dW5WngVrfewOXdDkGvHZlgdBMctGsp3evKdMGNmyuZ-OLrgTs8eEdzUq35D0ha0JwbeB_V1xrFgyl19WXkQI4mi4JUPiI1Dg0hfwQqS8LulTEmQYNI0jvAY_pVLGQA5fpD3mGnj_mQjyfyFXElHEDHBgAL1LAG2KNHMKN5Vbjew/h1000-e7/Cosplay-Maou-Mo-Kazekura-Moe-30-4kUp-002.webp"
 ---

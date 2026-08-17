@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 51
 image: "https://lh5.ggpht.com/-KfYu0HrGEdQ/YsxLkahCCBI/AAAAAAAAMTU/ncqFyGXBmMQNT4eDqvT08DIZfm-JlFDkQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Ganyu-Moo-Moo-4kUp-001.jpg"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 50
 image: "https://lh5.ggpht.com/-hnR6nDLn_x4/ZVaKuhOsiqI/AAAAAAAA3yQ/j8Ppz8EUXc0VwlM4g9pCQugpmdPyaT2SwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Asuna-Summer-Vibe-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMnfMxLfSQzPUxMZ9QhGE3J3qePH-pcT-eeBO7ozmYxWqCK4yLK7yQSywsunkrC70DlOKR2saxovXFVsoVnLeWHk_DeZGh0EuQY-EawLK8tqf-hZ4uHPxb_Qpi1JchV2SK8R8GwmvUsRAuOZpWJgS_0Cn7UKjFyMbzBziH2cY4RiNmgmC02jXfpUgf6awg/h1000-e7/Coser-Ah-XunkaOri-Black-Beast-Witch-Girl-58-4kUp-008.webp"
 ---

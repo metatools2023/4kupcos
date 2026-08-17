@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "草莓味奈奈兔"
+tags:
+  - "草莓味奈奈兔"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx82Np2c5hQcE87XODEccg-RbKAOJ27j0o9D3PMQq9sjNI0pSg8fRKNlNBRD_1bi4xi9qncnNuaW8BU-TputTLjg5ot6MWjfz8b2NTJDD0zvQshxH43vIEoEEP0u9BRn8SEi8gibuRCjkwX-OuS-Zo9spOEKoIqBfXmqMVmro1ZUBE3DKlbmrAc97QJys/h1000-e7/Coser-Strawberry-Flavored-Nai-nai-tu-47-4kUp-005.webp"
 ---

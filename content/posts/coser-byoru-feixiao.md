@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 69
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxO3zkUJuT_GMRkCpXfn3O13O5ekRRaL8w7P73xgTr6Da6ZELqCfgid5DoyKh84bWIbXHaVigLU6Kal6Z7chGoCbZK9_EaNkGwn90qzzDh1lPQ1nwBUPkD0gsyy2cdXp6cj1piDGqMmFre1tA_u18d8vUpuPW4zHoCe9B25nwhb_YBkDTaqw0x2365dzA4/h1000-e7/Cosplay-Byoru-Feixiao-69-4kUp-002.webp"
 ---

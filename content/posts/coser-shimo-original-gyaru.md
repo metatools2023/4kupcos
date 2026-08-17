@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-FvgofBjLhoHrPpnWiNXWx2wDNEUmaaLuVA56mC1UQh8ClKN8XfZkhvZS6Cu6e2l5sNX7LWw8RWAB6K4aEKBJAbuE5ApjuzILiQ6VvW6HibuTwFcFeHnm_m0Q5zHy-771U0TLeiyHIkqXik9_7qCnAE0nO5UwBqR9egtfM6hDFrEIeal4_kWI9AWq6sEI/h1000-e7/Cosplayer-Shimotsuki-shimo-Original-Gyaru-33-4kUp-002.webp"
 ---

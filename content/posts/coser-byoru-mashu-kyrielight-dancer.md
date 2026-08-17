@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 30
 image: "https://lh5.ggpht.com/-r4R31JwU2VY/Yqe6zrToOCI/AAAAAAAAG5w/vS9rwURp-cYmZSfGShz4M1A7jUIQN1tvACNcBGAsYHQ/h1000-e7/Coser-Byoru-Mashu-Kyrielight-Dancer-4kUp-001.jpg"
 ---

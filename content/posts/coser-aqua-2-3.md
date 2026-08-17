@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiR_zAjmUez1i-fbHiSszgfq-QOdr2A0yR8wSkK2iOjJNzfuFPM_AihHcULu0B-Z91vLZyLmkmP21r0nBwtbeth3YYh9QeQa4EDXWzwCf9oJzwMgyjCagaS_TOt8V0lPUYTLBSL7M6FiErWIna0xJOCh41yoCyMp254wut6df7-6RrQBl0b7IXW8K9rlzI/h1000-e7/Coser-Aqua-2-30-4kUp-001.webp"
 ---

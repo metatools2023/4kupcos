@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 25
 image: "https://lh5.ggpht.com/-ACV8760TdKc/ZNhGTRWhxCI/AAAAAAAAQSQ/htYjk-_nkxImNh8bP988I7WBlgHoCM6uACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.056-Tamaki-Kotatsu-4kUp-001.webp"
 ---

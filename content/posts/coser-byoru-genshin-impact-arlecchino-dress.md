@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 94
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3c3cWo9W6t3Yhhiwq_lzVplBfoVBWbxeKHU1RUwz-7M1vn24XXr8radjfLEazPNPsNR4UTYx6pSrtQrX-8JLuEdZSQGs14ori3EbO_7P16mYUElAexHUvvspq4d0AMJenF9hzQqUNKv_K4cLzC2LSzUCteMUgP3pA3F3XE2qbZ9LTdQyfkD8wFg874TED/h1000-e7/Coser-Byoru-Genshin-Impact-Arlecchino-Dress-94-4kUp-002.webp"
 ---

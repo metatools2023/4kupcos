@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg201OrCV2Na2dRD0hR1yfPnKPoY5QEwQSNQIQPidPtF7l8linF3O82GDPNxOhbK3WJwmEtYzgkXjw4ULYwB91NbzLZzoREQK5XKFEzby35Vq1bdalFmn4RZahWiEApxaHcZqE014Q6qrVrVUPUdHGDHmF-JTUPun1h4WgPzJ4JdplE63yDw1VSTjy1vgXr/h1000-e7/Cosplayer-Yuno-Shimizu-night-lotus-60-4kUp-011.webp"
 ---

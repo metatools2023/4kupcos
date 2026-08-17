@@ -10,6 +10,8 @@ categories:
   - "Fantia"
 models:
   - "摇摇乐yoyo"
+tags:
+  - "摇摇乐yoyo"
 photos: 205
 image: "https://lh5.ggpht.com/-oYL5WI0TjtE/Ykkmbu8pYqI/AAAAAAAAJqc/rN7WVnRs2nA5bInYATIKd-8GdEsZ939GQCNcBGAsYHQ/h1000-e7/220310-Fantia-Coser-yoyo-Nov-2021-4kUp-001.jpg"
 ---

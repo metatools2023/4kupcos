@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "习呆呆"
+tags:
+  - "习呆呆"
 photos: 41
 image: "https://lh5.ggpht.com/-c87ZFZ_iA4Q/ZQDlkJlOZCI/AAAAAAAALrw/q_olnQ6PjpMfocPQPDKzgKFBzVPCwmBCgCNcBGAsYHQ/h1000-e7/Coser-Misa-FGO-Altria-Horta-4kUp-001.webp"
 ---

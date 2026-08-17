@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 75
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXz__N3z8dY1sGkGCfKFaYDaDWtf8PJkpZpZfh5lMTfiEArDHqzO03Qc2Q_-ixOzev2YHi613UmWtjkkp8bgrziFjIy_U-reB4mLUVPH_7i_6LVk7mSa8vVyoDeaWPmvcXQyGPRSToGrXjwbUUYQXxqOIVGGXb2MjXfbKPU-LJ-cqqEAGL1CiaQMFcRq7f/h1000-e7/Cosplay-Byoru-Be-Marine-77-4kUp-001.webp"
 ---

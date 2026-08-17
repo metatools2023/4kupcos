@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjseA1GejgzFyIL38O8RKhZe_XrQBOaGG-mtGgCEwGJv_rt1lo8N8JguzqoglqUr5OmufsjsVYX0Mck8TkteV4uK31gqbmHUinukLt7Az15Wh1hH6B5Pb-MZs5K1fNz34k_m-5Qd1bl0btYmJ3UzmUsEibnQlRZVKiNbXqRkPYQEOCPtUVseESj8m-4OY0w/h1000-e7/Coser-PingPing-Chiaki-Nanami-Bunny-18-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 97
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi81LO5gCYrjlC1FOZBTi0p0ziDYkdiuFQuRA9MY199IpTOf0VZp3eY_OMWei1IXbZbi6WSp7spW1dB0X3PekKdCHXcdD2lvN6FBI4k2WQany28pIXVneLbK_Y8h5h5mgsrEnFmA0AF9D-6pcLfV70NuheGHXSVP2l66N_yP1_YAs2MN6karX6uN7PurAT3/h1000-e7/Coser-UmekoJ-Burnice-White-Zenless-Zone-Zero-105-4kUp-003.webp"
 ---

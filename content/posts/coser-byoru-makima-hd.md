@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh-OAoUHQlYalu2qZ5PjEkOoJ1C8yPC-uvvEAfKlWtffvRNv_4iF-AXmbexR32X2c95RiMAGB7_xkHPy1sw96r17rsQbuVsA4M7dCqe2mB67WByigkFTJk8BzSd2Ap3K0Lba86Syr1ZDPSAcbGmvIhhgYP85noJqShiAwrQOLZkjILFx9tAh_TyCK1L0mj/h1000-e7/Cosplayer-Byoru-Makima-HD-chainsaw-man-maqima-55-4kUp-013.webp"
 ---

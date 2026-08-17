@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheEb6YLxdHsma-GKWMoReXd3hbPfLGmIL_ZHVns9AmpVN2cLnZhLYnBnmH-irv5ZyUYFwNGcmhma8_rtUSddFcwLpOgJ54eRgzcDtzhfqzkYYW3qGU1nk6ez631MFmiLwE5851AbfRy27N549iibPCEwhacH8I576Kp_E_dxCdwXBZho67JXHQVVnKL15J/h1000-e7/Coser-PingPing-Hinata-Hyuga-Naruto-30-4kUp-001.webp"
 ---

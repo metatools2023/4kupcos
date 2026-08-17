@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 75
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigNscf-NA99vvR1WnNw9K0xcheOVnTqBaXj1BikyK4OsP6OXNvKUzbYsW6LWdG9699ua0l3z-aojdcPdSVt2LCokdDlSayhL0sB_j4jJPfZYe_CX_IJu6hZ2L_hgSmbE1gRQ_Xy0r7k05H-gQR0xVkyXaYPXPAx8QAJ1jJcJ6qXyJ3m6NoliIrUN0e2A/h1000-e7/Cosplay-Kamikasaka-Matsuhiro-Midnight-Rose-77-4kUp-001.webp"
 ---

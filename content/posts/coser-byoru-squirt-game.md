@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 71
 image: "https://lh5.ggpht.com/-UBB2xGd5seE/YstEBh5i-cI/AAAAAAAAK20/M-jtb2IetLIBu48ZK05e6mKGINMINC4QQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Squirt-Game-4kUp-001.jpg"
 ---

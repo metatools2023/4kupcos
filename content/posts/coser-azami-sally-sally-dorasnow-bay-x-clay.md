@@ -10,6 +10,8 @@ categories:
 models:
   - "Azami"
   - "sally多啦雪 (sally dorasnow)"
+tags:
+  - "Azami"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRTSG78Ni7HvVtuPwEE7G80hpVdr51apZdq-2wwJXk8teBumMipxaP1Bg97Hu8Is2ODu76jyJf-EU_hcwTnAAOhinn4YJdwLxI2f9El_sFu2aOLRofIL22OHqZynNKokUh3vU5gkeeD8yQ7RGKw53o1duBQhMiJDNujhiGrT7T-now0ZoZigE1ui6an6t_/h1000-e7/Coser-Azami-and-Sally-Sally-Dorasnow-Bay-x-Clay-30-4kUp-001.webp"
 ---

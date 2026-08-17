@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "三度_69"
+tags:
+  - "三度_69"
 photos: 55
 image: "https://lh5.ggpht.com/-z688CReMyJk/ZBeC9G-2XeI/AAAAAAAAOlA/AW5etsg3Ix4LyQED-ANM1Q49YeKZhubxgCNcBGAsYHQ/h1000-e7/Coser-69-Vol.079-4kUp-001.webp"
 ---

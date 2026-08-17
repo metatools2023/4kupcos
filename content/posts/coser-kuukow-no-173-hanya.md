@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgz3dirdxKVAxvtxfweMi1HXh-84CHrbOM9p949p-TCuWQEW_Y32vtY4B4OPls9poAQWmdj7dbakpYMJEAwT1tqWgNbej1itnQzQ0L5v2elZ0YIRusNPfkn8t3rIxtLkgvdHMl8n4C1I4c4hssAPR7eyEpDWW1GC3GOseSVUi0pPTbRzcQlyY-KPXLaPmGm/h1000-e7/Coser-KuukoW-No.173-Hanya-41-4kUp-002.webp"
 ---

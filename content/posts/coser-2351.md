@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguv1M_I29H4XQ8c0UxH6JCMjlbsCsVC7S3IWbVrum2bZHMnqE6kUpMEce5q6UP9AKCgXNC_iTQd6TJoz2qUFONm6lafC1fSrg0BK9ZP8aic4u7CAep_oaYmHO7dCOsfJBs81w_Vy50JMpxXtRJ_OkIGG85lbBCaV2Xn4vqCD_reFqknQlBZLS_BFwp1ATX/h1000-e7/Cosplayer-Kagurazaka-Midwinter-Plush-white-rabbit-47-4kUp-007.webp"
 ---

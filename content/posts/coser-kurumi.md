@@ -8,6 +8,8 @@ categories:
   - "Coser"
 models:
   - "Kurumi (クルミ)"
+tags:
+  - "Kurumi"
 photos: 124
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjixFIdCEVO-NA6RWaM6j2HNb6M-qYOTc89Rg7QS9qFHwGFfuOXmaGM0obssckLspcPGLJcDeCqTxAmY1eHirz0mcqW60aGFmdrN4nM_ZQV4SC3wTOcDOXMn4Nhw5wLzSg1xjO5i1sHear5haXW1rAZCI8YVKA0-EiBeg3HoVVNYpdT-TWw7uewjN8rsw/h1000-e7/Cosplay-Kurumi-Fighting-Maids-Rest-Day-124-4kUp-002.webp"
 ---

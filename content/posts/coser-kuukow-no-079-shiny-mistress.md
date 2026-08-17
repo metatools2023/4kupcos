@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 42
 image: "https://lh5.ggpht.com/-SkHAzx4CZVo/ZQY69YgY5iI/AAAAAAAAPjA/6vrL15xVFIgGLTcCqksACoi8o6dIRWiyACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.079-Shiny-Mistress-4kUp-001.webp"
 ---

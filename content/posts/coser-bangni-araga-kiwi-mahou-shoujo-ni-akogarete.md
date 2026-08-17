@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bangni邦尼"
+tags:
+  - "Bangni邦尼"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgutjrbPnktmgX4Ggg_yEqlw9CfxJqgvpbil1afX6O5U-Ax3-rs8AB-NlzsHeLudHHFDkJZWH78TXfMp1BUi7P7c9VMxBQYwomO8GruJC-rHOuL5s8miI2UqzmFd0Z_WDOetHxQs0CztATcU_9VVJSFCnOzgtH1nTdjPCkBCourSyEO8p0ZxjdStK3ILi8/h1000-e7/Cosplay-Bangni-Kunini-Araga-Kiwi-Mahou-Shoujo-ni-Akogarete-40-4kUp-001.webp"
 ---

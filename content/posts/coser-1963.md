@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "呆米米"
+tags:
+  - "呆米米"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiMkZY-IZKNRTEePcrPoT3xtd2MnJODN-jaL_mt80ND7PH0oEHc7abnLLx99TbrbcHmYo6xAPobDJd6VUbFRaTW6mXCBTtz0bKlQvXlyLElWA-WdSKg42rr_-PhlHUM67S9Np22klVMlqZ1t_117zLTspY9Ws_OtqW-k7vMsEKv-wg6ch6tWiLZglaNMc/h1000-e7/Coser-Dai-mi-mi-20-4kUp-002.webp"
 ---

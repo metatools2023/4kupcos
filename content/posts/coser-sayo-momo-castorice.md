@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo"
+tags:
+  - "Sayo"
 photos: 90
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZkq_xvVWxqhdRYPersjH3d6q0OudTz4WvTlE4hc2C6mFK2FyYCpprG6gsb8mqf3bLYVj1fgc5oaXIGDgmvbZF3gJwwTfyzLbcaV5Ri7ns9CGq8uuXk_j98ueH_RMHGjz0PCYH7nVqSOzAkZo1aE6kkUPPq1YJxrsDc115mabRnw6BKSfAO1ej4Dn67g/h1000-e7/Cosplay-to-you-Momo-Castorice-90-4kUp-002.webp"
 ---

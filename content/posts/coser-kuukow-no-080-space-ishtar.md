@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 25
 image: "https://lh5.ggpht.com/-zMNtOYtlHZk/ZQd-VYLgtAI/AAAAAAAAQ7k/WojqNdjTo9QWxDDR2GlqFOESvkz3BamyACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.080-Space-Ishtar-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg65va71ItXcy-bKSMr8pYxfrvZ5Se995DdYWwxZPxlMryetIXTUfmovMuUgubDHc74clHZEGaCnS07vqGnNi2-X8mmoc5VR4V-po9FVzgMCUwqZ03ySVC2LHFrCocidcz06gmX629dIgBqePQ6CsyGpNUJbYqqFTEWdOaVEfQyaVWhO7JQI1yOKJdcGQ/h1000-e7/Cosplay-Pyon-Genshin-Impact-Gan-Yu-46-4kUp-001.webp"
 ---

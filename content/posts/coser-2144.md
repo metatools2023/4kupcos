@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻花麻花酱"
+tags:
+  - "麻花麻花酱"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSu0qPYEus14hXCJDHbS-dyMetd6lykmVy-iNz6oC0x-pCOFkvGhiD8JGSkAfbz4qKcXan7sSWxh-r3qWBcU_ebI6tjxquJ7L3jBU-98Jm4dXAm4VVHQ9NNCb9gFOfcwAdbCBd3FE1F41YRueYS6yU2c4Rq2Pa9bbEYRKqkt3MWQ1LWE4Hen84-5CDNEaJ/h1000-e7/Cosplay-Twist-Sauce-Azure-Route-Katsuno-Niu-29-4kUp-001.webp"
 ---

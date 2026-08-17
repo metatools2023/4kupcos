@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 74
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDia3yJwNcyK2FBA42E1PQqyqhsq1o6MHousYOrCzBSjuTQLqv0-MZyEeWNfNK2pUeG4QftNcZjlrYaTP28JS_KzrwNZCB2dfdLgj90Vi1672zUHndpwCTRX3O0ekJMJcPBg8-lPzO9WzHnKdCSaTBswKFyRiKBfRWSOb-B4OC2bzHrq71ctco8-DJOrs/h1000-e7/Coser-Candy-Ball-Mana-86-4kUp-008.webp"
 ---

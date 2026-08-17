@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "起司块wii"
+tags:
+  - "起司块wii"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy2VezWOCcAjCZfaFi5kDHFm2hS_qUIh1pl4nGPAfC7Zz37G6QUAHmksuFkrNPzWTKphcNh116BE9gqDBIxV4IUbco-cenMT6ZUU_kDpY6sie39ie5dr4kjV4VFhIQP2wpAqgr5ewyGXeM6BlanxNxAKkAEXrqtmXeO6DlrsxTzSWUZKeTUEKdTmlgl0_D/h1000-e7/Cosplayer-cheese-cubes-wii-succubus-dream-20-4kUp-001.webp"
 ---

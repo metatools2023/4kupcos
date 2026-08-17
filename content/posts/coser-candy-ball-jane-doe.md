@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgv-M9TwV-T0201TC9wWIiXZ1XL8zS_I0U5o5l0qgqa-zFE4R03o3NYRq5BEnGuxbzS4MIH-5p7cDw56FLvjvUC1OP0kGaKjC90sx8lcglGDu6iM4IK7TSXiumIueQBMRShY67vwJDIr6YQ54C45vqUtZau6jvzWeCAcuVnR6jip23kfiuVwjvqoRlHxplq/h1000-e7/Coser-Candy-Ball-Jane-Doe-70-4kUp-001.webp"
 ---

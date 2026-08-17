@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVZn3s4bLm5NjsXcifJ4FFZ1jAf9wDiRtiQBLvC9oXPdezzv6DNuloi0mPHl03QKW9WO2F6W-kJpkCym6f61RtrV73uvhTDK-VqRKFam6RE1ZbrBRnVQUZPei5pmUY3rr7NELXKwPf2-4JlScePPya8zFGJPYhlngUTF5YqVwF0bM6l4cV-8NJzzk-MA/h1000-e7/Cosplay-byoru-ELegg-nikke-61-4kUp-001.webp"
 ---

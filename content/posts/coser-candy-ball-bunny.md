@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7jpRHlmPjyPehs-eGT4gATpLLF2hOFMoNnv9UWIfJHjpIHGwFDoHJEFgNwRem_1FI1VZbMCYrESfbY2tHipiJZQL5w26PYlpCoAzsFl-OZ48iTMn2N1KxldorrrWfUXYtgqtL5uM8yqTxyFAS_7hijXnln4Iy8Ccfyaw2GXy6r6FAIYjdqLMhbxei2Tg/h1000-e7/Coser-Candy-Ball-Bunny-62-4kUp-005.webp"
 ---

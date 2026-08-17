@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFnS2Lnb1strrDkeGsELxJiGWSVCyd0PlV5LznHXQGcdtF3VRz2A6y5HzOXBlPT4cQAg2KMh0oR1j6WAzXqVi24sx29xpBRKmXdxvdtcY-zyMNEwn9M2xZEsxqdcx9kb6ReLdz74UaMVMJCADHCqB0dfSgTW84AzFqKu2uPWvYiVOyES5RYY7OFyjyEY0/h1000-e7/Coser-Byoru-Jalter-Summer-Fate-Grand-Order-41-4kUp-003.webp"
 ---

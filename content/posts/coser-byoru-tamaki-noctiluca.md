@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 64
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV9uLhLJ-ldjEUTOIo_2bWag2PHsIGSWYXfzw7bIRuBfbJed2W_iBMDWKWEGQwiw32CYOuRivd6-zrmm7phRvq1vYdXtJhcwg1H02s87ZYAMps_8mGEG69d_mD9kVviXN3YIdzNWSP6IoBGHlyb_IrmSqFL-t1cgYpGQN4-r_OiT-n2EzwgdkMs_y1BQ/h1000-e7/Cosplay-Byoru-Tamaki-Noctiluca-64-4kUp-004.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilklKE4wy4B8-BE0ZAlkbsK9mThLXDs6bmEx8z8gOYVBGVXNPUm3o4WpbAUY02SiT2pQJ14urz9Wz5qipjtnObMOJ8uUf1a0EGRM2viF51y72cBw8azdtfT25YMaNBR17HYUxyRYg5KIhlLOslWzXkj9aFIgAtOwtDkdL6wXNYKdKvaUhv8iKcqHwxsuQq/h1000-e7/Coser-KuukoW-No.152-Clara-Honkai-Star-Rail-42-4kUp-002.webp"
 ---

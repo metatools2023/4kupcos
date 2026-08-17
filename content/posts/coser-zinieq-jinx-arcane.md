@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 44
 image: "https://lh5.ggpht.com/-Qa-o4ObuXWc/ZXePNSQ1eLI/AAAAAAABWzk/2XkJi1H9_j0j6o6ltEUBGZ2X06-fuo0EACNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Jinx-Arcane-4kUp-001.webp"
 ---

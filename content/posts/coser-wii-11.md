@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "起司块wii"
+tags:
+  - "起司块wii"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7AcHAd6D3uWj0VfSwLVvIXSUG8GgeK-XkpjZeJ9d3HlE2ZUuKvgkSfnrrLMoTxamRoD-t9WpxVbd3rr8wo3CxFxuSDa3khPbS_aYZ4l21XYwpUNQr1LRPoniW0XyueWRlFYmWFggocs0e2E5ZqERR3MZnaMuqSlu9yP1X4EDIGDLM-0EAo27LMhYmgJBk/h1000-e7/Cosplayer-cheese-cubes-wii-Kitagawa-Umume-Bunny-Girl-18-4kUp-001.webp"
 ---

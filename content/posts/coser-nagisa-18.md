@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "NAGISA魔物喵"
+tags:
+  - "NAGISA魔物喵"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbs7WzTEszEu3wX3EOJb4YpcvOscx8vX2aS-RAOzJkCjdKLJdIKWeIMWzB_XnWKVEFD9bJkgikUgKYFWHrLgsJnijH1FMLalkJO2g5LFg8_ziUNyQknwvvoRs-YhirwIjlraL8zQfa2jOT1Fk9XlPgNz7LEIGr89SrOlNTh3k6MKL2Xm8TKqNNKSqQlw/h1000-e7/Cosplay-NAGISA-Monster-Meow-When-the-maids-work-is-finished-29-4kUp-001.webp"
 ---

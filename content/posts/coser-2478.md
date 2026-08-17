@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "焖焖碳"
+tags:
+  - "焖焖碳"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMP9KUhb95AUtuPuQImgZFMM75oTyOzCfDUStCniW4NIYRV8llw_x3UBT8WMdKzD1eWlklGHNvGjuJ15Bm6oVGD-m9c6PYyHDi6ENCjc38jJR-qtGa_rEoSoSoMWRpih8nOw8jnxnL63BGyROkeSwj4ufk3KGchbhbEkr844r5Od0NHCae0SSvAGAtzmU/h1000-e7/Cosplayer-Braised-carbon-Tokiharu-18-4kUp-001.webp"
 ---

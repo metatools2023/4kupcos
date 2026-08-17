@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid3MIBEkcRbwOPZo8q1ku_Nd9U2O3-lnFt5Va2Ni3Eq3uyO9e_0_RlsiygeM5PLCOkQxueUSafwNdws080ozvEmHbfwXxyp0f6aeiXEqRN4HSKdNcZEbjBFecQUX8t_iKZnSKrFweVTCVFfEpnNYP11wcoOyo0fo2CZwmq7VpMSYvbEMwVl8_XIiEcS_BX/h1000-e7/Coser-PingPing-Jean-Bart-20-4kUp-001.webp"
 ---

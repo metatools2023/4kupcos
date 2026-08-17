@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "如月灰"
+tags:
+  - "如月灰"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheX-tsSy_-rmXfVoCl3q9R1aOfQoEeSTmpyGLGtxMmJ65j4hN4eqs5tYg0X_6YbTmBHDPNUFkjcnzVj2Bm26ZmG5hWL0IJwluZ-7y8h_Hm9gPQMBKyh2lZquNmboUkGeIZlJXOBUpMxMxNHyQ_HYIp3_Fjwukn1YkVMPIpI4OtR3OOqxECwsrgGKpcqeuJ/h1000-e7/Coser-Ru-yue-hui-40-4kUp-001.webp"
 ---

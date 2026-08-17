@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 93
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEge6yIW6n2Bni45UnbVUSVr6DKDiY_Hwu_WNwfMiEcjjK8YdhPb6Wo2bhXc-hmL13zjcJg-Ej8K1K6Oq9ZT5nygVpgV-tik_hkNmHdBw9LjXC-6Ay-91M222Vja5JfRm4kBs0MWarMNRtPfAzFp_AAyKI37a5AGbn99d5StXtOXt1-1njsTrOpjNzDPV_FD/h1000-e7/Coser-UmekoJ-Maiden-Ice-Rose-102-4kUp-007.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 40
 image: "https://lh5.ggpht.com/-vvqS4E9Gxgo/ZZc_ToeWilI/AAAAAAAAETg/lhRHq2n4In00LumuD4ox1PUXlT6vxXy3wCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Princess-Peach-Figure-4kUp-001.webp"
 ---

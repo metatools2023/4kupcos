@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "亚马逊鲶鱼"
+tags:
+  - "亚马逊鲶鱼"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfLlo-IkkTkgqSs3OcmW7QhZpBSphdLIfXszCkfWRys0oShRmWqwLxPhBvFWZ-XaivgKuN4j01SWsL-Gkr3U_kHl5Z6hgD8icfM0MMqdxm13VKqdR-JGIjg-klfeu9kIxTYU1v9oCBRYOieYTUndvCNhF1iqdnTZl4qK24FyBw496n0IfxQgkLIgrBRFS9/h1000-e7/Coser-Ya-ma-xun-nian-yu-31-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr7ZUsdXyQEtAsSaqOP97QyMYaRYT8VKM2PyOOy7h3Ih_vec9yvSuL-hDTeGlh1v8PadE15h27dyHT-0HTnSW-QNKX2KfA3UuouFYOv8bpApM5eTIWxEGdrnZBP4QehKA7aZqxJH0cXXzOZ3nXWqrNNLzfikUY3CJCmdHMYiXLEkZ-5g1JVM7y53UPhhE/h1000-e7/Coser-Potato-Godzilla-Lumine-Christmas-2023-16-4kUp-001.webp"
 ---

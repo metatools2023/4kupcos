@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 13
 image: "https://lh5.ggpht.com/-7Arjf7o73ao/ZPpU_bbXpqI/AAAAAAAAGdI/wURMijbOIlkMoYJ_Trw3WyLnENmPVdHBwCNcBGAsYHQ/h1000-e7/Coser-Rinka-Fate-EXTELLA-Nero-4kUp-001.webp"
 ---

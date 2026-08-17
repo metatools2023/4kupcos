@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九曲Jean"
+tags:
+  - "九曲Jean"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjR41R6Id9kWHcIBcIT68kMocw6EXGD42UsfyI_4IhZRWSP7rffgri_aFLiqJz-WmFjmW7_OLQWJE4OMhKaShJUw342s8iDlINdT0nMaMuEUy1KFZtFOA1qThFFo7QMZ-HEdwgnGYaPrpujNTgbO2GdrKSSDcO00IoLCrDUPUiPCphW14DOQTou6BzYhrA/h1000-e7/Cosplay-Nine-Songs-Jean-Poetry-of-Maid-Xiaqiu-35-4kUp-001.webp"
 ---

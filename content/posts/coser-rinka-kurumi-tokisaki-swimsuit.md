@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 29
 image: "https://lh5.ggpht.com/-IG0aMyu7jbw/ZMWNN-lwuyI/AAAAAAAAjN4/Tyl-RbL-62AzbmpUKqKnuripAE2MxdOBwCNcBGAsYHQ/h1000-e7/Coser-Rinka-Kurumi-Tokisaki-Swimsuit-4kUp-001.webp"
 ---

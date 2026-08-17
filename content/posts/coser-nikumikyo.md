@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Nikumikyo (きょう肉肉)"
+tags:
+  - "Nikumikyo"
 photos: 7
 image: "https://lh5.ggpht.com/-J1zha5QPr44/ZRiqBxKqxDI/AAAAAAAAdhU/_ICqG9t-Kt83ZueWvIImj8eCSJjbcLV3QCNcBGAsYHQ/h1000-e7/Coser-Nikumikyo-4kUp-001.webp"
 ---

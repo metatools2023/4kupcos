@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2tSoxIw0DjB8qz5e9G0w21YTzGpWgSJDFaEU9DOcTZwFLv7sx3uMoz0GfEpVEiCfSgw_Kbl0I6ArBUR5RkRq8FGdUu3DuZAfrHaGDdL-cMTkLnvwwj1s6jc0m0anAaBx6G6ZIfueDcm8y74gz1yQ2NVtH3A1vNnR8VYWEi4XHo6J9GsVx2dhKswOPU5w/h1000-e7/Coser-ZinieQ-Pokemon-Marnie-SakimiChan-23-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "lMusicl"
+tags:
+  - "lMusicl"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCGoUXVrJahVf4fRTiKce2GNiRsm29uzQ_igI3kQksIuO3j0jLw4dczxaBHXAPxpDZzV8GTizw20bWUKbvYQUed-0t6PW-UjnYogaNbR_C4v3r2t9w-3VFBAWgLBjiy_SbO_SKKVR2lk_dDvCdltmKoxMRJtNbIC6FV2rJVMtSe-pX5Kok3bgKrClwfOc/h1000-e7/Cosplay-lMusicl-Marine-Senchou-24-4kUp-001.webp"
 ---

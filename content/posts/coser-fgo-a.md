@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "上杉绘梨落"
+tags:
+  - "上杉绘梨落"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmpHChGKBR56W118TzLPWLniuEJJHi3F1RVK2cZ2MFspKM-5RKtJrb0OFsYXFZXdUBaVPXe6CTkJKz7uHTcRljdmgOohSZPrfbgew23ybu8luIE3ZWgC0dBB37K8-frun7mSXmE2K3o07kqV4e3TPAkmarxIcPggTCH6cBh65qwV0DWJ3W8M6uMnKE-OlR/h1000-e7/Cosplay-Uesugi-Eri-Luo-FGO-Black-Gun-Dai-Royal-Frosting-A-39-4kUp-001.webp"
 ---

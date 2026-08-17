@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglGtXHVfMaNMioadTdsRnbsTlKW7fXzrOhriopCvsJRQw-9seSImgLr1eY9GTd3TU9wLJNijk3J-cHs2fTBabqFdq_rBIzi0XXb3TjsCnMr8ppuhdqh3wSbrIvhyphenhyphenR2NvoC5L4frq-EfVxVlVYX9YgszjlQsHN_ODISc6fSMEciV5_hQHdgQ_M_weUfNQ/h1000-e7/Cosplay-Kamikazuka-Matsuhiro-Death-Sling-28-4kUp-027.webp"
 ---

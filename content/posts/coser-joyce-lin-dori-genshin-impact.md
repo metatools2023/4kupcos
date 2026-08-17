@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce Lin"
+tags:
+  - "Joyce"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxgmJCPAbDAY4Ofg1nXVvI1cfRHSHdYjP3K6yhuumFnB6eVgzbGw6VXszun8gTQp9PsJZHDTn5tXX_zViNqxcgtzWhnI_aIhuDx7kjhiVpYFxp72MrN3LXXAFrJvc-uXzA6pHP3nLGORtzqoPFquTZ7lNngb_CplvhuQ-mg5GmtSXI92Vey9vYaZ-GedA/h1000-e7/Coser-Joyce-Lin-Dori-Genshin-Impact-48-4kUp-003.webp"
 ---

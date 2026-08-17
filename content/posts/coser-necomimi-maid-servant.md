@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "习呆呆"
+tags:
+  - "习呆呆"
 photos: 50
 image: "https://lh5.ggpht.com/-u1KU-Ulqsk4/ZOvZe28-2VI/AAAAAAAAcvk/2IGvyxihyXE3xnGof6qaBgrIRo2Ia0kSwCNcBGAsYHQ/h1000-e7/Coser-Misa-Necomimi-Maid-Servant-4kUp-001.webp"
 ---

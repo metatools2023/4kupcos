@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Menruinyanko"
+tags:
+  - "Menruinyanko"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWxOyNq0LAiHY5rfp8kqBjJSNqT-seczRbwVZmKvCnDvhyphenhyphenkM1A728XBkU8-Ykp4IbFZAeURQ1vc3G_11Tm4AaRfo7tfbE3owBfD6ugwbqX8DgrU-nF4pbMxDnSTCjKHxAiJWoGEwFJluZkuRVwOc8FsmYnyYs-10SSL7WBsEuAT2sXPUOU5upeIOhjifiH/h1000-e7/Coser-Menruinyanko-Red-Bunny-24-4kUp-001.webp"
 ---

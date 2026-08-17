@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Natsuko夏夏子"
+tags:
+  - "Natsuko夏夏子"
 photos: 71
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwpc1c1hBMw0JEHAfLmYqMu1i3V36q9iDmuSZwZIWZyicbs8kxtyMYkn35X4LCuJzhWxYDdDQUQGqDUJYqmKcEroIJse7JEidDmna1re5JHwRs-7HJKPG_-Mf9dPAAi1GlN8Wwzy9_ZCTvJeMSsteSeDG8ABEMCA1c8fLF6QjGlA99QCUmRG5MAtS7z6E/h1000-e7/Cosplayer-Natsuko-Azur-Lane-Oyama-Miko-Rabbit-71-4kUp-012.webp"
 ---

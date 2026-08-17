@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRJ8Qc3hQQMwUexrayRW9Yj8f-hxemjDGJCtu7FApYwrWro0MQVHCoxcsESANl_pvu8iHjBWKV4AohFWA9Ubc2nMF_wxN8vI6Z6sQMwkh7uhz4VI7FaZMshfLBPgO9mO8uSVF6m2QJunpl88VbWOq7uRmulitsGNOAfhmXd2hBq_JLMQfUrNQKqNbxuVlB/h1000-e7/Cosplayer-Mochi-is-delicious-Dark-night-pure-white-40-4kUp-002.webp"
 ---

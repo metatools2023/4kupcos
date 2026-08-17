@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 13
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPxsmDOi7WPedAUet_BPO6p4Sh0O8RNbhXWFXEn8tzG0nATbpMr-SFqczxLk91-6qZEwTDGw1807faS9FRawdGWg_hyphenhyphenAIohQyIXUX9Sq3-klf8jTw8ux5io2oEXkpE1sVVv3q7nq5yUr_HJASnqYGlRDuT4EQkSM2qkpoyERK8gpR6p30UQ_oaDslP7bU/h1000-e7/Cosplayer-Xue-Qing-Astra-Rem-Cat-13-4kUp-001.webp"
 ---

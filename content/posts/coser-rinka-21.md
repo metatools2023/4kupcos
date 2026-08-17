@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwNgRVYwOQ5gLdHh26a-1DM260aos2y5tpRsfzPbCgc-kqep03Uy3ujqieEbCKkV5hZFhCqDBbOPsTl461QjIl-MBBAAQyK4PG2V7OvMkJaNgm8BzYeQFtlQOMneasqGkLqZlx21cTIFA192HTtu9wN5oirNGMWZwFTcPLtvWN4gHSfpcyB4DSsuYQIHrT/h1000-e7/Cosplayer-Chong-Tian-Lin-Hua-Rinka-little-zombie-25-4kUp-001.webp"
 ---

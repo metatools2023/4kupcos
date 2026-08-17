@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "钛合金TiTi"
+tags:
+  - "钛合金TiTi"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrFZyurWtT_ZIZV1GYEGLIJRGKLO-ItFcfSOsXAq_MigdKuxDMCiSqIKhyT8YdcGD3dzL-6Y31xgbjLDBiGCETMU4emA0IK3pizHGcbOJsxJdz9jSJVbTYGxwv7okJvxIux8Th8nu-9Wusky7URW1zehI0UnCmH6Kqg_fzOzNTFOon_TbYOtB4MEEqjiEX/h1000-e7/Cosplayer-Titanium-alloy-TiTi-D-e-m-o-n-S-l-a-y-r-K-i-t-s-u-Y-b-Love-Pillar-25-4kUp-006.webp"
 ---

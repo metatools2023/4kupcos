@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 82
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPmiSqYXGVdyxKaYGfX_rgLct1JcZozUyhZ_zU0h0pBWaeApib4idtxPX6Df1HtJ1hxOUO0FXa-8i7w9eOFFhQPkAd4pF7eDPzvlMMEs1zGo2Jd99P0K7-sDg_dH4gSbAueA4Q956LjZPi3e0Y6S3VmQ3Np9YJTBQLAiUcjs1TDwlCa4rYw8TVn-cDEA/h1000-e7/Cosplay-Byoru-Gold-Kronii-82-4kUp-011.webp"
 ---

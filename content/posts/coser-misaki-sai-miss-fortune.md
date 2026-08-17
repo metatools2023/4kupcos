@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Misaki"
+tags:
+  - "Misaki"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhanBc3fp66p57b9Txs9nOMUeW-h9X_M4S_rPZhJsl5xGRyvvJfQLuYiXpccxVHUjOAHiJMqSZzv7E8cvXFKQn_sLRZFwrW8ZsV-oAHqRyO4PDbX_XzJu9RUcWLV7GGR2G7gZLPXf4T8sbT9UCB9bMZutNRmnBLdvab-77vLJenbqQ9ZuNKZGWKn3TgmSpo/h1000-e7/Cosplayer-Misaki-Sai-Miss-Fortune-26-4kUp-003.webp"
 ---

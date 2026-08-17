@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayathefox"
+tags:
+  - "Sayathefox"
 photos: 15
 image: "https://lh5.ggpht.com/-_PxWjJ1dnVw/ZLr57u2CLPI/AAAAAAAAbf8/M0yUyjjx9fQpMj2Bi8CEn8ySVswLREZJACNcBGAsYHQ/h1000-e7/Coser-Sayathefox-Emma-Frost-4kUp-001.webp"
 ---

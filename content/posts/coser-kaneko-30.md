@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KANEKO_咔喵"
+tags:
+  - "KANEKO_咔喵"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfW32c2l6p4kEFdTLFIlTZYXyd_802bkNYiQu5kHKe7bjLX9gmYEbWyJ9l32gUVcD9MSktrr3OQLxezfQVIexaJcAsLOnC45q-ysBY7e0lW3Di2NHXuwxos6JTQe-dMRCaf4THqcUq5zJkSHvdzd1O9lJq9t2v5-SU1QFwu3KbMO19wBnWchtVHMEJZEpF/h1000-e7/Cosplay-KANEKO-Ka-Meow-Purple-Bunny-Girl-Selfie-in-the-Mirror-15-4kUp-001.webp"
 ---

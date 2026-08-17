@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "是一只熊仔吗"
+tags:
+  - "是一只熊仔吗"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy32KwG9o3FZN61Aqu8WBobdFtfA_gn3pqolQwd2VZD4hujqqYmXt_8P4yLwfkHcDmXNEnTkHgj0JB0nRLEfb3SQzPwJ4mJ2NwDRVbHAivuV4hgDSC8TBrXP0Y4neVIJ4dj57oxj9nN-WZuzX8CspOpXv5e8X1SPd2sMyJ7TDG_66SgB-2XYDuSZhCxhMv/h1000-e7/Cosplayer-I-s-i-t-a-b-e-r-c-u-Urushihara-Kaguya-42-4kUp-002.webp"
 ---

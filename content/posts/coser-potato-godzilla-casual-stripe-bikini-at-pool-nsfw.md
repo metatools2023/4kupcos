@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBm-0E4La2cSpmwPsHYZ419k_4ZegecT_yEpgWtPF_-EI0guID90WIipv8oopvSLuqCkatCbvyF-icvg-XhSOS_Hy_XfBUAIIZoOqsX71GQlOq6Tv-FX9Tc1UNdcCobc0qYNabaKGsbJ1rX84LHMHON28CnafudxcuUmfJ6WeWovV-AkZaV_Nb13pCnqQ/h1000-e7/Coser-Potato-Godzilla-Casual-Stripe-Bikini-At-Pool-NSFW-28-4kUp-001.webp"
 ---

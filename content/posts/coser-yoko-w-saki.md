@@ -11,6 +11,8 @@ models:
   - "Yoko宅夏"
   - "小野妹子W"
   - "白金Saki"
+tags:
+  - "Yoko宅夏"
 photos: 176
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsiipqM0IcJab1Mac9NqiSeNBjz9m3ppymY2aCC14jwyxqkzkuEXkC6jarnurmut5cxB6ALIBUHtHR2SjLbnWKH8_hF8j-p4bf_5Fx0Az0-uHlPHhe-Rb4Qi1mQepOaG4ZoaUo_hLDseGcg9Y2kd7PZT7GjR0CAPFWKDTqfaLWPOUwhi9LqFQmBgKLi5Hj/h1000-e7/Coser-Yoko-and-W-and-Saki-176-4kUp-004.webp"
 ---

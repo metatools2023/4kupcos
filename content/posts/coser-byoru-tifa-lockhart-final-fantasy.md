@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 86
 image: "https://lh5.ggpht.com/-SJQ7s6fb9rg/Zi7WMjIwB_I/AAAAAAAAWYk/7I419EPiElQp5UX9T1CtjtqFS96x1-lQQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Tifa-Lockhart-Final-Fantasy-4kUp-001.webp"
 ---

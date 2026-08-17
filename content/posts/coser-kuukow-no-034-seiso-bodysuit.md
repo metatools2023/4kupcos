@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 24
 image: "https://lh5.ggpht.com/-lIny0lPzAj8/ZLhYKJmNCDI/AAAAAAAAZgs/fAjH0v7-mKkbtWXjiUCAQBQq-fjpTSYIQCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.034-Seiso-Bodysuit-4kUp-001.webp"
 ---

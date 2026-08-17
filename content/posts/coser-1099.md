@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小九酱"
+tags:
+  - "小九酱"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEippWFH08uGmUz9SpbifvygsKZf3EShMcT1a2zuVec0Q8sW4kwOKk4fJptwxYr6ZMcdMpcqtN8tknt8cujCHORCprh6GveAINn0zcvsGl0XE9wCvSjiBzgLEYDNlITOgzZXAoQAKDQH4F-T_0xLjl-ZaI3KVgkBf7IRX2VhARxE9VWSZGimLyZvSKa6gkI/h1000-e7/Coser-Xiao-jiu-jiang-30-4kUp-003.webp"
 ---

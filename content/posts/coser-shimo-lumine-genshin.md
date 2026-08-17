@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb2Gm4mGnxt4eyIC_pNURdVqHQR_q2ejofFJ7sWX5J9zlCl5mgK27or_tUGfoQR9wyjvt1JzoZfflIEYoqUfqTtGfI22GXdtgnCj-33q_Tx844rwhB3uNFOjhExpJL7pV_a1h2QWZEJ8eM8TVKH1zguEl1HgXQ5tx08HymF3Vmyn6SGxh4oIZhvP_uU2A/h1000-e7/Cosplayer-Shimotsuki-shimo-Lumine-Genshin-18-4kUp-001.webp"
 ---

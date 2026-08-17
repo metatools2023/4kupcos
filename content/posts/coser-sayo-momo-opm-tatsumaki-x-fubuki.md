@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 94
 image: "https://lh5.ggpht.com/-HOrFJZvP-UQ/ZhbAuGAuGRI/AAAAAAAAIUM/N3LLF4izpr8lM-vAbBtlmd9KcScX10PGQCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-OPM-Tatsumaki-x-Fubuki-4kUp-001.webp"
 ---

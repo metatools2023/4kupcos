@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mimichan"
+tags:
+  - "Mimichan"
 photos: 23
 image: "https://lh5.ggpht.com/-6dASGDcCUvE/ZPfJvH20ZbI/AAAAAAAAEK4/YSSlmC3oaZwuXfDcTvPVUhCJ-PKokIG0wCNcBGAsYHQ/h1000-e7/Coser-Mimichan-TakaoandAtago-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ Zani (Wuthering Waves)"
+tags:
+  - "ZinieQ"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoim7-tbuqeb5e5h-blVOcXgyykiacEbrs2pHbzrObuPpv9AXYk3cVkjKmrQaK0tuxdruuUVIiDWE9QTqL4xx422iiRdSi6vOqR3DCGnAE_qhKEQoHzuGNAHIDShnhCwZumPmbj23hg_DVlezE2M_uMutt3TSlSyGqq5ifmRwgfV4JH7xcFn_jguGKZ6E/h1000-e7/Cosplayer-ZinieQ-Zani-Wuthering-Waves-42-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 35
 image: "https://lh5.ggpht.com/-cLiAbc9T9tk/ZdE-lGGeUhI/AAAAAAAAlEo/JitnEr8Wbv4Upsa9xxnGoIC1_s3850gZgCNcBGAsYHQ/h1000-e7/Coser-Mercury-Nguyen-Vol.13-Full-Collection-4kUp-001.webp"
 ---

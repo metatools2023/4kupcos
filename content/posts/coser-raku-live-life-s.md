@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "落落Raku"
+tags:
+  - "落落Raku"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1B7MUdfiTQAxvEKwdZ4O8-evQLrpA4kWawxoyrBKf3h-kKL8VKYlw8_Ve-apu7SIPnkVvbSpywiNuwHK7s9l0ne0YkNl1HfTJyS-_jDTOGag6LoFGw5gbernStW4pX9lWIyYROkuYA2sEddMh_MkKpGkIP0jbXj97pLHHy1FVozr7C0ztSVlTSXm8Az4/h1000-e7/Coser-Raku-LIVE-LIFES-41-4kUp-002.webp"
 ---

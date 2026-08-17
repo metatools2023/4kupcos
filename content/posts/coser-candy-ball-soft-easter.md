@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1ZDErDVkFveyW153fQfhKlNm_8s6B9H-3s7I3F2XtXA6oeqeStjqmT0RAqEZpugtWajgoPRUJANBJoBk4iWIlJnqzKbRou6_mE0WqjtXX8DuhqhPgVfYnIfL_5ixIrOwUmXlDoifuUc5pVaGKE-2KQroGJkWunz8oiu4wSPjJ0yc3q2hs3GNv6v0EGEk/h1000-e7/Coser-Candy-Ball-Soft-Easter-38-4kUp-001.webp"
 ---

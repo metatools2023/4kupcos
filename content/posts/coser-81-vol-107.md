@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白银81"
+tags:
+  - "白银81"
 photos: 28
 image: "https://lh5.ggpht.com/-9nmGD_5FZNY/ZMaYHwB-NMI/AAAAAAAAApM/x3AsqqlfmHsHbjByxcXbynN_W0NPzIGhACNcBGAsYHQ/h1000-e7/Coser-baiyin811-Vol.107-4kUp-001.webp"
 ---

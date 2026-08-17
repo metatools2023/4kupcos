@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 158
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipikkl_IUZtMYqMbAl15vrwMqB-vVzT4xmjkBMQwwIGNjeqhAOH-59DwroyM9SJnMa9l8jtM7yaMTBwnwoE332TOU8BxVdEh6yNz6W2T61QboXuy-nlDtoQTbYOrDl3OIKxAxeUbI_LG17zKQFf1oFUc4YBiD8ZNOuVS9OjS97DiJnPJ7tTxHKG_RoFIs/h1000-e7/Coser-UmekoJ-Shimakaze-158-4kUp-002.webp"
 ---

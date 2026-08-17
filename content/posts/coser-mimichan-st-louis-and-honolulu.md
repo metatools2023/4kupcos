@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mimichan"
+tags:
+  - "Mimichan"
 photos: 49
 image: "https://lh5.ggpht.com/-FLr0_crP4So/ZPEcYwjAV-I/AAAAAAAAAJw/fPXy0cCN__UzU33zCS2qO-thmLfx4Iu3ACNcBGAsYHQ/h1000-e7/Coser-Mimichan-St.-Louis-and-Honolulu-4kUp-001.webp"
 ---

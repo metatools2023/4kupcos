@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUpnntxt8w5LDKT65elGIOmaDdtgei_MOQgnkM8SGn7KvmLOIDWcD7OGpi5PML4Kgl7DOHkIEhl_kI81BCNHvDeTsV_notqzZBWhF-2j0gelruZchGLFmVu-5bgOYmAmxSBjPqFN1LEbkpeDuHae3KvDCxC3ISpIJgUmY8uQ-l8dl9n4ODn3VDESGzR4KK/h1000-e7/Cosplay-Okura-Chiyo-w-Azur-Blue-Route-Yixian-Cheongsam-Change-20-4kUp-001.webp"
 ---

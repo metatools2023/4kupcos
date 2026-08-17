@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sameki"
+tags:
+  - "Sameki"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizpe-IJ15N4oh3d_tXR-IxrhvVpK-zIzB9Wq18den4uFwyXmImC4swpZ6JIU5eAgr0FRTNkXW6atw0FHAc1nNB8DuKfKwYdnaH2jSTTEfnPo1PP3oV5-XjDSZfW30QPXt2trFL7wyANIV1pJ7jv5FYD6eovWNMW8TI_bUm2fMg56u1gML3B5qqgxbNm1vy/h1000-e7/Coser-Sameki-Inugami-Korone-34-4kUp-001.webp"
 ---

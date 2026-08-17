@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mimichan"
+tags:
+  - "Mimichan"
 photos: 8
 image: "https://lh5.ggpht.com/-qlmdmhb87Bg/ZPPHvFcGFsI/AAAAAAAABZw/2Ahzl7EdgTIPAZ7bJRSeTpu6OO7_0stygCNcBGAsYHQ/h1000-e7/Coser-Mimichan-Nazuna-4kUp-001.webp"
 ---

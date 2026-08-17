@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 36
 image: "https://lh5.ggpht.com/-BfL5tjBA0no/Zoxr9Lhn_wI/AAAAAAAAQ9c/0mR1Dm3_QosgIP0qdz7anQoeoYTCHvLsACNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Ulrich-von-Hutten-Azur-Lane-36-4kUp-001.webp"
 ---

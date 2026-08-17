@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小和甜酒"
+tags:
+  - "小和甜酒"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQHQpp4sCrpjJ06y3p4p8iMzfkqSIOWi8O7iCVmWqPF3qP_rJsWZiNxZVB4SEAMN71iFpdOyFxiC9kOUyLK9xCWM0TJrFEyuTEuc00C1pOluNpfSvp8ZaDFYAF1RC8MTJEpTKIUqIwWIGph2yOTtsfGZVBr4XV0u9FUV8mpM0HPSbD5r5skBAo2UJ4iWw/h1000-e7/Coser-Xiao-he-tian-jiu-59-4kUp-001.webp"
 ---

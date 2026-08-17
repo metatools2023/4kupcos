@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "布丁大法 (Pudding Dafa)"
+tags:
+  - "布丁大法"
 photos: 87
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNa2fHepvf5lWeHhciw81xm0-Q4iD9c4HVlY7sDVXfCDAU-OzCR7_ChnQV1ebBsnhDM8hP6sC_f6CtzvG9z_7cTpgJmzxeTz5_JsSO3p9ue9PSAL-Rimiilb7upVTP5QyeKyBNOtQhpk0-6NFWAFyR0cvF-wnJQxPo_yVMjukQD7CAyijPBv8zte4XhyyN/h1000-e7/Cosplayer-Pudding-method-Dafa-Enthusiastic-neighbor-sister-87-4kUp-003.webp"
 ---

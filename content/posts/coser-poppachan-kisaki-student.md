@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3f_pVlaxHlEMHgdHxUw97fnYM7PDZxqP1hVUjQquvG4zfCd9a03Zuc3R3hY3mf6jbrcVDUBX7MbYmYKSj99BjN5sIyKTs8SK2cVJo0uW-CyZ57Thd1HhxzUyvky_dGBBzMU-nvJuFQhcH1_9g_LjVAx0hxZfdTD-uB3X0yr0my7PZLiGOD90MtvdiQg/h1000-e7/Cosplay-Poppachan-Kisaki-Student-51-4kUp-001.webp"
 ---

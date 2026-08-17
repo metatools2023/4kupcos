@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9Uo982XXszigSNP8bLX4gnPQevoDZVqVopmTJH7IrvIJleDYXbvCDqe5u96opIyUSbpNg7VPBVAQOYqKGZDwnAh7zBfrL4trVzYreRyy2P96614yjGwLqnILYxDhSxEIZH2jC459pgUi98Ua7pWhBFvzkWAozR0t3fhNsnuXSzokh0SSlhsBpMdirPMHA/h1000-e7/Coser-Little-Chiyo-lol-Blue-Archives-Birds-and-horses-are-together-33-4kUp-001.webp"
 ---

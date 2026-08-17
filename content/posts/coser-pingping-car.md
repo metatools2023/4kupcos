@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGPEGeGtLf0tQfD9IBdAKbdGh319YH1DBRcBG1kisnokTEleylOyqZWGMpQ4mGp6sxwKCx8H-vjYmsvFE55Q4IOGPB1MYO_-B5IJAGq1PzDUk8L2r8SncmCHm9WMKLLaeSwYugO6_W2ZQghSLRqjG1vnpMADAtjZdTBi7vTQqd5pyqy-sL-aXUSMQK3dUG/h1000-e7/Coser-PingPing-Car-56-4kUp-002.webp"
 ---

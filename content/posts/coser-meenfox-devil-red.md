@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Meenfox"
+tags:
+  - "Meenfox"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtDIqjgi19G5WT3yLxoTUzc16RS-T1eqf8u82-FgY415psojkLWa5odjW_s0TbNOvCL_EJMSZgo9BafilD3xQ9SXOvBfbMOzReKZMrh6ZuCAt6IqAcoz7BCl3cDPrPwzK5qXu3e_Hswv-vOgECuvuMyZt9EnvcUlLr94uKatYguBoZd9H7wE-osWond3Y/h1000-e7/Coser-Meenfox-Devil-Red-44-4kUp-002.webp"
 ---

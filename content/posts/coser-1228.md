@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "くろてぃあ (くろ)"
+tags:
+  - "くろてぃあ"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxhE3_jfMvUVp4Xl4H-K5hTSn6vtrdreUhRC5CzDNV-30SjL9Fy3EpXXUJiSt8YDFZO9O1kVplXsR3dbBgfS05BHhoCk2cmvqCn27S0vZzyyfWG7UYD25PYP-5qhNbihQPMU-vcCb0AGOMFyuG6565pIwSv6kLAHAI1mePwd3bYKkVufXY2stsPianNvAz/h1000-e7/Cosplayer-Kurotia-black-tights-swimsuit-23-4kUp-001.webp"
 ---

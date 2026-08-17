@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "焖焖碳"
+tags:
+  - "焖焖碳"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiC-k5pp47KRx5dm7MpMbLB1fzxrrMAC4xWKsxIdGNigdGOkXQiOTF3B9SmqfvKk-RRjZirYiLsAv-lcxuHe6leIFTZIxWgxSb-XnlI5Sr8_kMcC3lZLyesoTOZ0f3MQrve1DMYu-uwVKiWVyM7qDVR-egkIRcz_K1_gOTrAe4uoshEyMjvlsJmxjrPfaAk/h1000-e7/Cosplayer-Braised-carbon-azur-lane-Dafeng-racing-suit-30-4kUp-001.webp"
 ---

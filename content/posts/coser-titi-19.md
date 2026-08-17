@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "钛合金TiTi"
+tags:
+  - "钛合金TiTi"
 photos: 83
 image: "https://lh5.ggpht.com/-wxVl2wM3pGQ/ZUAen7Lsv0I/AAAAAAAAdxM/zoEq5cYfC40G6sk4owbRxRrUCP5sVe9xQCNcBGAsYHQ/h1000-e7/Coser-TiTi-4kUp-001.webp"
 ---

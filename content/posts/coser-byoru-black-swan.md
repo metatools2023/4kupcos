@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 47
 image: "https://lh5.ggpht.com/-52nwrrCdsCE/Zjvei76-QqI/AAAAAAAAerE/qjTUjuNfbGATSXbsrlMz4zOXmn3DUo0dwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Black-Swan-4kUp-001.webp"
 ---

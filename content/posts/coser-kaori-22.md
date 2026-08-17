@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 94
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoewU1U8yZCxCTWGEo5zWYkh15WeSvRuS1K3x1LktrDbfQATeOf9nFbSrqjYZhMkb9VZxKjBJtilFtPsuJOF-NU2Nun66TqJW-m4Z80-6VxMGUC7N1CIgGwAvHQ4Nye0K58ZTw0sqa3pJI1qHy3_6jEVQvgHtXVhQ0U9t2ItskMuvoF5zUuRB6JMx7oyWl/h1000-e7/Cosplay-Ah-XunkaOri-Ruyan-94-4kUp-001.webp"
 ---

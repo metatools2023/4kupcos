@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小樱"
+tags:
+  - "小樱"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOJbpd8NNW4hnVQNm-WIGgazfCh8E_LRcj-3_ggq-xps_sXE1WHRFQ04VMpp-tzuvEIUiiu5oQx_2V4QTp6C7DSNWHX_ZYA23fIX1OCgLcAWagp4JBVZ41Y-ECdmmypQEoBm_jYVDessI4OLa30CRiRblETo04S1oxK2bDd4Oh6h6hsM74teDDIBPnNLg/h1000-e7/Coser-Xiao-ying-40-4kUp-001.webp"
 ---

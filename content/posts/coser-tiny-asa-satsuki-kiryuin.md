@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzmdlAEY3QCipJfQtEm1tRIji6tzCIj8zVoo_fp-7ErVR8jwnz3nHq2kEHvXmPsHQb0GwW0tP35ibolhrF9EwcOm27n19953XyvY39BCcxIyyNT2cPXrywfgseqcjkr5-wySCX1fCBJ4INetVQ1XD1RtMz4OqZS3s9PBStB47UEeOy9BbtFY0qc7pJj2HV/h1000-e7/Coser-Tiny-Asa-Satsuki-Kiryuin-40-4kUp-001.webp"
 ---

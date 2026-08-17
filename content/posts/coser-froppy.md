@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小樱"
+tags:
+  - "小樱"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis812IaBEbgENv7ShiPP3qOR8yFki5AQOln5UDhevx5-0l-TvqOes37gtKumwtvEaAoQZ1Nq4Y4jqva1TAxeozhl5deVdHY1gUoPUO1gCxejaMNX3VvySWxG8qhIggZWJNr7HIP2cfI-refCz27-RpwzSh-quDc5c_qIXUkZOpY1YScYev0h6vmHG0vRk/h1000-e7/Coser-Xiao-ying-Froppy-25-4kUp-002.webp"
 ---

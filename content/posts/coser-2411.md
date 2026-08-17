@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿半今天很开心"
+tags:
+  - "阿半今天很开心"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhch1y-MLrm_sjLgsJb1cnxpUH_pbyhOUq8keoY_K5_uLVepl5ncq8dSyOH-R6vp99XR33C-oqHfNcoXNm4gL1WM-WhoXWkjBUkBdJ85ODjNkjYxdy3JvXAm23g1Cik1wKaI8S_u_WeaBUY72so4yxvMhlwf-Mr-8Vlru9sOFoHWbv7-D9lzoxZcHeSre5C/h1000-e7/Cosplayer-Ah-Ban-is-very-happy-today-Crotchless-pants-devil-20-4kUp-130.webp"
 ---

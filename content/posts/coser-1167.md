@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一千只猫薄禾"
+tags:
+  - "一千只猫薄禾"
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCptMl4yQHbqf6R7UqLK_cmoh_p83Af_TD8iMjORKPEsu6_HGY_7AOv1jeRef1Cm3-J37s92Y8TjJE4QnoYxubD2kAEvf_Lj8WOqaMXbX2atosM8uZw6lc6p9m1FXAIwaWld1bskZknvkcrARChk0bIAIvyjuQjbwtTQ1FL3tSzbKCanzROKuI62reHHA/h1000-e7/Cosplay-Thousand-Cats-Bo-He-Candle-Knight-Viviana-12-4kUp-001.webp"
 ---

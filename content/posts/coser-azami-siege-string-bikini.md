@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 27
 image: "https://lh5.ggpht.com/-82ATZHuWJBg/Y9GrUvPJf6I/AAAAAAAAF2w/wDnzxZ48EjQhzkrRACsOzI38oGe7pIqvQCNcBGAsYHQ/h1000-e7/Coser-Azami-Siege-String-Bikini-4kUp-001.webp"
 ---

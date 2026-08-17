@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Machi馬吉"
+tags:
+  - "Machi馬吉"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDIK-QFqTmorJm-17QFcQZf2lJT7t7oZzMN8TZiyi8_GZX2Ca902oeyotVoRsmC2BRJgiI8Da7UhxVlpXNSvIUPWg3K75eiezgRmspZCur1Q-mpCPBWx4ZzdK5vI0no5kXb4ede8WvjEC86cUZw4jTAF4Bn4Ua1hpgZEyqf5oVovtdflxkL2tHvIwEByE/h1000-e7/Cosplay-Machi-Ma-Ji-Hot-Springs-37-4kUp-002.webp"
 ---

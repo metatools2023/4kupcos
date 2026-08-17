@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白银81 [Fantia]"
+tags:
+  - "白银81"
 photos: 97
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggfDKY6X5zC0Qlaf9gudk3Wb02ZsStZKAGE-bfT80IYQVQQUiWlhtcCcxOuXo84NczIXVrHKImNzqMEchZevIWx_249ETSL5L6tPkZf-jdkU6qCgKQ1FW1JXsfY2jWt1Euo2nySgyn4JSC3FTy6Mqfh6beAKHE6gMeNhL9vjXSSZGBhayBxuDbMzWuJ0E/h1000-e7/Cosplay-Silver-81-Fantia-December-2024-97-4kUp-001.webp"
 ---

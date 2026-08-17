@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlu5XirORNc3lJg5u7z-mOCnqGuK1v4jBQLvBMPDH87R7PSvfQeERibCJpDVsGkjGIPD_2Dvwk5QT_lIC3-YBY95TAJoWXF0XKXhtL6HZpwSJ6ICU6Sd1vo0_cNU_2LCuKl8KR7gJ-KfUpentVxR5jQ8G43OuUQ5jDwg8Fpv9-Fa2U9OBSxXb98cNmyfxN/h1000-e7/Cosplayer-Kagurazaka-Midwinter-White-silk-rabbit-velvet-30-4kUp-001.webp"
 ---

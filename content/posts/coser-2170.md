@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "六味帝皇酱"
+tags:
+  - "六味帝皇酱"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj78YUaPcKqNZ_m6HySRQxQKTnxabiZHPgRoRysA8NZUX0QXqrmA080nt9-mLc9RuRJ18TM46aXFQhyphenhyphenl_spCRJIvFY8PojDDYWogOjuV_rA6_DcvLuf4somVZPMiBvb5Pqr9elzD12iRmkl4kWvLkd2u0LMq2ffDjmiFUY8XNm18jh355j1_jXzXVUPnbeb/h1000-e7/Cosplay-Liuwei-Emperor-Sauce-Sunny-afternoon-1725-4kUp-001.webp"
 ---

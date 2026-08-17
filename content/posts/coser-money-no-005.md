@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "money冷冷"
+tags:
+  - "Money冷冷"
 photos: 54
 image: "https://lh5.ggpht.com/-1qW94_alBaA/YsxNxASZSVI/AAAAAAAAMcI/SfKhv6lhUZkfy6yByF0D1petIMfliGoiwCNcBGAsYHQ/h1000-e7/Coser-Money-005-4kUp-001.jpg"
 ---

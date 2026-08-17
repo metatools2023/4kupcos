@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mimichan"
+tags:
+  - "Mimichan"
 photos: 13
 image: "https://lh5.ggpht.com/-m6hr5xlH3i8/ZP4-DM5a3AI/AAAAAAAAJaM/mc6ERhXHL90WKf9_5rT_g6fQzf-xgCAoQCNcBGAsYHQ/h1000-e7/Coser-Mimichan-Shizuku-Kuroe-4kUp-001.webp"
 ---

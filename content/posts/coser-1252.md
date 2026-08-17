@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏"
+tags:
+  - "双木扶苏"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeBWK5xCr143ShDgbB-esjLXF44Kq1GzDKzqgSC2Bco9PrTRyxmTcK5P4o21estKN4wr9KZx6P_qvwfc0Ud-DBPMyoULiQF3pUPbgRzuJXkMwb09dk5qblaztzJ4cGpRNztuotukR1fPE-paVAjo3hMrrleFm52uh5PohEsMXbtdAK-OLAv3QcJLb7lnbf/h1000-e7/Cosplayer-Shuangmu-Fusu-absolute-zero-Hoshimiya-30-4kUp-002.webp"
 ---

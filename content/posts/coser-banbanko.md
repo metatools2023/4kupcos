@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 48
 image: "https://lh5.ggpht.com/-f9kNzpqztl0/ZA-f0-8h5OI/AAAAAAAAJZw/YHTtlT4XHC8LVSPZwSK34Me2uv2cn3MXACNcBGAsYHQ/h1000-e7/Coser-BANBANKO-4kUp-001.webp"
 ---

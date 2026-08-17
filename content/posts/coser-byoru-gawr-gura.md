@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 91
 image: "https://lh5.ggpht.com/-Id9K9cHX4gI/YyOgvu67gYI/AAAAAAAAHW0/Vk8P4qEnJ4UyneJXIJxsyPPqOMRlJRkTgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Gawr-Gura-4kUp-001.jpg"
 ---

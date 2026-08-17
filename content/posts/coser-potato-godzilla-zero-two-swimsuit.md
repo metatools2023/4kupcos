@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 29
 image: "https://lh5.ggpht.com/-N7ayUbe1yIg/ZNvbRj1YpiI/AAAAAAAASeg/QbbWPHJWUbYsRXtJzcD9BGdB_v7_XhkJACNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Zero-Two-Swimsuit-4kUp-001.webp"
 ---

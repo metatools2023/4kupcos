@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidgqKUkP0uxCZUAYM6nsSZCYdj4izGPc4ZHHGFVTgi8hThMksbfe6jfcn_tMYPWdhZhJcRLESEG-XuAMbJbSpyKFDLAkIrYatKmi4ebKD2cXWbGPF43ynMhtEvtH-IAqsEGA-ASh199uogJJBkxleDPEiTzAbDk4VyGtkNYUPJnD8afotD2Mw9J00hVnKR/h1000-e7/Cosplayer-small-store-chiyo-w-new-year-cheongsam-25-4kUp-215.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "真宝"
+tags:
+  - "真宝"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi802RT0JWVoixDFMefQtGjamXayndGBMC_aWWpEi45hmjAHx84hTQASJvWSsblvH-8eZ_ye-wy8GSO0wO941RzXDoWet1bXkXSimPO0KGn5SXoK2exeBSLXiW0zTgSalNnt132XWcQYWLGbHRzY6mEwsv6agALt7OH_eRO8VQgAzVnCMh9sFH-3R2YEhqV/h1000-e7/Cosplayer-Real-treasure-black-silk-rabbit-32-4kUp-001.webp"
 ---

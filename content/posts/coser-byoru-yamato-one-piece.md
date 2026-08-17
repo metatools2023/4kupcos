@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://lh5.ggpht.com/-nCbB8wV4SEM/ZPkHnA6P20I/AAAAAAAAFSk/cSPWoXRGdCY1kkSs8cDl0Tz5SFz7eHLKwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Yamato-One-Piece-4kUp-001.webp"
 ---

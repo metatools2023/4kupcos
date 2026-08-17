@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Kano"
+tags:
+  - "Kano"
 photos: 118
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEF-zQV5yBwrAllXU4K0DFyQNspOn9Lnvo6i3KOYfhILcToe8aQLMc4HD1IVLSLyqMYDm9y2PbcFsdYvAQEgDFcku5zxO5X3PN_VZ2HgXOkf79Lf53dMq5zXkt2Mwv4MkQk5NLnd2utQRq1IJ_6b2lAicqk1uJpybtwvbKwpA4BpTlLw7JV0HGDC7U1Am/h1000-e7/Cosplay-Kano-Nozomi-Shikano-Peacock-Green-Zhong-Guo-Feng-Han-Fu-118-4kUp-003.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "纸悦Etsu_ko"
+tags:
+  - "纸悦Etsu_ko"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0M30sPggvVbG28iSpBTIeg8TaeIfYSf5U6KWeL8k6EdytdOGB0oJ-dSzIgUNEdO0XuEIIbrh0aK4Y27zZpUza01iGMEEUWy68p40ypwYT9Kf7bitlIHLk5NecsdZGTUgz3J5SCCBtvBxutKVrBrEm5Oo_1TnEnEDKVl_5hkb3hlLgITiFJ0y5OfA5pEMz/h1000-e7/Cosplayer-Zhiyue-Etsu-ko-please-take-care-of-me-28-4kUp-115.webp"
 ---

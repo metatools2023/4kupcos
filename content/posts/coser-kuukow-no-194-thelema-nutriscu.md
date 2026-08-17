@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvEga_aj-j750TGO5Rtkk4eZu1-yksIwyrWfJgE3r_O48AT3DATlD_yDbdV5nm2WQPjzMUcNptPfiQpm7DqAya6UCS7H7vMULRDQcD7tyEEq4SycbR_1uefkGqXKurlhZTlrWr5P-tIarvvIJjJPVyIHDP67bXWQRj-evai2EL_NR79doIgv10K3Yqt_UB/h1000-e7/Coser-KuukoW-No.194-Thelema-Nutriscu-31-4kUp-002.webp"
 ---

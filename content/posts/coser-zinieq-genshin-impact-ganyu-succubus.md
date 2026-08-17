@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXFyfE0NojPCILTTymggcZhzI0VMBKnvaiyqZ9g6FF59BhUyl15qU8aJJ8OxCZpHyd2iw2Opaczr1OwaN789hCXBwGh33EpUMwnQ25wYfC_xWdm4OspJlUvqhBKm6WLIjKTJ9G9W3f727X18N9vTBFsdDmBiLfUWo78e33c6h0UHLzrEw_tdfGvAeDqX8/h1000-e7/Coser-ZinieQ-Genshin-Impact-Ganyu-Succubus-41-4kUp-001.webp"
 ---

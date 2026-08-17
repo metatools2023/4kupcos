@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "许岚LAN"
+tags:
+  - "许岚LAN"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWPw9ZuI_0BPFZ3R33OeEm0foMBblujj_9lyx2RUjEqEH1x2ZFQVuOpJ9cWpkwIo_jOD5dc79UbnndCdwUwqwkPx44X2WuCXNxgfSF5kiY1cegIGk8yXagkAr4R2phtQ6sAUomavGdX496zDtnNJ2QA8S-i1xifkPlVaRzLJtN5WrvkSkJ7wPDZwphlFma/h1000-e7/Coser-Xu-LAN2-LAN2-40-4kUp-001.webp"
 ---

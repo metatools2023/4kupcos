@@ -10,6 +10,8 @@ categories:
   - "Fantia"
 models:
   - "水淼aqua"
+tags:
+  - "水淼aqua"
 photos: 117
 image: "https://lh5.ggpht.com/-RzkBFIhTvQ4/Y0nTphSx7EI/AAAAAAAALxY/yHrU2hYTpGszgXcn50lfkmBFKSycGENeACNcBGAsYHQ/h1000-e7/Coser-aqua-Vol.127-Fantia-202111-202210-4kUp-001.webp"
 ---

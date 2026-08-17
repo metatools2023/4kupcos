@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 52
 image: "https://lh5.ggpht.com/-DMU8A5B_a5o/ZShyMiOYymI/AAAAAAAALo0/IWcarBuIh-kvkXxPP4rlMPy0j6JZjKipACNcBGAsYHQ/h1000-e7/Coser-Byoru-Mary-Bay-Goddess-4kUp-001.webp"
 ---

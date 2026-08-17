@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "芦苇苇苇"
+tags:
+  - "芦苇苇苇"
 photos: 24
 image: "https://lh5.ggpht.com/-q09lz9E2EhI/Y_ffCC6Lv0I/AAAAAAAAHew/2GX7yQQalD4Q3bm7pyhdKXeYoYCla_YewCNcBGAsYHQ/h1000-e7/Coser-No.01-4kUp-001.webp"
 ---

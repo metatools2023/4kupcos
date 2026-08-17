@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioD9DSF41vfetSLfPGflyRUGrLjWgdT6aL9S78HZdcb3szmoYerw6FeSKj4NhHpWV26Y2Ut0HEsTM0rOJzsvUzEGjHxUpe93BCxeTVg6pFs42VrM1Lq6AlSePA8Dl2nMc2RdoXLHgNj-6ELYxuffnO9rZqsTNnTUJzgYh6ElsQ8GuUv9JbH6ThPc0DbRVU/h1000-e7/Coser-PingPing-Asuna-Ichinose-Bunny-30-4kUp-001.webp"
 ---

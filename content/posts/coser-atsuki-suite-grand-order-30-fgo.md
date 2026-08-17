@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Atsuki (あつき)"
+tags:
+  - "Atsuki"
 photos: 312
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyYwGk2GapBm79L3SFV-ZlfvF5V9jhSFHfcfY_vywDHtq7YzzJnkHfqgwJpO_boyk_7RGpOfwZOLK1RHe20ZksQ3TL2RQ1f9pHsEFIhHOWLQhEtIst7xsOCSsrZnnFNrY__CWY4s72Szmwe-KUPqcKciF7CO_h6VZZsjdkOOQr4w9FqcjVXyHkuQB3_OJz/h1000-e7/Coser-Atsuki-SUITE-GRAND-ORDER-30-FGO-313-4kUp-001.webp"
 ---

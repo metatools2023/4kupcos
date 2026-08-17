@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Msz7O3Msh58H1UqU7nH70rchFeM3NAI7eMacvTHumPN81w4W1XxZ8-UIyJPkLoVj-V5KlEzWZe2dJINW29GsygjAjq81760cijDEG_kYczATyQXG1r93eh2i7tqEPuqMo0xrKD-XOWCkP2vSWJicahbA_-R4VOLW1S4jlu4jIIi8gi4M8Ejrx0iHLUbE/h1000-e7/Coser-PingPing-CHESHIRE-24-4kUp-001.webp"
 ---

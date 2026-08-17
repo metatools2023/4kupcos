@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Takanashi Hanari"
+tags:
+  - "Takanashi"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3QZxJvdlXEoEAy6eVrQbowcvfVbEZzeFgX_oMjAU5tsXu81e1bHBp784AYsLKzW3kJ72MSiwK5cyfCYa6XF1DApC95HScS37wHsnZGEMWx1AkilqgLwvCNiUzqkVJz7ThHWHUk5iuOzHTe64-tn_DQi9Dqro-9LLmqGacuoHoCwZM4ZFp87N2gNGmRJg/h1000-e7/Coser-Takanashi-Hanari-Aqua-21-4kUp-001.webp"
 ---

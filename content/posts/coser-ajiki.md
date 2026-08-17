@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "安食Ajiki"
+tags:
+  - "安食Ajiki"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2ue8aNH6gGC1SaMLQM0P-hVIGV9gQo-vSaKQahoTuYWVR0PTNJ6fa3izEKFkeq0ji7sZj6vYVHrYcGkwMGtFvCYXELuq_fmjcmjI4LCROx-8fXtokCdkpsCMG1C1M0tuDAytPVFUB3yU3LNTiwt_IQovGdZNARY_jFMI1gv3MPuoGrBKnaLKAOBAHl3n-/h1000-e7/Coser-Cheap-food-Ajiki-Rebate-picture-of-Shanghai-Firefly-Comic-Exhibition-16-4kUp-001.webp"
 ---

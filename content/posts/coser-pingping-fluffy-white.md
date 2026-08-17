@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhv7-6UeAJjpICMPCb3aVP1rkBAUCARgasYj5-46Q7xpU71PO3KxqmPApyhsoe-VfbSh0ZZBv6qLbHwlU7KEwWWRAuXXSM184CSKbXgTsQRWTrYUC4hI-k-P8A91NLHtttnGphdXeHP0Gym2FlS0b4Cr1aIxad0TqqBH_OoqIqzccDW_nOF3xDl0XM7Llu/h1000-e7/Coser-PingPing-Fluffy-White-17-4kUp-001.webp"
 ---

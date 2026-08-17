@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq7TD3rLNCWFVBNQM6x-hHvK8TwQ7cbNXghUm29ZKYbUQU_Rgkh7-9jM_nuqe7f6naSh58hyfPFUWYOBg2GBz-bajRJhAAiNXa6u-fFSP29SkoY4grS3cGfAmuABRPvAhNWxVEyNIYY4gqwIkO-OTzFRoMCNTpMfdgU6JkAkzQyT7nW9mb_9a_FExmgGy5/h1000-e7/Cosplayer-Nagi-Shimizu-Xiaolins-Dragon-Maid-Yilulu-38-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "摇摇乐yoyo"
+tags:
+  - "摇摇乐yoyo"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivGM4EV9iOD-TSOsWlTVcrttcGn0gNVb40tgn0CqmpF4PFe77WgIdDE6wVb23FAM28aUaJW00g6-KFWgdpheVl13gBEnrsFGdCX0MBZZuwkw6gbhtLxyCcFeYSOudsuu_AwGwpVxHHlSQIl18xBulC0cFVWbXY5moB4F9wgHrScdD471K_iyPE_GxELg/h1000-e7/Cosplay-Ichiyoyoyo-Im-a-mermaid-34-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "樱落酱w"
+tags:
+  - "樱落酱w"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh9yBBZOKgaI6fML91_41D_p-G3dR8sJHFupDrjYWCgvEyuzV3T6811ksl1KhsMGBOb_7j07C-4AUANWkXmCv_wKD8AG4rQh4kyo3dPRQza7u2QGbilds88f2ZurTnFky-7CLs50xGOtpKDLJ9E9XaQSfSof_qB2AHO9i6UfZ8WL3V_YoiJpUgLJEY9epV/h1000-e7/Cosplayer-Sakura-chan-w-Life-in-another-world-from-scratch-buds-bride-23-4kUp-002.webp"
 ---

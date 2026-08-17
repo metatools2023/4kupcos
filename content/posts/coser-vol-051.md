@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜井宁宁"
+tags:
+  - "桜井宁宁"
 photos: 111
 image: "https://lh5.ggpht.com/-UCa2SdTbDsI/YriKWUKcoXI/AAAAAAAAOyM/i5TxKn7jrbM5lKo7pu8eJEHEnyMXWRZyQCNcBGAsYHQ/h1000-e7/Coser-ying-jing-ning-ning-051-4kUp-001.jpg"
 ---

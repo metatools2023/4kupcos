@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOlMQJ0wJg-tvDNMvF1h8quCmm4h6kVcwEYH1c4-1bCnihTsa6MDemezUAIn35uYlfWfEIYKV5ByIfsIrJputR1pHe8dq-zlpEbK-rlcXLeaEp4_wsZwsjd43TEbRNqrLNXF2pPrsKLAvFZT6YM9zWKsV2bHbjUqQpKWZosyaYe75B-T0kUYnfeOB_oC1q/h1000-e7/Coser-Little-Chiyo-lol-Higuchi-Enka-swimming-outfit-38-4kUp-004.webp"
 ---

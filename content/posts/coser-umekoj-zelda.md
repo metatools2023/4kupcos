@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 56
 image: "https://lh5.ggpht.com/-6Fk47v5Ys1o/ZiKvJWokEbI/AAAAAAAAQ1g/G02z6GtEGoIz4vrj6xTXuLXuFIdYp3gVACNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Zelda-4kUp-001.webp"
 ---

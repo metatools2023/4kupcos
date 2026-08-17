@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 97
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRTs185ZMvibqXH2PMKyVADkEOg257QdcmxXftwhvp__ePfZApj4HA3Jfz3xXmr4xUN5ZNg7HeGNQtCjQMz0YDdKiQrqJhpXOaxXYGdseGAU8BBY3Msi7m8fO7CxnTrrhwkxV-6es_mMviHdakXU-t1lODSSUpXxs9Sh7TzmqFD5dgA-mK2PkdGrrorw/h1000-e7/COSER-UMEKOJ-Fleurdly-Wuthering-Waves-97-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayathefox"
+tags:
+  - "Sayathefox"
 photos: 10
 image: "https://lh5.ggpht.com/-8i0o9HqRgSM/ZLW9BtvCT3I/AAAAAAAAXgc/cRqlcUw7wQ4I1G8Ms97NDEsK-sP2PaLLACNcBGAsYHQ/h1000-e7/Coser-Sayathefox-Triss-Witcher-4kUp-001.webp"
 ---

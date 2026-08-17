@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "铭铭Kizami"
+tags:
+  - "铭铭Kizami"
 photos: 72
 image: "https://lh5.ggpht.com/-b0rWv_3wHXU/ZITrOpqpdiI/AAAAAAAAKDk/KEGnBDzAI_8qooF5qqJQ1kiSrHa3xwiDACNcBGAsYHQ/h1000-e7/Coser-Kizami-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "屿鱼"
+tags:
+  - "屿鱼"
 photos: 114
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjte_lYlRY7uplr-dqTsPeXA6WrB2NE0TQQYfWtTSvOYjOnQbbFKqrrSOA84RugcxbOnSlEB_Q_HGGTmiNO50uClkgsxAicA037FBFA8g-f5tMcK3akHjAjVAWKr8AZHveyMEoCM0kjdTWtYS93IW8QU2x3z8FJLDWHmFB5mZl8L3P9C-QzzomFIXYFxg3w/h1000-e7/Cosplay-Island-Fish-Azur-Blue-Route-Atago-Racing-Suit-1725-4kUp-002.webp"
 ---

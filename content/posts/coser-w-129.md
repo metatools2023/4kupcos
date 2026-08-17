@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "葛生w"
+tags:
+  - "葛生w"
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz8YDv_7aqbV8GyDqQ-rCmBUwSS6HFdD-kxtm4VtF74Ty8p3ghKwX_rYdkKwyhgSSZ6QAge1NgV0KRMZd7Yn_PznXd6mvHdGzNq60qwKKEU1N_Rk8nAbia5ZXGwUbHQVgs_aBQYJTaorbilBmp3_P4aeIfg2SeYbsGXEJYmYl-inpxaXdfpIFQRserDcGY/h1000-e7/Cosplay-Kuzuki-lol-Kozuki-Rine-60-4kUp-001.webp"
 ---

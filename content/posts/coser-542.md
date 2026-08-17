@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 34
 image: "https://lh5.ggpht.com/-c_E_Uj4VCkI/ZghLZigdYLI/AAAAAAABF1w/H-PJA1g-wXMybenBCOQav3f4zIBdeOkQACNcBGAsYHQ/h1000-e7/Coser-jiu-yan-4kUp-001.webp"
 ---

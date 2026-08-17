@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 37
 image: "https://lh5.ggpht.com/-yGI1i2x1Az0/ZRM9NPFKoKI/AAAAAAAAZFg/8vBT4CwqXRIv8ZYjIqXs8LJ9L3pXHzxeQCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.085-Nyotengu-4kUp-001.webp"
 ---

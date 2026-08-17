@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KANEKO_咔喵"
+tags:
+  - "KANEKO_咔喵"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik-FSR1Doq7chEDv6d7zmZ5s-Tm8Ph80DGqREQaz5R0WUPFx1XDnTlvb19hdJYwn49dq8O4GP2heF4FASHkOG3FL_9zHaXmgGHLYa02OnXeDEUOUqRHXcC4qGJqv3uPKYrgHAsKpl-xLTzSDMAJC4oiZtezwF43n2QQ1ubE_xfTPTjGhBQuBkZdKZUnhza/h1000-e7/Cosplay-KANEKO-Ka-Meow-Sony-Christmas-1.0-20-4kUp-002.webp"
 ---

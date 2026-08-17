@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "零崎沙耶 狼人 (天命之子)"
+tags:
+  - "零崎沙耶"
 photos: 229
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-redcwHFQp8lxG_7CMWs1y3uBuUm4q50DRNIUQpMI5RuhnASq-dSFAPZFIj7bgzs09FJ1R-jM17o-UxginFeJnktLUgRMPQ0iVWgw_gQEJXZz-jSeaWJPcYGRveef6gDmMrwfQkQuo_hOWjm_lJlkIUQr6mb8FGAFF9ivpZAvGZ3aHQFU0CH8qEoXURY/h1000-e7/Coser-Ling-qi-sha-ye-229-4kUp-001.webp"
 ---

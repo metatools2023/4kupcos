@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "胡桃猫Kurumineko"
+tags:
+  - "胡桃猫Kurumineko"
 photos: 221
 image: "https://lh5.ggpht.com/-2rqN7zj4ocY/ZX40XnAC8NI/AAAAAAABeY0/oPG7YQjuqFYwMT4Y7r_NU5nSy1Q28DR8QCNcBGAsYHQ/h1000-e7/Coser-Lingqi-Caicai-No.013-4kUp-001.webp"
 ---

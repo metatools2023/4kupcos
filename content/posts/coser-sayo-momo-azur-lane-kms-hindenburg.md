@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ayo Momo"
+tags:
+  - "Sayo"
 photos: 39
 image: "https://lh5.ggpht.com/-IdKLKyijO08/ZmzCxu-HUGI/AAAAAAAA6R0/nLvzCNyG-CkGUaEN5tMdtU1ZZmwUOat6QCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Azur-Lane-KMS-Hindenburg-39-4kUp-001.webp"
 ---

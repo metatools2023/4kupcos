@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 43
 image: "https://lh5.ggpht.com/-I8zXJRNOU6w/ZLG7j9iKTMI/AAAAAAAATyE/XiukafmK024wl-x4GpGDkJ-W5RE5z289gCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.024-Dead-or-Alive-Marie-Rose-4kUp-001.webp"
 ---

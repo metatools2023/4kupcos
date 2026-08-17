@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHd3XHAonPOkltvtfj6WESQFiTj_9YeudlyqdZ213tOo0vYkPr24c2l0LWBgdfKmldI8jYhJWhTrbp9TgzAFwjTKMaZNK_WdJxXqgP4BfBQQroow4BmuIy5UgJXbjfUdc7zxYjcqcEzK8DsmJY6iPDpGIacDExeizH-wzbkbGST-hVJ6CjcZ4-h1kFUBLo/h1000-e7/Coser-Potato-Godzilla-Mashu-Maid-49-4kUp-001.webp"
 ---

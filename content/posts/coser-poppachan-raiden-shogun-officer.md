@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 25
 image: "https://lh5.ggpht.com/-dxgYfpwTnuY/ZkADA6sgLWI/AAAAAAAAhqs/LRCfB_jftG8PuRKfPWdoh8WMi1V9fDGawCNcBGAsYHQ/h1000-e7/Coser-PoppaChan-Raiden-Shogun-Officer-4kUp-001.webp"
 ---

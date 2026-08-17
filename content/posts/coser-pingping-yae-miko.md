@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkEFzytSK2G2n1_E5WWUs7WTD51c6AADIrAlb6biG3xOoADjcNteeX5sslrS2vcLusE352AsP9lEmpHl-jeY6s3xRyRAoP8c3aEgo7d0wCPLzt3LutVr7KVXc5QtcCq8pbLV-FCL2GblNS0PXYbI_WL3-jLBxSB7VpRqKrLJqFhpSI3ZOWOYCz0Aaha0GS/h1000-e7/Coser-PingPing-Yae-Miko-30-4kUp-001.webp"
 ---

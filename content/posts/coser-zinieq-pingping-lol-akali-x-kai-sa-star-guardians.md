@@ -10,6 +10,8 @@ categories:
 models:
   - "PingPing"
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDhPdOUSX_KEww-wOpgBlcbw1KEmvgsEhDUyvkDVr_J99dmMQ8t3-PRDXCim4KFK3XDt7_6TpYm9joZPtz44upofP2MpKDjxdp6rnB74Atc0v38DVLXbT4BmK_UC_OwLNi74SotfScjElkOnj3WSSnEzlE8oNfoLSK_z5zqGbCgS16Ua0k96PJZht5ExFX/h1000-e7/Coser-ZinieQ-and-PingPing-LOL-Akali-x-KaiSa-Star-Guardians-52-4kUp-001.webp"
 ---

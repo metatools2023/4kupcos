@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "木之本果"
+tags:
+  - "木之本果"
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjadHAQI45_HENUsyQIANKNNCvnDCb_O6ElO68Y73H6wkh-YAtZ3JbBF3kY9BU2J30lCCDXzhtzt4PhwOugSOYhYaKI8qRYkb0saS9czXRqOfDFnHCucjMGbQZIRtMw0w2G-3M93IA2DCeDTR2VVN2lLHBYFA1ReZynHXgzKxlgwifZFMEtGOrrue3Q2th-/h1000-e7/Coser-Mu-zhi-ben-guo-12-01-51-4kUp-001.webp"
 ---

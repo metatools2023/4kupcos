@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Misaki"
+tags:
+  - "Misaki"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTLn8Op0DvUlIKFuZ9s-H0fB-8OoN2EVCyExPSozNVCd68AB5-96bNjrChiK8zRwaTRQjx5PnVP3iYyTpagUm0Cx4ROjMPKMz4a5E_RDWCa-SMGdNurscTS6Y3wFBnOP2EZko4WKMdMCh7cD6kUGemeQLeW5wNwci9KUIFThM2VZi4FVMUTQ-3lMeHX6Y/h1000-e7/Cosplayer-Misaki-Sai-Ada-Wong-43-4kUp-001.webp"
 ---

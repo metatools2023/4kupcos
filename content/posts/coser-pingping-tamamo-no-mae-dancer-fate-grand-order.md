@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt1gPYWR73yZcjHpNhzuMYKluVi4qidU1QaMPf9LlQyfKShk3OOamAYXR1PqfE6daxhwfmLA8OT_Oa61Dkiyd_hHxb4_zkKpCtufiqj2CjxMzONVhw3NhpZxXK3RHzjavxhapzJCMi-G4jEjz2Rx5FI69WKUDgZWfoW1JRZAhX4mUZ1FFHdjpGnpPufWib/h1000-e7/Coser-PingPing-Tamamo-No-Mae-Dancer-Fate-Grand-Order-22-4kUp-001.webp"
 ---

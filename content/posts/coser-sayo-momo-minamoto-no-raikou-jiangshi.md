@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 112
 image: "https://lh5.ggpht.com/-_K70g3Kn_3k/ZagKkCa2Q3I/AAAAAAAARHo/8pJvbWKtpjooVwmAQmoTTxuoHOxDqqRxwCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Minamoto-no-RaikouandJiangshi-4kUp-001.webp"
 ---

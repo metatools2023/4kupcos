@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDjU03OCiZMrp-00IAg7KNT9qa1UdbxZ_Yjl1hOsqC2XKB14Yn6OJhstJ4IuEeO2jDf95UFR16ADzAZ7d4kQNTDNFoAVTB3jbgkERaX13OGZUB5uBm7r1GOz3idEk91YUP77mvs5EC3VXTGXFYelf2zLNmGmS9GDkEDyqLVMFyza8JHARETl5ao1dgyCI/h1000-e7/Coser-Potato-Godzilla-Casual-Potato-Dark-Angel-NSFW-14-4kUp-001.webp"
 ---

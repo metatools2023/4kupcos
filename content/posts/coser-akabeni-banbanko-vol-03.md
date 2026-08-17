@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 57
 image: "https://lh5.ggpht.com/-znUOFNanDjM/ZT2NQjjkCGI/AAAAAAAAbRo/GMj8GcCf5fUBuPCEeLBRAprjKP8IAlhkgCNcBGAsYHQ/h1000-e7/Coser-AKABENI-BANBANKO-Vol.03-4kUp-001.webp"
 ---

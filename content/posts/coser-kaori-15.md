@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPRrflJA961ILqcPSUbYbU7QTIW35DQfHBaqEmV76BSvDwzU5KX8ZpfayJbYRaDZMDcIKyErawbsT1iR0HdW0JEqmB1I0s_YIVi8UPaGEsLNAUp2QZS6irE5_zyYeVnQtknbwqWs5LSuFbLxL-gEQrxKZQozRADkRDqrjAy_gHPMXk5FU3WvtL6Sc333FQ/h1000-e7/Coser-kaOri-57-4kUp-001.webp"
 ---

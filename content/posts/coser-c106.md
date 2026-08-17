@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "けん研 (けんけん)"
+tags:
+  - "けん研"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaYzuiKs1IVsMcqyJRZACA5or3GPjFnd78Jgz3yad4oZnxQiBP8uyfdN4yOLl5aEoPsUlD2RwU5gk4L6riIIpi5IkxQfqO4K50zwjgUB09nuROoPH7NX2V_qi-0pVx-6EIi2RVFZK8v3poJMrwZFyUZ-LTyrD9DH-8fGhNo1aQdUW_pmeikHgnK0ObB7Or/h1000-e7/Cosplayer-Kenken-C106-Real-publication-Guragura-What-I-want-to-do-with-my-favorite-maidroid-37-4kUp-002.webp"
 ---

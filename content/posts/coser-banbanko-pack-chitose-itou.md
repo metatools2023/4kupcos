@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 52
 image: "https://lh5.ggpht.com/-OwOUGL_R7kk/ZS23MyqiMsI/AAAAAAAAPUM/xY6_jb805qYlxx8pvNr2_2badKYm5kqGwCNcBGAsYHQ/h1000-e7/Coser-Banbanko-Pack-Chitose-Itou-4kUp-001.webp"
 ---

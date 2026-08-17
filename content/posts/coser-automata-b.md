@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcxW_SJtwVDnfnDw56lQiLvD0BuET1INlfHwqLmlrr9JlwkFoVtdrYn6auq7i0azkSdrYL_TVkg-7bVby0e9iBs7G76hxSNslni8TbNBojoOBJ2FqKmg1Lv5SSXueUBu9oz1lSO-a2jXE3PbmbO9XT1OtwcDdTGdqYMmX4k5w2NQyNtIWrPOR7J5h34-o/h1000-e7/Coser-Ban-ban-zi-Automata-B-52-4kUp-001.webp"
 ---

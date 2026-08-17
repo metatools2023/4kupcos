@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "千阳(ちよ)"
+tags:
+  - "千阳(ちよ)"
 photos: 455
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1Gssz0S8XMfMtg7mtxNIW811LToyLPn7ikZtAVVFI44EwfvsbnWzMnT4V51WJtxWgOsF91LvZBM2RAZHLhTKuhCcuv5OtNdlnSQpp1Cf6gwIkCFerpIfWoAjdWOGVyfUauQNNkJRXw69fRsOAXWeY8jBCsrPuVOJ_ZMXH-0FJZuwFqNrfzHXJe_fE3Xs/h1000-e7/Coser-Chi-yo-2023-2024-Collection-455-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "钛合金TiTi"
+tags:
+  - "钛合金TiTi"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXjH2yEoojCjdkuv7v3PoEn9YjURYSU2nSEhmlkLA-KAHA1jIlT_iP_L-CG-DSyrDqOJfz9GYubR0URUGFGnq-mHyOw6HW-qJlLPSHkWUjMgZYcIUNQ_A8q1giUJVky9Usz33v3kNp76c3b4qePSvbK9wdxZf0PXdf0PqafRHKcg5lOmS_hdAb4PhS3kIf/h1000-e7/Cosplayer-Titanium-alloy-TiTi-Taoist-nun-24-4kUp-001.webp"
 ---

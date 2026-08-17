@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tenletters"
+tags:
+  - "Tenletters"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAe8buRlUMgKCgoJkq1UnexfGGWa4PNq5XiiNWIr0gOWTgTMu-4ewRhl1AgiYv_ZwGLq45Wd09TcHdu_iH2jBi7dBt1Sk6FFhxUyNLxt0r8FVWR6ayVa9yScd0gBc1631JNQG8AgGHAbWvwIjQWeRdtnb7zGOeIe8IrWtBKjuOh8zO3b3LuzopoLxBUXkh/h1000-e7/Coser-Tenletters-Emilia-Re-Zero-14-4kUp-001.webp"
 ---

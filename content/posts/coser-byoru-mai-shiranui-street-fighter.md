@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz0GaB8u-RCEWtq_bk-VnEY-5v5txWmcOrPmdDfy2KTuyz_0iF1y-uF3uxVg39KxJubDx2bjY4l_PDwT8cx51WnWwAmGMJkZDZ-cQ7O0IRvvb1sY_2G7DzEtNt3Ecn4k1-BfNmITv5xMMKCghUhDqI51Mcz2ZqI6ZfI7yyGkf8DUY7Kp_bjzOLdLA04MNu/h1000-e7/Cosplayer-Byoru-Mai-Shiranui-Street-Fighter-46-4kUp-006.webp"
 ---

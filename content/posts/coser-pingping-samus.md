@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_BgkS7CFAfDNBHLdsYHf_AMqgW0xadwhcyCgK-X4uBLD6QD2_e6tZHPPAzS8iiElokipRMF41C3ck-HfnsaKmp-yoLzhrexXGYhMhYisUa4xfmo0QNRPJztpTefKjf3lTO1BkewZLX7e_ZXTrDvtxxQUG0-Es5LesKJq9VXMO7FWlMmRi0PKWTCdWYkE-/h1000-e7/Coser-PingPing-Samus-22-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 86
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKSzmMsvW8jQEDyWn2cbh_ZLLzNJVbWhRRAfI8kSOMwq9O1UJwUwv35Dx-pbklA4dIzPcSe87kvcihcP16iyDAbu00zfQRpEYNqyz80uLGnCnBYc8BOv-MMRL491DpZ5OEB_ASy5NCVM_1b2x_79OKOMhHozw0I8wJ8XHiAwllICV7n_JJ69TiUvILfZqy/h1000-e7/Cosplay-Astra-Bathroom-Shop-86-4kUp-005.webp"
 ---

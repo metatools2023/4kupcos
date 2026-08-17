@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 44
 image: "https://lh5.ggpht.com/-23xZhBktPeg/ZYyht3Hbq5I/AAAAAAABsV8/oBivSOjWgz0oKHF8YHQ6EJBwPqVw_FWFgCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Junko-Danganronpa-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Arty亞緹"
+tags:
+  - "Arty亞緹"
 photos: 25
 image: "https://lh5.ggpht.com/-7RfAUvtSnlA/ZmohAziCvpI/AAAAAAAA37Q/cyH-OmDntSsZQBHqUjZ9DzvZ-gWg0pLuwCNcBGAsYHQ/h1000-e7/Coser-Arty-COW-25-4kUp-001.webp"
 ---

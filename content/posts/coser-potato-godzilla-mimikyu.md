@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyks-AoSOzDH3QJurJAmn5tcFF2mbO5LxMqlaJOFn_c_nS9bZJlcooZ55UfG2qWfDsyJdBN-gjdk5VLtoTz9EIx-NISUWLzqqZelo0VID1iSkkqScmkIj1-iiqm9ORYaxvrOM9lbn7cbHmzPPxZ1M6VHdQd1OMKFXNcO5-C7fwSZzlfPDcW72-AaG2T53y/h1000-e7/Coser-Potato-Godzilla-Mimikyu-15-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "黑川"
+tags:
+  - "黑川"
 photos: 23
 image: "https://lh5.ggpht.com/-_ZUbPEhb6RY/YacP9h-ZvCI/AAAAAAAA26Y/y8mpMkWKpdkhMvmUIKHPlJGPQZRwu5msQCNcBGAsYHQ/h1000-e7/Coser-guomie_jiang-Vol.026-4kUp-001.jpg"
 ---

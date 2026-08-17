@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo"
+tags:
+  - "Sayo"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDkJ0QwVV2aLXdfdrJoaRI13HixIW-wyJ1n2eERy1Sh3lI2VCqUoOYdaLCq13oWDi5rGOm0uzrUAru3VhiynvPxWFCf9dlj6BdAA347gg5gBcfzhUg9rYMLQRxs_lkQBN-qF4G63W5-bhJZByVf90zgRKIqw7WAq_YCjByJRTr0qstVSUHTxgyLJ32Ytvo/h1000-e7/Cosplayer-Sayo-Momo-Jane-Doe-32-4kUp-002.webp"
 ---

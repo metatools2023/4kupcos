@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sameki"
+tags:
+  - "Sameki"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGq5P0a2A7B8OsxQLzc3T1mw1ytUBljCsGUGGiTbaSF63YY-Gm30o6D7ReqqbFoSWJ2BJR_HgxWt3Vq7bFTfUGHdyMQXWCtWmi4RtOUCAjMO2JMI17ZVYs3Km6ns1MDKYWsO-nICZSldBDcDfnSKIwd6Nse6pwynxfDpZxOwFGeSMIUmoRSSX7ZfVwr0s/h1000-e7/Coser-Sameki-Pack-Yae-Miko-20-4kUp-001.webp"
 ---

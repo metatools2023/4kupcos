@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿半今天很开心"
+tags:
+  - "阿半今天很开心"
 photos: 20
 image: "https://lh5.ggpht.com/-qeueLC-V82U/ZgGgXfqx0rI/AAAAAAABBuQ/_XqAQJGnag0UKWnKA1MFnGHSWrQMMKTLgCNcBGAsYHQ/h1000-e7/Coser-a-ban-jintian-hen-kaixin-4kUp-001.webp"
 ---

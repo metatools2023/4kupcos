@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "起司块wii"
+tags:
+  - "起司块wii"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5tPeo4lrtN8ChqXKLWrvTRMtLdgmH-Ws9am4A-ERYxZtpxzGbsg4hnIboz-QuUccPA62IMvVNv4Z1fv9lybCYu53VEKyPM9KGV8Njjw22xM2WHhVqofml5o39W96CQZUR8Va_O_JrgyOpXyu3LvUrt-6CPZXu8tVP6nO6b_VFpDm0fSBhz3qA8f5eDA/h1000-e7/Cosplay-cheese-block-wii-Xia-Ping-Linghua-56-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "汪知子"
+tags:
+  - "汪知子"
 photos: 17
 image: "https://lh5.ggpht.com/-V0TATkKLIrE/ZCNb8mrnq-I/AAAAAAAAXeE/pvD6UJ8aJsUE3MuGm8LE1liiLoaysCiAACNcBGAsYHQ/h1000-e7/Coser-wang-zhizi-Vol.003-4kUp-001.webp"
 ---

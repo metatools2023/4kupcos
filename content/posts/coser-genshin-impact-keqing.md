@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "习呆呆 刻晴 Genshin"
+tags:
+  - "习呆呆"
 photos: 60
 image: "https://lh5.ggpht.com/-ndaqhbheGXk/ZOVDkpvNWBI/AAAAAAAAXdI/rsqLUh1KAW0KGSlNXyLhljr3adT_yIoOQCNcBGAsYHQ/h1000-e7/Coser-Misa-Genshin-Impact-Keqing-4kUp-001.webp"
 ---

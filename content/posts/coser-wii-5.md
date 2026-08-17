@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "起司块wii"
+tags:
+  - "起司块wii"
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBvcdU5l9FY5-WcH9uOgMZXb7mvKFoKnPxagYtH-Yrt49NPt8GJolJdHwh-j-jH9azbqjvs0oZQmpwA6hMnEmwibVdjWkTtGsoGiCSRdxtkgHsuHwA5EQOPB0WKnn1pkKBEtsFcvrfIrcmI_4du0sghJPi3eZcGMB1fqC9Mu_w7h5vQcwAEHgLG5SB9A/h1000-e7/Cosplay-Cheese-Block-Wii-Miyamoto-Musashi-Maid-51-4kUp-002.webp"
 ---

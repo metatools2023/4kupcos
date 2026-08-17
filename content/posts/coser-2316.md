@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 72
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuV2Bh5gcWBo5J0JPN50gYWQBQdpyuDCo3Oym0Aac5_nJlM5lkKWeiyZSUljaM_jy2ZCKouZ5vVKSptHSRrl-69di3Tzyvnlh-fv39vDKyhSABd0iNRZGjFnGKW_d62R9xMYZGhcCnzkWjP2ghthMz5nJO0VQTrr7uV7MjkO-2UmNrAiBePvGEREz8GzIh/h1000-e7/Cosplayer-Yuno-Shimizu-drunk-72-4kUp-152.webp"
 ---

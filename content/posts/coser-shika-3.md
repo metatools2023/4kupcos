@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Shika小鹿鹿"
+tags:
+  - "Shika小鹿鹿"
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh9Vpp1tOkcTpn5glN4qLUj60vEtFbjm0N4BE__WRF-KXaSPYcmWB_-uxbua_o0rZfBOLTWK0b9-PFpD9caSYvMGVC83bD2lLFpo14VXOM_OhgnIrdO6UMk3BBiLL0emq-2UB4OQsjTvdhZ2qgXFbsN5dkXmldiaXq6jHf9X5R8tPnBJ_03itguGD5GPo/h1000-e7/Cosplayer-Shika-deer-gangnam-light-blue-51-4kUp-002.webp"
 ---

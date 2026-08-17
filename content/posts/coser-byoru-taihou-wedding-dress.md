@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 52
 image: "https://lh5.ggpht.com/-aLx-KQqucFY/ZfB6kJ_w2_I/AAAAAAAA2wM/CqQDa2hKtZoK125_MEZ9quXW_B-6FozzQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Taihou-Wedding-Dress-4kUp-001.webp"
 ---

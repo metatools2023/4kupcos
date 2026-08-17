@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigN3djghfhIo0cMgNYEAm-j6QvyC46LklL_r3_b6mcA1J4O7FfY7JKFVzWPBZYopnqit2Qijfjx0YSqtiehR6bwcSX-xuBexfApvQK1Z2PVBbl1FMCaLxi5VjkoA6QW7IKDsrSq_vcO7gC3irCaO7PMWRGxp2JO_JtC1NdWmHkReldPu2-EmE4qDsoZQQ1/h1000-e7/Cosplay-Peach-Meow-Ice-Cream-40-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEievNkyCBFAxf4GFrUKlMm-RvfGZXw8BSOxyNzX4nLbxS8I0nzOEUfZc-c3bqtThcckptqnhRsdcymolkMrZJB_sPn8PQuoeWhqIqL8CkVjIn5UWTSxt_tv6c0Fh8OlDmGPhdwbyQkLg-AeRC8HfHT7A3a8nrsYzZOBsmxzftCOLelWtipNkRLQkmeVAD8D/h1000-e7/Coser-Byoru-Spider-Sister-Black-Myth-Wukong-78-4kUp-034.webp"
 ---

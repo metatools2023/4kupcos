@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce Lin"
+tags:
+  - "Joyce"
 photos: 64
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8Mi7liHsLYXYYYDczVmS6MjJ53szS14wq-hGSAXw3UUkV_OzM3jXUFgxY1yG8q3FBGgY0CKp0UcY5U1X9ih6M8zCXjYUZjtGR9JlZwbX3bnA6M7INf1I7vf8K3ah-teC57_1D5rsDnWKaPwY7s3wdpc1ZgWCyVFBXe_Kb5wzgSOvpjCe56FUOdUhaHr8/h1000-e7/Coser-Joyce-Lin-Albedo-64-4kUp-001.webp"
 ---

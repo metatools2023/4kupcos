@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻花麻花酱"
+tags:
+  - "麻花麻花酱"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy7HtQPB9bs22EuES8kqZzbdOk4cDbeqPSA-cDzvmGubVzWLz8tdjdezu01NLP48NBKAhm-kFXN8vL80JfgGzVZoKbw5QKiLgPfWCzK_tZwmGpY5jGt7HZZEncw23_MRqhs-EgMIKBUtuVooFfIKFk0XO3uPerjhTv3Huo5VQh7TdROu0bC8HwjQ5kzd1L/h1000-e7/Cosplay-Mahua-Sauce-Blue-Archives-Renmi-Hanagawa-35-4kUp-001.webp"
 ---

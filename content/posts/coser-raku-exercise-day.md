@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "落落Raku"
+tags:
+  - "落落Raku"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMTV5428TWcyFvDtSDDQkZmx5mgxAc-iIsAxoJVyFuMvlxxhhyJObja8np6VTjI9jMWqGTUTMkEXcfABiY2l-hrE7iTG7jhktx-gUbXL074uYU36En6PDSxbZzL5kpWU3AIn2Xfi8izRYyh7IYyqFRBtUrJGnGv36UFFq846E92gbi3lxSN2GCuzh7AOUS/h1000-e7/Coser-Luoluo-Raku-Exercise-Day-62-4kUp-002.webp"
 ---

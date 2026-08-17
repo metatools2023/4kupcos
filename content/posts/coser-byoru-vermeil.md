@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 48
 image: "https://lh5.ggpht.com/-mgWAhN4Oh8g/ZKSoOBtm4kI/AAAAAAAAIUQ/zICF3myrNZgr2nZZFvPbeyiPp_vgsz0EgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Vermeil-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KANEKO_咔喵"
+tags:
+  - "KANEKO_咔喵"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeiTcxUjU30wBr93pzaWwQfzw4oAdppZ6F3EqRanO5RXckm2X2YBWizaLUR0Ib8BpZVQv2J7l1zVhhyZKGuz-hkD-xMc-1MutSjrmgzR3WpMl3sBzDQxsFuSP0AsLBrqkr73nEh7ImvwCBuFc6j0n0cZ6psqMu9mmGLpydSqC_BJdJeSwg1CpL137UG0uI/h1000-e7/Coser-KANEKO-Ka-Meow-Musashis-fellow-One-Thousand-and-Nights-46-4kUp-007.webp"
 ---

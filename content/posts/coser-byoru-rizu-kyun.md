@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 44
 image: "https://lh5.ggpht.com/-63F2WDrP8JM/YredWaacuwI/AAAAAAAANuc/jc3nIft9sMY_aencH87CB9aLjxf7Hk4uQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Rizu-kyun-4kUp-001.jpg"
 ---

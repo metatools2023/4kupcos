@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "NAGISA魔物喵"
+tags:
+  - "NAGISA魔物喵"
 photos: 89
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBL5FM9N7HkTixOvtEUS_NHDXJFnMwXORuwiTFeXt1VJv2meit4RGBMbInzRfL_mqYB1D6X8jX_H-HzXZWCum4q8VvfQ0aArxEe3rDmYo3oAwRNq2JabnuDevA26VB2NJDuJSvQRxaYsiDGVpZjTBMhFzlWLjGhblO2GF8US6dQ9JSJ-6hM6hFf2KMS6a5/h1000-e7/Coser-NAGISA-Monster-Meow-Serious-Chairman-89-4kUp-024.webp"
 ---

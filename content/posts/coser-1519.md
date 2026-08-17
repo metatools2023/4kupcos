@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "隼隼子"
+tags:
+  - "隼隼子"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-MwUYCAfi36aJCbAzz28mG2Xy6kr_sfmUqT02mTZa515ZF1yLjqQHRIHEXNmy5u38r5dKaMfhwUk90tVhxdYYK2D8BVcYGtDL-EVLGVautB4Fm1N4GdRzcVlbp84EuNhKLsx1rtqqlYEGtwpbR81W0VphLHQCQBG3oLHT-CMfxkyjXxp9EtCWore1QQY-/h1000-e7/Coser-Xiao-ying-One-Piece-Nico-Robin-16-4kUp-001.webp"
 ---

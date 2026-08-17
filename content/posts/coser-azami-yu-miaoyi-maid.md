@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIgxd8vVEARqehiY6RF3s3TzCFHmfh_kqipnkAQvJLxOX8ssRrOLB8J0hPTKeUkHhFyKEImiWhUj_RsykLyNyMjDqstaHFN6-oUYA9YfRhsorQJEWInwxPrI-Q-frdBHaLlw1l4zpujf0ODYllug0SwZa9ixFXDUUVQjWAW_Qn2VgxNG8P3nKmqxc9rFo/h1000-e7/Coser-Azami-Yu-Miaoyi-Maid-25-4kUp-001.webp"
 ---

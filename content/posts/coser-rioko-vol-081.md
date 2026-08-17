@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "rioko凉凉子"
+tags:
+  - "rioko凉凉子"
 photos: 31
 image: "https://lh5.ggpht.com/-dsARrdL0DUo/YgWsZb_vUHI/AAAAAAAAJgY/xqgD4SyxwMkXU5JEdv3ZETf5FrsxA5G5ACNcBGAsYHQ/h1000-e7/Coser-rioko-081-4kUp-001.jpg"
 ---

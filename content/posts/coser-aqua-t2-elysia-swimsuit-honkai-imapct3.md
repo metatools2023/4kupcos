@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdbydL8lF1oDEM7dmBfbxbBlVutwrXxXXJHtZfuak81PtUN8NH9vcy79_Nj7kPU0u2qq34_XYFoQcDaBt6cqbbCukxYs5Se_2mfiz5Xce91pP5CQWcfQGNO8693rjeFoe-dSMEdX1TBpt6LS4wM7KzzICqkupvykO-VoO5K4u4WIlBDrYJWgl2NZ16VyQ3/h1000-e7/Cosplayer-shuimiao-Aqua-T2-Elysia-Swimsuit-Honkai-Imapct3-36-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjiFF-f5D7Ckz1XPJ69Vy5wnpi4xRCEHMOQr3CaZWoOn_-6Ct4rRpQxL41HkKbadFV9V0wpu83ll1top35-5CmoKTJMd2KrMHomSm0jphgFa-cwsnQUWBqYFGbLHY8ucJ-VpQrtkStZY8JDE2BMOPo4Khyphenhyphenjye5OZcx6_QJLSEI0SqFzVKSBiZ48k1uW3yg/h1000-e7/Cosplayer-Shimizu-Nagi-her-room-23-4kUp-001.webp"
 ---

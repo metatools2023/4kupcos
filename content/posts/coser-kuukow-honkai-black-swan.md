@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 117
 image: "https://lh5.ggpht.com/-yX-urxoLWso/Zk_B2MXOLhI/AAAAAAAAqNQ/tSuMtQhVDBA1Qsm-Gio22DW7jszmGO6ZACNcBGAsYHQ/h1000-e7/KuukoW%2B-%2B%25E5%25B4%25A9%25E5%259D%258F%2B%25E9%25BB%2591%25E5%25A4%25A9%25E9%25B9%2585%2BHonkai%2BBlack%2BSwan-4kUp-001.webp"
 ---

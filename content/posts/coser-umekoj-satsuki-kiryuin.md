@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 90
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkwnSCNw8xQR462D2zuWeHnIebcGI-TuHB4q2OYep9bDV4Rj6ny_QaJjSwl0COOoyWLrDKCJsqjlxelOZaVNPD_qKrAfKiH4PqHQsYKw5nb6T3NsnU_JjQhzaTk9Q6t6bpkc7DJKyGT0gDqfZA2Yor8Ja96W-Msybdhe-FERyiic49fEjwpILVHHHO_Fe_/h1000-e7/Coser-UmekoJ-Satsuki-Kiryuin-119-4kUp-003.webp"
 ---

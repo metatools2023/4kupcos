@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 53
 image: "https://lh5.ggpht.com/-JLf9OgOmRKo/ZdfCSf6btHI/AAAAAAAAns4/ni-KCYS1V_g-w1wQTzNKr6pDd5qDSXv6gCNcBGAsYHQ/h1000-e7/Coser-Byoru-Lalter-Royal-Icing-HD-4kUp-001.webp"
 ---

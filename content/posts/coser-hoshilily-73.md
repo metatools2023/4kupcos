@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 65
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFNXeSC2V8Njng3N-mJvg_mggBqiZHgJ-AXeiJ1dKM6L5QC1xnRqbbOo4QfjaTJhUDZkT3T-jvW_mz1WMMOKMDV1ywhYAvY9HV1rjTOi6MJSIRxP5DAG565ZnAnK3Z01-RJXz7q5ozMAHuh1XUSd_dPAyIgdPargSTFwsm6oQ5uRP5f7iSc1froZOPet75/h1000-e7/Cosplay-Stars-delay-Hoshilily-Azur-Blue-Route-Jianwu-66-4kUp-001.webp"
 ---

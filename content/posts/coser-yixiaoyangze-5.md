@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一小央泽 (yixiaoyangze)"
+tags:
+  - "一小央泽"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg__lmxE6XPCTgXr8su7C-9UvgGIMC7-kykxlD__ioEGEbdQBG00TSfIg2zSqnrnRE360kGg6xv6QFWwDeDKlf-T3MSM11UgVBEi3HR-7OtZImTgWP7U9ftKNYtB7slMhTJrBAVdewF1uBJvkLiEAxuzvxSADRdX_-F3i7vU4C3-OOstub-zT4ktD6KnXuX/h1000-e7/Cosplayer-Xiaoyangze-yixiaoyangze-sea-breeze-pearl-48-4kUp-147.webp"
 ---

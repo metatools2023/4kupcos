@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0B4seCtueYhNGLnBWcvJt0ktToVp1jJi0oVSeYbTsj6oxXMs2a44lW6rOt9AvS6oGRrna8FQWY7Ov5vS6GDtrTFYq3omLRPNF8vwizGnxjqX3JIhNWbwcMmopAXHSihpjtD1csQIahlg2Aa6UxKrP_nAOBSSMqTPXHof1HV0dsj-iQ-SeSuPECiH5Mafv/h1000-e7/Cosplayer-Nagi-Shimizu-Konagi-barks-27-4kUp-106.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiHSj_zJkFMEqpiyXaOahFZp4JqkYj0LuJXrfWFp8qh47qxZaFZ45hft3WfEVOHMY2y7OsnEI_zJnkYp8iZBc_uJPZYvFI_KNUTX8k4QFFYJk3BvcahlDuHmBcgqby7bhzQiLpax2S6ABTKHng-V1q1xTHPMSYFgRNBUjR_kLXRJvxzvxikMcPfhm2jb62/h1000-e7/Cosplayer-Shimotsuki-shimo-Cylene-34-4kUp-001.webp"
 ---

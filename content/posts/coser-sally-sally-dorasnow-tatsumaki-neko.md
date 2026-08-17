@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "sally多啦雪 (sally dorasnow)"
+tags:
+  - "Sally多啦雪"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFzriEczLHUzgsswyr3Z08c4WWeJb9RafVibbNtwpU1wKU3hQqRONMzJ4Z_W4WBYecxBAsQbKvEov-1rXLVdpCiEhF_SK9VHznb4aLL2Had4Io0Ic5SLL0hNACi60ot1n__3GLe2aNjj0E4Frif3gV5ExCy5ddp3EYKWxLbPGeAsJaehoZTpivY4nhCA/h1000-e7/Cosplay-Sally-Dorasnow-Tatsumaki-Neko-35-4kUp-001.webp"
 ---

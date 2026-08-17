@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 41
 image: "https://lh5.ggpht.com/-MZ5hbmbpqkw/Y_0msgbrbQI/AAAAAAAALI4/rb76-CO9X8gZOH_FfOlGQcB-Vcce4YgKwCNcBGAsYHQ/h1000-e7/Coser-ASUKA-Christmas-4kUp-001.webp"
 ---

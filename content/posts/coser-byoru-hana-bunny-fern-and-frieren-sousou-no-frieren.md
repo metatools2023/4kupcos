@@ -10,6 +10,8 @@ categories:
 models:
   - "Byoru"
   - "Hana Bunny"
+tags:
+  - "Byoru"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWGOQIn4DqVE2_AmDi4hLFM1y5vYhcvmsj4m5c0FfpT6ES6J5w2ZfhrSN26ywOLM5oTJVs0P_TrBNdC7dcwiXCg2tq3ykDjfvnEJivoFRqQNs98A6_O_EztrG-yA5V_yJTbEX1gVu0cYda-crYuVtE_5fWYW7PcQKRQE4zs3EBR_NB8wxGMX2jucyPAKeg/h1000-e7/Coser-Byoru-Hana-Bunny-Fern-and-Frieren-Sousou-no-24-4kUp-001.webp"
 ---

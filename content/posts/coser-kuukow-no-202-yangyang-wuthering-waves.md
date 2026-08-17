@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEn1pks8mkZC3XdF_Q2O9NA2AlGf-fkeh3Ny9M2kdgLqlA_ZrP2Mn9TZVPOi9DObOkMIvyH_OvXuJjs4CXfAi0xEDewmogEDdWtK7UaA5E-GmYX0HNSiqmYbq954yIqccO351sOnUlZLg005CYi7ItopWagjOSaDn5IK9FjS6rbl0O9DTcpYMoKRCK3cHf/h1000-e7/Coser-KuukoW-No.202-Yangyang-Wuthering-Waves-32-4kUp-001.webp"
 ---

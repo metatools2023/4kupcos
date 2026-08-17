@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "樱晚gigi"
+tags:
+  - "樱晚gigi"
 photos: 20
 image: "https://lh5.ggpht.com/-ULibHZrMbdM/ZCyZ9KYdfqI/AAAAAAAAZec/RIiUgh-IdC8OcinuXVilY7iteyblk0iwwCNcBGAsYHQ/h1000-e7/Coser-gigi-4kUp-001.webp"
 ---

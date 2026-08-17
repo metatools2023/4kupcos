@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnogyMrh2BpGI3zEuIedyYzCNhJ4jCN0xFxHMANqHLRrdSnbm4TWYkyx96kKc2ffcKONbWTaZThwsHtrW06nwZcqwzfqT7px-6OHi_czawNwt25pdfwloBfR4nkpfwnvDvlQGCQQ-yApVluXoVWmmZbwJMyJBaJ-Fhl74N416G_D8xj6Ylr_jiWzUfsoI3/h1000-e7/Coser-Peach-Meow-Classroom-Death-Water-48-4kUp-003.webp"
 ---

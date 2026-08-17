@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEbdkt4fiMv_t1XgC3W5p5L5ZZ8r5BSPVGUh5uIrGFGpxgMQBq4aexfLRlOGcKs7kk6f6lPXJxFzB3YpzGdOyhecGJpx24nouH-g4wJNS2cmTsrziD_KzmyhvyqIYo37q15-d5sk23aJu4U17fVAUtpt48V0SjzU1QF5wK3Xj1Ee6OGz1PFXZUklXrYGWy/h1000-e7/Coser-PingPing-Rizu-kyun-31-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hatori Sama NOshiro"
+tags:
+  - "Hatori"
 photos: 67
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq6Z047MLKirw1XJh3YL6Qw3rtfxFfnBcqFqPEChMv3_MTUwc9Kdetezmdn9krziwIb_046vc-V3M-i_hG0kKuqwiTADn53Rj2FRKOTGts3eZzTfFCy7PjSDO74JUWO2Z91babEdqXksHVonyQ_qb-y1W4U_GNgosZCVk-UFjbgg3gmufd69edKqPLEA/h1000-e7/Cosplay-Hatori-Sama-NOshiro-Dancer-67-4kUp-001.webp"
 ---

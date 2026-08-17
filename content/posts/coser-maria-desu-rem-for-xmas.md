@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Maria"
+tags:
+  - "Maria"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZrJImdFBxhRJ7qeyKEYO8xTSlYbWDzdQrVODjNj18WnrVyBRDDYhJmgMPJJDIEe5jy_jdTUnPMQApXaugsiQxub65hQJOk0XR7WQR8pDfGluqzWuSbBvp2nBCBaiMG19WlLSbM47hvUH9iwbr8VHSWN7qoTeOVLo_8CfMyNGaOeucT-_XKGBlK6kvxuYz/h1000-e7/Cosplayer-Maria-Desu-Rem-for-Xmas-14-4kUp-001.webp"
 ---

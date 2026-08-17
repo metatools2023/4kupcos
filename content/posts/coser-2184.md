@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWr2TTRUZNqE7GeuYaYowyZmibU9nPCszo09PtoQkSo7qz6IfSB8NUVbPiLNKAw-ScdZ8M-hkP9A5NN5r6MU69kcOglfc7d8GAJ1nEvAT62_u8pM8eXI0lsHRN6FlLmP58pjk60DLmONNuS33M0yskO2S1NaKhLp1PCAWBo9pgM25OmiZ0-TppyML6TaE/h1000-e7/Cosplayer-Yuno-Shimizu-white-chocolate-24-4kUp-001.webp"
 ---

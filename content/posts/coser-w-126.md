@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmfqARoPflxsecEdH7sMRmX-wwXFHFRsNvvdxUug-kvSwvQZS2_rinYDQZhBVmMnt4SgqEx5CDzODgpoHAKBK13eDg4xq28yYojTZbGuva9O287yNJDkBm1ud-QjbilrIux2mjnjMCHuHA-IwKzhtFFO4SdOvt1wMd_zbolZ5W3RkoMjBc9j33a7orZuhw/h1000-e7/Cosplay-Chiyo-W-Okura-Luna-High-slit-sneakers-24-4kUp-001.webp"
 ---

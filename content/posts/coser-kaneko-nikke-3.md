@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KANEKO_咔喵"
+tags:
+  - "KANEKO_咔喵"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEKvFrgLl3QUYYaI-u0bKv4XXQnioJQwLPxT-q77xq2fdCV-DR0mEdxIukR1po2lRXCkiNGS8-EUlSUlQWojss3DqrqYi3nMG-Ya3Tm72gn7fz7RXG9u1qed2Cq1PiW5ZwEmG9hkXqfBMcbIu38Kxx6YKrO1BxNgGRqFDLgZ9JErwoPiZ0535rbVUt_dVv/h1000-e7/Cosplayer-KANEKO-Ka-meow-Nikke-Velvet-18-4kUp-001.webp"
 ---

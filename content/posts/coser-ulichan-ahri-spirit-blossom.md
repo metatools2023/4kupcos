@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ulichan"
+tags:
+  - "Ulichan"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1SgmG97JK7Mtj2vzu6i09-cXvZw_nkj7qDVLaXKe3JfXYxqd2SzNTPqKuEFU8EqURqYfZuizkSA2wb_qK1G1fpOcOprsDuTZaYjQWRr6HMFc7G8Tc88Dl6zI57FQxjh5IoyS74HLI7k_ZCvYztjzxMyB2vlCqI08YOwt2SjSRTXxQrAz3TX-iIS4qpA/h1000-e7/Cosplay-Ulichan-Ahri-Spirit-Blossom-52-4kUp-003.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Uriうり"
+tags:
+  - "Uriうり"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz33YTaM4-vwNoTsBWX3JWuUBXitRi71AuNuoQyDGFruABjS4fhC1GucY2QelDyPhTDBEpkg6tMo7sDljZCPxM5wl-B8FfUyLLFt30ANa6HFr9ElHSTFE5rQxpsxVW3j86Gj-BAEC6JVqTCx5-EjE56HbW4LfLUQzXlWDfKda0yNVBIwCZi5tNXYqAOOE/h1000-e7/Coser-Uri-Guitar-Sister-37-4kUp-001.webp"
 ---

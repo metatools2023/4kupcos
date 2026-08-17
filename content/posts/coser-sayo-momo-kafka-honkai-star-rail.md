@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgva1eoekzIQGBto_0SmtNKTXus6vhgBwRo10ZQTOD4lzXA3Qmcqdop03TS6Z4BmlgDTxeLn2CRwOVvOIFG20aUfaj5GFRhvM0eWhzUEBMx6iU_SRs5SknMR5ZyHZMoZllu61VAdFcUjH5051vzalDajZ1dJhdkwL5W74ae2URMf6m2oBBXCL4OAVYMvzXU/h1000-e7/Coser-Sayo-Momo-Kafka-Honkai-Star-Rail-45-4kUp-001.webp"
 ---

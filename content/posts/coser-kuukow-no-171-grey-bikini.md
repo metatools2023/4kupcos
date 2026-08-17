@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH1yLy9SeW1jbv1YwtWCIctToiXR4s0ySJqnUuHon0HZOC3Yck4ze4k17ihcFA9QYhQPnUYsD8FLcJp3gX-XPzbhyNF41u6LySfyJvIaHoeZzwsuhVWgn8nRiiU9A9vGPNIovb5BCH9c9CbvkKZ2fAqWiATq7CWOqUsKAogJJMkq3MaSDQw9F5zSeLwo0P/h1000-e7/Coser-KuukoW-No.171-Grey-Bikini-37-4kUp-002.webp"
 ---

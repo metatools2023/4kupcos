@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivTb-fvuPtah0Y22P6cnRnuEitkzJMtP6mz4qz7FJET9bu0xC01JRVuB020yOtaOW8FRiEdW0_EFziwrEf6r-shfIViEC4t-u2oFBvN9ClNDwRNBZ2rrwAtMZNmOI8y7demMKJpSpldJzAt4pJKYhyphenhyphenYGX_PdkEDmS3UU3BWzq4iuKIcCWh1lKwnrHTXV7F/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-Matthew-backless-sweater-23-4kUp-001.webp"
 ---

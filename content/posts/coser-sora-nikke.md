@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小空sora"
+tags:
+  - "小空sora"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTWiKTkHrK-vA81l-eEQuv-pF9EvtmkWYHooNHAHX2AF5HdwiTDLUHE2Lbv8y-Dyhj_paGmxOnaylHlXZExPCY6qQIpsKTZS36hQnEB3G_v67QcjK9C7qeuDUbDQ2arSUiWkGAKBl1wwfY7iWYv3ix4RT2jIiROVCRQF-VV1dY30N7nDDRPm-9__bbduq4/h1000-e7/Coser-Xiao-kong-sora-Nikke-33-4kUp-001.webp"
 ---

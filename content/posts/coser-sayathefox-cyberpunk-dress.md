@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayathefox"
+tags:
+  - "Sayathefox"
 photos: 15
 image: "https://lh5.ggpht.com/-PAaYy5nEBmQ/ZMWNWoalYjI/AAAAAAAAjPs/0RRFGTVXQLwspJnt0JwusLEWE3s4hKfIQCNcBGAsYHQ/h1000-e7/Coser-Sayathefox-Cyberpunk-Dress-4kUp-001.webp"
 ---

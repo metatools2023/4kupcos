@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 138
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihQ5N0oyS2RkvmCdaFZXJNKw3E-FRghnTXNhb7X36I6K2YGtZkStBbQ8BEAnTK8Ho008DEV_M2wilQdjcaK5TNLmNSjIvcmA8RD1UqXyiskCgiSP_8u7dzYiFKa2e0VbxNxkijM1Z7Iop2GEDGLn3GLuVk-V7EEft384piIQL6MsNXVzgaSFhNL_xn3zcY/h1000-e7/Coser-PuyPuy-Suzuka-Summer-139-4kUp-020.webp"
 ---

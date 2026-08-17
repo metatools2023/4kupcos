@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "三無人型"
+tags:
+  - "三無人型"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnaZRvXkW37aUof-cJplp23RjflROtqB-BkBrBSq3bSAOsE3CqeU29MC3xzNDzm6ZqmGbfXq251LTG4k-isBKTb5ishQu7tvmRVQYkc6wgZn-iEeL7CtaV3I8O7oIazVzd00BsYJ-xV-wFO5nz_62kH_p8K7bLVvMro19ruJoDzemA7a8kQHB6ZVmYKSix/h1000-e7/Coser-Blue-Archives-Female-policeman-during-the-flying-bird-41-4kUp-004.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato"
+tags:
+  - "Potato"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuE8LqBMSZObeKLdyvDw04oUVKIaLmAW919v0X3fDxqsTnS2uFoVsSOA7oZ9RtyV_J_L-sD43YjEbIMClUJa3k9Ol5CELh5G8WZTkI1pYuV8y0a8NuP2b-RcPLbCDGWPVJtqm7sXFiKGeenC5IyvkJ5r0EaqVQWeon_OWBaZFqTgXnhtwhqPq4jyTv9mI/h1000-e7/Coser-Potato-Godzilla-Yu-Miaoyi-33-4kUp-004.webp"
 ---

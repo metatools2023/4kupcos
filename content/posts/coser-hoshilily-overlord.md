@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLQQfEHPRB-VpAO3fnmiPwvIiJawTOXfLm1nt5XJU9Bp64o1AU_FiN5mfkSgMQFll0LgjpdWQwFWfJto9Kc6Zn98wn9ZcYfFy2CwQRdPgZ4axTNrj4c-m-OFjdp4Cc0uZy8732CQetjpaf05Od8KK464CVevPfhCzuprK8OAOXNFKrR2Ab0l0i1MzOX8p3/h1000-e7/Cosplay-Stars-delay-Hoshilily-Overlord-Yarbed-39-4kUp-001.webp"
 ---

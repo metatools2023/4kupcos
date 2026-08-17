@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkWoUEkcIH6grbyqA7R5jB9KkEk0BbcQiMi3mOt634dbILxgtx8UogyoKwjgeSasCJO-lyMDJZAhPkriusStk6ylhC30PP1R-5-sp6JwJRQTOekwDKdfU6CQzeKXz74lJWZczeNAe2oAHrWHmOQ0GxvETS2Pr8lxUs_4jran0TOX7GykvYR9QeJje0fLAI/h1000-e7/Coser-Tiny-Asa-Mommy-Kafka-40-4kUp-002.webp"
 ---

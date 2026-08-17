@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mao Jiu Jiang Sakura (猫九酱Sakura)"
+tags:
+  - "Mao"
 photos: 48
 image: "https://lh5.ggpht.com/-1heAqtN8aN0/ZPZda_aipTI/AAAAAAAADTI/O3aIG5IKPdsrfxL94n91-A61a40w8ZM2QCNcBGAsYHQ/h1000-e7/Coser-Mao-Jiu-Jiang-Sakura-Sakura-and-4kUp-001.webp"
 ---

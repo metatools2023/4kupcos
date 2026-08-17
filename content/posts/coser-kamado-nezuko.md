@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "习呆呆"
+tags:
+  - "习呆呆"
 photos: 32
 image: "https://lh5.ggpht.com/-pfRP4SLjJUE/ZQI8jr5CnOI/AAAAAAAANZU/QML_p-7m7U8YRbJ0usBHgfscK4s7WH7QQCNcBGAsYHQ/h1000-e7/Coser-Misa-Kamado-Nezuko-4kUp-003.webp"
 ---

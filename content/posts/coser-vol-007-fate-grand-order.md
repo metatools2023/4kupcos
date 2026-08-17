@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 150
 image: "https://lh5.ggpht.com/-_eL-r7P4Z5E/YvUuah4kY7I/AAAAAAAApUk/__wzwyMZNfQN9bxNR0HBjTAL88EL7pH7wCNcBGAsYHQ/h1000-e7/Coser-Vol.007-Fate-Grand-Order-4kUp-001.webp"
 ---

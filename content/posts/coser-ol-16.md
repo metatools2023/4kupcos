@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp0Bd5Qi1I4vlI4oZ6OpZA6tUgPHjq-QqIyuF7XzYClue4AZ2r4a_a02FBIKOy-rXHJKxY073GFFw4mzTkZgqCS4XO0ysCCUNt9sUsd0neIOaDbWB2tN8yx_FmBWspVv-xMaY8CUzPRdMK9AmDK83rAt6yvQaSk2PoA1SmqnQC9wNe9oR2O0M35vasnGUA/h1000-e7/Coser-Ban-ban-zi-OL-30-4kUp-001.webp"
 ---

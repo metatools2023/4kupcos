@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 32
 image: "https://lh5.ggpht.com/-1s8dFlJnfZY/ZkKaE0iNkMI/AAAAAAAAj94/Fr09uaptO0wF4HNvFF8v1_UPdN3b8F3UACNcBGAsYHQ/h1000-e7/Coser-Pyon-Yelan-4kUp-001.webp"
 ---

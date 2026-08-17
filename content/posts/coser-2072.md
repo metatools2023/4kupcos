@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcs9RLmaaSGPENVjWWad4GIuBqZX_iThZRovR5t4UpsDOQW1Xc1aKB0H8YHqD1tiB9vOKlYYRIrGRRqbLvywkFANftuDKUjkBTyXP9jFQQV8rZZCl7-MkJzB4lV5gytaakrkjNKJ2W6KnFXWBfHRLQ5yEy_R1j4gTVoufEXfptCsZWKvT2YbZmvntMIFy3/h1000-e7/Coser-Peach-Meow-aquarium-15-4kUp-001.webp"
 ---

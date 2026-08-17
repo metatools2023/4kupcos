@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Aery"
+tags:
+  - "Aery"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwTlGK9VJ1kiEBtSIe9q1bxbHupXYIf6ln1xfV9r2iyb1dWgUjqScBMISnTP87vcaqYja2GRjA9mdnZN5SIyjMThzKM-csZ1ngsLZYsVo_LC5aqhmZgMdM9_IP4WeAeSfHC_vstj-oxCNK-2uLHEAMTrk13Wp2J6oZC_7FtgEUqJHL7JktRAm97rUtJw/h1000-e7/Cosplay-Aery-Tiefling-Samus-61-4kUp-001.webp"
 ---

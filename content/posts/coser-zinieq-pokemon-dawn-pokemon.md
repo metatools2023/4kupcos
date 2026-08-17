@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 42
 image: "https://lh5.ggpht.com/-WBNBzXX6EkA/ZZsqdk-IPkI/AAAAAAAAH4U/P0RioWRGzxYXVh10afrHgp0eHknbnaiuACNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Pokemon-and-Dawn-Pokemon-4kUp-001.webp"
 ---

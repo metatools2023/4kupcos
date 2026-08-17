@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hana Bunny"
+tags:
+  - "Hana"
 photos: 16
 image: "https://lh5.ggpht.com/-Ft3HdGWiy1Y/ZTRR7T_wp5I/AAAAAAAAUZk/KxS3jtRq0uEaqFbwIUk26YV0SqaCkniUgCNcBGAsYHQ/h1000-e7/Coser-Hana-Bunny-Ironmouse-4kUp-001.webp"
 ---

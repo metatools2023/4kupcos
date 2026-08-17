@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato"
+tags:
+  - "Potato"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSlcGHtk4cpwsW7GZuHe8D2c95e04XD9ez3kL_ssX-N3i2JWzLtEfjq97cu68QjymqEHRxdul5CuyOXB4jqvAnfFvUXDOY_-1Mru_jbw3NpOeRxJkhgcppYkTierdcb3PuCPETo8u6HInc-3ZqddKo5ZD4uTHoVLrYT_wXXiDO73aZ6kDQ8hASIow0ck/h1000-e7/Coser-Potato-Godzilla-Saber-Alter-Swimsuit-18-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_-qWCQBMcXGx-E1fhGgk8_QHS3N9SqH_XqgOK5oz0Cpxl3KTwNNPNK7KyzMtKvmvbGDW-JSWNuZ9_Uol3h3PB-yetuRCz1V2O1Ck7kTK8ESvdizunPUfOxOxJ21rQUK709ZMQNdS-EAY_2MT7_yCSmWSVMDqLDq13X8jhx5ZYJLrYPpGb-sdwI7ihi0Al/h1000-e7/Cosplayer-Byoru-Reze-chainsaw-man-Lesse-58-4kUp-002.webp"
 ---

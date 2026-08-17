@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "NAGISA魔物喵"
+tags:
+  - "NAGISA魔物喵"
 photos: 72
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEnkDF-7MwmfEmx-2q8Vziz9__N7k2KYJgHcjsazrMlDvM1i7L2tPS2QUK9pX4Ml35BNAWYGDAF9gG2ztXXvJgUm9Ns39pgD0cUEB5dRNIrRdlNfXGR1p-jv-ZQIckMU8WXLR6QRJLJdqfrveR1XU9it5jR8y_3dT0Ee_MquvGdLtRZ1PX5m2NKMEv-g/h1000-e7/Cosplay-NAGISA-Monster-Meow-Ogawa-in-Summer-72-4kUp-009.webp"
 ---

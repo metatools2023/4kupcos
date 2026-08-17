@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "西园寺南歌"
+tags:
+  - "西园寺南歌"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYuXGZkwnFQFLdQArTEdrXjb708IfK0y2yayFE6J0IdTQdBmMyzlK5qOzjbwThrbDRwBmPLpF3jGaVwYhTmlFbV4w53xFYfPuwn7IbmoJ4J1ZQywXpc05_lyjt3Zjmc3iXpXYzNKCgA7XXbq-9VGLJ7EphdMsHYsfbxAMGamHEQkHYc6VcxCzhyphenhyphenpvSez6_/h1000-e7/Cosplayer-Saionji-Nange-azur-lane-Kashino-bikini-25-4kUp-001.webp"
 ---

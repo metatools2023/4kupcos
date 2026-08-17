@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDnw_4jqdZY9kQQ7axFr6_N-8klMOaJ7WdaS_8I26BGBWtbJnI241mgcsb38woK1m6uy-DA_pNYD39A0z0xdvXeqCtI8NjhzyOoOro0w3sy6LbhodINr9aasNpAXbPq0Hk6AtwwWsoIPUTxmQ0NbkyZnsRLzQ7FBvyqB8_2UgUdSOIUVl_Zp27XDi9oh8/h1000-e7/Cosplay-Chong-Tian-Lin-Hua-Rinka-Evangelion-48-4kUp-001.webp"
 ---

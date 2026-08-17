@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bangni邦尼"
+tags:
+  - "Bangni邦尼"
 photos: 132
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc4HSwWguu8MJm8_8TupJyHWUWtrvZP6tN54JCklBQ8OlNg6LDv_1JUaZb_gtJ1R0QdAuWPWphhmWy53vwNekmv9QCr_j-aF6je8VPt5HCoFx0V8Ejv9RNiWEU5U044XIkU4U-fQx8wxXfCmknLPjXRbxdf_5EPB-u_8dzasuQ72cYQKHyRVLeNHeTiKMb/h1000-e7/Cosplay-Bangni-Christmas-Neil-Red-Dress-Royal-Sister-132-4kUp-004.jpg"
 ---

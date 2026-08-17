@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "秋和柯基"
+tags:
+  - "秋和柯基"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnP-4Tf2H4U27RXPflP7jEfQImk5LORKGj2ngiCGorZ6IVV9Ys1VVGafSS9eXpkU0EB1ILOF01Amj1k482k5YrNOrj4DIBF0bgVvQszjbKWtH3sNho_bu6wGEp_rAPU9fEVnobWAXShBsEvLC0C10kguoXMgFUceRxzgokZXdA8kOrAHZ6g2dcoImWdcTJ/h1000-e7/Cosplayer-Autumn-and-Corgi-tech-cat-15-4kUp-001.webp"
 ---

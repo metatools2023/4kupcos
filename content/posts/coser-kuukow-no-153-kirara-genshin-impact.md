@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwEXCfxmYFUWJgCRitR53w4rfWq5KEmRD0A6CNCdJZxC3kjhEZk_1Ps2UXVLr9kH4NIo5rDRvYqvXEIGa1wvgbeZXF8pkWV74Mt4gj86yiUSooLz_CjxURp3a5uvr-dxZwxraqsvh-nRSYN13FhtdKBJHG2_8nnEpURjg8N9PzbpHLOoNohQzFIlAFIMck/h1000-e7/Coser-KuukoW-No.153-Kirara-Genshin-Impact-38-4kUp-002.webp"
 ---

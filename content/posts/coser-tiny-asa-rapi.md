@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimKY6dmQxJ7Lv_-1Kn1iQXpZ9aHR2hSCfaNqlS38YjqoX2Yo7mQGq0aQTcsRiC8keupOtRlFuATLLpSzQIeSFyKz9RfPrVAQ3Wxa8qCS-MTQuAFvJNestBnZP7QxUdWV5gfoxDjXDDqsZbtP1rG1QYCsCcjqw_B1b8N8WS7qW0FskPVCGERfkQ-UJ-2mhd/h1000-e7/Coser-Tiny-Asa-Rapi-29-4kUp-001.webp"
 ---

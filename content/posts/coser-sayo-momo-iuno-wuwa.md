@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo"
+tags:
+  - "Sayo"
 photos: 72
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha57EhtdHPAVhVCrHmXps5Ro_K3OF8mFCr8RqhJvAWN0M0sVbQkN-oUGxwNcFYoGPioPiMOR8amxDEGRELVdy2XSRbIV4KcmIjtGSxrZ-di9T2BUyOToB3EVvXDgX8NzvQS61Dsj9Wlh9UVkLuM03zFpBnGLZ1Lr0avcCnTR_Zhan9uFRBP14wIXzzEkQ/h1000-e7/Cosplayer-Sayo-Momo-Iuno-WuWa-72-4kUp-001.webp"
 ---

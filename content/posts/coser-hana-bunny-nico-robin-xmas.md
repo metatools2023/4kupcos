@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hana Bunny"
+tags:
+  - "Hana"
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwmbZIXUeY54OnDxCyrTrgW0jSqQ5eQJyw_NZBT0gmF8_TxOkQ4PbMoj4QXa4rzzMmRxcoTGZHL7oqXqcWANuyP82aeTjdTSneHEZIaIUpyxnERGkMllRF_qse41-JH_KxRgXdicAkbdvSWYmu8ejyRByo6fi3NaGIA3qs1S5ObSuZw2Swyaj_SGDTtjd8/h1000-e7/Coser-Hana-Bunny-Nico-Robin-Xmas-12-4kUp-001.webp"
 ---

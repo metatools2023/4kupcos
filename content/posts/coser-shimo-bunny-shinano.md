@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF__FZg4uPgV3x_tAO7yxRTtCIIaTeQNFAdAUBkjMl2zHF1M_lwA9G7ftZ9SNVmBUqUgsCAz4EL4kEKJ98WS9LUY3lbGKg1KcJwzJr41rcAbqbLNZswNnsoHbECfbOB4u8BclFCE1wf7sW5H5-TlCECKGlKRQckleF1Bk3EGt73RZKHUsSFO4d7vJqEAo/h1000-e7/Cosplayer-Shimotsuki-shimo-Bunny-Shinano-20-4kUp-001.webp"
 ---

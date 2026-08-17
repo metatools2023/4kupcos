@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2Q4JBX9qzIhaL5QD617VWq0eO2xRvHeGlHI4jSG8xZegyWMD4ZAXk94Yd7IZpyTLDJaHEnh5giGhEjeHGfKG7ykJ0A2QmtIqXL8regFZKMLd1NiNczNxKvDEDD3QCCJaTkvCKCO7zebxvAefEUiCe26qxHKCVRaNLvHWbbnfwqlGVHAd937kxnjGbRWDm/h1000-e7/Cosplay-Mizuki-Aqua-Genshin-Impact-Navia-57-4kUp-002.webp"
 ---

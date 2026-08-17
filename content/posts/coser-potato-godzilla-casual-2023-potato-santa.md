@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizZ0MY-5e1LOWPAqfi2tEyHVN50xq6misdeJOs7SNNU9q6KgVohVobjXg-15PVtdsaxeNMKCzq6nlvFp6TqXfMTgf5sp7bbPJg4GFHNIvDtcOfixao19s4qi9WNZfxOVukMPMJ9ImRcdSqylE5B51tOn7J-PVSpjvV55TWJHDrleshdP-1H6L-FhzfrjY/h1000-e7/Coser-Potato-Godzilla-Casual-2023-Potato-Santa-21-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 104
 image: "https://lh5.ggpht.com/-fwNvYpoPDVA/ZGj4vhSeyPI/AAAAAAAALKU/JhgvJAsXzFoexxKo3Tf5MIEHBG4sQc0cgCNcBGAsYHQ/h1000-e7/Coser-w-No.42-Fantia-March-2023-4kUp-001.webp"
 ---

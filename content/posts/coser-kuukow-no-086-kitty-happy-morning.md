@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 37
 image: "https://lh5.ggpht.com/-5XwM0PXiYQI/ZRNNy3QVq_I/AAAAAAAAaEw/yskS1XTmy-YUJUPCJnSYT24QwZvqqAI7QCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.086-Kitty-Happy-Morning-4kUp-001.webp"
 ---

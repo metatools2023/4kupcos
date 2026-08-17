@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHea1MAj2QekRpA3DDmXuTiF1rf217ZQEtjU-CNEal_F3RxHw81VFCAp6VZtRW93M5qDwPnJvK3-k03g7Kles_HiQ3Z4dipanAKKVMXfr6fepJpQQ8lvrrSMxJvrHhJ0cib5vBUGxaC5bsjAyzvMtJqXGYzKwooWKgq-rzXvMvSsJ1C_0SxRkIanlMnPM/h1000-e7/Coser-Byoru-Mogador-Azur-Lane-74-4kUp-003.webp"
 ---

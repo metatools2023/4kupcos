@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "糖果果Candy"
+tags:
+  - "糖果果Candy"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirFKdR8ZZd-VoM2dd4_tOXrQX1JbULK6znhRSkYs62nObEvk-lMEktF0X6EGXOGn4P8vR9v1cDgnm9y-xv77JplTneQeiaXWtdKHTbC36Te50-K_2xFbKO1LjNcqBr933lrUXXbQGz_wnGVcwnhU_xVrCxLsjKx6Ele8gcdfcJ27-V7R8w1sDDC4ph7g/h1000-e7/Cosplay-Candy-Captains-Welfare-36-4kUp-002.webp"
 ---

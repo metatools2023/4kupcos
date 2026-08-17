@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 74
 image: "https://lh5.ggpht.com/-0QPkStakobI/ZOlsrVHQR1I/AAAAAAAAa90/FB0b0GAOV0YRsgny6c3TtJakJKu3p-G1wCNcBGAsYHQ/h1000-e7/Coser-Rinka-Azur-Lane-HMS-4kUp-001.webp"
 ---

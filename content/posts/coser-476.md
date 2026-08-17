@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 31
 image: "https://lh5.ggpht.com/-2VgvVZ1YKbU/ZdN8G__nYiI/AAAAAAAAmLM/NLkwAY8c2ssyZR08ilMnwl_6Zux27f_OgCNcBGAsYHQ/h1000-e7/Coser-36-4kUp-001.webp"
 ---

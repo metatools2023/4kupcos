@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜井宁宁"
+tags:
+  - "桜井宁宁"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIkaOeZlJhCF-Ssn9u8s4flCJ2ylIw8vlbUtPETEYFKR45MMJTGm13032hzHZfpzdQ0g2uTexbwSxCHy-G6HTTCprC-U8cImhtkwgAZ0WoGjevQ0Ox-4_h4_bmk7BL08fQf_aFb2XfDFLS7D1JbF1GRRstrJs9Yq3ouZ4bTymq8GEO0ryRiaUyGxXPvWJv/h1000-e7/Cosplayer-Sakurai-Nene-New-year-gift-24-4kUp-001.webp"
 ---

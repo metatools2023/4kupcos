@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane Ame Nyotengu"
+tags:
+  - "Hane"
 photos: 111
 image: "https://lh5.ggpht.com/-WNFme6JQH2U/ZCSzmebJUdI/AAAAAAAAYO8/VYo7ppLMuZgvipBZa23zvND7dYitpcq_QCNcBGAsYHQ/h1000-e7/Coser-Hane-Ame-Nyotengu-Photobook-Dead-or-Alive-4kUp-001.webp"
 ---

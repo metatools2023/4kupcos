@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 37
 image: "https://lh5.ggpht.com/-8f7U5MaSG_w/Zi2RZAwIgUI/AAAAAAAAVa8/FVtfBcI_0WgZIj4xRRTGUPPnAL-ENgsyQCNcBGAsYHQ/h1000-e7/Coser-Pyon-Jeanne-D-Arc-Swiming-4kUp-001.webp"
 ---

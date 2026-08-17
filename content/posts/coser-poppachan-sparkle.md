@@ -8,6 +8,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 124
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6voOwDBDjnyQJ07CTeVAflo8cmvRfpdgRKHoV8OFFfINwH-5gVxq9kIatjp3aOgRUtuTU3bD8SVve8hYSeOG6Ym3kYiIRqbbgTAfwKnpbb1V3irM0Qq8RVVM2Fidezb3MsyT_u5POVvE-rs74t2h1dxPlljisd9ibHDWPV-HKT01p8xsMKJtGJq-O2w/h1000-e7/Cosplay-PoppaChan-Sparkle-124-4kUp-001.webp"
 ---

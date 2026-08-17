@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXw6JAGVSo9XmQD4u-sCAjBCIs0aHqruF6aIo3RZe1xSlup5-6n9l80JWVGGTjQyBDxYz5oF_2BSW56mSapjmBu19j-rDc-xHWc2q2l71Y9IXj77RugjO2PDHs-qCfiC3XulWuV8_5CeK4dV-FKZS6RcqRKk5u_No8w7VDjth5cneGaWaeO2ExS99yT_U/h1000-e7/Coser-Byoru-Falin-Touden-Chimera-Delicious-in-Dungeon-56-4kUp-004.webp"
 ---

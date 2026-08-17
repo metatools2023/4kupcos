@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "柘烟_Zuken"
+tags:
+  - "柘烟_Zuken"
 photos: 20
 image: "https://lh5.ggpht.com/-WV4cYQYG-zc/Y_E9sIdJg1I/AAAAAAAAC5s/i2MlPLb3vuA_ZNh0Z7BzGrID58YeaWAKACNcBGAsYHQ/h1000-e7/Coser-Zuken-No.03-4kUp-001.webp"
 ---

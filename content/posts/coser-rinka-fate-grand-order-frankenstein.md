@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 19
 image: "https://lh5.ggpht.com/-pJ2-9mkZw-g/ZP12HCJrvaI/AAAAAAAAIxo/dWA5MmTqpHwQsllMXNjf6e5Mw75TqlQ8QCNcBGAsYHQ/h1000-e7/Coser-Rinka-Fate-Grand-Order-Frankenstein-4kUp-001.webp"
 ---

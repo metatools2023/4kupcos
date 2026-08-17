@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "屿鱼"
+tags:
+  - "屿鱼"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3Wb_44v3f8aHRzBryLbJGQ0nxnhIIbXJxAKcwQ61iBXRcsxUt0PhFbKgXbY0m-N3mEshTVbgNnf1IG_zEfBIK7xiQofNX2gHYfkQwlut0-8SKFu0waHoEFqFSQWremHr8IRja1v1B_ndk5BMBN7GsZ1GLiJEPIN69i9rUuCpiuFcYRI8SD9psQM89r9OM/h1000-e7/Coser-Island-fish-Artima-Myoya-40-4kUp-001.webp"
 ---

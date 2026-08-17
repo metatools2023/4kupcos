@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "wendydydydy_酱油"
+tags:
+  - "wendydydydy_酱油"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAxgMYUFn87G6gRqS9-6kL1VfI2VrD_i8y_4b9pipDvk_w0Lv-1-YKwfz4p5N7WTtq3AQDosaY-mxWsQQEZfBaw-P153DwLwG7Egf6Psr4K7S9m45h5_CNdoPrEn0XqwetB56P4z_mxpfeSGIAzLZBK1-GwYrsMfrxWyVhbpGAszdJV7N-xAHfy3HqYVHO/h1000-e7/Cosplayer-wendydydydy-soy-sauce-azur-lane-Sirius-cheongsam-18-4kUp-001.webp"
 ---

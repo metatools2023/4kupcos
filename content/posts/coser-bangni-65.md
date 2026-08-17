@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bangni邦尼"
+tags:
+  - "Bangni邦尼"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_Ct5L8z_JhpJMmBdH2e5uEvlsFyzWkxgfkU47vEzEOZrFOVridz3ZSJc5Ob99ifAZ-JeYme9Mj7gQgooOAohxTAEcl0RYEMhY1hGFsAbeoMJ_7OSSTvOdoDLCMMUcpNM18w1TBjEXiZwNobCeaY5nMuNL3UCKdcHA86bV3tGQ78QfRkOFGngfrv49o981/h1000-e7/Cosplayer-Bangni-Bonnie-azur-lane-Cheshire-New-Year-Cheongsam-50-4kUp-019.webp"
 ---

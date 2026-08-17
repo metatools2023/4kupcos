@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdgFOC5GvbDM6ljuJNupn9Z1sugcpnvUc3jNRQPYsy8qRs-6BruKNt8ZNqyJt5Ky2nPgnmHRTG-Hgzmud1mwpgiqBTgA5bzE0Y9DwLLnZ0ut2IyjHP3DUmNZzvmBPIvpr5SyUYHdtePj1lXJnfyj8v6EOEaJf3oNdxhgMhu4L5BLfOxTDpZ2mhwMWum28/h1000-e7/Coser-Byoru-Ellen-Joe-63-4kUp-002.webp"
 ---

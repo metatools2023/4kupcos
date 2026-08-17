@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sameki"
+tags:
+  - "Sameki"
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitUkngayFXkMWceLmu5pyWQe_QdLt9OopYWXt-WIkhlB8ygDf34u_rLvBAjNLtHNc6Xizwocltpbcm_p6QcQfMdUf312by0mJDKDCjHru3rS-lwqATJv2W19L-36F2J0GobrQAUPcxar9X6xrTuJgZy1u3T-J9gOMjPLvGmJ-AUVkaIQrGm_lBXOcSNEA/h1000-e7/Coser-Sameki-Urawa-Hanako-Blue-Archive-54-4kUp-001.webp"
 ---

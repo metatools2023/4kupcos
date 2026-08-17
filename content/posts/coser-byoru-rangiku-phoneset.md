@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 19
 image: "https://lh5.ggpht.com/-rmMeAZi2gHw/ZKNZZVG_K2I/AAAAAAAAFDw/tI8DwS0gfzM4DS4faHWYupzOxjRK1KulQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Rangiku-Phoneset-4kUp-001.webp"
 ---

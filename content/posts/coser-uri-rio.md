@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Uriうり"
+tags:
+  - "Uriうり"
 photos: 65
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeRqzosYtCb-ubALzGiCIGE3or1Hh068AnaNzW8JLgAT1xTDF7a-FCzMNq8QSvonMbf18BBEayaDtEKXeidnMfE3ACYvtR8ASJP0TuY7r7yhV66ZnIzcPxThYTcHqKx1C2waa2aZG8qWcGQZZNrz6pLfr_TY1-GkyVrdqkWmTdvWRjI8iEgTMxJXIiRw/h1000-e7/Cosplay-Uri-Rio-65-4kUp-008.webp"
 ---

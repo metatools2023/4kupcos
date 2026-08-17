@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyhjKnVEQwAG1oPG33xbbXp41WRptMm6nOL8ztnIAHnmxfF942svhScKjZ8PR5s1es-OKBYUbnwbd-XZmzfh3GQUaXi56C9UrAqy4sdiEn9wKbsFFwn8gwe36xqtiMt-2tZJWrETR4Pd3C2XY3DYeW9XcrwOHGmMGzxU3ryo9Zmu9WWHFKgKOeWF-4HD8/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-azur-lane-Noshiro-shirt-40-4kUp-012.webp"
 ---

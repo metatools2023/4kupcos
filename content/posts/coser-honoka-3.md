@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "花兮_honoka"
+tags:
+  - "花兮_honoka"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwIkTjBqwVjo3_bN1kxmBZ46GB04DaDaPMkd0IUy8MERQfXYrT-JJzuuBH53m_h_qT54IQDCwOh2UEWNWIoSp2_gswDwjQUr_Pa4Dcxy4Dqi-lBf-AxvmulxU2a_XEprRW9E3VTTN_9kazwl86dza8NLZhwoB_GcrQXrzKgoEod_7rba0GUXZhlXv8vSJF/h1000-e7/Cosplayer-Flowers-honoka-Genshin-Yula-16-4kUp-114.webp"
 ---

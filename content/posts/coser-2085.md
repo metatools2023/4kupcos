@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 68
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUjWkPi_zZr3qlXBDtpp6B7bAkFN0y9iQr5JXYRnLor0w9Y9u2LQ9dIXmr9sRYQTKiBkmm_4YzaYWWd3fGlVDFbZ55aoUzBCycjVNglOBjadd_uYPirW8TuYwBnmseOGGR4MFO7DKokCFZaXEoGta8bjz6S_VS1FwBr0qg2OIhADtQNeY0MFwP3qPjewDF/h1000-e7/Cosplay-Nine-Words-Tactical-Humanoid-71-4kUp-001.webp"
 ---

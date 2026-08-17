@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w Kashino"
+tags:
+  - "小仓千代w"
 photos: 22
 image: "https://lh5.ggpht.com/-zppyf7XhiyA/ZYyiWUsEuYI/AAAAAAABsbM/nmKpr-gjOxMfosDn2UMuIDAtMETaleOTACNcBGAsYHQ/h1000-e7/Coser-w-Kashino-4kUp-001.webp"
 ---

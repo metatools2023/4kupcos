@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHwvbvN6imHzkOwzSOoMWtFhbnCpBym5ehgI_lG9Yue9X6qpx_XU818xOczxwpZume2HvH2zR71HfzT1Ne46yvWdaUXW0wJbH9M8BymV0L7gUlBaC3YgLqN5LDNCKSVir_G2dI0cC8mmy5N7y4HP9T3wvk003DqY-N5QXw9LjyXNInp9uytyw_Cdqfnjo/h1000-e7/Coser-KuukoW-No.131-Noshiro-Azur-Lane-21-4kUp-001.webp"
 ---

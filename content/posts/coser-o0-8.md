@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "萌芽儿o0"
+tags:
+  - "萌芽儿o0"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFSkqg-wXhQRw-C6DLPobRdG01i8rQJLwjAwGesjGvsFQ1YBb3mqhCDVYng51dKLGO_FLFLqi0y8IBcrP_15Ekzk_Vyv1RYwcygm3DHuewno4Oi1QYK690NQw5UhjT4so5-egBL1hq57nuNIc3qWgh1hfCVB_QJaWFraKpt_B4xQJ8xCKCgS4Efu8jnBCp/h1000-e7/Cosplayer-sprout-o0-Massachusetts-Preparation-for-the-feast-21-4kUp-001.webp"
 ---

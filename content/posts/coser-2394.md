@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "西园寺南歌"
+tags:
+  - "西园寺南歌"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWqAgv58JGNT2d3UnFlfMxU8qvdV5icDvq01RCcr5wSohJdJSaDe-Fv7sUepC3uQPTdmj_7GnOjrMCEYUsyyLqxwkPKC7yxIgi9rP9mhzyyZv1Q2cALkgudhKl_MttDwjqTTjad2iP4wv8et1W2ZJAyx1Bx2YoMXzMEbEFovLoRleS3ciMj0e4t-2NiBPF/h1000-e7/Cosplayer-Saionji-Nange-Resentment-15-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTAC2YmwtIykOFYbaS5R0Tzys8Cn3AFSiJxwqqXyvvfdJ6kF1r2xFRLJ-WRVRONLKT4REDoAnm7U_xLjiTddpC1aKj0g3_T9r3iljg2d0bEgDRG-BdH0uTDxoav2S4LnfW-QCwUVfd2ic38Effh7qBU6YcfdxIDTavSumNB0t0S0W5XZwdzOyi-TVewnY/h1000-e7/Coser-KuukoW-No.149-Katsushika-Hokusai-Saber-26-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "面饼仙儿"
+tags:
+  - "面饼仙儿"
 photos: 15
 image: "https://lh5.ggpht.com/-duYjlsdFLQo/ZaW0x4Z0kcI/AAAAAAAAOQA/JN1oe1UQ3XYMNwGSCwVF53Z0ShPJA3BrwCNcBGAsYHQ/h1000-e7/Coser-No.118-4kUp-001.webp"
 ---

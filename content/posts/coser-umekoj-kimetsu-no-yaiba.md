@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 141
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizMp4-1sjttVIUNw9qn_XDa4IxnZGQ2w-5suOAgaKquLa6ihIaBaeH6tmcB4J0-lPMsWWa-4SmvAnpCUHuUbN4VHBmpXeD4fMosopTAUNlvZ42abJa0tnjlUrCLeAevDUgpWvyI-qpXteSJacWNTWtfBIlXXIwulVlx7u9M4mwMpzDcpc1X4C1XGc3MW2T/h1000-e7/Coser-UmekoJ-Kimetsu-no-Yaiba-141-4kUp-001.webp"
 ---

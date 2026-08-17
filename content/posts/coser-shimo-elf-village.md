@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 99
 image: "https://lh5.ggpht.com/-ndK-wvoYcwc/ZocnZPgik1I/AAAAAAAANxA/Wridxw2nGmYMW9HlXEruyByJdDqu9iJbACNcBGAsYHQ/h1000-e7/Coser-shimo-Elf-Village-99-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "铁打萌萌moi"
+tags:
+  - "铁打萌萌moi"
 photos: 19
 image: "https://lh5.ggpht.com/-A24FCUGb6yM/ZlEXZsJwWsI/AAAAAAAAqlQ/f1qr0WrRAtMnm_eOQkWGlwqIJI4v7fplACNcBGAsYHQ/h1000-e7/Iron-moi-4kup-001.webp"
 ---

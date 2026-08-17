@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce Lin"
+tags:
+  - "Joyce"
 photos: 45
 image: "https://lh5.ggpht.com/-GhDxJKkjR-M/ZNkrrMTP12I/AAAAAAAAROs/f1BEEaM3oloKyEI4xMpN54-EjdnDt6aHgCNcBGAsYHQ/h1000-e7/Coser-Joyce-Lin-Kitagawa-Marin-4kUp-001.webp"
 ---

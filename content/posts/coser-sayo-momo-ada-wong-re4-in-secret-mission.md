@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 45
 image: "https://lh5.ggpht.com/-Iv1vB30sBzo/ZScdZ3knIUI/AAAAAAAAKoY/GAhbKX57z7wGuSixXrnmYSAIUibBmm1_wCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Ada-Wong-RE4-in-Secret-Mission-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5u8HK5Z-pqh91_tKcoUxgdhSLm2t2uQhGskFwu7By4HVwZj7bpTitY6SfWjJrZeUTbpdSJMX6uebnaTHuGu17-1x5OYOy2sWEvi0VGXONCXxIZacrjWQ5I051mnBTABIoDcWp9G_GHYC1bZ-aqtWWeC1XSrDGh8TTbRnQ2CtNMduj-L5Ns0CujHujoFtU/h1000-e7/Coser-PingPing-Maid-Kitchen-17-4kUp-001.webp"
 ---

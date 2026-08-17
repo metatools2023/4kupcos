@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNd9qZVtU-oqs6bbdK6I9N3SBv6hcqzgOhKM7ufyJ-G0Ytm7RWfzDEneMoFbTyIaesAbyapvpn5kSubE3cQaJyFPo9p5ILUrG0ph2IO3L8v2aW1c2ZZpNMPpiEvW-3bqNgo2h2MG4FqzXbVEMorpQWtojMDhKCHYnoKwbKXxhXh6o3r8dchGvaXm54WZ8/h1000-e7/Coser-Potato-Godzilla-Casual-Cozy-But-Still-Sexy-17-4kUp-001.webp"
 ---

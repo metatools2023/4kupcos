@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 87
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgp6B1E1wqUQYd05y3vSdGIh9Rw2zGbh5LX8ytYOD1SOtdwT9G1kDzOkXTzEepljr82S0EhxvivgFivN3XnpCAe8r9ANW2eSX3jD2_2NAo393j7CK8tb8PXnPvxAJQOZpRY-9p8bw-nZlpiCVtOJ-kb2iXDl3YKZhorkuU3ejjYGdtjB-e-gSUBjXO2d9br/h1000-e7/Coser-UmekoJ-The-Fourth-Sister-Black-Myth-Wukong-92-4kUp-005.webp"
 ---

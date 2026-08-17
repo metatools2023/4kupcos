@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmcm_8LHph-RI74kdw5X-tF4ZtO5irrIrMBNmvD-56adDxotmnzvlx9If4a-K8Cn4rlGX0U2urleb8XVAu6eiGbKvLmSq92PZbQGUL70qVrvZwhA1jNzaxFhZCJRwLUgd7n5BQs89g77t625P41c92N7w7BIlaWq2MKUKXl3WlhPilHOca-PEAwkXO0X4/h1000-e7/Cosplayer-Yuno-Shimizu-White-shirt-broken-shadow-37-4kUp-006.webp"
 ---

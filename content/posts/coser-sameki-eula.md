@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sameki"
+tags:
+  - "Sameki"
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjneDsTwcvYmPRKpgfICpqsMaW2JTO3dmhXcKjnkdJQ8m6HcJNQsD3IdtYkMTd3b4C6o9t-dNY9KTKd_a0R-8ymC9hVAtWF4Dqj_POJGZZZNn7D-wHHY8nl7kRfr9Z-YdB5Z_XxkCOe-6fLdwgAfXr8UILyzPlHP3h3J56PhkTjYibRjKk6aoNzt7CJ1_U/h1000-e7/Coser-Sameki-Eula-53-4kUp-003.webp"
 ---

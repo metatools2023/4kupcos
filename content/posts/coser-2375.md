@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHQpQTMHl3FE3Qy3pfM9olo_j-AyCdtnaBpYWXFmEtbGj3K9BOL7uGkVZUBOx9qhcWw-gGLUh-CBFjbUUAeHBvjzpdHv1kyuWQupls5n_gUsDSgyjzO4PV0WKu1vbsiFHWuR775t52JJc9MrDKpy5wOQUUBwZsENG_LJ8P04uyXt0kPTxlA9euOSg50GDn/h1000-e7/Cosplayer-Mochi-is-delicious-Bow-tie-puppy-40-4kUp-005.webp"
 ---

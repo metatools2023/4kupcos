@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane"
+tags:
+  - "Hane"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5u-BEKegsCYj-gRei0FtmjfBDWDw-nl_Dj5znAjEfliBvVeZTZF6NNP7XRy7DGhInUYwK-z2WAoqzDUcTb7gTQxbfzN5wmb6ujBMfjLD4qIxVPtbg1EkIwrnBPxourlToGDvSQWIFZs7pmyHJBctoJEXheY8Ek_vIS9Gco6eLQ-8964Meo6KmdqGLWgXJ/h1000-e7/Cosplayer-Hane-Ame-Fired-Chicken-32-4kUp-002.webp"
 ---

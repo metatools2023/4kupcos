@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 62
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh84hsNpPdhAC28tRAeaF-yBCK4ONy7tj8r_FuCNXqF2FrKN-nMRUmNGve78xgDe6uCaRjZgZSV0VohIW8lSd-_YDcf3BLhCeKfg0c-1mw2BbESThMCEFjD81vvR_HnWf1RUKZ5aO-cvAksQ69DGOiQRuR9PbMvt0wXdCaI0LoUQ3AGq8bvQ9ABPo79ed0/h1000-e7/Cosplayer-PuyPuy-Nitocris-Alter-62-4kUp-031.webp"
 ---

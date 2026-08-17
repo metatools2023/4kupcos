@@ -8,6 +8,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 90
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMoybzdcKYBA4RprnXQUOeqPXTbMTrn3rKYE6bBc7hO2kR13z43N94XVOHY1s_4tF6N2VuXp8Niixj9Eo2EYhu5G6eeDVy8FZ6wOLIaCRiChGcNrCt7eTycabTpoRik2HrC5PduQyEWQx06sjEzQG_Dm5nYEcFo1gdBJ099of7HDOqBZa7TA3jYKDJ1g/h1000-e7/Cosplay-Sayo-Momo-HonkaiStar-Rail-C-o-l-a-p-s-e-S-t-r-T-c-k-90-4kUp-001.webp"
 ---

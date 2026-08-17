@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 25
 image: "https://lh5.ggpht.com/-l2gP690ZrZA/ZkfYEMAkJWI/AAAAAAAAnXE/UkdUafABie4wP2xZ9_L5hZ1balPNmi39wCNcBGAsYHQ/h1000-e7/Coser-Pyon-Eula-Genshin-Impact-4kUp-001.webp"
 ---

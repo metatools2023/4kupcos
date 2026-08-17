@@ -10,6 +10,8 @@ categories:
 models:
   - "沖田凜花Rinka"
   - "牛牛Niu"
+tags:
+  - "沖田凜花Rinka"
 photos: 21
 image: "https://lh5.ggpht.com/-3flufwAPdX8/ZOAcbDRM41I/AAAAAAAAUfo/iijcVfsUvNcLNdwwydQZ_SGfER8tZ6nhgCNcBGAsYHQ/h1000-e7/Coser-Rinka-and-Niu-4kUp-001.webp"
 ---

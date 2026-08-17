@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 81
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW0rayc6tZbnkn24pO_ps_K64Sp_0OvfRrrYioktJwFSDDPZwVvzxVC_8lQQrmPX5xko7q9oBfiq_dcNfJ1-GDARYo23vXkhl-3pFdPqlO41JxCo69WxEOMHlf5ogMFHhFcuzu0widoip_FeNQK3KvDj8K7N53Ukq-6P1UNnymiVIeoP6_RhDY8ZNs-VU/h1000-e7/Coser-Candy-Ball-Rapi-81-4kUp-004.webp"
 ---

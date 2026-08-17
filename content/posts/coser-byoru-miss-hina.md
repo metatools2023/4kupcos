@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://lh5.ggpht.com/-vLxj888uHSg/ZMQ-jnmzPRI/AAAAAAAAiPE/KH1lRvN4ZbgT6JLB9buH22TlTSsQTvYcQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Miss-Hina-4kUp-001.webp"
 ---

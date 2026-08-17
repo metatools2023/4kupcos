@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlDi2kX7G-J1nTMDGOSqv5E4v6oLP6AdgxIM33JlC9bL1LMvHWTiLy7-tMhyphenhyphenLONfyNkwwGx3CQDCK5EyXgxYXjb7ttPKoPy5h0wXevL5w0VKbCh8Ao7p4nELCDXgcCfTBb1qWNr46FKCNmkr8c6foIL3ZclD04HwkjNvjXVkfVQg7vjuTSTUq-ZTFe86we/h1000-e7/Cosplay-Tao-Meow-Jinghong-15-4kUp-001.webp"
 ---

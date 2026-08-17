@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "木之本果"
+tags:
+  - "木之本果"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhB6eH00x1fx4W__9fem5NgKKHfFZuYExlWahmTUBNnjJiER3XesfMhAWF46xwEyEioGTuzl39kGawvmWyCmkKfxh1-tfql8m3raIQPjK0RAYJDPOrrlsKemriKwdUZH-Lz4UKeMkNf10jdiAOpg9jej7N_cBKkMqwgLgQEUsZsXzFRQ6_eT6NayOlDrc1e/h1000-e7/Cosplayer-Kinomoto-Kaori-Cheongsam-book-nightingale-43-4kUp-001.webp"
 ---

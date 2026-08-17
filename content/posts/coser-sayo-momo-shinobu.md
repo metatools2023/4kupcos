@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 98
 image: "https://lh5.ggpht.com/-kcCnH9616Is/ZRC4TjMs5YI/AAAAAAAAXIU/ZAW75RKcWFcSQFBpN4iLeS4dUAjOon9OwCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Shinobu-4kUp-001.webp"
 ---

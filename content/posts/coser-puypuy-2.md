@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiim2gqrpC1Q9-L6daoi7ZyiboXaepoqyINsWMxZIYOmKY7v9fQAdtp2BBA0vsNIWC14vqVbTT27NwjTjqwDPZxwnjlcoy1WKxjaDrnvkdc9HAAgm5TVD9snnphd5d4vUxHdstQuv9xlVfJ8P0iKfcKVIgbQlq9JV0Mh-45JDw1e_5B_s_3d1y2DL6mFjaf/h1000-e7/Coser-PuyPuy-70-4kUp-003.webp"
 ---

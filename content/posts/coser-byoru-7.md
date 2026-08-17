@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrWlQv69_Cqwa-Bg_1ign4bpX4_SxJ_sfjlOJ3jJ1WmE1EAcqVxh5G4l6_3XEoRnIeBB8RlhK0dpWxOaOpqGlFFefZ79IUVqzY2d2OzwhwRcA6fLS_JkvvctFJ3luxWZgR3nOZBdHyi9e49NAN6oiTuq4ubHNmXXRd8ZW4EK6p4yTCNI3eH_cGTY_qZ-Sr/h1000-e7/Cosplayer-Byoru-King-of-the-Undead-Albedo-35-4kUp-121.webp"
 ---

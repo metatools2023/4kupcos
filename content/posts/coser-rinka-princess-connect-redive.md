@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 18
 image: "https://lh5.ggpht.com/-reEvnAM-UPI/ZNhHAA-kmqI/AAAAAAAAQb8/ekBIlarUXn0Pmf_tbHyns6DKKFChiK_0QCNcBGAsYHQ/h1000-e7/Coser-Rinka-Princess-Connect-ReDive-4kUp-001.webp"
 ---

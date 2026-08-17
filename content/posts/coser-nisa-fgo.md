@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 13
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjitqrhWWsoKq8Uu8BUQRA_jfk0RgV4iNAp6e4W8jpyr-WiButIszKSQtA7WgtgdC6LQDyIR8cQzxYuLMKueDCr3EmEZW4RczHh0QP_7zTko5JeYupHF5HALdp5WWcHn371PR16ygKzBYXmXL0C4_8cxKQ0oVowf2n0US2sNHABvI-IYzlI2fs293w55ak/h1000-e7/Cosplayer-Second-Assistant-Nisa-FGO-Tamamo-Mae-bunny-girl-13-4kUp-001.webp"
 ---

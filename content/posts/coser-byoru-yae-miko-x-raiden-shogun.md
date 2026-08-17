@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 95
 image: "https://lh5.ggpht.com/-xNboHxamFQ8/Ysnf2D4V9wI/AAAAAAAAJT8/DYf_DFPhyVkl6kXmTKx-jOffS0aomT5KQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Yae-Miko-x-Raiden-Shogun-4kUp-001.jpg"
 ---

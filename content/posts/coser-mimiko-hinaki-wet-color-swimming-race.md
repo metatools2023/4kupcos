@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mimiko"
+tags:
+  - "Mimiko"
 photos: 198
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjREJ7lz3WV-y2-qQtrhtYgpPoPFO90DyT2LuZmBRZU8KTAIaeTnUTXHotjponHI8LiwCFG09og9XKTGBim2cNZmHymhc029JjnyK20HxhG9GY0irfIRRkzESv_Mt7NfPjrkdPs01TUIYolG4lCRJzHAPwLN9tcRzJ_4EhtOUm160y2NrhnfBwXq2NIgZVj/h1000-e7/Coser-Mimiko-Hinaki-Wet-Color-Swimming-Race-198-4kUp-002.webp"
 ---

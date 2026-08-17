@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 37
 image: "https://lh5.ggpht.com/-3aWUH9mMhQc/ZmOPxbOpGsI/AAAAAAAA0zQ/Hbu118erTB0ur_mvvHFKDP8S1A71nSiMQCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Ashley-Resident-Evil-4-37-4kUp-001.webp"
 ---

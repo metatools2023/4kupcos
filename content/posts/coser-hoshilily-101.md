@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFmK08ZpUIDxwQYGUHAVIjjzXSNo9sw25XWUI5JF-0oJnSv8D32sunXI0JmpkUlOKbbPqafhav9GlxIHdZRpJNQxUPDSS_oqshI-wWr8e-TZnnReIHfCIJcsWs_w0ORapQZrmB5faVTu3qb0gKhUG9sQtoaKrLPsdKtUvdEPNcm4n4HQvjdC1N36xEi1Le/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-Azure-Files-Koharu-Shimoe-43-4kUp-003.webp"
 ---

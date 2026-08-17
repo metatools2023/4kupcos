@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "佳佳好难啊"
+tags:
+  - "佳佳好难啊"
 photos: 22
 image: "https://lh5.ggpht.com/-M8eOmpedX70/Y_0oUmezKWI/AAAAAAAALVs/PD7u-edKgxsYHCaTkkxO1xRlKsNAGTVxgCNcBGAsYHQ/h1000-e7/Coser-No.001-4kUp-001.webp"
 ---

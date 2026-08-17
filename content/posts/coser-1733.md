@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "幼水铃衣"
+tags:
+  - "幼水铃衣"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHnLcehVURlfhOa7JJv6n-kZc6Oji0jU6FlSLmcNH-ExFJKeXXUsj1kRzOUA_58rZvkURuFo9QhK_YMBReE0G0izNThuo4ldebETR_50DKM6sGYxmHZU0Ioapxqa1obSK6CQTMCd1-uzbmgwixNllFFBCDGz4C74DZDn1dQHpPomekP64fHlxLHY_K6uOc/h1000-e7/Coser-You-shui-ling-yi-35-4kUp-001.webp"
 ---

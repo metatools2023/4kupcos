@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 36
 image: "https://lh5.ggpht.com/-ieGrIyyOR9U/Y78y8gs2cJI/AAAAAAAALNk/HvlQ_ZUArvAFjlpOegNSRYSlcOGzgnIygCNcBGAsYHQ/h1000-e7/Coser-Byoru-Tsunade-4kUp-001.jpg"
 ---

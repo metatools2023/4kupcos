@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane Ame"
+tags:
+  - "Hane"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg85ob6_s575e2Z7Jpiax4E4lkJSZGfq3OPRsVMPP1NQwY7QKWsnppdeZxCEkWdLuIdvjmwPYvfHqKDRvYb-p4Xv313GvP56tka518T3IXhgugpcXgJKhAR_pgkF37tKG__sMuKpKnirD0hz5oOdEI0lhyFLBvCda4eQc2KIUWk0FuFguDwKDG4O4noSuM/h1000-e7/Cosplayer-Hane-Ame-Genshin-La-Uma-37-4kUp-001.webp"
 ---

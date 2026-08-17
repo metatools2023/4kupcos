@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEwVqu8zNI7dQaVn5T51jZJC4JD9I88EIfvlQroJTY7rR09V6jf_Uc666gvsEG5VvfVBFNiJw_79YVC0AVoAL89WWeSTAKNCElh6gQRUi0PhWuGpmCeb8r6tAcD3TlNNg0HYjTnsjBioS64bFSXusYn-k2o9tFfNFJRI5ZCFhJ3gBnxec-PKO0j7cFw/h1000-e7/Cosplay-Nine-Words-Confused-56-4kUp-001.webp"
 ---

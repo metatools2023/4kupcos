@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 116
 image: "https://lh5.ggpht.com/-0toIQIslCVA/ZI3pfqTQf1I/AAAAAAAAP7g/v7qPzQKzfAI18jyvbGIYNybwzEaBuC0GwCNcBGAsYHQ/h1000-e7/Coser-Hoshilily-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 75
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYqJbclThpR7n9Ho4ojKr-JZWXBKQoKqAULoBklRb0-UsD86NNrYVkWi04AtKXjWlepsD3oS9Hnec4khE4B5LKm87sj8izqJEPBBdFinBqYPTecL4CM2k4XRgQK-cNWY0Occ2HY61VPcxLNbvdITS688jBBfF4dlHoN4m5LQ8aouLV0X2I7otBx_IhLw/h1000-e7/Cosplay-Kagurazaka-Mafuyu-Purple-Heart-75-4kUp-001.webp"
 ---

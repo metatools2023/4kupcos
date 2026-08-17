@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "巧克力小圆面包"
+tags:
+  - "巧克力小圆面包"
 photos: 62
 image: "https://lh5.ggpht.com/-n732N-C1o9w/ZNvbqAAyPGI/AAAAAAAASiw/YSSAnEGyU64VOcepwaRP5dhQ3olYY2jfwCNcBGAsYHQ/h1000-e7/Coser-hana_mimicat-4kUp-001.webp"
 ---

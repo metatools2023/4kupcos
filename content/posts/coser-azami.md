@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami 蒂法"
+tags:
+  - "Azami"
 photos: 20
 image: "https://lh5.ggpht.com/-vWT6QgHeQGI/Y9m0jDWfBnI/AAAAAAAAAAM/qe3BXusZdlwlYZS7aMl3r04J4E5ryorygCNcBGAsYHQ/h1000-e7/Coser-Azami-4kUp-001.webp"
 ---

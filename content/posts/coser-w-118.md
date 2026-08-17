@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiedNGYCoz21y_11uXRJNoj_Zr74RyEm8gP-ySLxeY8MR_CT8cb5O4G-arqUDSoHoDCY2JY4YIFSiSZ4ziT_GJKduWRWpUx5hmSbqRBfZsKrbM4j5Mj7Jjo21zAsNmc_B9swp47e-g-ntccbX5F9jsf9jSLBFwWAZ3nIE2Ts6bqdg7Fm32M10FxSTDJjXjf/h1000-e7/Coser-Little-Chiyo-lol-Super-Sony-yukata-55-4kUp-003.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 102
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqcN-PCDal1A8ipUXTRDZKzwFz5JIwFs4Qtbnuq1lUIh2v9ErSAqLxmTN0rfPGTznVJdRzIXeIu9l1omthx1lAHcXpDlsfXOApWpgtSy7VWaQz2CjwdfVbHDOWF9q95We4DM9jo6rTx5fFhQY-W_du8Emx6oljrp5o5wLJSSa__54Kz7hWh1xobsGdy1KZ/h1000-e7/Coser-PuyPuy-Asuna-Bunny-116-4kUp-001.webp"
 ---

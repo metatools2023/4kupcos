@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "钛合金TiTi"
+tags:
+  - "钛合金TiTi"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJTADHorcMKqAgcy_2s46ovJud49lbSUAtoRgnESI8gswvNx10KtQjheEx8dGIupzuCRgm1prhW749GqjSJ0DopfH433O8gNz6G-5k_IJEN2aOaK-JILpsxxE2gEUeVaagvyrQdLpdN0o_DHwXLT8L5qNRcFjXGXF3CqTMvkXiugtauT4CsxIWrP5StSD2/h1000-e7/Cosplayer-Titanium-alloy-TiTi-Hotel-photos-29-4kUp-001.webp"
 ---

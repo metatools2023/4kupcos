@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUldTCzDWAvy0g8ht9swwueISBrj3qXkkzxiDYNxnjpZZax56hWxYi2kwB6eJHeZW3MgOlW90i9QuGg83G8DMYekMlKRrXcJ9icmXaOfMphAUA0IkXr0vxC__gcGP3Kil1ya2LbZavxW2ix4UGJNzrhWJQIo3N4v8nRZ7wnDKE4smw62SWuBFupNhE5twm/h1000-e7/Coser-Byoru-Burnice-White-Zenless-Zone-Zero-72-4kUp-002.webp"
 ---

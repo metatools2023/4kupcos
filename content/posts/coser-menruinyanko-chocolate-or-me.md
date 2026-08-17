@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Menruinyanko"
+tags:
+  - "Menruinyanko"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7xZen4JF3DHrZ2dTH84zppoGV2i2bNmh23GyqIT0VLqkjxLLSrnVpAYyLtXx5vSaUPnnUjWShrXJ-x_XTKwlNQEeBVHujy8B3dQHBewAGV-5-vGwQ9uIq0XLe4vuwZXt-ZbcUUEetDKmmsXD-5O1T-m7Eb-WwTTmbGYfNFFLrfypXbjHUj3ChMIOsLRvx/h1000-e7/Coser-Menruinyanko-Chocolate-or-Me-34-4kUp-001.webp"
 ---

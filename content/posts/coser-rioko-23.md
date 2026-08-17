@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "rioko凉凉子"
+tags:
+  - "rioko凉凉子"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh11iBFG8h6B-ypDkHRvLkZxcpy37_4sw4N83vZidTsy9kgQlf-0yVa1lfJ8-UCbdXyVIVWGlM9SzxAkGRgvKJLeModNYivIar-IsisuU07Zm0DXUqNiGX1T72DhePG7nl7bVasinaDG3Bx-C9Mcmkus1yd2RPYUOxUO4QJIBjL7h1pQgX4ftm03XFh3po/h1000-e7/Cosplayer-rioko-Liangliangzi-azur-lane-Shinano-cheongsam-Blending-into-one-dream-25-4kUp-002.webp"
 ---

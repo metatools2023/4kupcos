@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 50
 image: "https://lh5.ggpht.com/-6u3u-mlJYDU/ZNksPYoXqcI/AAAAAAAARXM/8ovjhhAj-KkIbuAIRwyq8BaX30lr6LasACNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Tamamo-School-Uniform-4kUp-001.webp"
 ---

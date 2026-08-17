@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGMgm4I35UWjNs-TI21OYFtpuq3wmSolJOM2vorn-nCNJLAQPrA_hmfwEKb2ZVQyXemVyTmczWhw6csnQwk_fZ0f9WGFQJAkXCv06fclQDlXL3TrkzWCAjMC4-03Zzo29y7omyPAqyW-ilOCRxctxGnP8bDLZP0pY9gFE87YTxNVMopE9oJ74W-dD4MRYP/h1000-e7/Coser-ZinieQ-Pokemon-Hilda-21-4kUp-001.webp"
 ---

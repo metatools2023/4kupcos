@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "aryminh"
+tags:
+  - "aryminh"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGdGCGLoiBPjuP4myKMAf_sBulWA29SfAVlZQE9Qv8y0aWMjFJo89Gm21siX5ODQ9CMWz8IXCvdXMbTP8XrP-Vucep9cIJYfhn0qK4OuXY312ZOFnDUg2tSV1dzG1sGEEM3AgLIeMuCn8yARm8S6y0EYzyYVXBm4ForPCboVQiHSVSMVaAdW65FN8wns/h1000-e7/Coser-aryminh-26-4kUp-002.webp"
 ---

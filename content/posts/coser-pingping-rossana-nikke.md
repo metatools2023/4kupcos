@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKE3TFm2wRP_2tp5NiUhWVxIMUMsIlv1bUQ5c50K6Vj3Fn0Tjq6eLJx-pEN8qB-VgdNCIyat437Ts7eJEuILrDaEYN4beaHTW6CPMbfAyCGHL-ilb3-mdWfehXQE_pMMACfyMQ5GYGhUD71a_RUF_rOZ8SqoSo6BkITwsYgapZ_DeYeY-AGJjM9CAvSZ1Y/h1000-e7/Coser-PingPing-Rossana-NIKKE-22-4kUp-001.webp"
 ---

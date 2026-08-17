@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 74
 image: "https://lh5.ggpht.com/-7HVkZ9bPQh4/ZjKMlEIbylI/AAAAAAAAZLI/knGZHGjxLj0Jqy8axAJERGRkj0NPyk0lwCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Azur-Lane-REGENSBURG-4kUp-001.webp"
 ---

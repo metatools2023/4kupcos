@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 26
 image: "https://lh5.ggpht.com/-zmSrBOkF6HU/ZgND3MlXEPI/AAAAAAABC9A/XEE3YfxaxFYdpVfEjICsKt3mDfRiGd1VQCNcBGAsYHQ/h1000-e7/Coser-Aqua-Fantia-2401-4kUp-004.webp"
 ---

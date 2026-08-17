@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8yvfH8oHroZUCuRK0lolq-yuRK4CWKWk3zOMoKwezKerMLpih5WoWnYq6zwvBu5_MwDEVa1Ok-xj_6Ah6oH8h20nNeuw8bjgkkeuamwswrEIojv6XYDmh4pAC351d3xwZtJJ-Cjve3g68-FKKkC55O9rsAUyXDt3SzgwlDD409kY387pQVSYz_kBdfqUy/h1000-e7/Cosplayer-Yuno-Shimizu-azur-lane-Noshiro-Maiko-43-4kUp-001.webp"
 ---

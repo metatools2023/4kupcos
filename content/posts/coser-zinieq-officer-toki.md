@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirSUoAZLoOkmzkeOYCeyCwr8RR1H5D5hKFJiDeH83JX-VHK49iqznz5rqfTlnA5J_8tTUaLGA88pYTzw2Epwf-Wt6eaJ942iWhQgb9oXkoGIfNKjo-mKUeWQ1izi3fhBFudkbTEupNWEOy83tRfXm2Qc0DR111fkWbFTvGwuqGU4GiYGvQ46iEj3ka9lA/h1000-e7/Coser-ZinieQ-Officer-Toki-44-4kUp-001.webp"
 ---

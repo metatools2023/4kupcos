@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 78
 image: "https://lh5.ggpht.com/-lkBvRLAqMos/Ysc2IVkvD0I/AAAAAAAAGxs/89y0UAWC8lEQpaRT62w6jE4haSM_PDxbgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Yelan-4kUp-001.jpg"
 ---

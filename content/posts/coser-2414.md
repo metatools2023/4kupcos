@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小和甜酒"
+tags:
+  - "小和甜酒"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqHW-AtUi-vIwEIUJBx8MQeoVyJQo826T2XFv-ejHWXmwNDkEDHshWO6ukJystyZ2f6n2WasoT9wKQe2BRXAL45WYa32RTeaHEtBLmnvz3nGHZdvUri4Lsrnxt6veEE57VoX741-m3lmCBdFG15YfcsSRrL4WuQjXgQL1H0Sh1-AsctDg1ipjeVHbRFXCJ/h1000-e7/Cosplayer-small-and-sweet-wine-Arknights-Wu-Lian-32-4kUp-002.webp"
 ---

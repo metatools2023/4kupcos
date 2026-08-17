@@ -10,6 +10,8 @@ categories:
 models:
   - "ninja阿寨寨"
   - "椒盐酱虾仁"
+tags:
+  - "NinJA阿寨寨"
 photos: 73
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe5flWRDqgVEWyjndKpFmluhdGiCIZ7f1_qNjOa7SnHuXIhdd2fesIsnlDm1V6cknaOaB_BCNRgwQgszExgrOjjAGosdIFB02Ih-QRZwMqX0a0MgSSvLm35mh2sxIcd3cz31hUVDQxoO6AZ_ORkl71w1cGGEKeH9EeQMhpz-3ySYYG2MAjC_pqxYxMGXA/h1000-e7/Coser-NinJA-and-73-4kUp-004.webp"
 ---

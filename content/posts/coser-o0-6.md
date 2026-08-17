@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "萌芽儿o0"
+tags:
+  - "萌芽儿o0"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1vPjj21OO8PuyBRwy4n9FkkFFcmHISyYtFFbg7rl6Ntx9IGvzqcq6O9_MWAGi5615YEgow52_D0_Rq3PVfcDZiw4Y0YPgU26sjvyAxrovreGpERUqRYjY3V1mgrZNIX941Y03wmWAd8Tkr0ezVYk9mvsPdLJFl3JEYMOtJ2Ew62C6bX0BnoXNT41_C78/h1000-e7/Cosplayer-sprout-o0-azur-lane-Not-scratching-the-maid-27-4kUp-001.webp"
 ---

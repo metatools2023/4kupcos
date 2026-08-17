@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KANEKO_咔喵"
+tags:
+  - "KANEKO_咔喵"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeXmhyHEB68vcl3OESULCw4uH8JX09MHL-SMh2Vp2i4tx5h66fW432K6EtT9p-EyLjW7v1jIj8axhyimhp_HlFugDdjs9BYud0DJ0lHjtQ-Kqay8oFRHElXT1YK0E4o0v-IxtAFo6cJVpKfnNryy58jgMyf-DUlAOnsNdgi5e5Ke59zkWZ1vnOQBrx0GY/h1000-e7/Coser-KANEKOKa-Meow-Prince-Eugen-Racing-Service-38-4kUp-0001.webp"
 ---

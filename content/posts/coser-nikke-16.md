@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 82
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh02sKCM84dH4EflB_H10YGR6mlyK6yATY0NQYW3esSnQ4lC4XnxQ68q2Oi3q3tV7I0_RrPmYYoxJ9xX-IqFVjYc5NQxjChYMebKP5cD4X2EO3gW-7HyMifX0aPLfDg0_2CHb_2dL_W6qdphuqry9CN-2SVfzwFxRwMuG8apOKkR62WsXaR2JUfVC9pm94i/h1000-e7/Cosplay-Nine-Words-NIKKEGoddess-of-Victory-Soda-87-4kUp-002.webp"
 ---

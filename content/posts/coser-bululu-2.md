@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白露Bululu"
+tags:
+  - "白露Bululu"
 photos: 101
 image: "https://lh5.ggpht.com/-h150sJ9VXpM/ZUQYqvxlTlI/AAAAAAAAgvc/TY2BkId05MwsG90dro4MVJCIcCKnbWyYgCNcBGAsYHQ/h1000-e7/Coser-Bululu-101-4kUp-001.webp"
 ---

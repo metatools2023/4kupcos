@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 38
 image: "https://lh5.ggpht.com/-en-e_BpSb10/ZJtlMszhOhI/AAAAAAAAZx8/3YnKSNwrGdceOVGxIHovI3-p3uF2RDRMgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Ghislaine-4kUp-001.webp"
 ---

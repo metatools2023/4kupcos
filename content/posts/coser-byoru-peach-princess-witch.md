@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijOWyb1pvAQ365NHoXk8_SKreugvBAmCALlLHe8zn57eLXfkGj5_bKY-cyeeaYE5jiaKT1vqFdhEq3xwdg3q5TRNbJQ4HY3eWx4IhG13hHL_dmGECjDOdGXQYvqKBk94z3GjqETMXQUXtFzaz6xcAXli6I13brHQVsAnwMQmV5TuV0ol1eLXvcvv0cIval/h1000-e7/Cosplayer-Byoru-Peach-princess-Witch-57-4kUp-001.webp"
 ---

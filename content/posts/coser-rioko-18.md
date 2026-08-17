@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "rioko凉凉子"
+tags:
+  - "rioko凉凉子"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY6xOHHBZwJ7_HkyjDl12Rm6t8jg0XoHTuqCeI7U-KcCwEQfSs9m66C-HRCiGi8DXW0m1W5-Ja4Or_ZJukffLOYu3jy-LPR7U3SJYHxcSFMuDhM5KYHnpKwopZgoOJ1lzoYSKS-V6fgx6zIF_v00inV9bfpPTKY7jNlkGjvlL4IbYE1cLB74AhDwkvKu2i/h1000-e7/Cosplay-rioko-Ryoko-Azur-Blue-Route-Seven-Provinces-Underwear-30-4kUp-001.webp"
 ---

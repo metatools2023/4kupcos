@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 64
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6LceeFD-QPr3SOmG3xFu1s9ZUvgGBz84AXHnsuZ7KuyyQ0v2K8zN_ANYMUBK7_kE7w1sqXiYOlJwP4VA2Ed5xljcNohyphenhyphene9rM3sgcf-cojj7sY31FORdZpGIUdPrkQvvB5mROQMcOvxH7o2k1EMTWVj97IpZGcSF5LQTbOeXF6ZexJbTb_D5W704EWTbiB/h1000-e7/Coser-PingPing-MISA-AMANE-64-4kUp-001.webp"
 ---

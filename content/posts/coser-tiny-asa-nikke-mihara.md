@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny"
+tags:
+  - "Tiny"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZUnkl1lziXYFDDWfm6OH8tN9RLBirM1QQLl5_N2t23qKvtDkel6EJJX2BH39lXc381gHs5aHEKKy6YXiz4UYOZRmk84A9Qp6CSHzBLU5ZS0XFLy92hjmoQkIpewnasQYszWSaqY25fkZW8T0Q3TbQN38CibMehP6DgCNzjd0iD3trgWU9IWeYc9ouJSZW/h1000-e7/Cosplayer-Tiny-Asa-Nikke-Mihara-35-4kUp-001.webp"
 ---

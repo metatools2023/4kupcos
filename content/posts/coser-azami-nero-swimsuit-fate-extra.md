@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_9NFHs3MpTf_f9TYxr9WExq-jnF1kJJhOGBxZT3H8nLHKsgEPsoSR6Cse3DU9gPLy_Btb8n-2S6U_M7yyIuWbQDBrn4RSnE5FLTSRUbCcH8_XjB5sQ8WyyaLm-_AoV8r4rHcWMmxMC7Fe6o-z_Q35am8PZDqK51Qn1Ja1MKPb8uFLQX-Z4XjVLzPFhvw/h1000-e7/Coser-Azami-Nero-Swimsuit-Fate-Extra-20-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTpu_zkdVAiBnm2EuVBurA-VvjaZtP6tLqZ7dM-ZHMVXdXYjxLNRCm9_fRn1iQLpd2Izm4kJdKogReoQ3K926Bfn1PlaT924hPwSydL5STOA9BO5taE7lKnEdW1WgjPQgjly9VlWnCyR63OdR-jcZprTc7E2oGWCw8pRis443XEWwaa0appMM7XNcxR2E/h1000-e7/Coser-KuukoW-No.148-Ai-Hoshino-29-4kUp-001.webp"
 ---

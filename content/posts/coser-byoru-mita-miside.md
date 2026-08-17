@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyWWa7q7x79mfcBumg9R9_S8Rvma5z9Q7MG_2xZ54bjiCFKcF6W5x6v158Oek4t-sXAF7ddVZKjXL-1r_UyOq256plhsqs043DDF9cgI05lMpJJVL_oIZzrwVvb11HGa1jxnmi8mik6EKrIiPnEK84R7ApyCqitStIbJokrWA1KM-6aAEL1mbyIYj9vh0/h1000-e7/Coser-Byoru-Mita-MiSide-70-4kUp-002.webp"
 ---

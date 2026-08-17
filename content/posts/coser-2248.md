@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "西园寺南歌"
+tags:
+  - "西园寺南歌"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfdxDc8KQMQJpFJpaxUhe-WA3nCmN2IMwYXfhVKjV4zAG4QlmUr0UeHDLEdmINWrQK2v_pk2Me1pGwwDj4hMozslTYtpNIapjWP51F0pQBfZ6tYAoSDyNMbNDnSRYr_Sly9F3eyBN5YpEnfrPNC5B0Q8HyGZoKAgboIOH3C8QFW8zQ6xepZLSmpcTY5Mp6/h1000-e7/Cosplayer-Saionji-Nange-azur-lane-Glorious-cheongsam-24-4kUp-001.webp"
 ---

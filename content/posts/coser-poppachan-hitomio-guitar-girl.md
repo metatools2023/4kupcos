@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 30
 image: "https://lh5.ggpht.com/-YVasCK4cnrU/ZkY5MwTLk8I/AAAAAAAAmZo/y978p59j16Qk7PJo_COHwMBXPalaXJJCQCNcBGAsYHQ/h1000-e7/Coser-PoppaChan-Hitomio-Guitar-Girl-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星黛鹿鹿"
+tags:
+  - "星黛鹿鹿"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0-uhi1LrRHuZpQekF_mq6KWO-FaX3WOVCkqMqXcRqGQYK-UXfYQOmSmUgL0_ZJpbKp7_8w5LqV85fgOgm8r0ZWjebR6H1l_Tvg_8SSONuAY7wmh7OXFTxGGrV9lcduuu-tLOWtZ927tHP6RpS5Re7H92ti92bQHdZd3M35P9JstzZxZmfj4g0JUbEoA/h1000-e7/Cosplay-Fairy-Moon-Genshin-Impact-Gan-Yu-34-4kUp-003.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一只猫猫帽"
+tags:
+  - "一只猫猫帽"
 photos: 68
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDVZIahVjdjk_YWBQLYejMgr_t7-Gr68-dxXM6kGApJD47gN_8AnNj9ff-xGedkQKysRw_AXDoOS_wYFYxAhiMZJJCj689X8E5RijcVmIjQzSRUQ7CyczAUC2TC1tjXwdbQIdzRyCxUXzmRjsLDMJf9BVS7NlNtvjlZIx7WJnK_jNeXEbcfiDeEqgyeBg5/h1000-e7/Cosplay-A-cat-hat-Mommys-training-68-4kUp-001.webp"
 ---

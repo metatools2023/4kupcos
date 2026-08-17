@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Angel"
+tags:
+  - "Angel"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoxK1XCFwa3vLPNbZcYGLeCDdbrMSALquN-1jynXMuxUiCyiP832XUaty2ma4AYssAM0MDJ56TsPUHJIG1H0iufNe6KLOokoomd9NFKIDbPj95Sn2kJElx35wfFbIntLnFrss6FFU8bcf2bGoUmwPaViA3AQQmfd2NA18xnIr66U0eA90tOtlhtA1hJbjI/h1000-e7/Cosplayer-Angel-Chan-Sayu-46-4kUp-006.webp"
 ---

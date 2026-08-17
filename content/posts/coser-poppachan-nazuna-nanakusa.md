@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 81
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg_zYNswxKDaBLegVR2obhAtl2289dn0zt-8kZfsTulPypvACyKkyY-tEawSaisV83DAJdCi4-NQeOSBZ4YQjkQLH3a8f6o9veAUWKZOI89v-cB2ScEtNnqfYgX8xuzCBljAlctahxuJFiFkxuuaQ6Xw54q1z2de62SI60IWQdFIRDdEvBwfKc3zckPQ/h1000-e7/Cosplay-PoppaChan-Nazuna-Nanakusa-81-4kUp-001.webp"
 ---

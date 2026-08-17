@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 51
 image: "https://lh5.ggpht.com/-Ymqq_zJoDzE/ZMGVNJlhLyI/AAAAAAAAgJs/ZX9bXBnf578q1TG5Xjd0h_ME1QaDLxI_wCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.039-Bremerton-4kUp-001.webp"
 ---

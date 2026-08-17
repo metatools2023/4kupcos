@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6pFhm8fEYK2ncA_YDjTxKdnX4cendRiZhLSxR0syfxgVDB53u0pai4rgBnR-sJUxriQNn-sRvhdmdKKQ6jNrRnk6Puzxs2V3D1zGDz46GAoLsAYFryiTagveADv7eMfgGkBZwS_2YQKTQ-17zEjtqQZh3ohZqDJAsRBZMCQI6WQ383W_t2MYAZJ3t_2bD/h1000-e7/Cosplayer-UmekoJ-Hornet-Hollow-Knight-Silksong-38-4kUp-001.webp"
 ---

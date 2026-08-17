@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "过期米线线喵"
+tags:
+  - "过期米线线喵"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlnn4uE7bboJmNwBOafTGPd4Rah3VoayhIDQ52wz8TTouwEZjc4lhIdtxfAVcFUbBj-eXjDHPg2_Jd46iBCV52jY7E6_LxDC12N8PX5da7fHAxSb4wzKEN5-xoTdh2pMHQiBBkxvPRUSvtf1UK-ci7_gDDu0g7BHYuWHX4yq6rTIU9avd8iuU4w7pC7eg/h1000-e7/Coser-Yu-yu-24-4kUp-001.webp"
 ---

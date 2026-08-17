@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "亚马逊鲶鱼"
+tags:
+  - "亚马逊鲶鱼"
 photos: 61
 image: "https://lh5.ggpht.com/-jOM5MzIq2vY/YyTv2SVuh9I/AAAAAAAAIdM/npBxk1TlkisqSMoGLMS0niw7gNUMXV3xwCNcBGAsYHQ/h1000-e7/Coser-4kUp-001.jpg"
 ---

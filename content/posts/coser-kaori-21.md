@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 96
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6ClgjvMm91pqpMMQuo1FFzx_BcWuM1z0-OzCzYkzEQGksCx5HUBoDXFwiViq6N7LZhVZ2-WXewcoIjZVaJDMs7a-0v7ShhQx0ALKkZeVf9gkoohDTPU36iqVQAmjQnOJBuO2lsr-9_1AFrqbMsTQ1yKeoV2o8vnCW6pA7Nm5boLGUyQ5tfI76dYdF4g8y/h1000-e7/Cosplay-kaOri-Azur-Blue-Route-Cheshire-Magician-109-4kUp-001.webp"
 ---

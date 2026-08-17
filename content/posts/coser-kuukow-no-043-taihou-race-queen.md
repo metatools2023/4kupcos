@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 56
 image: "https://lh5.ggpht.com/-sfyR3BYeqO0/ZMaXVvDEEGI/AAAAAAAAAhw/laHpDOMAdDcntalUnOqAzEUv7WXq2jPHgCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.043-Taihou-Race-Queen-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 100
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL1aVUum2jn7iPqeMXtbmJWtpsw0wBGIhlyGW38GPrI095f8L1hLJOLhP9hsQJvNyAlJVkLkrIlkc5T9iwZVreYGHUxAbp8Z6t_IYKZhHc9aNhdixbwANnruEYNogtXit57ryTnew1fOhedn068z2FZ_gB3nT2pQcr-ysCp_PUbjpGAnBt2fOODSPRXA9Y/h1000-e7/Coser-Sayo-Momo-Hiiragi-Utena-100-4kUp-001.webp"
 ---

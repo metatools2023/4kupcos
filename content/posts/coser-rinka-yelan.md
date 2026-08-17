@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 31
 image: "https://lh5.ggpht.com/-6l_3PXL2OQA/ZVaLS67KTGI/AAAAAAAA330/Oc1WCpypVQgy3TwwKiOeiMR7pjCSqZalgCNcBGAsYHQ/h1000-e7/Coser-Rinka-Yelan-4kUp-001.webp"
 ---

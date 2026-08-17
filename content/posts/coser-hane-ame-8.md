@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane"
+tags:
+  - "Hane"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigy8FaBYEgIeMSm53HhOgLCIPbDujvXPyRMWxOjo5KLcIuT0XUCTNavivMZqLNXh8sTYVqL3tDPNlkJiPHK9LcYG3R48N13D4TlpDWvNglOJq590V1ViPlRywBKRFGErKVjHhUl6GN8ETRuOaUvUBJVKYVjM2dYOvA25-7th5cBTMn-_oMYg8a0nojU4H1/h1000-e7/Cosplayer-Hane-Ame-one-punch-man-Long-Juan-32-4kUp-002.webp"
 ---

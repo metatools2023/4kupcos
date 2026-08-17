@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小空sora"
+tags:
+  - "小空sora"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLIe9FCVuiqQ_ZCQ1p__dmykswPjNjj4Y1_kZIdAjjqpbdtEQqyW_SrpA1Pnz8IuBgATvIKibTKVPGPCBre11l9jwoMOttQyMPRaQ66AYTBgApDmAaQk43xEq_ndB6yZDF3qQg97YuRCC9MYB8IRtjXOcAdEZzLXeVvmggP4qlHTzIdAPNdxQGNay82evP/h1000-e7/Coser-Xiao-kong-sora-CosFans04Brown-Dust2-Bantana-50-4kUp-002.webp"
 ---

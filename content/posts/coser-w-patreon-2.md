@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT5fdujx08_jjRYE3Medyn31k0ReWnk2FkoaghjLcUsTTYaEPnjPeWxg_SPFt1WLkPQkAwOeIPHfq_0oJkGCsSqMlDfs0YNlkqxeIsOM7_IxjCQDvt87mQc1MgBF19tf1LkldgWKKWL8b0iL3XffcSaR-_NUtlZRlCVKkf9AnZS3SsxfxY_6oVRL-QxnUT/h1000-e7/Cosplayer-small-store-chiyo-w-Patreon-subscription-chain-saw-man-Lesse-31-4kUp-001.webp"
 ---

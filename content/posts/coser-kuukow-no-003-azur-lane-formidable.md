@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 49
 image: "https://lh5.ggpht.com/-9ZtvbTHKJ7M/ZKSoib06UMI/AAAAAAAAIXM/oiEhYSG9YyoVxmun7bY9Ske1f5VYg7rmACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.003-Azur-Lane-Formidable-4kUp-001.webp"
 ---

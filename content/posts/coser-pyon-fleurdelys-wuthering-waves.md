@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhykJ6dsEt304NhBVkUgHeVSVRGHiF841WqZXxXUrRv4qg0ZUHmIX56AHnoTwn0KHYXF5IdnEbZ1RJg2eMlkDB39UOVih9UcBLJrI-qdcnVyABBiy6MJ6ViLBnsd_JMbXtOi47GmEGdH5JP8-8hjA-0qlNyVgwcd5CAfmI0qLNj0r4tqu_REuFPjqOewA/h1000-e7/COSER-PYON-Fleurdly-Wuthering-Waves-55-4kUp-002.webp"
 ---

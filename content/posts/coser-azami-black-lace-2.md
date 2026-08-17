@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFJ9ov2MzNteW3qJOVQWOPsESDfoN-ipKeoKIeeAzZBcSYW9uUVvV6FBgeZSWwBJAlkqrAmEKNenoLa5r-Z60vtL6Q3ElZQse9xLJRPS5dKXR6wuCOz55QBhdMhQhYWYzp4d9N3paBEJbKpsALhPkuypcdoJNz-eHH4jkdx3uNPH87neTvU4MBHUhp8ZQ/h1000-e7/Coser-Azami-Black-Lace-16-4kUp-001.webp"
 ---

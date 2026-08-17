@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "兔胖胖"
+tags:
+  - "兔胖胖"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGdIkYH1-xbnbGk9ftMIFz91IkgBs0NumhFWI8DXCeufSvzfA2CBLJR34Lwpgh2FT3eCRgMPw9-zCasJbH3xpew1pzqlD29m1LpjnD_Hwsrp7fNBfo5NQWklK-ogn1y4UyCHuM1glW1sGaTO7WrVqJ_3hQYdp96dA-HlyPKeRH1vktQoZl1zfc8D9-Kw/h1000-e7/Cosplay-Rabbit-Fat-Azur-Blue-Route-Musashi-Dancer-40-4kUp-001.webp"
 ---

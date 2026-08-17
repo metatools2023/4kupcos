@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ7pCHeBqH1LSSYglnR9J11Ge8f0owYORyn0RzkLQ1HBNnJLDhwTBoYD_nt9vE6CixfWD4yNyrTOLl1AWiK1tW2oRPmLahZwJwlGZ51z6dKUFofc0fP4WPzcB7HEe-neS-44ShBaMkKaoxGlFkrIFLzPgGyzEQQ8MuRGIt9Z9Mfjj95uIqNGjQmpIGkp4/h1000-e7/Cosplayer-Byoru-Shizuku-Tan-44-4kUp-001.webp"
 ---

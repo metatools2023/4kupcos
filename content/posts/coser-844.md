@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "鹿八岁"
+tags:
+  - "鹿八岁"
 photos: 29
 image: "https://lh5.ggpht.com/-mmN-0D4LZgo/Zoq8XwunrmI/AAAAAAAAQLk/m5Cm-eJzO9k7IXQlxVkdv8CZ7067qHWRwCNcBGAsYHQ/h1000-e7/Coser-lubasui-29-4kUp-001.webp"
 ---

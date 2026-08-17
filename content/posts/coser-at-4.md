@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "AT鲨"
+tags:
+  - "AT鲨"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvKHuPlCYS4hIzW4MMgYfyzfhUYV0mpFAeKa5pVddN5PBFeXGzGtEsmlqVS67pegs0f2BQcPcW1eE_r2S6rwdDWoe-djq305QndwblqeJSvG77YtDT5-2PQVl6vdeI8haYiq6dSZbdeIvRGoa9eG4E7nyWkk3SRcsLOKKOpyFdbYRfVOWmetENb7pLmUA/h1000-e7/Coser-AT-48-4kUp-001.webp"
 ---

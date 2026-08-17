@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bangni邦尼"
+tags:
+  - "Bangni邦尼"
 photos: 80
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDIfOeGTpnwIqo5SIcehEMJaBMCgN0i7Ne17jQm-2FXLqYlmU-IX7klrjQwgQxbGtGd3tpqVtELXDOW6gtJE37KDfKxs_qJiKhClFLCbjyEOQw1muBQ1J4VFMDUIXp3esDWpvPx-CZXnIPWJgIwqxDtIwx8prCAzMFAu4heeTEGUaa5X3I7TTyxT4HWg/h1000-e7/Cosplay-Bangni-Pink-Morning-80-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "六味帝皇酱"
+tags:
+  - "六味帝皇酱"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3xW3gR-F36gGcDFvVB-5hhjkpqpKUjHWpKcmvcnNDQ9pXM1o7QAX7XEngQO7h8VMcfgagtKU0iRmk0jrc4mG2KKJsDygmvmrwLkwtbDZ4NGANxTsua-ghuobUtjNTIfBJ0JkOp2Ae9rqaGCJEjTGIr3aJ2Je_XTrIDqtqC4xMgyrFSLjkSTvOS2b5EeL/h1000-e7/Cosplay-Liuwei-Emperor-Sauce-Return-to-a-new-work-1725-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏"
+tags:
+  - "双木扶苏"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjH6C7PfSSksQBL1bb_si_lGYdYF7quk8cCPRE1htkCaJ3-L_0XsE722brGhq486qBuI3cejh82nlOEuLVbkeqtzjai4a24RrkQEgnGHZC9MIt_Aw35A7auj66YjoORgq3N3LmyYWAcTtVibgR68dZ4ecDWyqd5Cpnwx7GcPtct4ftPSCm5IQyF_rz4db0/h1000-e7/Cosplayer-Double-wood-fusu-azur-lane-seven-provinces-41-4kUp-002.webp"
 ---

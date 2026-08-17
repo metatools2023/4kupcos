@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgW6Zw2hpx8cUfITYz_Ez0SwZA4W7-0Z0yD6BXhpApaozeh8Yy6kJfFcLY4mDpKMxUvI7fMi5e6JtfZSJUceGUBw3A5pe5RsPr4bJhte-bD39-RwqCDANsGnnMefCjQYNgFPecJVjBYoqfkEmWtuSHx-04f66C_0MgFTQVZMcX5vyIiRJKnLh3gCOEvySY7/h1000-e7/Coser-Candy-Ball-Eve-Stellar-Blade-26-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一千只猫薄禾"
+tags:
+  - "一千只猫薄禾"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrvzl0MjUzg2KOrghoqRh6Pf62mhOrKnwCO9LhUMg26wu0rFQDg6Q3Z6rIOyZYMWLK3d_4N3SvcY7HBEGwbV2DRnd6P2Y-dzhkX_7e9-_7g2oW3QObq-jSGRbqW04zL-_l8Q6dqD0VVLGHcdXror4XK4EpvAQ3Jjx7-9ziq0yznRuN6ieg5lfSbQG84DsB/h1000-e7/Coser-Yi-qian-zhi-mao-bo-he-19-4kUp-001.webp"
 ---

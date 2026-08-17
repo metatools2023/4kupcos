@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzbTUz4QzVpMr_1Dkx6hdrSu-ZIHP3pcVjGNSAJWsjhlNcQ8EGfDjDZHFiymRfUq6cH-I_MZ5bsNhPc4PDSxdpls40Ma0yfcBXiboc_GzRHRbMf-2YQY08zJaLFV2LDviwceUgNmsr1AiTcF8JQRbt5omAUOzpc0a_UOFjkHr8FA35pmtdLr6D4__vkb3J/h1000-e7/Coser-Little-Chiyo-lol-Musashi-Policewoman-45-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "黏黏团子兔"
+tags:
+  - "黏黏团子兔"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ29yQFZY2qnqfFngRhr-B9Fbpne_gQ4szLrWycA7OOPg2Ca1zcHNeHrwtdLpKPt0yWXH1dclE9LvrWrEAeLUnsn6BGm8h_J0DZDVPOLVekle5EKhW-n9DqUpEUvGLAQF3R2-tXIobrGSGYAIzMwQ6EBv0FEUrQ47Rjd2vBLH6XGaR_JIRustV_3cA0ZE/h1000-e7/Coser-nian-nian-tuan-zi-tu-70-4kUp-002.webp"
 ---

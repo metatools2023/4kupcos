@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 67
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhb5n8_SAM63mo7L23BWfHWAA8sj4qHEYFY7dRlvBWFb9Bx6n4XlkOX59gIzoz_ZE6atwN6WCxZdMIzhz9CXRfRDu1SqhFt5XzS_lwLlwh3QfsE22f_nH8HfLL5pHx4zHDkN86U3_YlIWKW-54F_ichpUtI-PQ8j16jTfYbb1rR6ZhFrf_y8N4X_ieweX3W/h1000-e7/Cosplay-Byoru-Psylocke-67-4kUp-001.webp"
 ---

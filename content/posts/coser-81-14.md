@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白银81"
+tags:
+  - "白银81"
 photos: 77
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDY7SzX7jB984JPkJg6a-72BDmW6yFKCmA4C-hutAzgSqo9prBBLsQodScZ2twS5dGEiMBhqdVCuWwuflUHSVdqN2uBJYDHxbor0zRZwkRYkDAiLgdLG41w_AE7oXpxjJqzMJW1qU6aSU1IUC8RNxPuX7OY4SqvXXDZDyLok4M3iPTHIRArMvnEwAwXp4/h1000-e7/Cosplay-Silver-81-White-Silk-Maid-60-4kUp-001.webp"
 ---

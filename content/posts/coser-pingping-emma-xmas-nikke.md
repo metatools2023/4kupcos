@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeFjMzWxmkMR5wLtkIQzeZXNM3q4Z-pNINM2TaOMt2UPcXk1g3GbvAoXt8L6hs6hN0qKyxeqE18DdMwnjBSXwhxls_fpEoJQ-u4MtgygIseDbrr72PsTxF3cX0tvstM9Cc1fOeaPO64wZMauCz-ffF4hloj86ofOJETgNUI51xvSDsCEzlVXXbz-1dxXcl/h1000-e7/Coser-PingPing-Emma-Xmas-NIKKE-17-4kUp-002.webp"
 ---

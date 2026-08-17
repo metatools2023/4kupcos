@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 40
 image: "https://lh5.ggpht.com/-ijfWVzG-ZGM/ZYIdSITAhnI/AAAAAAABh84/HAAj1OAYXzY2DkWQjTYWd98px-KnagBOwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Nightingale-4kUp-001.webp"
 ---

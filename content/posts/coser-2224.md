@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjb-hXWgzo8AlYpmJZfMkAmPYmzEhAR_dfGwmT5X7MwYww8ykvWlNdxUAY0yn9vnxGsdMVSoE8-X8t1OFem4WdDaIOb4_-S7ERsX-yrBDexJ857gqTVVqR-Jd4Ey4bbwKMFjvXG7GCEOFzsz57qvBVKccKLME_EinHOhmzPf2HScuqSic-ItgKRSO9d0-R/h1000-e7/Cosplayer-Sakura-peach-meow-bow-tie-28-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghM-EpiiSK8JnhTxDDU7W0jKfu4VFOahFZXRssMKeGDNf2vZY3EOXN8_wzEV4fxMNM_QAS-V5O0yAyyUzE68zubNcC8OO65IfJLEKKXxzxhQn4eo74KgYAwfRZ3RvXl4Bf4J7lQMydsSmzt1EPK647GADUoNhjJkQ7um4tjt-2oESkw1nbepZ4-6SoKoM/h1000-e7/Coser-Candy-Balll-Bunny-MAI-SAKURAJIMA-46-4kUp-005.webp"
 ---

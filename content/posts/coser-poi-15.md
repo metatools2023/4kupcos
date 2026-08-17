@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "刺青Poi"
+tags:
+  - "刺青Poi"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJwccKci7khmpdJtmzyllcPuK5b0D0EpOIkuHcHXzfd9Viu-V3xmrS_cNNbullZfkUUMxtgQ4Y6k41bCJylN-eWSmOB6RLCubS8SiVV9CQtRRo7-RNq12rhzk3uQcTJVXH8DrcFOLZxM9qgjy7-gS8v8HFve87xqSxb2Cz4QnuEnKDuVtRvVyanrVZ5snr/h1000-e7/Cosplay-Tattoo-Poi-Sweater-31-4kUp-002.webp"
 ---

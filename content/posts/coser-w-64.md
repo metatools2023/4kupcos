@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDkH0CPPyJGVLvIGqwucUTzFHWUrnEYHnwR57SnrKIPnmBa12lccaQXG9fnpjWSNXFAjoPnt4eUaGoDjmWipnGXUXCqaLlJ8fDLV-Z5_2g7cmXKDTquSIbOiZ6D661LkGQs44H6Ohxhgql4CQCuDyIO7mb8EIxJdwEbCQjbfcfbD6FUhXCd66dkCYPQ7F/h1000-e7/Cosplay-Chiyo-W-Okura-White-Lace-Underwear-34-4kUp-001.jpg"
 ---

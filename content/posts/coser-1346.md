@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "是一只熊仔吗"
+tags:
+  - "是一只熊仔吗"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVSmNAweOzyxPi4EJaU5Hv5LRqXrBN0bcZeuXK5BUUYhbMWshU6JCrYjgVw5iwcppNIjrpJ1mtI5W9J5X2VtdjVM_KbGNuA1hDf_PFyLmdrwF2ZZCEt5HiKmvpdDdiZ3ZTueOZgsQo0WVLW-2cZj4N2C26Th1ZmLDiY25KzW2IGzo3spRgfj64DEjLPVs/h1000-e7/Coser-Shi-yi-zhi-xiong-zai-ma-30-4kUp-001.webp"
 ---

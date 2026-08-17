@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 21
 image: "https://lh5.ggpht.com/-Sq2mQiAuCck/ZKwkRQIds9I/AAAAAAAAO04/-41gpF4mOdkoH7Bh9OrS6sM06f724TKKQCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.017-Teaches-Swimming-4kUp-001.webp"
 ---

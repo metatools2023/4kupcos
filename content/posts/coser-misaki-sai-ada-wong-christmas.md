@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Misaki"
+tags:
+  - "Misaki"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqKgHMk2EBzGcUGMdq2j8QkVP_QJ05gMhjB43QOrp2PDCMcXoyRhA922wO5zO8l3T3yRUTvOsGDfGQL8mmnry2Zuu1DxjHAxZ2h1ykAyItmBm9FPXOmh9CX_N2SD33CqwjEQ8vR4m00_eqc6vO5zhXeDzBg9jr140Rsrxkl46wCOKYLrJF4AfymM71MipF/h1000-e7/Cosplayer-Misaki-Sai-Ada-Wong-Christmas-34-4kUp-001.webp"
 ---

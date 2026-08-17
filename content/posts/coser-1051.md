@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis-gab7AuImsWo96N7XFjoWJnDQHBGGW7tqzj1w-inz-htGxl2ayHnyguv6A31Vut6tcL0yWjGWCBMGSretpZxFxH1N0r51IXaNyIoGv_ob0rlgBp4naSJcUSCDBxcMxzkIZa-FNwGtsDLGzvK_vJT00XW_EocJ35NUioTQy6H_vrhbDBR9KLgOhwzow/h1000-e7/Cosplay-Kamikasaka-Matsuhiro-Attack-Speed-Double-Ponytail-41-4kUp-001.webp"
 ---

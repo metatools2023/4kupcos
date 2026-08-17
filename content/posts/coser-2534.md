@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "三無人型"
+tags:
+  - "三無人型"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmux_oTHhf72kbmB3sPZFF5Ib1a1WaK4rDUx5sAOpg1qVwjIrC68jnJSA4wxiLGR5sQPEcsoVbsRm2d6PWa2hhQL3H4_RLZ3krzx6LnjE4DkbCVmUORs_RCaYUsiUerJZDCUGqPB6TOvUtpOkOXXHjZtITSj_rhqXx95pR9t44y1_DAiP_8R9wGWKWp8g/h1000-e7/Cosplayer-san-wu-ren-xing-Blue-Archive-Kisaki-39-4kUp-001.webp"
 ---

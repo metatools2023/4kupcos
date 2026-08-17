@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 105
 image: "https://lh5.ggpht.com/-Xq7xYqWGNA0/ZgNEevHQxqI/AAAAAAABDBs/QwoHrkvojsk8IxVS8MVnXWXCnROu9tNlgCNcBGAsYHQ/h1000-e7/Coser-Raku-Night-LiLy-4kUp-001.webp"
 ---

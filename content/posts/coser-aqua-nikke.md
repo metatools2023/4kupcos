@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZTXtA7gKGcEXMHFCQFRZFI5xveSS1JJoyDqce6cia_RXP6puc6ecE0pndFyWTZg8VcJEjFDezxqINfEwpBJUs2LYyZbUA3St8sw_fAMa7bjAcdpcdjItjNAEpeHZuUWMGXv8sMn0pGkbvQ_yyj5DEp0t6FM9xMnJ1dw6iQ-mgXqemW33pHqGfkZ120Bk/h1000-e7/Coser-Aqua-NIKKE-52-4kUp-007.webp"
 ---

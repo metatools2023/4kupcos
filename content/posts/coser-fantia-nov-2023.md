@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "发条少女"
+tags:
+  - "发条少女"
 photos: 123
 image: "https://lh5.ggpht.com/-U5294yrouEk/ZbgzzrcZ_ZI/AAAAAAAAdHo/yLCsB-3mXQI-4q8tK77DIaICmGeOxYwUwCNcBGAsYHQ/h1000-e7/Coser-FATIAO-Liii-Fantia-Nov-2023-4kUp-001.webp"
 ---

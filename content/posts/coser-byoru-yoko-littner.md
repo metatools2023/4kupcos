@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 45
 image: "https://lh5.ggpht.com/-4JEEOQGAEHs/ZP10oLDYrHI/AAAAAAAAITQ/nEsZOMsIbw8gpWhwSMO9qS7w84F4mAZSQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Yoko-Littner-4kUp-001.webp"
 ---

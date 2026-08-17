@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane Ame"
+tags:
+  - "Hane"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeNbQPCfDj5acJAOF63cQgMS8qjLfMs5-3LppFWxYtz-8yN4ZWZQc3-1iSxKygSVen3EIcV420MYn1T_2GNjJUiyprRnV4imh8IXZxxMMHuBCAcefYKfgKVn9AL6dGsKeIjJUhT2h0XozaZS7_KIEhINNwL5vuwyx6dD3aWGnsziI6ECO5McT8gQaM46Bj/h1000-e7/Cosplayer-Hane-Ame-Bakemonogatari-Tsubasa-Hanekawa-47-4kUp-001.webp"
 ---

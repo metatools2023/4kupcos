@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "rua阮阮"
+tags:
+  - "rua阮阮"
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh051zYkO4S2PKsFL3Tp9MELwKSmneALsQl9hGrY34fm7tiUs5xCqFakvSouMw2GNEV-ubI-1j1UArFhgBBEc9bdQ06sG2s3HEZJT8hudLim8WkWUCA7hB9NlIBAGADxeSp4Ycbp1WT0A1eLb13J5x9xLro45LIo-zQnU96v9FZMGer_o6Kk2uVoBh3IElH/h1000-e7/Coser-rua-47-4kUp-001.webp"
 ---

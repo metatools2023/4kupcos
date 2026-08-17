@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAztlAonqXOBLUpUuqZT6oOIl8-4azBL4ztlKGX-x67aVfsFVzZVac-Y-oGhat4JLbZCtg7OmetwBxQLulJIWn01X8NhwdmZ_x2yOra2QHdiXNKDNAGj_TSjp5Ss3QGLGUe9egIW6DPd60uuaxfmXvBUsGCbtPFWZpWcIOWTMNWYIGyyNumUwkQ_4V5s1k/h1000-e7/Cosplay-Chiyo-w-Okura-Ark-of-Asahi-Sultell-34-4kUp-001.jpg"
 ---

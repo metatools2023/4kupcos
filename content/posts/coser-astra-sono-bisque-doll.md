@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 67
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYTboDGH0Fj1i5pQohxcm3AYAwqEri9XaX6sRLye0b7UpYWmoW-ZUSb7rc1M4TIOipadnFg2zkBxfmTHbwQivECUjBUSMHhFS7LZIfhN8_OHQvjk8wLL96VtVMk4IuhQGVl-9fNPqvZSd8QJZvnl5oKUeLkcztbC5npCMlt8Tj7Sx-jq_y3XQS-el49Fw/h1000-e7/Coser-Yuki-Astra-Sono-Bisque-Doll-67-4kUp-001.webp"
 ---

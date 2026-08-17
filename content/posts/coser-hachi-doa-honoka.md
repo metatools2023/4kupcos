@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 11
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4qVzEOjadOWEJx2fbLdzz5RrSv5-E5WkjyNVYRB2prmkCx8fc5329cydSXYiJ9BzS9hzgulvl25y92zkiLBoyfLX_877xBujFPy8_tBZsQf8MgNpGot8oyH1Ou8voGe9WDu6toxQZomluC8bYjBs6loaLRYKH5HF21HaLJJzFbFh431kAGvLoIhq57Q/h1000-e7/Cosplay-Hachi-Oba-DOA-Honoka-11-4kUp-001.webp"
 ---

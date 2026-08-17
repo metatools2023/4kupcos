@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "前羽_rr"
+tags:
+  - "前羽_rr"
 photos: 52
 image: "https://lh5.ggpht.com/-IMrEy962oEE/ZWUc4cqsdgI/AAAAAAABFYg/z0YvB1WO8p8vKrBkVJQOxPR8ry1mxFflQCNcBGAsYHQ/h1000-e7/Coser-Pudding-Dafa-4kUp-001.webp"
 ---

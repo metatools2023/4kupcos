@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "您的蛋蛋"
+tags:
+  - "您的蛋蛋"
 photos: 42
 image: "https://lh5.ggpht.com/-RrOEdjubsZ0/ZLW7gSuVsoI/AAAAAAAAXR0/FJ4L-FNlx40libOIuoTpRp64RVQVwTapwCNcBGAsYHQ/h1000-e7/Coser-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9uU2X58a9BOzLp0IGH5AYGbrCBb8x6_Jomn2ZzESdxHQUZxQZhaJYAxS8KJo8abRP6Xh6ouzHRyFwtB9pfAu6L4Mptyno3hh1Mo9QGyNT3bxz6_yX8M-ee95lTmz8tyc0SrF-hwI7WkRR7FDMG4PKZfGFVdjo7P-GbehmCgDSJ5ysx3gEENtn5GdL_U46/h1000-e7/Coser-Byoru-Cinderella-63-4kUp-001.webp"
 ---

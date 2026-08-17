@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Umeko"
+tags:
+  - "Umeko"
 photos: 131
 image: "https://lh5.ggpht.com/-izcgKXM728M/ZlOym_0f_NI/AAAAAAAAq8k/Mb_lt1wsFiQ2TKfMC9Jd5mA_KAza-hiYACNcBGAsYHQ/h1000-e7/Umeko-J-Arlecchino-4kup-001.webp"
 ---

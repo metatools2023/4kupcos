@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 117
 image: "https://lh5.ggpht.com/-3MIdm6reW4E/Zhlc1amYpGI/AAAAAAAAKyw/OE_mHcBVFuoB-MoYBhYG97Q0a9dQBZqkwCNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Nero-Claudius-4kUp-001.webp"
 ---

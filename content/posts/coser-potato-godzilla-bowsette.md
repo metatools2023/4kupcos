@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAEekehMfcvQwWyrASFVK0qD3_y_delSIYIARESyIn_vfBMnsBR6X23zzO4NgL8vPc3xgZSNazgCEtV-OD1SfzX4gH1QfDoCn_Bol6XtJ1Vltxr3-bBtTzo9iWiwiCoGmqy4pa0NNBN8PjVAmYRO0MmX0oCynOK91q3Ls8dyHohm4CHtOR2_TBBcwjnevn/h1000-e7/Coser-Potato-Godzilla-Bowsette-39-4kUp-002.webp"
 ---

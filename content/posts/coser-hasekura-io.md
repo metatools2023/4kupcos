@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "瓜希酱"
+tags:
+  - "瓜希酱"
 photos: 22
 image: "https://lh5.ggpht.com/-wpQ1bh4xcck/Zbq87cTAWvI/AAAAAAAAeC4/W-RQehZ1NjYKE5uaTZSwfpmPveNa2seeQCNcBGAsYHQ/h1000-e7/Coser-Hasekura-Io-4kUp-001.webp"
 ---

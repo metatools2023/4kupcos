@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 47
 image: "https://lh5.ggpht.com/-STr30hHMfAM/Y8HWWsHEyiI/AAAAAAAANQ0/JjusPLwex0A6cliDAI5CWGdaN2DfLnZ4wCNcBGAsYHQ/h1000-e7/Coser-Byoru-Nyotengu-Fortune-Bikini-4kUp-001.webp"
 ---

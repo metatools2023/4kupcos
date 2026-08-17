@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 30
 image: "https://lh5.ggpht.com/-b4QQ1lmruG0/ZOlrnuRLj_I/AAAAAAAAa1I/Z8ytcCl67FodHLRhhtVhZ65dhNznRDw0QCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.065-Tight-Bondage-4kUp-001.webp"
 ---

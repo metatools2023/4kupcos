@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九柒喵"
+tags:
+  - "九柒喵"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFcvggm6gyvwxoJBe_b1HLrXXP-_CSs2vg5Uu8lGwbdYa-JffYCJfBwuNwKGliLS48KjAZVkCaTBTK993KXk_iCQGXvk5tzbIpgMqXwI1AP1DUl2EXPl8FN08BozBB0wSzUPOqqUFup-9h0EWM2LF2PMAmBS8gbbBYjN6zDhOWW_OL8qgJDw5w9yw4owcI/h1000-e7/Cosplayer-Jiuqi-Meow-FGO-Drinking-too-much-31-4kUp-001.webp"
 ---

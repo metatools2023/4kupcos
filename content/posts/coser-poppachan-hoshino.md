@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 100
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqazmWJMdm2VaMcK8nx451pFnRwk8fOjx-MOTJAQu4PzrWSb6NAiJJ4BOFAdQ8EbIr_JOhMstOtKAKl0upB3iC_e-B-plVMH7OU1QAuQPitY9emSuapZijc3828cHwRwCnzgF2-aSgSxRQC4EBhBJHX_GVw-auxvA0Ovz9_JSliqtivQvFgkOHFfy9ug/h1000-e7/Poppachan-Hoshino-100-4kUp-002.webp"
 ---

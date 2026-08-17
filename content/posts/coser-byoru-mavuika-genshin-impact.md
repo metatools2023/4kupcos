@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 59
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ka9UMJwQOWKgL4Czh_Hv03_IDvd9Pig5SecpqsUaflF9Q-Dw9lfmXJ6oVC_dEUi7JZi8CVGLkqqzY2wBR0T912IQPc5mOYQxBZePr6u42x0kuT416aHm79-1vLn6BLBatUZ582C-aOsf_xw3KFD4oQgzQsgbSGb4MCdL__XDci2ZDxjUv5_tKV5luYsQ/h1000-e7/Coser-Byoru-Mavuika-Genshin-Impact-84-4kUp-002.webp"
 ---

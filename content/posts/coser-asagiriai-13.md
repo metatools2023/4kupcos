@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Asagiriai (愛ちゃん)"
+tags:
+  - "Asagiriai"
 photos: 21
 image: "https://lh5.ggpht.com/-yEW7wBKYKs4/ZXeNZ_TP9aI/AAAAAAABWao/FhFYg-UrgSocZiPgZrnH8kryguAGlaaogCNcBGAsYHQ/h1000-e7/Coser-Asagiriai-4kUp-001.webp"
 ---

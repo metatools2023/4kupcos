@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "矢量鱼"
+tags:
+  - "矢量鱼"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmfX8gUJI4QzQTBODc9bklhvOob2hkt4cKcxi-wPme3QOZeGbAYK8ef22b7PQmp7NiC5qWpoX7QK4-kGZfL1vLjjS3ILV5L-iAR8npg4lN3cI1m_jIc7ZftpF_l3qiIhEEsjHl-9C0DcR5bOanSUDvklF0Ba3d72k1l4n6JcihnoTZQzyIfdeDoC12yt7o/h1000-e7/Coser-Vector-fish-Maomao-52-4kUp-001.webp"
 ---

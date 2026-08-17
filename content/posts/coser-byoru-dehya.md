@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 35
 image: "https://lh5.ggpht.com/-DgASV0qpVcA/ZOLTIQGee5I/AAAAAAAAV7I/hZYv3H6ELk8fBf36J1JZFlsR8fgD8PmLACNcBGAsYHQ/h1000-e7/Coser-Byoru-Dehya-4kUp-001.webp"
 ---

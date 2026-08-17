@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane"
+tags:
+  - "Hane"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiH0RFm7vBnGC07uXWE-hU77jVqTlWEG9ER7QMaZjaKg7tMpEZ4tCadhlvwX4ly-l5x1uP-i16YzeIqBF8FnTUyQzMS7Hwez-OIIQjfQAHewbMR0DGvjjFMUOEbkwM6Ef3LQXLprrUwDUy3vEIrWGDM1LXiKHoM_c-pE-KfAdWWmxZp3qmcOE3fr5puLmD/h1000-e7/Coser-Hane-Ame-gui-mie-zhi-ren-hu-die-ren-42-4kUp-03.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9VY4UCD5lNhuTxDSKtWI8f8vSeN20iONZ3oV49dJk0AhFAqnfEmMbxzp5tDERPWI8DK7hp6S3g7ep2EOA9Mfbd3nAHs5kqyp4zGl1JWCjSkK6pszVcEJL_Ul9roKlYxDYlC0zhyAoZ6FuUZhsex58wGp9C794kpBnP-OAnLC-ElKCy3FKLvC1LnyGpGDj/h1000-e7/Coser-PingPing-Himeno-53-4kUp-005.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 64
 image: "https://lh5.ggpht.com/-cLK0nPfbdE4/ZJN5CHGLDbI/AAAAAAAAUmc/G9uG4IgDJNwqZWpHgbgto51tEw5rIzmQwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Chunli-4kUp-001.webp"
 ---

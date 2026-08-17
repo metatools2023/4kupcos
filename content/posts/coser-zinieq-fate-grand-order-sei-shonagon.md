@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYMO4xszweEpemNtvNUY0_rU_i8QnEB_xPvldd8e-DF31T-GYhjubiCuBvIgcohvmFjQ8dVHLFDer60thylZR0pIFnyGcrpub6pZZqbvkii1bklvNyKT5QjgUZaj_TXY3qvUh787bO7OIZyj2jE0WDTacPyUBs5NFJVavgCLVJ9f_cnoif5MDn3Vixarc/h1000-e7/Coser-ZinieQ-Fate-Grand-Order-Sei-Shonagon-31-4kUp-001.webp"
 ---

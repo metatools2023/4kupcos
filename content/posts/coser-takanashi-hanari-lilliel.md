@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Takanashi Hanari"
+tags:
+  - "Takanashi"
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGB564rsk3vvmJv5YFQ45_f_nCdumYc5-J63_a10Vd6jkpVAX5IGrHR0pA2OcsfpscJQMRRCuXqJg_z3QaEllcf37YHydpKcbAeLH0cbUZfrRAS-WjuF2fVWYSDybS3ER-1UBiFEpx38nyozDLePhGzVURmC3Py3THTol1csFb2twsikG24NouWOvhH7c/h1000-e7/Coser-Takanashi-Hanari-Lilliel-60-4kUp-002.webp"
 ---

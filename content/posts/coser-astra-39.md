@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 118
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEin5h5nA_EHmMqQkuyao-AQ-iLzLBR3f0lHiTGnFdvdgFR2RNotjCNbqvvH72zg5ffSKSsjDzaSZq91x_AKEw4EmsqIC8cGAL1OuG0KNCx-r5-kYZmw8fVgrKvzPI5zrVHQFLiwJnAF_yp2FKQTPEmGWM-KsSHMuP-J_8ZLcFH01w_STKFoIOTtDT0LUg/h1000-e7/Cosplay-Astra-Denim-Shorts-118-4kUp-005.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs5_oMiVAKd2kon_nzeuHfYoyQQbhSuebq8_yzqEgoFQ-0oD8FEwiDmhmaU_Nza4zeTPC5p5keLEozMymZbO46XCxwqI7Vmu7-_JPasRJZbOMycTYFssJhCRSOYlUdZW2m6pBoc9Wa8XsnldzVOQ2n4WbPLsWdSvhWY-4SEPY2zYdwH0Ks1_TGu8FmXrp0/h1000-e7/Cosplayer-Shimizu-Nagi-tokyo-night-rabbit-27-4kUp-001.webp"
 ---

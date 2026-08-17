@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 32
 image: "https://lh5.ggpht.com/-EifpC2ZBpCI/ZmDxttcHdDI/AAAAAAAAx-Y/VwaeXPgEZsQS-Wqs4fTyvbqGS2Lu-yErACNcBGAsYHQ/h1000-e7/Coser-Aqua-202405fantia-bel-32-4kUp-001.webp"
 ---

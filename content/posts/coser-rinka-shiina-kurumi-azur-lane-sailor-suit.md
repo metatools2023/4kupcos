@@ -10,6 +10,8 @@ categories:
 models:
   - "椎名くるみ Shiina Kurumi"
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 13
 image: "https://lh5.ggpht.com/-j0YgdFERmRA/ZWkHFwM-f9I/AAAAAAABJBc/aobxYvHiv2gFwBxCkbuxryL4Kn1ZDqKrwCNcBGAsYHQ/h1000-e7/Coser-Rinka-and-Shiina-Kurumi-Azur-Lane-Sailor-Suit-4kUp-001.webp"
 ---

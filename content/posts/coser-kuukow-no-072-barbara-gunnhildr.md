@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 33
 image: "https://lh5.ggpht.com/-Exku0EkIu8k/ZZsqQfC4Y3I/AAAAAAAAH2Q/M9Tsq0PKQjosndfUUIs9j1dkY2Lz__rQgCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.072-Barbara-Gunnhildr-4kUp-001.webp"
 ---

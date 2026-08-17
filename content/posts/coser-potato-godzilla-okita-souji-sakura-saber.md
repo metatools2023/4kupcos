@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiffLwTLmMp2VSA4G0x_srgPE-sq7jZJKz2K5zsHVDlbKNoMKq5NMcTNLCl4-4Yspp3QFsRktRjprE6AGQl21nJWedaNpULYzSQOtmw3WftB75_mkAyGad6sbCJoJyo96r7cHOEsKH0Tv2eRKD3IMNYSjpTXwBei7mnqd1b0Men4sZrPUz7nYp6ZsEH2yWC/h1000-e7/Coser-Potato-Godzilla-Okita-Souji-Sakura-Saber-18-4kUp-001.webp"
 ---

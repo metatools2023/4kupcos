@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KANEKO_咔喵"
+tags:
+  - "KANEKO_咔喵"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgUotGFi7QMMOG84ZuSu4NKrGSBoY7EP_WeZGmgjgOQNQjZYWqBvqKurPMqWiS9tBlpzaVtd7tsf5e30ojQABM20quM_pC_8NyfHZNYlUHGBV3HB6z2KAnZ9d3KzFJ35rYHtEXQTyrkd64vbI5bqkE_ORWoFpBSJvpYiwcXuVQE4X5XAviodToDQEQxUbPi/h1000-e7/Cosplay-KANEKO-Ka-Meow-League-of-Legends-Soul-Lotus-Ali-18-4kUp-001.webp"
 ---

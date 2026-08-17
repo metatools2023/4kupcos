@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "三無人型"
+tags:
+  - "三無人型"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnFI2TMGwqIGt-jb65MQIXffO4vi_keT63iuDCpu4aQQoQIOvEGfEjOPSWwihvQYDNOaD8Dm1Z_HN3hoqIb3sw9Mlh-ZVAqHNoeYwK2pEORdE0mSlkMAgUiCE8c1TCTQb_8ean36Wl6wIyEw8zfRtG6e5cCpx23mjmDL6qUyeL13u8oTORHWvO1YZPGP8/h1000-e7/Coser-San-wu-ren-xing-22-4kUp-001.webp"
 ---

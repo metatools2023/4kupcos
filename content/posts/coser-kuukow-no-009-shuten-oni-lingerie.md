@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 40
 image: "https://lh5.ggpht.com/-0AxY0CMbMmM/ZKc0rMNXzmI/AAAAAAAAKuc/nGpSJKtLZmMsMjOpgWm1KK9NxesVxTg9gCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.009-Shuten-Oni-Lingerie-4kUp-001.webp"
 ---

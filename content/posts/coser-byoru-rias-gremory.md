@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 66
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrQQExEbge8u6rz5eRjF3N8sAPkVn2cEGLQgy6QPnnLhGgvyXUwj51Do9uGWelLLT_jzp3vyEBggEnMhL-VogFj8FEALI51Ik110w2KrzscSxYJ5Alf7B843OH0t-bhyphenhyphen71nFV8lfW2h_Cc6s7g4G9XFbEN0pSRoEpx12Kwm0LjiiFk1qV3dWjuvgBsJi4G/h1000-e7/Coser-Byoru-Rias-Gremory-86-4kUp-001.webp"
 ---

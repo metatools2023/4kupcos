@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 68
 image: "https://lh5.ggpht.com/--ljxX_O-grE/YriJZq-i3EI/AAAAAAAAOt0/djABjcGhC4sIgGecpsDb92AHTSeEeWBNwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Yor-Forger-4kUp-001.jpg"
 ---

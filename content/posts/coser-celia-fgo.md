@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "切切Celia"
+tags:
+  - "切切Celia"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLCphvQgWXN8rdRWe2xwiIKynAUL8ai9ShsaIVgkA_5mFt3nFYu61x-FdQVahuM_ZQmEmFDbwusRDnViDhxm8YT_xOzS0fW1rdY1XXSxmm4Ij3uPgJ_e89B4HlZBC4lyzkYP4SgfEnFvbt6fEyY_z55knYwxTtX_oPTogXq3alr6A4Vf6nffRrG3BQyQw/h1000-e7/Coser-Celia-FGO-31-4kUp-001.webp"
 ---

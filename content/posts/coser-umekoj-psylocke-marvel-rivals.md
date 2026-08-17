@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 125
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx053rm6gAuug-57xfwOGL_C2Gvw8H48UnldkK1-Zdf_KXiP-EA5-FVdU-whd8_VBAtj6ngoCQO7zo2m9-cwvkwhu283ACrMHvT5o9Mzgq-ugYsFCb8B3LavM_VBdL6-Ha8OxMDAn6NoCgCPeM1PVEUF8IzmCq7lYfTpuOiUWODxfyFTp9LoNNpDd7gvV-/h1000-e7/Coser-UmekoJ-Psylocke-Marvel-Rivals-125-4kUp-014.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRJ9kkMkccuxpc6S6k3qEk2jByfHrKr1tTxl2g_bMYKrbLGZXNaioxcdpZYfvNDddsgJFK7nGMEyqj5HiHLr6MqSkAI2VDSWnz3zlGHE8OLtGX4cCfGnl7pugz75_3qSLF6Xdn6boCjz6RYHRGyFbHUKbF-qcG7Q9iGUQT43LWMwYHMi9d3keFqs_N3Q/h1000-e7/Cosplay-Hachi-Xiao-Ba-Misaki-Prayer-15-4kUp-001.webp"
 ---

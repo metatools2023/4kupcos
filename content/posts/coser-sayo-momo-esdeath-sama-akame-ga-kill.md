@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo"
+tags:
+  - "Sayo"
 photos: 95
 image: "https://lh5.ggpht.com/-YVAn_BFXodM/ZfB7jyXcjyI/AAAAAAAA248/mosMuU44jlw2SVKJ9m5MnWREA-Xg5Tx1wCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Esdeath-sama-AKAME-GA-KILL-4kUp-001.webp"
 ---

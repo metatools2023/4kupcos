@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hokunaimeko (北乃芽子)"
+tags:
+  - "Hokunaimeko"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWji6yAemQbAkfAtDjK4Wbdkqeq2hEmQBno-a4ntN7i8UWZEfH-r_xn3njhEJF_T9CUOs2vRchspl68ulSVw1N7dpLRF-zLU7yB7NwXOc96u_WSDS6OGX-Xpc8NBVBO7O0eLnwLDJtCGwCczOw6RlS2ZFbtES-POyeECNNp5XdQa8VeXpe-DyVEDswanc/h1000-e7/Coser-Hokunaimeko-40-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru Original Byoru Gyaru (Vol.2)"
+tags:
+  - "Byoru"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM-ECdjct7g8HdLJWpKDPFlXbwr9wbU1mEMe8X5hgXimhy00f1cmprbzdeD0-Rtng8Mu3E7Gkq_5OCVaB9pJT6FXDYJvtjRz5xj4X_d-VmsM81wunq8cYNOW9GMZx2ize0I-RWIQV28wYl6OZxk4qoLtiAgOrbJLnVniKe4iipjEabwtoQjJKD4j31SVW4/h1000-e7/Cosplayer-Byoru-Original-Gyaru-Vol2-43-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 62
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipMZZV8WN1HWrsAtwtu6Rr49WuXALOFlhrK6ruAsajgu843vCxO6OgcNk0KtUWAd3dqdAD30Dg8Tp9pDepMfQ4eGc0SjXFKobTp4FxlXNz0pN-mMHbmxOuPzOgnM3KWOjUSULtYXgueTyvfHxQGxY5EzVhVViYFIlaCV8Zy5WoFloA_lyHI2G5wcfTszY/h1000-e7/Cosplay-PoppaChan-Hayase-Yuuka-74-4kUp-001.webp"
 ---

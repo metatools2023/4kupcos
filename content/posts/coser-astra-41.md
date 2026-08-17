@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 79
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKwPz-GjvSn0M6Swkcblsd0aiogGJBeCfMyndXuxAr-IDe2hJRsjXH31s1kCqTE7d8V5GGgjrfX7lCfNwrQikPVsz9UdIQbsIYwv6-zY9y28ELmMDeSnyReWzYX5BLse42NedOb28gKexnvS_3BSwayRjaYA_iOzsP_iPHEmHq8gyfmLd3ZnR5PlNZsdg/h1000-e7/Cosplay-Xueqing-Astra-Janus-hesitates-to-change-clothes-79-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-fZw-qkxYKLzyfJk8p4k9xWEM9xmv6tPjtUJy-Z-HqCH5mt-GAYzt9Nrdi1pQWhvQaku9h0CAQrt2-wiPoXeUTvXYdyfPttPhYKUvKT0XHZkS4Jduqm1IcCOPt_begy5NLVe5nNjUGFp0xRD3OnLDx4ZqN62ayhkcxlRMfbRTtMua9PYlYrRLthopPvMX/h1000-e7/Coser-Astra-Holy-Angel-Nun-58-4kUp-001.webp"
 ---

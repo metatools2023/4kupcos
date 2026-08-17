@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 28
 image: "https://lh5.ggpht.com/-H4_W4NH7RYI/YyTvoMEg5QI/AAAAAAAAIbo/QF3w_PWqA_g88y1bBflBscAwmQ6UT763gCNcBGAsYHQ/h1000-e7/Byoru-Resident-Evil-Jill-Valentine-4kUp-01.jpg"
 ---

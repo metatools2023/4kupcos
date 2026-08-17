@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce"
+tags:
+  - "Joyce"
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiI7pUL_5Xo07d9RzhAwW3jZUcxUImnAOcAWH-A_cm7KIOvaIn7EWjCULRrqavd3M8PMWA8tE_hqht5JN9CwEvaQrkrhshKzDCCrqu4vGwD93fJAMjslkvLsBRFdT5xwuwbIwDwEqVkEa5y1yHSsVmgHvZ5sJYpP7kyTRIVschvb9fQZDUzkiX-Yn1daDt4/h1000-e7/Coser-Joyce-Lin-Eula-Pizza-49-4kUp-001.webp"
 ---

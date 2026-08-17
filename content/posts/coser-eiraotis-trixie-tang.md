@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Eiraotis"
+tags:
+  - "Eiraotis"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjptTnQsl8I-NtQB8JPih-AW10bB_N2HQ5339QAqXK0phNOF4wxQ-JLNNobbw5jiArmkV4xoaYprgG7xAeBY_1T3o6AqtBHOtSS0BMfeSvS8jqLTAcwVPTdguGcFRKmzhumJ84SjCQOKDnNkQ7lfO5McVRS689QR_Ndhyn0GKHAp0p6-BGQl_1MXtZ0mNpZ/h1000-e7/Cosplayer-Eiraotis-Trixie-Tang-20-4kUp-001.webp"
 ---

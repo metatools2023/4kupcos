@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 48
 image: "https://lh5.ggpht.com/-Sr-SO6jQz8E/ZhlaT6eKDuI/AAAAAAAAKNY/i4P7Clfm2wYk9kG-3enm4xHuf93j7PMiACNcBGAsYHQ/h1000-e7/Coser-Byoru-Shadowheart-and-Baldurs-Gate-4kUp-001.webp"
 ---

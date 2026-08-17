@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "是一只废喵了"
+tags:
+  - "是一只废喵了"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKrnJaH6fJhV-3IUbub1lXwo4hFt9N3sUgM1h2kvEo7OTXUbvD6ZM3JfyXV4XzmVla5f5oVv3sx3DTDfG45DXuXsMcczcwaf9yLsSvXhtF7C0L_ZsF7TTU2jNeY2HswjXXjIUmDNS-uWg-B-Ygxqz4Ym39lGFgeLvTJjq-1Uul4YgzGyMj7pb4vGjUbUY/h1000-e7/Coser-Shi-yi-zhi-xiong-zai-ma-100-4kUp-002.webp"
 ---

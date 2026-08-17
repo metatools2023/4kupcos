@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru Momo"
+tags:
+  - "Byoru"
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7SwmheCsspOrN6NGyraIF2vWwNsqhZwQUHLJNJeRKUrDB0XLoWzHFDJZi5HbbxV0iwGWV7-DPQKqEEGtLc_RSFCZrqu2aw4YaghxtYkKLejp4QxWZafLvS1v9IbQ85_yj7Vv4Lc1Ugd0XKB10PEmaQrW1Z5QLHSB1vjqiEtkDkdb9R3WF7iSdFDPxnASG/h1000-e7/Coser-Byoru-Momo-Ayase-Dandadan-77-4kUp-005.webp"
 ---

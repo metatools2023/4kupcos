@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "上杉绘梨落"
+tags:
+  - "上杉绘梨落"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTOWSazbnZHqAi-EV7fWIOZIMv1oR9ZfR5c82-mH0JdjBG5m_sdoT4kAfMlwDn_guHzFKRKUP0vXpF7WtXHDy9j1eTrqtpJgCK6ip2vmB0uwP6L6X7geKUPc5T0ucYUk5ik92Zr5Ot3n55xv0GvTRDRHfhV98sKjpiJQxFCykKjKm5a4kxdOnr0ONYfC1N/h1000-e7/Cosplay-Uesugi-Eri-Lou-Blue-Archives-Asuka-Horse-School-Uniform-46-4kUp-007.webp"
 ---

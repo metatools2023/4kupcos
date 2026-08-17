@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQUfjl08H8ogGi_B3VnQEpd06OJCqh1mFA4d8jitJU9tXwiDj_1AbyPFXy1xIkCpw5qq6kmRV7FLgmJu2FNPOkZjMWzIqr14K1Kaj58PICfHa5Mr64uhVU0MHq5D8hWiOwStzXylBIOtxib4YTJa3HKD6xEEvMt1-CHfgzJ-Rrdj8KnSh8cIkMCZKs2ckV/h1000-e7/Coser-Byoru-Helm-Chanderlier-NIKKE-63-4kUp-003.webp"
 ---

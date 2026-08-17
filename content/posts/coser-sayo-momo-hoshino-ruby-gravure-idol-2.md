@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 62
 image: "https://lh5.ggpht.com/-HAP540ACoHc/ZaxbmzoryII/AAAAAAAAUSo/9hfsouJpGFk8hE2UQsspmspsHQIieA-ngCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Hoshino-Ruby-and-Gravure-Idol-4kUp-001.webp"
 ---

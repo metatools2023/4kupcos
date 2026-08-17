@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mimichan"
+tags:
+  - "Mimichan"
 photos: 15
 image: "https://lh5.ggpht.com/-oVnvC3MnT5I/ZPZdjQ9daJI/AAAAAAAADWM/jltPJmlrz1cC3iZJlYj8olTpB0I7CRvvACNcBGAsYHQ/h1000-e7/Coser-Mimichan-Raphtalia-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 66
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih-pXdWLflbgJUspB1R3JEOuyeBc25SJum-gO5njSn1yXKcL3qs1wiex41qlQrFAnm8LQSlMET5vQRZnYY8R5OG2myKpisEzh_w8isLUtmd2q73Y8Me3sO2S3RymFRT-jyJseItLAro_GHw2Ival0dMetQcrkkeSBtw1r_aItzmpmm8inlZRMcQbwFc5k/h1000-e7/Coser-Candy-Ball-Got-Milk-66-4kUp-003.webp"
 ---

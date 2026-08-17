@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 54
 image: "https://lh5.ggpht.com/-0mTMH2aHF40/Zj0WxYTZY7I/AAAAAAAAfpU/1E2pB6yksPAU-BzywYxQ8FifNMv0kh8QACNcBGAsYHQ/h1000-e7/Coser-Byoru-D-Killer-Wife-4kUp-001.webp"
 ---

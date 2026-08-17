@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 41
 image: "https://lh5.ggpht.com/-JLasA-iQDso/ZYtT8MjONMI/AAAAAAABqwg/nnl64CEuXnMOw8dVcQOLXGV4hEq9rK7QQCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Jett-Valorant-4kUp-001.webp"
 ---

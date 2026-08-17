@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "屿鱼 吾妻 同人舞娘 (碧蓝航线)"
+tags:
+  - "屿鱼"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ3Gonrsk3RFlTlT56C6gXt67Sfo59L6u9UipDehjxi6OtXJVqhOfrSINLIKpd8UDIh_5fWzeDkbTLszvHw-x5m6hU0csf4RLDsgwJOH85S0NnEFCkzaITquO62kRav_7jj180BIc0SWWJF8rqXdiZucbykrSqSXhxHpaGr6oF01KRAaWaLiRi-XRGR_dh/h1000-e7/Cosplayer-Island-fish-Azuma-fan-dancer-azur-lane-36-4kUp-127.webp"
 ---

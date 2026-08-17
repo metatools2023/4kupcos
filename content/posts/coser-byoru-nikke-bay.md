@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwddi640rvY-2MPG0BQWseYMIiMePZHb4rGQq_s36gR2-qhJiUFksxyZuWmFIjtgTSz34OmwoThvPDqmEEtRlLFCKT_zbfD_mRdV7HtuaYe2j2hVS0VAFk2Wnm60_E3J_BreZmZy-759B5U0HvA3_uNyBXpcoVqvvVlmYipXsgNXFkmjNzhDt2Vys_bDjs/h1000-e7/Coser-Byoru-NIKKE-Bay-58-4kUp-001.webp"
 ---

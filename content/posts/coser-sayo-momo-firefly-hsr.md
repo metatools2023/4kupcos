@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 100
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKjgkQf-Sopcv8WED1gRjaPRxQr9wao5Gl9HB1tvY8NiUMcwDkkTyyQ2GDhaaUSW8F9m-g3akebNercdCf-yoPtwe9qx9bcJ6UrilEuA_XbKZCRc03v9B71A4LjMHkUUU0xjGYQIhedYnyIcRnh6eMmJWbdGZft-6tffG0MdvrGyd_qdQUYmtHF_qvhvU4/h1000-e7/Cosplay-to-you-momo-firefly-hsr-100-4kUp-012.webp"
 ---

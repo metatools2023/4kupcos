@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxxKvAcZM4VYmufBYuOtArXxWcwaDgQOxKz6xMzZc4hz1OSgbbfszUJp0JbYRPNUV1hhEXPFCpCyjxYIqZ3noMzxsI26mxiGMF188mCu5sTcaRsEXnG9Ab9eCJTIJtsK0FcbIT9-qgl7Liv20pF0gplHLpDK52tlK5Oslk7TmDTX2a0vXdefBk_fz7xVe4/h1000-e7/Cosplay-Shimizu-Yuno-Cute-bear-50-4kUp-001.webp"
 ---

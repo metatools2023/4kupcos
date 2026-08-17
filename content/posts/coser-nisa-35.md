@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWR7WrivTiIR2HWN55CPI1Z3xlPf8UfZi3rDT0T1wIcdKPoezbW7xoMKz9Ywopn3kQInvoUaXK9BPHcB9S1U5n9C6oQVZkAXGfDLaBF96AJSUP7nkXB7RNemrUiyvO_aTlOF3DnAQBS5keXFqNdvbe86U-nOaI1FfvBeka4442soxSMFbWEzkm4CMbeY0/h1000-e7/Cosplayer-Second-Assistant-Nisa-Tokisaki-Kurumi-Spiritual-equipment-12-4kUp-102.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga69BRMBI2WrDHbnJTWSiEsIFz_cgvdWkrmio0RPWkzIeLZf3rhdAyzgjqRESM9Q0Q5IpCRVZVQxzDz4-Zi-2CHWJ79HTUX6guqxmM30wHLgdoMJcDIhRGX5x7tuoMQkt4gUINL4Qz6BeCBT1KHyajSkiCgGW3uQ4sHbzm0q01MG0LJ3SKLJhDzRQkOme0/h1000-e7/Coser-Azami-Maid-Succubus-15-4kUp-001.webp"
 ---

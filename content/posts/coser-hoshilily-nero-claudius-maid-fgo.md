@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 25
 image: "https://lh5.ggpht.com/-D-HNZ7cXB2Q/ZKsrLosdfUI/AAAAAAAANnU/0fKeUnhVYVcF4E5IqDFOUta0WtDhotRZgCNcBGAsYHQ/h1000-e7/Coser-Hoshilily-Nero-Claudius-maid-FGO-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDoVhW8IGTlR9yQEsGvlpjlkuFf97O0sVG6zl3dYaQNbEV3pHgGIuUIBajZK0wk3Fo2MThtFPoQ8J8msNDCkfV0ihyil9Z8sBf_Y9ftV7z7NvCtqe8EEIiZG2dZl3E4x9-CDlXcCWSVRcd3Goyo3dDC4gUTB_TevLs0eok5QUtj6Fg9zbAY113bYOotg2V/h1000-e7/Cosplayer-Byoru-Bremerton-Pillowed-Counselling-41-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo"
+tags:
+  - "Sayo"
 photos: 54
 image: "https://lh5.ggpht.com/-oqwfKDwSt90/ZjO-HKiGRYI/AAAAAAAAZ54/1euvoL4sus8Ve3dks9TheuMitDUHzE_WgCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Badass-Female-Boss-Vibe-4kUp-003.webp"
 ---

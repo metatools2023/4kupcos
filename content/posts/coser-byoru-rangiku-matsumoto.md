@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 37
 image: "https://lh5.ggpht.com/-b3StEDEY9SI/Yz75tO0SYFI/AAAAAAAAEuo/9rDUO0enOSIUE7ckgS83foASLm5APjgdwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Rangiku-Matsumoto-4kUp-001.webp"
 ---

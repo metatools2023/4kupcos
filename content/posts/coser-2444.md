@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "狐玖玖"
+tags:
+  - "狐玖玖"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicvFseKB04UWnNk1Z6WTVvFhLHC48-fJ2JCmEM06mQxQ9ASdTrH_IxVpeYMszyVhO5wtakUOzbQJTk9jv9HULjj9ZglJldfdpTdxm94HF73-0_WUz0T5G0iFGVgVQiWZbaxSvHheTnPDkNbDeY0BGPo1anK7Eij3clBNPRYdbZM2xSsZTzaYVir2vcG8bn/h1000-e7/Cosplayer-fox-jiujiu-azur-lane-Awesome-white-bunny-girl-25-4kUp-001.webp"
 ---

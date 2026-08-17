@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Asagiriai"
+tags:
+  - "Asagiriai"
 photos: 56
 image: "https://lh5.ggpht.com/-waMVt_9PhVk/ZYeOs9hNBTI/AAAAAAABn2Y/a77FVrrnW680w6KROY2Mrxz1b1cwGlYnQCNcBGAsYHQ/h1000-e7/Coser-Asagiriai-4kUp-001.webp"
 ---

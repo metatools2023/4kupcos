@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG5ic0Y-n2UDg7NfeEzEwgc9R83FpsfLHLv2yIdQYgpuLxZxvHljhimA8f1m0lEXa7ConA3xlDkgnZunL_mZbxzcZ7Ow7AEkm-Xtsyr95bJzxhJAn8fZ6S2YP5RfOZuggCIGlEV6Sa-KQy-O2sYAEEuBw4NMEpHGxTrC5vxv3yNUv-WyBo0km2ojkSQEA/h1000-e7/Coser-ZinieQ-My-DressUp-Darling-Marin-Kitagawa-Wedding-40-4kUp-003.webp"
 ---

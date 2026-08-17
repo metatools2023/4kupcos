@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 11
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTuTLf1NQbg7lGSVmTQPJLU4H8D0E5RYhC96_3G2-BCHd1geu2RMe2KaDZNNdZ-fZVmDZwL4doM0PHrWXEYuGlXk8pxYuxAzNP43vH-XcVjxPM9E-faSxjcH7wiflRylNev_CurVQBnWr8e_boeowVuvUL2GAYDwKQILeiSaNgk0UnD2dHq_9Yr0uEtxlU/h1000-e7/Coser-Azami-Amelia-Watson-11-4kUp-001.webp"
 ---

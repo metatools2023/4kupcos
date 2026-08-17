@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 107
 image: "https://lh5.ggpht.com/-EOoYGpe1DsU/ZeuS4FW-PDI/AAAAAAAAzz4/nU_WG73FTXUUJR2mZsrH8WEkKWNSJdJkwCNcBGAsYHQ/h1000-e7/Coser-chunmomo-chunmomo-2023.10-4kUp-001.webp"
 ---

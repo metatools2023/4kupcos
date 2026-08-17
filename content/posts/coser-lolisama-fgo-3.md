@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtxOnayMYZH2xwPIpxReXa8PaxPRAC6_m6P6U45rk4CxB6by-Ds-HvCYoU3lyIJ2sbqzMra0sKI7qIoA9IUk_iqdz5bSLh3gI9F7ZMndjdtb50aAz7KvCyKoUkLeh4Hns9IgMpZGpW1DoS-pmlRKE6ljgv9XGbZByGTFwe6GVf9qCb3LFnXzW_W2j9JzI/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-FGO-Yu-Ji-maid-bikini-44-4kUp-001.webp"
 ---

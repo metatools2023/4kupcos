@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii0YV-sjLRTAA3861rylaIy0MK9jpSbM_egO4HFupm_-ZwZL6vBy8OohM46ff80RpLegnJ4xPVtrm3HgG_wFREppeCgSvF-UfRTRRPqU9K72EBufFW6qUD3Pw0VZUnI01He3c2SodAh4RSlyfvRy2jTWNNBikJq_x9MFIKF6izyZ9gr6j5m9FbN0aATGM/h1000-e7/Cosplay-Candy-Ball-Rapi-Red-Flavor-28-4kUp-003.webp"
 ---

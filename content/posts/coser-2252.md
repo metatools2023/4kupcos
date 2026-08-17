@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "前野太太"
+tags:
+  - "前野太太"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZqNVe3UpxTSPuUuibANf7YzeN__mmeBj81SQbA5ZyBbIsME25Md78I1mk5dPxhSUD9FweeabiaqSLtNL8r4HWHr7S0E6QS8W288iYn_ulLJaT0utzvcBaWterW9tgLGYct_yQyiqYYvf8k8pFDdLfkx_MyGwTXeypK-UG_Gzg0IeMk-DunGbv5KY6LBA/h1000-e7/Cosplayer-Futa-Maeno-Ellie-streamer-30-4kUp-003.webp"
 ---

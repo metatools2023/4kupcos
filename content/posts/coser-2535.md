@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "宫本桜"
+tags:
+  - "宫本桜"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiheTlpRfYKLc0DwVfjGXTuz1RmF3OWwy9t6ooMYVMfkCw4UbAVGVWiZOWKmg_9lnOqCkX7RMcVQoIuf-2MFsIoMsjxqQYccXI65rvxlmMy9odMAhLqAn2o6UWDlcEF6MPSwsQW5PrPszc_u42cygPwQLp271LFFwYzXsAtqypzsAczM9v8Q332a1kWm5s/h1000-e7/Cosplayer-Sakura-Miyamoto-azur-lane-Shinano-The-roaring-silver-wheel-20-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 103
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZIzPB9T-OZYj_MkIeFdY-W4AcMUOuSJN7U0f6hnn2eq7nkCmWNcyo6V_sD-fy7ZAJbfr8AxD0JtAi0rOGO8mI3EwsH_IkQLXyYFPfqoVjjgfay41ZVSx854qNG2CnboRqPVKjOjpQp1DWcNpCw4htuUtWEoMIDWsRL0hbHehC1ygU7LoCtvRj6GmNIp3z/h1000-e7/Cosplay-to-Momo-Mary-Nikke-Medical-Bunny-103-4kUp-004.webp"
 ---

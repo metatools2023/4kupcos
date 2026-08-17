@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "安食Ajiki"
+tags:
+  - "安食Ajiki"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2hlq8hdGuA0_ncu_TEx_c67kL55otJYiCG5G7XQkCXPmmtjISrLvxjPjBz5nw-fCYJhF1-umZVrXEl8TIrdbv7m6Wk0ECvi51NENvADVS1qR7Ga4fO8CxosVm79yo3j7uxzJBzymLOhwgG_m2oFr-2unMgj3xwuN8RNSOAEbs1o-R5Z2W9tSJ74DyY7uv/h1000-e7/Coser-Cheap-food-Ajiki-White-cat-48-4kUp-001.webp"
 ---

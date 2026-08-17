@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 36
 image: "https://lh5.ggpht.com/-D_uglCFgi58/ZjVsLwwPGqI/AAAAAAAAalY/JlBHohlbKuEi7U_vDeEsTIU3pZCxbc5NwCNcBGAsYHQ/h1000-e7/Coser-Pyon-Mihara-4kUp-001.webp"
 ---

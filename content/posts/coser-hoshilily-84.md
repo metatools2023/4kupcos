@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily 碧蓝航线-新泽西兔兔(花园)"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhyPTOEvtkijm573Uer79QU_zLVTciE0ccLVShiNjCPjTzILXgvb50_3CK7LfL5tGIJ5ARA9uMHKuQ8Z52gxzMGUfapAhKNWa7cuIYSqD21tmWfUafa8-9Go-fG7AXL3q1iUJw1K4xqNjwOquKYhV4phLrN0M_Sa2XyhRVVCIaMunpZ61zpRHHNn1gSHHJ/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-azur-lane-New-Jersey-Bunny-Garden-38-4kUp-001.webp"
 ---

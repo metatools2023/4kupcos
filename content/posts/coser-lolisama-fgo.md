@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdLwEDFyphVY4_iD4VuS3ccPzd-MO3YqiFMk0xFUnNP5hV4WfX3ekoU22aO8zBvt-QfFiHKX0PFNbd0NELmudM_BjoNLRWkj0murn-qozXFwsP3tk1VU18qZ2CRKF0T1H4UP8YqGrvVb0ygKXuMXp1QVV6Hzz9CvGwr5n213r7LEThdo7mt2L7x8PtvmL/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-FGO-black-rabbit-28-4kUp-001.webp"
 ---

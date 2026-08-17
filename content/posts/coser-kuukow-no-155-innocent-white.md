@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7kp4tGnW6ohWa0JdBBe9wlE-LpP8rkFWc8Inal6aMUCTRTQnCQ6IUTLkLVIa3ErIDzM4w12fducvxEq8sPIdbikg9QZKv8LJbXbTSVIdSRNTYE4KpDdtaXfiSsdgNHPvwEuU0O3ZvbIyIEZVIIrZkHXjPQxjGgDrnVVyo3oLFw1ukMVtDjhQEA7ff_-B0/h1000-e7/Coser-KuukoW-No.155-Innocent-White-30-4kUp-001.webp"
 ---

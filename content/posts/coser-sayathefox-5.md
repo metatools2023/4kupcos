@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayathefox"
+tags:
+  - "Sayathefox"
 photos: 11
 image: "https://lh5.ggpht.com/-7VfXiCpW7fg/ZMGVoGnug1I/AAAAAAAAgPA/eUd5L4hCLvwsI6xy5HkVCQ11Bzm7aQ8jQCNcBGAsYHQ/h1000-e7/Coser-Sayathefox-4kUp-001.webp"
 ---

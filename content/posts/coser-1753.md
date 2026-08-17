@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "核酸酱"
+tags:
+  - "核酸酱"
 photos: 108
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHnZBJfDCGx4ArHp311Px4_ySmX0G3ZnQReDZl4VIqJqZoWX2BI26ZlodlrBBkX9pd4usf5xGdX1J6vcjZlT77Le8v0FaLui5X-ettUEWFhbmrZZwwgjbx7pfeeVsWZjkeK00E4_k8pR8Uh85doCxVU_W1M_Ka76TnL6g_opC3n9qRuG25-otgd5Nh7yWJ/h1000-e7/Coser-He-suan-jiang-109-4kUp-001.webp"
 ---

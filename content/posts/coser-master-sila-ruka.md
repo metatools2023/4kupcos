@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Master_Sila"
+tags:
+  - "Master_Sila"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUdcCrcuIdtAzVu0-gCLJObxf9MBVkkZOCwqSUYRBOgEtd5nhJR7X0nJ0da0K1FlrgQkEwTUravncvYS1Fig_Zys8X0KVq9xaEmorqRJRbs1HVeJrlmmtNgR79-xxqWWRj0wiqGiWSQZvJPHnyrMWu12rzfduJSwhDkHjKR7DFTtd6BCBSJHzP06HZ1jzd/h1000-e7/Coser-Master-Sila-Ruka-36-4kUp-001.webp"
 ---

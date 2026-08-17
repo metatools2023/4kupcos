@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2vl1MwVs7N23jDbXQYhdUim67RFCBHk6LhZ8hwFPFwOWeL6tBlL4xsci5NYmxFW9rsMxqEN0a38DwT_qMMIiFJvmniHhqMd4I8iVdKUijlF3oBJtMqb3UdOym5RS2c5nT0Ymdu6bcxG2Kgy6Rbz9CkEY8jNvgQXYUrqDNsY-RUJUr1GmBXqNqdPD6WQKz/h1000-e7/Coser-PingPing-Elizabeth-Liones-48-4kUp-002.webp"
 ---

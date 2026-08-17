@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "蜜蜜子Kimmie"
+tags:
+  - "蜜蜜子Kimmie"
 photos: 64
 image: "https://lh5.ggpht.com/-Y813Q-hTN1Q/YtLkXgkBnvI/AAAAAAAARG8/CY1d246JoQMzTcLESa_xwP_QBBhnNyixACNcBGAsYHQ/h1000-e7/Coser-Kimmie-4kUp-001.jpg"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg789-1Mxyrb88XmuIke3WGtRxyPt8TpxTROzjpc0MSfWJYM94-MnkSs6UirSMS2Dm5wf7tazNWqsk3NhSudiG_Rqs6-gzz83ah4Sz62Ji9cFrnd2XZdIOS5OGojl3AL-n9Lce30g3WapVlfBu3kv6sS0g07Mr0TLmUp7VgQ3_ypeJQXs4UaASOA7FaFuqk/h1000-e7/Cosplayer-small-store-chiyo-w-Patreon-subscription-Valentines-Day-28-4kUp-002.webp"
 ---

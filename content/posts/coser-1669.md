@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "隼隼子"
+tags:
+  - "隼隼子"
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy8nuZ__T6PhBsf-Gq2i0kfjd5P_Rr5HzSkFwFzEgJtyqXdz0BSA0CYAdsDA1cowYO1rpUENNGHcAY-nS3dUe8fiZJlTaLBPp0NS9ThtuNsYXSamPXk9XLUNn4SlADMpuNKtKJOuzISsaB2lBMz98-_iBWUGm_YJ_uTKqtfCI8cXjGmSTJWSQu9KsUZn4/h1000-e7/Coser-Ban-ban-zi-Vol.02-47-4kUp-001.webp"
 ---

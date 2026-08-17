@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "yuuhui玉汇"
+tags:
+  - "yuuhui玉汇"
 photos: 118
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIO1neknGth1NC5z7vpgvTMnsxhd8PctLn6Lc7NPPVffQZkf8lTfEX5PVXevUY6tFoAI_g0EBcIsNRqLzplfKvj0cy5NpmHoy9ZyKI1Bskvhw7-koRQtirVLrmGPtnBukNW7ILj_K_Jzni86dvTtBMXZFudPCabyw6UmyRfKh0cT1rikeZ9E4zGNA03vWO/h1000-e7/Coser-yuuhui-Yuhui-Night-cruise-ferry-118-4kUp-008.webp"
 ---

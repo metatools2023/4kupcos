@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "けん研 (けんけん)"
+tags:
+  - "けん研"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig1VcCZNWgrGLjjUGIwM8LyJ8Agg69nf_xc8At6BIyv95DTKci5Tvjp-j9pPgsEG4vEdgZDpBbJc3dEtcDcQE7fzXZKPkaPn5szLEsdXgixmqLaVnKuof_XG-QmSz0sHsuoUJTZAW_4N2Vs7dy2rjuvaF31WYJ7SadY185MmSBVAKhfMDhbOdDT-o6iAdK/h1000-e7/Cosplayer-Kenken-Gold-Photobook-52-4kUp-012.webp"
 ---

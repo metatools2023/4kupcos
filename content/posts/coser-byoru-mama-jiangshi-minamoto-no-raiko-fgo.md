@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 40
 image: "https://lh5.ggpht.com/-PfKB9tnGwWY/YtglkwcsX2I/AAAAAAAAU6w/bA5TeNEpxccOyy2-Xs7yskLbUkPkDw0_wCNcBGAsYHQ/h1000-e7/Coser-Byoru-Mama-Jiangshi-Minamoto-no-Raiko-FGO-4kUp-001.jpg"
 ---

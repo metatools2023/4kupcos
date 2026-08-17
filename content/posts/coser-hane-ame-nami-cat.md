@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane"
+tags:
+  - "Hane"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhM1LN94PqbWYRhCpArzzhgOXSeUahkiRlM9dMI8SNGH0ZLfCPUYQDqcHDlo-d15hxwn8OV50NG9yRvsm6SSlbr_R3xjWy7k8mw1ia0GEYjM3whDmUEmq1J46Ybo-6F3adAOH5F9LSug4MLMtruFsvmEAuGee1OsuquQjcnTvkvwjAh49Qlt7sOHelQUzg/h1000-e7/Cosplayer-Hane-Ame-Nami-Cat-25-4kUp-001.webp"
 ---

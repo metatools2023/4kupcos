@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 34
 image: "https://lh5.ggpht.com/-ELCp_JmsFhU/ZT2Ot7puZBI/AAAAAAAAbfc/oEz_bja8DYUwwkoKsuinIT_vH-xOaKNZACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.096-Shimoe-Koharu-4kUp-001.webp"
 ---

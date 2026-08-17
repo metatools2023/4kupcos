@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 13
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkMcp-f6hJkqv_mOgDftc-99Z_HwNkCqS7VotbN3vKv8p3e7N2KiXsV4lG3bY974n6gCvFdN_6XhKPyhxDzBVs2zfV5SS4JAZ_RJH0n7kM8x6DW8C34UYa_VdC4c_vGp_SbCfAQVhOE2XGj6zxH-LJhwPUqWeVORMC0n8GxG-RzqimZZtx2mnE1_4ewPjk/h1000-e7/Coser-PingPing-Yae-Sakura-Wedding-Dress-14-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 83
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDDmfrHAukI5NvfVgp-csVYdJhfDJdSPYMDAE2SbatAplthFQP_vJEWChpoe_Q3_O0E1NkjmmQYdg3FoPgzbSU6y4stKtJZv-nEMrB2pCyWlAD8t1nEopOCpVq134uOBWXRvwjrImUTukD0ECDP2obGUrS9Z5SXwGRW66pS0CNJRS85ZmIJH3at7CR2HU/h1000-e7/Coser-Byoru-Shizuka-Mikazuki-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Month-月一"
+tags:
+  - "Month-月一"
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0W4CSU9g8POHNImPyJuR6RB0GlVCJXVCk4oUUV7vqnwmiPxevb1lM_zXkue3T08PXwO8vfvyXU2OknXRL2NR9a0DW_pBV6qWfNJvEbdFns3B3JrU9cqp6FCpfRDROgaAWnKxm4ToetkO5tJg3r-FUhPxdYlAk-m3adYJgdvt0ErHNrqNGqjZURIlIuYg/h1000-e7/Cosplayer-Month-1st-of-the-Shiba-county-cat-12-4kUp-107.webp"
 ---

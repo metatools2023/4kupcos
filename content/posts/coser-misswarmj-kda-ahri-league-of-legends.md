@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "MissWarmJ"
+tags:
+  - "MissWarmJ"
 photos: 40
 image: "https://lh5.ggpht.com/-WzDm6ZAfRB0/Ynw8f1F10UI/AAAAAAAADVg/4jV3m9cDBEc9y-kz2YVfYcVTiakMqU_4QCNcBGAsYHQ/h1000-e7/Coser-MissWarmJ-KDA-Ahri-League-of-Legends-4kUp-001.jpg"
 ---

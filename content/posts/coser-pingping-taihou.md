@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBb0cYJmq4RWnic_pZdSuRAw1fPuy9Z4jGbomA1gmgk5cAVZgePJmnlQu4rLL9mPSuah6B2DpCodA2pXcKmcycf2bwdY0Xy5CcgMtdHrcQgWr6wihZlT-HquZj8n16nuzzwh68tQH-vD5Ye0hdwpM_RDz1ugw-QnaHANaGRTTPcG8O9rCCAkApv1A_1RZN/h1000-e7/Coser-PingPing-Taihou-41-4kUp-002.webp"
 ---

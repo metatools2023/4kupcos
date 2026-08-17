@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "51酱"
+tags:
+  - "51酱"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW1XsKjoARLuzY22nszRd7i8nm6sFdSS8okQD-nr_WFGYScR7998PdClTOLhgOtx1L5Nj1PCrFVkrZm8Jqr9d7eU544JuBcMWHUaI1DuNfaq61CDdtqouPPeHW4Q0V93pSIZlhUBnND1uNnW8AwNx25kWAdAztb4kjBfjrFwEvOFlbXb_ZQ2lH3QG12A/h1000-e7/Cosplay-51-Sauce-Azur-Blue-Route-Vicious-24-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Korean"
 models:
   - "Sameki"
+tags:
+  - "Sameki"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlJ44yEUqe0GTaGbsi9bScS0zGYKLP-Hc5fvYlm4xWkvI2nY8nrizF786hCHhRjPjlY1_8nqMDAt6w23vPZmdgwiPxJ_l4AUtEQT529xn_7HR9LvemwLvLeZr4DIxsixY8-R3qcTP3zUT6caSVWcAn4jlu2xHWLMdlzr-t7v7eGE288E3774aeVUCoV6Q/h1000-e7/Coser-Sameki-63-4kUp-004.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 18
 image: "https://lh5.ggpht.com/-37rgONiExYs/ZV_Vu15XsxI/AAAAAAABAf8/qAVeGie4d2A0KtwYsRWDHIhAPq-AyYvEQCNcBGAsYHQ/h1000-e7/Coser-Rinka-ver.-Fate-kaleid-liner-4kUp-001.webp"
 ---

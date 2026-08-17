@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 99
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0vlFv3KdBwtf-qDc82EbO4LY1v8yGiXe0BVslUvDD5MvIbRoZW139z2jUZhvshxMfWHlFP-x-3VOpM6vOAMpLaCal3hSpcKVg8pKrJ9lNLsFDo4vWJm5Kl4uatJCMRd3yRUX6W2GUGYZ5DTt6J2kDAMgE-WZyM7NDDQAMst-KEjFGYSHLOLy2fLAbifA/h1000-e7/Coser-UmekoJ-Yoruichi-Shihin-103-4kUp-002.webp"
 ---

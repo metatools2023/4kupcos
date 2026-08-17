@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ6NB1WMXug8CANvv999yBR2HsLyFVSQa6y7qnCUnRm-6gb0sWClzf88_zJwBDLWucbkutVnnjRvS7blV_xrIq-HejWbwuNQxdjEnADx193OiJyRIsGepi4LVVvMPi-0BFpFcnCmt1yQava3Kgxny-brXesYXVFu9xXeLbkZp1feJpO-du56IoJ1YyjEc/h1000-e7/Sayo-Momo-Ronova-45-4kUp-001.webp"
 ---

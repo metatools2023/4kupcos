@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "lunananya"
+tags:
+  - "lunananya"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHea9JVJ5mpfYGw3rxznUfszIHbbnTYzpTL1XrRolDWw_WcXjK80FC5DFqQ7SjpuWPAiWtH0L-wMNiCc6lxo1HJcxH7n0umjJy9ljCiR0Oy-EkNZidJ1feklE6U0G7H1umU31EPqYQg6FJVTcIPFkDyqNlOklUsydEa3FHPnuMqVt5pefka9XCTiuVLnc/h1000-e7/Coser-lunananya-20-4kUp-001.webp"
 ---

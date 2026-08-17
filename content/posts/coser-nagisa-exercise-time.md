@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "NAGISA魔物喵"
+tags:
+  - "NAGISA魔物喵"
 photos: 19
 image: "https://lh5.ggpht.com/-8uooljKZBts/ZH4oOzFfxGI/AAAAAAAAE2g/yNgUctPRZb8DpGK-lSxiNxqTvjSI1yL7ACNcBGAsYHQ/h1000-e7/Coser-NAGISA-Exercise-Time-4kUp-001.webp"
 ---

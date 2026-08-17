@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "钛合金TiTi"
+tags:
+  - "钛合金TiTi"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHWnrLpGECciI6AVqkCImwszO8xM0_xPAl9MWPixCldQiiRoBFy_8Mhap-iI05eVKYftZOzWqfhJ-D8O_UF1e_lHQ06Joa3BFXhkBmJI9C5jsT7mwQ-HE8qpEYMxNH8IHDoxWOY0Pl_072eZMkjX1qdx-MpTqibbkgu2wI1JjtF_d9m0-BI6FoPUKRsHDW/h1000-e7/Cosplayer-Titanium-alloy-TiTi-Yinglili-corset-15-4kUp-001.webp"
 ---

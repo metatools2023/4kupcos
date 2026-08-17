@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Atsuki (あつき)"
+tags:
+  - "Atsuki"
 photos: 351
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimMeTKgXZ1vdoVH1AY-aXdvvH7H_OM_50r9fqItMsgKDeKWPjVFm7GD8Y6XRBHhGoQDQGueyei-fSnjmbF_pZCLEK40ia1q9tfeFdYOdpGzP2GeWSJtMSwWeMTq0SKCOaJlOglo5wcOBenlKBk3Yta4wPW3wRepXLHRRiXpcB0zh9e-v13Uq0175e9EyWc/h1000-e7/Coser-Atsuki-Syo-Genshin-Impact-352-4kUp-033.webp"
 ---

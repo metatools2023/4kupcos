@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 18
 image: "https://lh5.ggpht.com/-7UPyVwWhprk/ZZXjcNkqt6I/AAAAAAAAC5E/KW60vY_aJRwsJyj_7VEX27nXlMR-xnj0QCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Neko-Uniform-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "海克斯科技"
+tags:
+  - "海克斯科技"
 photos: 80
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4mHlkiXvvzPoeXWBgKUkWaOrdKl-DAnRwJb8ffViYJY48-OE4w-446XKeqKipaw8L0wWP-x32_n49tJKz9Rkf6_4qcGk2sflAeVlAhDM5HUFXE1fzEafFbdza3hpjRsRioGkdAcTZc7nAwH7TZI3p502n8Ehz_KDh7iVRYnjsge8JTWmJKtF0BWSEfMs/h1000-e7/Coser-Hai-ke-si-ke-ji-80-4kUp-001.webp"
 ---

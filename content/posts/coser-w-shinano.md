@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w Shinano"
+tags:
+  - "小仓千代w"
 photos: 21
 image: "https://lh5.ggpht.com/-Ql3kMfZCdDk/ZY3-pYbnGaI/AAAAAAABt3Y/x-GUViO9dxEZXinZG3VeVRSxSg5AaVn7QCNcBGAsYHQ/h1000-e7/Coser-w-Shinano-4kUp-001.webp"
 ---

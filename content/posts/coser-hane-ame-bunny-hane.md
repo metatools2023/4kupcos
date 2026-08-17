@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane"
+tags:
+  - "Hane"
 photos: 44
 image: "https://lh5.ggpht.com/-KIoMNqrD_N0/ZDSTmww0w4I/AAAAAAAAeKs/WA9oTNDwNr8Y-4kTdl5jmT3dm-qVVSZqQCNcBGAsYHQ/h1000-e7/Coser-Hane-Ame-Bunny-Hane-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8_QEjEYqA6AKmdpgWr0_RDcycYOGWpDZWzrewSkC62aL3o1XMe3tZviDQjNeHqvIQIkXbrhxeJHIipMybzz0stFmSaQCFTuSi6162APpdsXxjA8_y3mfiVr0wmaOlvHZhWoFMI1ZLDK7HZo2Fvkg6FC1cRj-4WVPNnz6qUDp_tlqNhFed1cdlupswS7Xv/h1000-e7/Cosplayer-Mochi-is-delicious-Domestic-rabbit-in-snow-season-48-4kUp-002.webp"
 ---

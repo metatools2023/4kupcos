@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvov7v7iOSlWhH_eR-V-R9kMm6T_mVrkABnZCPd6spgIeqBLb_8TrGSYKnr6hAo56NXSdI2QgT8D1eLMUOmXr6p7OvQtJwzRY0iCCgL3-wo_vhrxYJQzfTkLOZ2C_e_M3XK0336WgvzYH7oHIqT1lw6dZCvcOscD2IVvBi6lWuD6yUi5ydt0R8x_A1IaU/h1000-e7/Cosplayer-PuyPuy-chainsaw-man-Lesse-33-4kUp-001.webp"
 ---

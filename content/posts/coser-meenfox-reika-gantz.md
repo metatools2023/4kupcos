@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Meenfox"
+tags:
+  - "MeenFox"
 photos: 10
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj04EcpTzJgRt1aDN4lFDyPrqpqGUxZG9SPoTVWho47jBh5GEeIYZnSb47G0bZEB2IMu6Za1KN9R5YcOtnykO_d6peQFsYjDQ9a8LbxikLdwZX-Yif5zyw-vLoIW9CpEGppx5IKnvD7rXCm8ydu5CYicXBEtM0MetpRunexTtARBXYRIknRuDz0Lz9jPjM/h1000-e7/Coser-MeenFox-Reika-Gantz-10-4kUp-001.webp"
 ---

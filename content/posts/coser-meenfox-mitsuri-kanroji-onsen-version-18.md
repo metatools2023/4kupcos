@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Meenfox"
+tags:
+  - "MeenFox"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMa87dpOwPXBXKFZG-m1bh4vKZpUTraNyyLgXk9fas9BXPcijowca-t-TTnu8Zd5F5WiPJgPPA4VDOF2xfby0pPHZO6Grl4XxWSd4LolnKRO8Yn0I4royVbUWg1wB0COnBYPcIMtxSpyfy9qRfvQHpBx8SIuj2Zu2fawjIxct-TdGROx05HC3ui0LGQAU/h1000-e7/Coser-MeenFox-Mitsuri-Kanroji-Onsen-Version-18-36-4kUp-001.webp"
 ---

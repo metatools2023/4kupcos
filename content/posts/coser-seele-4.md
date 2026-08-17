@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Seele麦麦"
+tags:
+  - "Seele麦麦"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWA3mFfowlawDlTxTvCbER_ZvrTv19h3JPaQ9Yiqjr2uL-58Zi6ke_W0vE-btEYjVEBksZGcbqxvGkVqUhm7gQ7m7zABIL6wfjivnTIn_R3gT3ntZyj5mR9MDfjcCoyVMZO6jZBjVc6mwpSbhVea0upalfwSExK_VkWOpwvcQuUo9AE7_d2jUbK1C6lNJl/h1000-e7/Cosplayer-Seele-Mai-Rem-Christmas-story-36-4kUp-001.webp"
 ---

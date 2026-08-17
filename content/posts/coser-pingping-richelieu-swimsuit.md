@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkehbdrpMAgxSHXeOpSD_dpfu_zjDdSgx20oBUrltybvBOc52WEIzOaJXhDIpjeB1FbqGdIZi1W6x9UyKQnwG-otmak-Kptc394YamEy1GitBH6NeHevVnrhQOyU6xB2ovBF52QHQS_XClB021Zf6oPZUEfGZaRWykRkhIay4Ntga-zmTUNU_xFmDx2sF9/h1000-e7/Coser-PingPing-Richelieu-Swimsuit-16-4kUp-001.webp"
 ---

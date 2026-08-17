@@ -10,6 +10,8 @@ categories:
 models:
   - "Ely_eee (ElyEE子)"
   - "Kazami Yuuka"
+tags:
+  - "Ely_eee"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLpf4H2nZ3P-jvGoVnbbhLmmfe4GMgcTuaoHoKTBYJnXkmy9Iu4ajWvhBde6APc7oHvTTT4CMtSsUye4BuDQHNLY4JcMnG135KQHA_Cg6DvrMDElJwgZ3Vn3DKzbOULpOiy_0R9iNQj4BN7DdpJQJw5MyeQgbV-IW3WWhppQGP77xjSds5mzjJe9X5OD0/h1000-e7/Coser-Ely-eee-ElyEE-Kazami-Yuuka-39-4kUp-001.webp"
 ---

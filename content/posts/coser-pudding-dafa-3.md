@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "布丁大法 (Pudding Dafa)"
+tags:
+  - "布丁大法"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC725puJ95OKiV9mDHMGMWErOabFQl4POYE5TGfBvgpYjeH1GtCqPWuPSR7jH5q6JLuyYh5NC095mpmImC8fDpQqcgSkbNPhuG1uEEzeCf-bCkDDISlc6ZmBNAd2Y8PRUbM7dFHnoyCDUItSIO4tWoOheerdaQo2U1AlnJ6UZF2XKJxLJhb7T9T9fe9g/h1000-e7/Cosplay-Pudding-Dafa-Christmas-Red-Velvet-58-4kUp-005.webp"
 ---

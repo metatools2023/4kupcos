@@ -11,6 +11,8 @@ models:
   - "沖田凜花Rinka"
   - "鈴鈴Yakira"
   - "鬼姬Oni Hime"
+tags:
+  - "沖田凜花Rinka"
 photos: 19
 image: "https://lh5.ggpht.com/-AhWBnJJbxAo/ZW001wDXLAI/AAAAAAABMGc/nMS9DrUlgygNpJQURivI1eOcgMnwymQLgCNcBGAsYHQ/h1000-e7/Coser-Rinka-and-Yakira-and-Oni-Hime-Wedding-Bikini-ver.-Fate-kaleid-liner-4kUp-001.webp"
 ---

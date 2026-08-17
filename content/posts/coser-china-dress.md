@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "くろてぃあ (くろ)"
+tags:
+  - "くろてぃあ"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiie_1CEbPIB8IVAGfrNvc7DODEaZKYHoXvRDErxO_T4K6FTq_F_XDy8rS-u4T1qo67phRU8k7QuqwgbsRMBZbXFAUC-C_9_vamDH2REG355zf7B970dyfg44k1Q27i6YhpxLa1jBfbLm7A5yID9poxl-PBUCLiolsgjDxJKyVLS4fTFEn07f-Cdi8sQufA/h1000-e7/Cosplayer-Kurotia-black-CHINA-DRESS-50-4kUp-002.webp"
 ---

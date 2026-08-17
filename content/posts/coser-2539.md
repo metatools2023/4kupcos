@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "宫本桜"
+tags:
+  - "宫本桜"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwLjcEPTsh9eyWBhNFTlKBISTLZtXT_sNGIbolkFdVSHW-vj_riR3UtJpxuq0ySR40eR36faTL6RU2T2uQZPZ5EBeXm-f42ppL9bsvOsP5m28xc47spxZWxiai-ml7G04LWY15whYZVmOMdPZ-_U2nZ7YHQzJD54wPNvdFAmJMWipUDW_eGMyQwunXyJg/h1000-e7/Cosplayer-Sakura-Miyamoto-azur-lane-Shinano-Touya-Yatsuki-20-4kUp-115.webp"
 ---

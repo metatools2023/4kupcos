@@ -11,6 +11,8 @@ models:
   - "Pyon"
   - "Sayo Momo"
   - "ZinieQ"
+tags:
+  - "Sayo"
 photos: 96
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzSKdZJ6yssfckbbdmAeu-895TX47Pf0Wh0dI0T4KfQTLWS0X3FF9XgWOH5A3IHETjIqCmrtemf0YwBkK2PQ01QF_4-faxiZWNiEqoHRbTI0tVJpX5-dVMbColwsRsnddx6QGbyoKH4cNY9jY3fEDPWepoCdkGCxXLLFWDEKe_4uD4rBDX_oKgmq5gr4qz/h1000-e7/Cosplayer-Sayo-Momo-Pyon-ZinieQ-Takeaway-bunny-girl-96-4kUp-003.webp"
 ---

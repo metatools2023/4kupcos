@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 26
 image: "https://lh5.ggpht.com/-6HWtz3pwwn0/ZAurpHe6c_I/AAAAAAAAGXQ/gYCeJlg-MO8OVUpVSo72qYsNjE--HAqSgCNcBGAsYHQ/h1000-e7/Coser-26-4kUp-001.webp"
 ---

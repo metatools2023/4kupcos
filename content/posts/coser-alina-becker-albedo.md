@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Alina"
+tags:
+  - "Alina"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhENRyPrjhyphenhyphenbAzF3eOF9K3ADcciBb3yREQUAvUU_vt9SIJsd8-6SilYoH4YkdwTTvfS94c3UtYT6_v2lqt0nt2WmyqbzT-Ra1hjygvZHx3pYqHkskRzy8Kli-qg13sUnyDJ4uR2YiVYv54KupkZmJ8xcXtEFwTxt_Ge_FuViVI9Go4Ebl9PeQuhtDATkKBz/h1000-e7/Cosplayer-Alina-Becker-Albedo-26-4kUp-001.webp"
 ---

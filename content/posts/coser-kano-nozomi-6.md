@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Kano Nozomi (鹿野希)"
+tags:
+  - "Kano"
 photos: 82
 image: "https://lh5.ggpht.com/-F2I--j7t2Xc/ZUgdUpo3s5I/AAAAAAAAlt8/vPtFKwU3J3AuEJPAs3Rh6yEpQFW-IdfaQCNcBGAsYHQ/h1000-e7/Coser-Kano-Nozomi-4kUp-001.webp"
 ---

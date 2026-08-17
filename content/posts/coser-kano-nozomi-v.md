@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Kano Nozomi (鹿野希)"
+tags:
+  - "Kano"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXkiAOzqMLvT1iPZWnCIteYP2clc0jihYBIiliTC3LXG7WyM_nqPT_c5GjvMHK1GbSRWImP0Ig4rp5F-rDJnAqGX0VT8RyRQJcjo-4gOOgxQ8MW709n2gbyt2WkNwHgXuRc8o8LI64Z-r_bgPKGR6m3oq23QVo9-lSOzpw79kUOKS6mpS4cjw25klUqGWm/h1000-e7/Cosplay-Kano-Nozomi-Kanoki-V-font-customization-31-4kUp-001.webp"
 ---

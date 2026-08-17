@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 58
 image: "https://lh5.ggpht.com/-61hi_K4sQbo/ZhbAEBjA1pI/AAAAAAAAICU/hhSGxy82V6YS1SlrDluKgaBQDPY48CboACNcBGAsYHQ/h1000-e7/Coser-Byoru-Furina-and-Honkai-Star-Rail-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "樱落酱w"
+tags:
+  - "樱落酱w"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQ2ZzThlMjKrdDegTcqyp-WlL9wzcOPFRuxWmCPW0ct6WZfLPwyyxtImEukV-tbPZl5_CUHtUj5HBruD2DewgtTMQeYZry2KfA4xUMilF5ANf0OWYvKDN54thDDcizoaEkBWc539mZl_iUNS7ZTDEbuM2hQ1B6EysLAc_2-ZygiaZHQqCRcCnIIqS6O4/h1000-e7/Cosplayer-Sakura-chan-w-Ming-Chao-Cantrella-28-4kUp-003.webp"
 ---

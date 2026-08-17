@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "花铃"
+tags:
+  - "花铃"
 photos: 71
 image: "https://lh5.ggpht.com/-cYRwXMh726E/ZX4zDO4NLbI/AAAAAAABeK8/5gJ49p_NvXUmpiqaaKZ71cx1MbfOdom8ACNcBGAsYHQ/h1000-e7/Coser-Kurumineko-4kUp-001.webp"
 ---

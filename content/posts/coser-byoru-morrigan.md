@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 33
 image: "https://lh5.ggpht.com/-OU5M5jodSOI/Y6CPmMcGAqI/AAAAAAAAEDI/Nz4mvHgfDtoLrxNHCZic5LHZ3ISAJD-8QCNcBGAsYHQ/h1000-e7/Coser-Byoru-Morrigan-4kUp-001.webp"
 ---

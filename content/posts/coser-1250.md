@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿半今天很开心"
+tags:
+  - "阿半今天很开心"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXCMhzQVIgW7R2SOT2-I6kyrcRN8hL1Fka5L0rONwM1hNtLWoDoQuYmTjftYk8GZaTFMrYMwgZDCE1qOIAGvCYQ2uE01Lc1-3qE4smFpQTIoHLcPQ-dsFFh4QOryyfKeG4h6J6Cr-paWYlvrzwKngeE9c0tzS2hvI0JbFNPduoS7yi8wUzgGM7qd9U0V-p/h1000-e7/Cosplayer-Ah-Ban-is-very-happy-today-Mid-autumn-moonlight-20-4kUp-001.webp"
 ---

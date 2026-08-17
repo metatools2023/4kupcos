@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-S3bU9AVkI5IpPv9a6UlJdrmZGXPt9cj42qGptAQTMvTL7V-C67x9uwexZkXqI_knP3SC6hShI1L7qRmyBL7aBvESZNhSF4VZYjKVb7O_K1fcGJ2pqo-uVoPOzexFL1IxKPHQjBTdez47unBfLUQP-knX5KZJAPKvJxgjXUZaeovQQ-iBDBlFz_naOhUi/h1000-e7/Cosplay-Tao-Meow-His-Highness-Princess-Fengling-39-4kUp-001.webp"
 ---

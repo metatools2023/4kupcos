@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Imyuiichann"
+tags:
+  - "Imyuiichann"
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwbKzC5PCv1sO1dnX1X2L8q_zky6Jbx7QKMOwcX9ORhoLMHA6LW9iTAIwpTpAjyShTclOruXWYpj_8mq7HuPP99gw-uhGP1cwK_7-ZeHji_GwRVRp71ctM7LYHwrWBFenLe69JERGNTgLufISyWfBcRQR5JHd533WYt6QUC5wwL6BtxJm2vxrfbaJn9r4/h1000-e7/Cosplay-Imyuiichan-Bruise-12-4kUp-001.webp"
 ---

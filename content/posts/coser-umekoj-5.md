@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 111
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZRdLF19MC6uSqoNP_5mBlMhwt2F9rZsJofspc2zL_qHSrgbqiQaeuZr_gtB7CI_2KV9hPAhU2msfMauafPX6OJ6e-TowF3RfaaCXeF1sLbfC71HQ49y4Tb4B3NnaEpQ5fJSJJJjaqCD0pXXcJ5CznNECo36xjFVEQYcDoUfUUJ06Rr0wOhsMrlFuRo0/h1000-e7/Coser-UmekoJ-117-4kUp-001.webp"
 ---

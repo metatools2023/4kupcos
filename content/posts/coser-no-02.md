@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "七海抹茶酱"
+tags:
+  - "七海抹茶酱"
 photos: 16
 image: "https://lh5.ggpht.com/-b27hcQozJjw/ZG-JuzsqlyI/AAAAAAAARW8/Bg4o-GTQdbIIP2TuAWb1D1yEXUGrXfOqgCNcBGAsYHQ/h1000-e7/Coser-No.02-4kUp-001.webp"
 ---

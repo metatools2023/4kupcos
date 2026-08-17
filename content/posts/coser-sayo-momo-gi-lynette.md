@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 72
 image: "https://lh5.ggpht.com/-mRObT2Rul6Y/ZXeO8GQheNI/AAAAAAABWvE/awPcWumcpkkGy4EjOMqYmxaFqXXd2lNkgCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-GI-Lynette-4kUp-001.webp"
 ---

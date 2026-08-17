@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 37
 image: "https://lh5.ggpht.com/-J92BlKWWrOc/ZOqOCsaHp6I/AAAAAAAAbzU/GnOrhfQVEZAsr3wfsV8gzxP9Y6RyCAm3ACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.066-Tomoe-Gozen-Summer-4kUp-001.webp"
 ---

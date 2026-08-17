@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 75
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIblCxXoYRuccWy7wIzJKtcWaXZ3RV7-J8tUsnMhyphenhyphen1zY8Nd_IftwPNUC4gomgrIulfrPL8FBMvs0WgoiHHNS-ye-HC650oreXuByoYRXQZAr0mRSYn_Oi2PIzfHFFxrP7w8Elyo6Y_YXyzsdhAHj29g87Om6nWqVKmG2leSJ8ITHtlxHLgCSpvfkzoO44/h1000-e7/Coser-Candy-Ball-Neko-Maid-75-4kUp-004.webp"
 ---

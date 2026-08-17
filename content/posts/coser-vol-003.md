@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小女巫露娜"
+tags:
+  - "小女巫露娜"
 photos: 37
 image: "https://lh5.ggpht.com/-cmyr_sjfyro/Yktlu7QY1HI/AAAAAAAAVrY/z3aQAVJK7wIpz3g6saLe5bt4qbYvtgm_gCNcBGAsYHQ/h1000-e7/220207-Coser-luna77-003-4kUp-001.jpg"
 ---

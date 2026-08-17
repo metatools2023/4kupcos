@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 54
 image: "https://lh5.ggpht.com/-TvsLnk6DLB8/Y92IaswMXUI/AAAAAAAACSI/kehHOehVO54xBE5h0-_6zXBaapulU4_CQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Jeanne-DArc-4kUp-001.webp"
 ---

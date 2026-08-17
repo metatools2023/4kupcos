@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "是一只废喵了"
+tags:
+  - "是一只废喵了"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC34nt_IwGw7IBZkIjaMeA2Tg7h6b9sb5wt4L9we_7v4H8BELbrIdJAYQpAVCM71SD278N7baQU9ZKSpTmIuI7sXd2z-SOcJj0d3LVqZaLCECRpq9BC2f1dLmmkmyIsPLT5R5VsihUU_Vzu5qnMqLQADZ7c5KRggiZrMrHq6ZQssIAq-vpVuDIQ84Atw8/h1000-e7/Coser-Shi-yi-zhi-fei-miao-le-46-4kUp-001.webp"
 ---

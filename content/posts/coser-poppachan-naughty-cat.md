@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 20
 image: "https://lh5.ggpht.com/-XkqcaLfGp7o/ZkUzdwaZvGI/AAAAAAAAlm0/f_MqSYzG4ScZhPa9COAHfYQZ5JLqiWJHACNcBGAsYHQ/h1000-e7/Coser-PoppaChan-Naughty-Cat-4kUp-001.webp"
 ---

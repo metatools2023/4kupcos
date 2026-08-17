@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "CatDemon喵崽"
+tags:
+  - "CatDemon喵崽"
 photos: 111
 image: "https://lh5.ggpht.com/-2KREhcAbDLQ/Zh0_7frkGYI/AAAAAAAANGg/ECM8yANSkbUu9_aNbAzhQ3RqVqnNx-PXwCNcBGAsYHQ/h1000-e7/Coser-CatDemon-YOIMIYA-4kUp-001.webp"
 ---

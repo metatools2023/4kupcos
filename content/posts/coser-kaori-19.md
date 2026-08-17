@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNkg8O4aca5nAwx8hEMrNXUdTZrz5R920nKiXywD_ZM4rc-QwfzlPYTANk6RLisIEQoFxQFeS4bcu9p629BhnkqFc3S8v3bUO2jhPxTZru4Sgq3pjViSx3V_Bncv1-6B42lF2fk2lMtVg5f-jgfA3djG_26jYO04BzTI3-mxS86YED9jUN4hEX54d4X2dm/h1000-e7/Coser-Ah-XunkaOri-Black-beast-elf-61-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "rioko凉凉子"
+tags:
+  - "rioko凉凉子"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0N-CMtRzEwdIqdfm9UXL18BkSsU9VqX30y1k_NZ6D1UQlMaqxWKfg9vgVsbDxk8muD1zkmdwrLpJCLaXS5duq18TLlMYcKe9wll2dbDPMoTP4urskTkIPbOVpbYyXa6dKk9emGhK30zhJmNeB_ipEm1-SfOpsymUSAgkwAHTbwLmKa2oLDLdK65-Muu_C/h1000-e7/Cosplay-rioko-Liang-Ryoko-The-idiot-Mogador-65-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "萌芽儿o0"
+tags:
+  - "萌芽儿o0"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOyyZszMpvawmGOdeLfZPr1R3HfyeI8jS0IfKcrQ06q6VdA85sMHaaX_mh62fNg1k6P2ZJAYIBPZo4wZvo2OFQAtqVyutVuQXR3gEOGhO2XwH0FqLLEEipUkRZRj7-2B7KC5fLRRTchDKHsJsvzYDAlzFy2D66dqxWLmCzUO_Q9q1cLcFfv267tH9TdGtz/h1000-e7/Cosplayer-sprout-o0-smoke-21-4kUp-114.webp"
 ---

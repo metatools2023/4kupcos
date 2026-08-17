@@ -10,6 +10,8 @@ categories:
 models:
   - "Azami"
   - "Sally"
+tags:
+  - "Azami"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVaATUjnTtthLpRTQjI7ndU2HqarlHOZJAr8g6P5yvd-hPR90-4DZLhhtShioSl73UcXyxuWOxLHElDaXZjV0gW5kSAOeTp_5SUY3CWAh1fO1rllW_QK06i1rMLe4C8jATBsnVgZ5kQNksdmANtDGWGqgv6Cmsx1AJDz5OAl1xWSheQlUutVl-_LR8KNI/h1000-e7/Coser-Azami-and-Sally-Dorasnow-White-Bunny-Girl-35-4kUp-001.webp"
 ---

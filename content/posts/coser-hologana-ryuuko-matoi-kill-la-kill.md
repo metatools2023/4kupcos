@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hologana Ryuuko Matoi (KILL la KILL)"
+tags:
+  - "Hologana"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguQ2OBZMHvgULeBvdLok7vMnOkiajOxPksmOY3HtXFDPg_6r0b0WiFqKR9NWD2zvqOqkDyWlypVX2lEj_Ja9W-gcZSW7EVXXjeLZYjXX1lQG9WvMBanV4qzlU0ACdfRTtAfD7I5noZYTtqjysIJrOfOUOJXeJGxZqdAEFbYrQw1Tgchjyoen1d4HVwI9YE/h1000-e7/Cosplayer-Hologana-Ryuuko-Matoi-KILL-la-28-4kUp-001.webp"
 ---

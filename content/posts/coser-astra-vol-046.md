@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴astra (雪晴嘟嘟)"
+tags:
+  - "雪晴Astra"
 photos: 62
 image: "https://lh5.ggpht.com/-zbyyaSv74qM/ZUrZYPkiVFI/AAAAAAAAodg/5DDO7tL4UT4-Zb5zpndFJTiSMe-EOqxhACNcBGAsYHQ/h1000-e7/Coser-Yuki-Astra-046-4kUp-001.webp"
 ---

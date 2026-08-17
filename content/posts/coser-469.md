@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 31
 image: "https://lh5.ggpht.com/-IFU7u7UfyDs/ZcAAvIpP2ZI/AAAAAAAAhFM/gKvVMWLKdakLqKqUp--zg5_tOwvA5e_ZQCNcBGAsYHQ/h1000-e7/Bimilstory-Hayun-Vol.01-Debut-Flower-in-Blossom-Part-1-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼Aqua T2 Reze (Chainsaw Man)"
+tags:
+  - "水淼Aqua"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrm9mZiJs4DrrCHy1_aM6IJ89cRBV02cbd41boxZdEHu2t5i54T1-C_NWEy2Wl7tlmgw5Ra3jHT1Ua-8pghwAqntb8jlwLTP8_DKviElZFoIz_Z9wXrPtTmsRhEMsycQtU8aJ2n3H2hd8Q8gM8WEQkgY8VIgDNrzK52n-DunuEpFxzhAWMdtHpp456A0d6/h1000-e7/Cosplayer-shuimiao-Aqua-T2-Reze-Chainsaw-Man-41-4kUp-001.webp"
 ---

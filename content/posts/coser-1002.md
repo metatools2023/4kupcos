@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5IweADqOSZObuDcU-kqXcmzP_dlp5wTm95jwOTxXmSee9lgWRmsjlnhTPc39jI7J1xcMK3AfAMUmrKHKlRF176r5hFbwCGQ8FYLbPl2LLq9MdTJdwi01MBc_XIzHPztIiboZyTVsUP-SOl30QXEbxQHt-ZiGFljB8NZk4_ko4bteFicad_ahK6q6w0g/h1000-e7/Cosplay-Shimizu-Yuno-Boss-Lunch-Lounge-58-4kUp-008.webp"
 ---

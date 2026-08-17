@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜井宁宁"
+tags:
+  - "桜井宁宁"
 photos: 14
 image: "https://lh5.ggpht.com/--aQsedzK5Po/ZgM_hRh_HwI/AAAAAAABCcU/9wWcDttryJYxtqci1jK2yvpm_rHTxx9ZwCNcBGAsYHQ/h1000-e7/Coser-Cherry-neko-4kUp-001.webp"
 ---

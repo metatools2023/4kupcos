@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 66
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDVc3XTabdxesdyMC9uvMguocCZihD2DbuLdhYb9ky4q5wwQf2jubz3mm3n3w7Ghk-Kj2lMmAxZKMzbZLI14OjEEBYdbLf337uV8Lk5laB1860rO4pz5uKrA1j13fj4zhkC2k1lmngbwnyrfeiRwRdlAQeb5eCZW0OzmT9r77v1KlnVc2NQUksxhLgju4N/h1000-e7/Coser-Byoru-Miia-Monster-Musume-66-4kUp-002.webp"
 ---

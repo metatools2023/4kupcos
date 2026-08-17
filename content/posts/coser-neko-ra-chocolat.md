@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "习呆呆 NEKO"
+tags:
+  - "习呆呆"
 photos: 34
 image: "https://lh5.ggpht.com/-e2DsGECmMVI/ZQY-ngyMd9I/AAAAAAAAQZU/JaJcHx8TnPQVu1_cz0UdYOkYh2NECcCqwCNcBGAsYHQ/h1000-e7/Coser-Misa-NEKO-RA-Chocolat-4kUp-001.webp"
 ---

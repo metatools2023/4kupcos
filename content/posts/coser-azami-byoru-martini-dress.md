@@ -10,6 +10,8 @@ categories:
 models:
   - "Azami"
   - "Byoru"
+tags:
+  - "Azami"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpM79qGxGAjVNnQ5j7XxVAZLih62Bwj0WrWyP6LHtLaUw8rAtfWu9niqpzop8pVci3w4Etw33iylar6W1VfTZWHSYZD3sb3y1pDZF_j4dH_2DzPeI27sGgsACrcq-c-FUcYq8W9UtWxI79lw_UiFB1xu612Dg7IJ2LjkjbhVy4rnpcgmegJgkEG2eULKo/h1000-e7/Coser-Azami-and-Byoru-Martini-Dress-and-18-4kUp-001.webp"
 ---

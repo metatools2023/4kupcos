@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 22
 image: "https://lh5.ggpht.com/-F_n7QiwCi2g/ZJyjmPxpx7I/AAAAAAAAa2w/ZhSQUGpBBPctfSB1R2HPHVVeDF_kP1RMgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Quiet-Phoneset-4kUp-001.webp"
 ---

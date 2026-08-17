@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "三無人型"
+tags:
+  - "三無人型"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPxW24M-zdy15r4Jvc99P6k9HXn83SToc4532oyin2-UO0J0dUg0ffsMTuutaRdxnMFSuqY08d_uf66caiIvf8-xqcy8lBCFAb0yLZ9NFCME5LgPGP1rpx4UGTwsS_GbCBfOr1HtFt2w9SrG92Z_viAB-z7GZdgm-GzcTGBDZYYLI-xLyhXD420jVpJgc/h1000-e7/Cosplayer-san-wu-ren-xing-Blue-Archive-Silver-mirror-Iori-fanfic-little-devil-38-4kUp-106.webp"
 ---

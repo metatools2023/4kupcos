@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg45JDn76IXi0Ca6UBOWpWVYOm-bReijYJ-MGmomOXVlx__e_dPuSuZQexONHLFTuO0A7aYuwk05UeLS0ESTzLhWQE5dAIrVHH4kIatJA6vKRMJ1i4KgRPFxRAjxsMLY2esfZpI6Z8hyphenhyphenupaVqcTbNVSeFDdSR7xTyPucKRdlLNhTsEWKCaFrBrqK_DvUoFX/h1000-e7/Cosplayer-UmekoJ-Amo-Empool-Gachiakuta-Wasted-Abyss-War-Ghost-Empur-45-4kUp-003.webp"
 ---

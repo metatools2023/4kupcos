@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo"
+tags:
+  - "Sayo"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxqj4XlkvwBWeh9hm7hJPuoW7pg3JaXRtlj3qJEHxim7xDnLpau-Jjtaz_yN8jbTZRL1Aq4u0KkRB1hywOYcHoBxYeAnkj6Ej4k5sG4ruACQJTVPaPcsjRUvqIh_93RxybX-8F4HNMfY_KeHFskpOkK7Uxz93O2S9kBrtWJm8z8TDTmp5gh3oXsku1OlE/h1000-e7/Cosplay-to-you-momo-zani-52-4kUp-002.webp"
 ---

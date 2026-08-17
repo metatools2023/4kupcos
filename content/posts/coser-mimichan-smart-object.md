@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mimichan"
+tags:
+  - "Mimichan"
 photos: 14
 image: "https://lh5.ggpht.com/-VwKwG-padFk/ZPpU8h4ZjSI/AAAAAAAAGcQ/PMCqip5dkL0tjd6OugSbL7zu7Mc_5bnRgCNcBGAsYHQ/h1000-e7/Coser-Mimichan-Smart-Object-4kUp-001.webp"
 ---

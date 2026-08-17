@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Yura (yura0v0yura)"
+tags:
+  - "Yura"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9DCsdB4HcQgs7U4qUIgXZe8pJ6q55fAQoJjGjm9p3YPhSg8vPJ4a6wIn3wyrTdN_RubKGWmt-r79JNddTpmKN7kBLu3WfrOCVWA90-CdoGgys3Y89jlsNTtPK3CV9MzJ9ecars1QqUQpfnZn9Jpk7zry3jtPlLwpm-vS7W1koFE1uDhyphenhyphen-9bK-mXQhUxwZ/h1000-e7/Coser-Yura-yura0v0yura-Asuna-Ichinose-38-4kUp-005.webp"
 ---

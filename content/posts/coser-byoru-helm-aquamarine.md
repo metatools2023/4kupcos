@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 58
 image: "https://lh5.ggpht.com/-9rh-YZUNXuk/ZVOeVVN-ycI/AAAAAAAAzZU/CfrV32zxjTUCLXXKjXYyLNElEKyQdP1DACNcBGAsYHQ/h1000-e7/Coser-Byoru-Helm-Aquamarine-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP8k78NyJcRBJWkyeLmOqE3rBl1bnKO-Z4Hlhe9HUoh6Oo3mSxPHvO9NeIZpZDUSUVQL25uqqMxiVdIdkOiQc6hwUbn2u-s_tggeeQdKcfWaPeSZCeYbaZkN8ZEpHKHuoFO1MOq3EsKvYT2dFpf0OOzk5TMv_PDS2RmRWtuPja1jyjpVpVdkK3hWB_jg/h1000-e7/Cosplay-Shimotsuki-Rabbit-Alice-18-4kUp-001.webp"
 ---

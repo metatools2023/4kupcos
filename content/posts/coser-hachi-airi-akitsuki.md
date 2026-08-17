@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGkMs1OdCaufkYNVhJv3hEZIvi2QQP0zFj4LDPlwJq8ncc2qZn9P8SU3whKULTKdKGCDzzkGAYjwnSX0OKmJ_J_vPK9Sh5fE_4heokVIPdK_4yq7s6MQx0bQ5vU9B_2kqxL5HyYGaDXbu7z6k-rE8fyCDfhc66Hovj2a5hmruyMcyjd3u2kR9vH7_7HSI7/h1000-e7/Coser-Hachi-Airi-Akitsuki-14-4kUp-001.webp"
 ---

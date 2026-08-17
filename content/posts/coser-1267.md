@@ -10,6 +10,8 @@ categories:
 models:
   - "小和甜酒"
   - "橙风千雅"
+tags:
+  - "小和甜酒"
 photos: 118
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhe3LwlYCUSQgFFYY0orS46RYjRAAj9-FCJDcXRyiBE8YVi0pSM7tonnkXBom1-r7j40AKb2EQ3H0c33k9-ZL3gA9cSAyFzFaawqLq-iTIC8PTZ2Z71pNKUo_v0ZF50o0GGHf5ysjnWHd6Rk3lvMPd4d6Ak0Q3RhhE49pjabDsj4EEn8rncpa6Wc9W83M0/h1000-e7/Coser-Xiao-he-tian-jiu-and-cheng-feng-qian-ya-118-4kUp-005.webp"
 ---

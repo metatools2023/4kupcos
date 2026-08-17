@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏 toki"
+tags:
+  - "双木扶苏"
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjM0oAB_KANU1JbznXdZtz0oP2pOxmIP2w6YwghZcJS5D5gGROjJ055XzXRQoYDywjXYI1ZeiIEjzED5wvX9-rXau30aoNQ1-dnv4rAOXm1c9Qnh9jNVEWhTrwbmpL-XJDyodo95DhDbTiSay6G7vdyIuN-j9Ot3NdU29GMOcBBLbLDLxNMc2ZTxhHw_LmI/h1000-e7/Coser-Shuang-mu-fu-su-toki-ver-51-4kUp-003.webp"
 ---

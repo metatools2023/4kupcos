@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九曲Jean"
+tags:
+  - "九曲Jean"
 photos: 9
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7mKmIuZZrO452CfJY95vJf9daXe4BgsOM-q2HQTUat41HK54_KD2gbdhVMnB6mEOFesZ4dJNccCKUzIAEid6HG2cY4lCxKe_oY82OZo3jWzyz_uaJgh89tKukS5NrPRJCb-6OaAQ_DeAVy09b3SaH6HSckAIuGNtskgOsYyU1lLe17MKaZKW3SYc3CXQ/h1000-e7/Cosplayer-Jiuqu-Jean-Arknights-black-anniversary-dress-9-4kUp-001.webp"
 ---

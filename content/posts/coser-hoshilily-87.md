@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmiQR0hZU2uUB2ajy110K0rPntptdBBSGOzTcChQzpz6Ti9ijwCigqw__Z4o48dopSxXuidBNzk3YrYzGxMHdaQzKfxLaTNRixfP8gbFOcc0Dae1O5tl4lNPinrtLliDww5Zr82j9ABBGcTpbkKeWgeZ1VGIM8fa0UwZaT7T5DEMY4MCBcIXHAPH8U2mEa/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-Rebellious-Lelouch-26-4kUp-002.webp"
 ---

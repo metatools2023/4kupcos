@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBkCp_yL-6B1oNKTzSI3Lztf75jC1ZT8wOLyYh4LiXsaEma76DkFmazEy63kMDRJhc-SuoGaCQb6TvuVqPX-h1c_heLemB4_X6Ke41GkfeM3G3DAzfj9rGBCdLJWF_mB2DfghYvQlkPbpWHtKi79XdL65PknGI8Ul6SN6p6UGBpGlpFcF3w9FLwPHAEJCu/h1000-e7/Coser-Tiny-Asa-34-4kUp-002.webp"
 ---

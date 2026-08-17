@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 26
 image: "https://lh5.ggpht.com/-aR5Vs8fLGWM/ZpGkprW816I/AAAAAAAAUao/D3ZvkxHbCRsVN5Ot51ejVAykQippGMnNwCNcBGAsYHQ/h1000-e7/Coser-shimo-26-4kUp-001.webp"
 ---

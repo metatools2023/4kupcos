@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi Ji Yun"
+tags:
+  - "Choi"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP5PeFCucw8mPNZpqVoXgW4vmUgZfKliWOmezMla5n_41QELPfXMh_jHPRurJjvVFTRhhaOfmcAOgDF4t5o5Ddejk50pOQYNFJCPCkTa1iVOlEBrcm7FliniKvOgDhWFIZBKljOsCAUYJaZC0XacHnOGE7F8q_AVq7V2hHP0S4SroQH-Qm3QR6GFwQZZ07/h1000-e7/Cosplayer-Choi-Ji-Yun-Himeko-31-4kUp-001.webp"
 ---

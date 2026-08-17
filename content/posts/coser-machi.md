@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Machi馬吉"
+tags:
+  - "Machi馬吉"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOyrGy_zbmOtekf-gzX4mDCGkpAjCObOK9bkrBIC2wm5u5NbtcC8Z4kH85i81pCB1Mtyd-bSYcEcNV0JRSeObY0z-NNGK5D7NK9JIy27Ss320eDsdoxHFQ49IJnbC9RwSJ1oa27pHKip_UfeOdUQsNmlgjpT29-s5_-4J6M0mVt4r-cFjzJkPqRLEeyhAe/h1000-e7/Coser-Machi-22-4kUp-001.webp"
 ---

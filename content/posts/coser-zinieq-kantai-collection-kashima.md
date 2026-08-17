@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKHIcYcrOgYZ2q9nIU2umF6Y4-IO4NmdNc8ITekK7fSLy8ZOE5tzCwLdPnvP4nGF5446kO72lSrMYCNMkT26QL2UYp7vzZiJUheX6ufVcbiMNCQylMMgwLPwkXXLUM6bLAMjLqrUMO2KvxffO42HLsRiRazBxUU6YvSFyNoSB_0PoDmyouA4DZAwTPwEo/h1000-e7/Coser-ZinieQ-Kantai-Collection-Kashima-37-4kUp-002.webp"
 ---

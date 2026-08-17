@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "NAGISA魔物喵"
+tags:
+  - "NAGISA魔物喵"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHaRULK-FGTNU1V-GTFRNgV517_Ji6NbQ-cxSMeAQp1s7lI0FS_CO2fEzEkczf83enHwYsyuUX3sYQ9lnT7fZ8r9_EkVvglLGut5z6dm7X2IYyuupx7IhkyT4A7tYJtUyl2H3N7kmSCVn7SvPSaLB2egyf_amJIhFr1G_sAWpQmQw5E7rIZKZRcbuvOL8/h1000-e7/Cosplay-NAGISA-monster-cat-Fantia-bani-JK-41-4kUp-001.webp"
 ---

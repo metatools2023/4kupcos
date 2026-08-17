@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQGMyseWxhyphenhyphen23XQ_DS_oaViL0UZxA5dVLltPY44wwD4Xi2szEyUEqVifd-w3dr9qmg4UIOZeRLvsbj8jOVw6HswveWjuSsqN_1UgWVovhucWFxd_c5rcJq1xXggKqf0EyH1nvT-5lymiO6A3N5xnKNGbfoEu9dXUvSskcZxctyBV8vLgr6OozM9amyEQbk/h1000-e7/Coser-Potato-Godzilla-Hitori-Gotou-18-4kUp-001.webp"
 ---

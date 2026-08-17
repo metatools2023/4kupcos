@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜井宁宁"
+tags:
+  - "桜井宁宁"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjs0IxOp3hMqP_NDfPtcfkZaxARPoWGfXVFUyABGWoPnVROYeDGu5aAE_xmRvQ5D4T4J-WbHgFnTYh7lvwm30ElKzz_YXCQ9MQ3Co2nNdiTqUG8Vv33uaVXFxVI8_3doE6KZzm1BHGXfGWHOD3ZBOfGBFEgqDHka1q-vPETJRH6ka-eiIbiDHCzOJ3yn20/h1000-e7/Cosplayer-Sakurai-Nene-white-silk-nun-42-4kUp-002.webp"
 ---

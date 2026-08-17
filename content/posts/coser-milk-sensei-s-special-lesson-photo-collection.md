@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "けん研 (けんけん)"
+tags:
+  - "けん研"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcFVEi4Yipioorl_czva3dQrmheH0m46PB36UVb9mgvFSxeOJ2N6hYq6vTFpK_1CZYwI1sfwpOEeHV42t1VohgzvxWrtJpg_cdc410GzI5zCI8oq75HZHbzagBO8hF6NyGaO4pd4MTqVLwrfbjxbOoTy1LjNLYMbmvdtdNehIRPuMCoYa1tLGLirL6_TfO/h1000-e7/Cosplayer-Kenken-Mr.-Milks-special-class-photo-collection-Milk-Sensei-s-Special-Lesson-Photo-Collection-40-4kUp-003.webp"
 ---

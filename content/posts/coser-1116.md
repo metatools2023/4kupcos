@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "比奇堡黄塞方块"
+tags:
+  - "比奇堡黄塞方块"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV4cAnlZpYbPtBkXem7w6UmmvUA73jkWgiAfskOA4u3A1ZQfziWoH9UzPoMZd02dgEMnG58q4yz88vfXRSIGaxXU0XQIlUqQzsrUBZv58B1jxKHd0VZ7gUk0afjeQBgJyZ2rgMFDXxQFOiZUxMXTLrMKKBICWiWddK2_fVWZ2ws3djOH53ZTuK576EGnY/h1000-e7/Cosplay-Beachburg-Yellow-Snack-Square-Blue-Archives-Mary-Idol-Selfie-34-4kUp-001.webp"
 ---

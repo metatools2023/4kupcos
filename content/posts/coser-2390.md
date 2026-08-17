@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFeUBuMOsen2l8jabr5tRE9jqdaTaWMbBLNCKc_cEAyF8tdu1D0Lh0yS_moaENJ2M97eufGiz7RwyyW2DsDSXc0HsPLyZoqm1FSgGF-lm5Yy94h7bLx9C_CJTtuBngyEIGoUbK_6OPa5CiJfbzeMwTt1kslo5HC4fd8x5zSY9r1P3y_T_58wW2xJPUxIrt/h1000-e7/Cosplayer-Mochi-is-delicious-vampire-18-4kUp-001.webp"
 ---

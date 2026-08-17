@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzFprxQanVGBNobwOTXr4L-aWEhMI_icMUFfOCyJptte6G4tEMIml1XXUfgBcK1Ikl64I42r0G7xy-YCDNFkUcYRXzuEJQ8lQbUT2B44HVZfFvlpL-eW64oR5cr09RF-fV0B_GBZYY7HrlU_rfSY-L6UMcl8_xmtO7sjGEycEIXtwDd_OoYDG4LAI6utRu/h1000-e7/Cosplay-Chiyo-w-Okura-Elf-Village-First-Villager-Elusher-33-4kUp-001.jpg"
 ---

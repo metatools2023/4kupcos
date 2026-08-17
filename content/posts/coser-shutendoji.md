@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "习呆呆"
+tags:
+  - "习呆呆"
 photos: 47
 image: "https://lh5.ggpht.com/-rr14SCgQmrk/ZOU8wOm03EI/AAAAAAAAWo8/R98HJfgcVyMNj34fNElhugjv682NQ_YBwCNcBGAsYHQ/h1000-e7/Coser-Misa-Shutendoji-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru Bocchi"
+tags:
+  - "Byoru"
 photos: 32
 image: "https://lh5.ggpht.com/-y5Q3VfpsQy4/ZC8_ahpIeAI/AAAAAAAAbF0/2jNFSIQNLdAWgowbrl8IDxa7MdhPK-MTgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Bocchi-The-Rock-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "恩田直幸"
+tags:
+  - "恩田直幸"
 photos: 39
 image: "https://lh5.ggpht.com/-ONAQVANsn_g/ZlEXnMiqZyI/AAAAAAAAqps/XHtEzbyTiYw1Pof-2UgaKTr0E4AFg5s7ACNcBGAsYHQ/h1000-e7/Onda-Naoyuki-Twin-4kup-001.webp"
 ---

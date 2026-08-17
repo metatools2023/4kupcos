@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Nai_奈绯"
+tags:
+  - "Nai_奈绯"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhORmbL7LYAHw-oVWDan9Lo7o3X62QR2oOueGo3HJReCszR93dvRSeihPThernOyxqzJQPA5GXtTTQdlHZY8YYux4NVGBb0hJl-UJKdxQYkbLFnAOhwZ4Yh5vSdr6vbLJDEokHZPqYeKKLpsH8Dfl6oyVkyvcXeireY-NXBFPEYlqDnNieoEjsb_m7YwLPZ/h1000-e7/Cosplayer-Nai-Nairo-Soybean-flour-20-4kUp-001.webp"
 ---

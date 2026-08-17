@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "羽天shine"
+tags:
+  - "羽天shine"
 photos: 130
 image: "https://lh5.ggpht.com/--y3H5GxS9dI/ZWFBDTDP8iI/AAAAAAABBw8/soPMLjUmHSE-4wQQylThMAvb-RW8inacACNcBGAsYHQ/h1000-e7/Coser-shine-4kUp-001.webp"
 ---

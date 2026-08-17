@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgToN4hGTEilcUbOB90JQPKsciEp4iSd2lUtUwVNXloQbPR7i7z98AvaJ_gzlZWfzJYa4tT0O-CfEczCkF3N689Pc04Xq_29lZkBWpb8e_CFT0wniKtIqSEnUgrAR8br-7KcZxfeFPrE8FdP35cvpqBYVbgu6i4m4dM8vSRTZp9i68hi3Wx2k00g03spA/h1000-e7/Cosplay-Tao-Meow-Jueqi-51-4kUp-001.webp"
 ---

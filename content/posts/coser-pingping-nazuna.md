@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWU7p97ecbcGNhyphenhyphenEWWpZnilCR225rshxoQdiGc3imQ2ptkphOP6bn9cGKwkRkvmjtNwnvPLoS3ZJ6eD0CYQjB3pMHhtmKOg6LvsE3QndF3CM6lg3UNzg-OBg49y5LNzdyTmQ4mzxkyz8SlOPsXDPLoD6lsUI1YZYk19GKfK-iIbImuUovzAx4dELf-vZhyphenhyphen/h1000-e7/Coser-PingPing-Nazuna-51-4kUp-001.webp"
 ---

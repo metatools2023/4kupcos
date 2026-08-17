@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce Lin"
+tags:
+  - "Joyce"
 photos: 73
 image: "https://lh5.ggpht.com/-VtwyWIqe6aA/ZQtunJLqcAI/AAAAAAAAT-I/RFieNdbjEwsmJ8ydRc75CJM_XgbOZUyzgCNcBGAsYHQ/h1000-e7/Coser-Joyce-Lin-Kafka-Bar-Night-4kUp-001.webp"
 ---

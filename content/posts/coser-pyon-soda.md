@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 60
 image: "https://lh5.ggpht.com/-7O0NIlhJcbs/Zj0XFovyLcI/AAAAAAAAfy4/71nSDAy35kYLT6m7v8QPVBua6Og-hEJ4gCNcBGAsYHQ/h1000-e7/Coser-Pyon-Soda-4kUp-001.webp"
 ---

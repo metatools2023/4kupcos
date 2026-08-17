@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane Ame"
+tags:
+  - "Hane"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5mKlmRVmCtqgvwmr3CiWqVXIAbVoHeC_0bIxBCjBVYtmZVwKwwb0_5QSFAIb8Mg1sNwBgMXv5XAdYVUD1gVR3oQ1Dau8L0EkMYmd0IgKthU5LFG2pLDYC50R0TlZaLu14jdWcCKeDzf7zKeNF8k0rjU4fOBlvDTZcmgOX7M2ryIyD5ICuc_jjtvDB4DA/h1000-e7/Cosplayer-Hane-Ame-Wedding-19-4kUp-001.webp"
 ---

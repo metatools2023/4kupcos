@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "隼隼子"
+tags:
+  - "隼隼子"
 photos: 68
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2uXBb8JRI24G6ZJ6yV3cXTahmDZ4WACqNH4GxyADpdz9lXdROyBdfT0zE6SdfUGp1rv4I862rU_3-qIZpDW9mrW-ZGwa66CGdZnyEhDnSzqRyvHYCeVhWnWg7LWwI1jNrVrtO3qJbcmdIuAiJwCb2wSGktZQZBCJEKX6xNM16ue5nC90pDbOygEdzM7I/h1000-e7/Cosplay-Falcon-Ashaji-Ikeg-68-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht9RW7BAy0qRbpOQGqn_KafsIcWxjGjhhttVeYVsBahDXv3Zsr_khC_86u8PGGG7VzVNkFUW7YThcDkYX2VOLgffKZHz45UfkBpyZp1OYoEdx9rv7I1Ep18I5mKoV9ofMFnW2Ze_jMPdoWDJOuvP9kwMy1RMDDOXHhwH6GHdl3j3OD_yl3BF_u8Y-fFcaa/h1000-e7/Coser-PingPing-Makima-Hell-Rider-Chainsaw-Man-31-4kUp-002.webp"
 ---

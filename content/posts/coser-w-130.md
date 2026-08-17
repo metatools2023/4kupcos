@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛桑w伊梓"
+tags:
+  - "洛桑w伊梓"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJZiaapdiJBVjcZEYVu0SS68fG_4dZr-U5ppYCLbGD8kI7O7xOvABoQwdjsfiuQND_pPxjbPU94c9fhdr4-fWTG9qXwtgoXDhIknx4BzGX84WPXjrJPk_nTeAZ_hS_lLlZz0ha3VaLNICalLAs8DCUqJsWmrYAl70eSHsuLB3YFonFw6u7HRuHZ-ND-NrT/h1000-e7/Cosplay-Lausanne-w-Yizi-Cat-shirt-45-4kUp-001.webp"
 ---

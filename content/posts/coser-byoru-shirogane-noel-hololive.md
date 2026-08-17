@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50Zs3KoV8RgmaSIQFb1CyHgoBjtZpgYPmMbvft_yiOlkGmyB7HpNXr2xooRtWCjSqO3NB2sJwTuZdfl3AzcY65d8BbAFIl3Uxn0anJIHc5t_ONCogT10pXUFeTaTRngKeWk-bTtm22Nt27v67RU6QBD6aiPmFll8trx51VgHK86lfxxfaUxNxbR6q8YcA/h1000-e7/Coser-Byoru-Shirogane-Noel-Hololive-55-4kUp-001.webp"
 ---

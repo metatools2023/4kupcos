@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZ0f4lO4g9Eyx4lX2Pvwos9tPAGezvxClL37skb-m8vbSBm3XMP8ZXEFF9gjDrFMLgWLwgeYJAu5MQDWnUK91sydwGGgiyk2_9nZmu0YI_Vnk_5r7xV9HpK7EgiEZJnwTOJe10EMx2NcT4uyMVXa_L3d5o-YEi3sz8ALxvYywVJ6ScJddBVCSvr5PnzIBW/h1000-e7/Cosplayer-Mochi-is-delicious-Surprise-Easter-eggs-dropped-16-4kUp-005.webp"
 ---

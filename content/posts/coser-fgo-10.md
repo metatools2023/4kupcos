@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿半今天很开心"
+tags:
+  - "阿半今天很开心"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLCJy9c_EIDO3N3wUKHA3q7_17OSqh9vnpAC6tL1AurbtGYjH5JgN1whu9rLL8nzi3GViyMJEEAXOVerMjafKEfgqy4RSRV7NmhqGscdU4ZFCSlfGxKILNCxbPQCxr83Ig-zSyD2Sab9IR0kZ0cj9V-6zR05RWW3v5TYxuTtmFPSDZZaBnDKFrZ07CZOl5/h1000-e7/Cosplayer-Ah-Ban-is-very-happy-today-FGO-nero-christmas-41-4kUp-004.webp"
 ---

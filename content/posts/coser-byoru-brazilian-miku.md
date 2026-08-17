@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjua-8v-TrRsA3_AAZDZ_UNC5LDZ3Aak6gwjdgL26U5meECGZP86kp6DvSuutOnEByxapF5-v_ngVkta6zX21bWOIUzXs7TzP6xDzdLL1iZPYLoTrAlCyjYzNH17xVxBh6PHMGI88N-s_2cClcuixjpw5bIyTZKDmEvYV4_LnvH2LFCZZQIh8MXi4qDpDu-/h1000-e7/Cosplay-Byoru-Brazilian-Miku-61-4kUp-002.webp"
 ---

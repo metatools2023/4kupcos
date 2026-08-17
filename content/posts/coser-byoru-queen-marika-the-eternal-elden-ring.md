@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimJxmyA8q0GVsjhpnxF4hhCWpjsa5j1MCgb1HM5P9_-OHVXbWv_2ZOOQYBBFpNjOQlYXU_uo-r2wFOqMGbyQh9QC-hZscN5bPRjcuIOoy3TRUwKvsPJ8tnWoK_tm6ol2BJ3NMFpKKtXGWxyM-R6x6wkN-gqmdnsls5dz_jGPsoMZF-oUyE4kKA0MbREh9K/h1000-e7/Coser-Byoru-Queen-Marika-The-Eternal-Elden-Ring-61-4kUp-001.webp"
 ---

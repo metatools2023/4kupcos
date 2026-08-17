@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "草房子"
+tags:
+  - "兔玩映画"
 photos: 41
 image: "https://lh5.ggpht.com/-IFTXo75dw1Y/YzDanvRG2QI/AAAAAAAAQIQ/lsEuRg5sECERNu9KOp_ZSidCJqcOp3Q7ACNcBGAsYHQ/h1000-e7/Cosplay-Vol.007-4kUp-001.webp"
 ---

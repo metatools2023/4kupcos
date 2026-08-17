@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce"
+tags:
+  - "Joyce"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhn3-P4xbA76UPze4nRRi_lOp5yvze8ywhRLhYqNmn4TzilYnO6eUEP11kE6PIUXNUL08z-QxD6R_NRhwUv92ZpZIji1T6w5MHH0D2f1MtgPYa1r7awT0v2Mh9_ir04Ih8LecqWuzRJNjfWCm63Kgscq72Ly7liUdoQDY9sL0vJN_AbnvgUYuwa_DCNgl8/h1000-e7/Coser-Joyce-Lin-Marnie-Game-Button-Pokemon-58-4kUp-004.webp"
 ---

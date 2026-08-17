@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hana Bunny"
+tags:
+  - "Hana"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5X-HKLjMLV4Vb0H3GpWQyNS93wcSnfR5XAaohUcDmxRZpf1lgx3QLQubEqauogKk-iDBKm7IGKgMtCXH0hGSLDbXaGfgh0HLsHbRwKvR6NKSaa5UfcCi0w1mJQTQif4EPrTt2GvaqxgpYsa4iSgXMVBQ8eRqhDmoePiSfrMliShyphenhyphenmVolqSCgdofsKcsc/h1000-e7/Cosplay-Hana-Bunny-Boa-Hancock-25-4kUp-001.webp"
 ---

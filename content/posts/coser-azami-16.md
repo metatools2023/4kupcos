@@ -9,6 +9,8 @@ categories:
   - "Korean"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdPcFEMdt1XoAO7PprHaJ1PTPKeYkY3pEzvq8g_QaV8s6K4fnu-ZD7Oia1YnQG7r7i3E4hxu_NB9YmcXTJsbt4dey0yGeHWXgQPtv2xRDXy3p6K7Wkm5Q-Sics2ezCGo8Jw2z5R6O0hR8i5dIsn8d1db2uYCAmbSi2H3Jk-pKI2G0iqNSh2zIJsxa3Z_I/h1000-e7/Coser-Azami-45-4kUp-001.webp"
 ---

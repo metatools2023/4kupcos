@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 20
 image: "https://lh5.ggpht.com/-y6NF8tMi_Bk/Zi7WxMgEyFI/AAAAAAAAWiM/W5GQPO53L-4kAHYm9dy8k0GQlsGRzyqyACNcBGAsYHQ/h1000-e7/Coser-Pyon-Kanroji-Bunny-4kUp-001.webp"
 ---

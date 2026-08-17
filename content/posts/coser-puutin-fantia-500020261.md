@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "プーティア (プー)"
+tags:
+  - "プーティア"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM7okwBxcIjljaq_NwncOwZXTldcCL3HzC5RWQTkwaGDYRP71tQIACv_gRo16Vs3O3_8e-jxHKlUxnx8hnhma2e542u-8RS2YFle66jl3H74pEaPvqSeN8qY2PZFBd0aKc39HHYDijgXKFxvwKFhblndo1pbg5r-Pwyf5B04aQ6EdewZLV4Zn8w_9ZSWlW/h1000-e7/Cosplayer-Poutia-Pooh-puutin-Fantia-5000-File-subscription-2026-Year-1-moon-48-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 26
 image: "https://lh5.ggpht.com/-7guuAV1Ou8Y/ZPpUxNirfgI/AAAAAAAAGYg/-YKM6FQHV4AhQvb0CCWuYUCz_Epi8OVqACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.074-Eve-Lovecall-4kUp-001.webp"
 ---

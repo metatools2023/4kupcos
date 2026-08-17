@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 31
 image: "https://lh5.ggpht.com/-2PEO5yKSuiM/ZNvqwYLFajI/AAAAAAAATMQ/kDzGqGL1NQYRoQzhLD4oIZrk_ajWePo6wCNcBGAsYHQ/h1000-e7/Coser-Rinka-Minato-Aqua-4kUp-001.webp"
 ---

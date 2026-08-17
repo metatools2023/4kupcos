@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 28
 image: "https://lh5.ggpht.com/-FbtPJbRlKLY/Y6ckqAUJEEI/AAAAAAAAG6M/xNwZC3p89bIueGQckPez3JAQqf0XknD1QCNcBGAsYHQ/h1000-e7/Coser-w-No.012-4kUp-001.webp"
 ---

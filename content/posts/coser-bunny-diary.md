@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "瓦斯塔亚小龙虾"
+tags:
+  - "瓦斯塔亚小龙虾"
 photos: 134
 image: "https://lh5.ggpht.com/-YCKUr7Ztyzs/Y9p9T9IDfvI/AAAAAAAAA8M/0vuVOqoaQUEb-ONORhSn3sBrRddOi8GLACNcBGAsYHQ/h1000-e7/Coser-Bunny-Diary-4kUp-001.webp"
 ---

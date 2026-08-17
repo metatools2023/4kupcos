@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Nyako喵子"
+tags:
+  - "Nyako喵子"
 photos: 48
 image: "https://lh5.ggpht.com/-kSi4wyAjSqo/Y55Y67L6JII/AAAAAAAADDc/qzsDqSFX0gcp3qd_lkqMUVSxp1d6k80MwCNcBGAsYHQ/h1000-e7/Coser-Nyako-ix-4kUp-001.webp"
 ---

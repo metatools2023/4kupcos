@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglYtp-bXTTlqNdwJoXJHHbN8KqW2JlTcbedVQ35dA0fvAQHmh3M1XTcpMHCTVggol9h-W_oA4Oe4saFhENd_1F2EXOFJLpl0SwivgjKacOmBaUcrK2sfC-4PmB0Td_CxXK0iO7xP2lnLwTf9QXXOVXuWjWotu0mTT6ls99XsDOuYQiDO980l1Ue1-TFe5d/h1000-e7/Cosplayer-Mochi-is-delicious-End-of-year-love-letter-54-4kUp-018.webp"
 ---

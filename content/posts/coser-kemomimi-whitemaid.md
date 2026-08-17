@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "くろてぃあ (くろ)"
+tags:
+  - "くろてぃあ"
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtC_dGJ_hIzbVPzdGs3asz57imcN5yY1XE7Z3nWwZyNSxtzcZoVQoFg9E8DutHEk3WUz1NtU0lsBc-Re_9srZ911QclgQW2tJnz1zGjOJe4RkZwjtHLVqXAIwtVyTu8fN0udpD_qmJ0IiKK8Yr4YQkT-zWympQ7gJD-cyE84kOof-_9dj3KPK5VMgHX-N6/h1000-e7/Cosplayer-Kurotia-black-KEMOMIMI-WHITE-Maid-60-4kUp-001.webp"
 ---

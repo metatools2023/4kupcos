@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqNEuODCouK-SOEgPkJx8ODkYqOPXLBRB5MZsEWlK8KBI8yO5OzeHmgQJffDT-zkbxGI2Gx_PCsfidLv1FdctY0yQShgxx8FSybQ4N5FN6TLtsYqbYBm3lbwPVrjrq8mZRWeJj6PcC78VChFbYipu1pFV5S-psWZiSLHo9Ts5V0vm98buM3qqimPvue6gV/h1000-e7/Coser-Azami-Sakura-Haruno-18-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "面饼仙儿"
+tags:
+  - "面饼仙儿"
 photos: 17
 image: "https://lh5.ggpht.com/-o1edLGuwyAc/ZX41HYxCr9I/AAAAAAABegY/PVe4HjyHMQASNtZgN1OcpEd1heVcvziigCNcBGAsYHQ/h1000-e7/Coser-mi-tao-shaonu-shi-yi-jiang-ya-4kUp-001.webp"
 ---

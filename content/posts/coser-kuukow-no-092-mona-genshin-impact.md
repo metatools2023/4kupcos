@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 39
 image: "https://lh5.ggpht.com/-VNTlxaMxaEE/ZTbsTl8YrKI/AAAAAAAAWdk/0B2s7xblEcAhwKgec_HnM_I_Bn6Lj35sgCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.092-Mona-Genshin-Impact-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 81
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx0TGi1ysT7VGnFsonlQxYjgUsoPuOPHVo5i8HEDYtccDDGwr5uUILf2Zi77GThvTW6SHtJFKqSqdGcJjV1aA0zhGPYC-MsJUQ8rDUiYqT7N7cqVmeo9b_R1NmmJF6_USK1Hk8TnBnp5nioQ2pwYuxU89ZJmKQdlZ_vS-YDPNjSMs_VeWAuZ-IbNLPqwUm/h1000-e7/Cosplay-Tiny-Asa-Helm-81-4kUp-001.webp"
 ---

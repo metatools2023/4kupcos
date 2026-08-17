@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "安食Ajiki"
+tags:
+  - "安食Ajiki"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcThXUVopGJZ-eAVey1ziOxQLe2ELBe37nwOqs_Sb4TyOBM4XhZ38nB33F6iNFzT2-Ap1rjMkc6bfhFbr7COx1L1B8Vc4Ne_1Fbv2bs6z3QATcfzCS7TYJJ-wXb2FlF0HOUYmwt_UpDHglM_nEr9VJdB3h9UoVQxCxKt0aV8ueuJYmjPmhuCADs_LKsIcj/h1000-e7/Cosplay-Anshi-Ajiki-Interleaved-Front-Scarlet-31-4kUp-002.webp"
 ---

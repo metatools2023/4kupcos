@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_RHexqcc1mDqDtJhP_Hyjh8yF8nmIwyHYxXxWy9485mfVCDBA_nAO87ApZs_pFpq1aiGQxZ41Z1OI9EewY7SOHx8QG3d5ulngqGvztMq4IW1C5Nj4eInbSEOHg0FeRq53pjCP4o9NQ3inptUFEQcOH9IJnoODavtefQTG2JJBBGzXL9B3Y9sFDVk309NF/h1000-e7/Cosplayer-Shimizu-Nagi-24h-Red-Rabbit-Parking-Lot-38-4kUp-008.webp"
 ---

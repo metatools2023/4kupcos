@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 13
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJPHvv9GISkAZrcK1zELN5ki3e1thiF9oUpkAnlCkLmcb4sF4biNxxGX9pmQ1M6DkYQo9uFOH9bt7DmbNIR-Mhe8F5q_0Qm0NXl_RjZaZ57-cNMQhDadadx8CQJfKO38ZPOBYR-JUmJsx0ZoinV-MZSJFafGW0AORbm2Cgdhhgn15IQ9DZUn30gcNt91pz/h1000-e7/Coser-Hachi-13-4kUp-001.webp"
 ---

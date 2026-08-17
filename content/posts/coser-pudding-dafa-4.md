@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "布丁大法 (Pudding Dafa)"
+tags:
+  - "布丁大法"
 photos: 54
 image: "https://lh5.ggpht.com/-xFgPXcy5Qb8/ZSSDHPNv7dI/AAAAAAAAIpI/7jWCInuk0G4LDq810pQJ09igFD1bUeBPQCNcBGAsYHQ/h1000-e7/Coser-Pudding-Dafa-4kUp-001.webp"
 ---

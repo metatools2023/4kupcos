@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE-JWqRcoGy4StS1lP0-P-l7xSHqwjUjMm-hkyjrVrJ7fXTPTXILDflBQFr58u5ARiiF9A1seFAME7VM5pdiPvoRW4QXorhhylg6dUOWx2saWC4DmHk95_E7uO1nGI8HmJDzIli5Phrx-eELnNY75kxR9PN-LzlBcfqtsbMz7lzmIW6MG3DFzqVMzlNyd9/h1000-e7/Coser-PingPing-Lunar-Year-22-4kUp-003.webp"
 ---

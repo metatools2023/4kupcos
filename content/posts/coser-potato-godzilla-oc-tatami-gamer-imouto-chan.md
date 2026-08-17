@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyLvXxrEJZJPu2vAXV4hJEO5YVUtWRBarMTzLBv44VgA0q1WGWBAGOTCccVJy7h3BX61_sEH8_z7NU53fZ_vXZqUnY-KTbxntTjJct39-YjojxF4_XGyM7Ltn4PvD5ps9Gc5sB7IVyLkEF_CIt5_0U8NRg0ugUN177q8qJGgP8Xn0Q5FqSAyXNmdfc5Cw/h1000-e7/Coser-Potato-Godzilla-OC-Tatami-Gamer-Imouto-Chan-19-4kUp-001.webp"
 ---

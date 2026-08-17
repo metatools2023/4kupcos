@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 34
 image: "https://lh5.ggpht.com/-P03DxN12uVQ/Yq5KuGcZjuI/AAAAAAAAI2g/pzzUR041hukEKS-I-Q0lMuOSazf1_0zBgCNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Rem-in-Subaru-Jacket-4kUp-001.jpg"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "矢量鱼"
+tags:
+  - "矢量鱼"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRPNNbw-9jf9wGAA7MKitN5fYyPAhGLFYR6g2Izadb_ATZbjn_vCC7D3Hor2R0KNOrEsLZ5lyJM_5twcNhrzf0CUG2YKjXl469umL4bSkGldST0ZWCGs6FpphgegDoMpb8Fho2mjr-vjfzWCd_lFDNyApuJFOgVMpE4ObfiHUv5YofoBzubT9J2H070I8x/h1000-e7/Cosplayer-vector-fish-Blue-Archive-Anzuyama-Kazusa-Halloween-33-4kUp-001.webp"
 ---

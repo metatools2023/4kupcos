@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEir8MPTjibzgBqAos1G5lVNU1P8iyUyo0B8dU8S_U0u2SnosmzVT_dexzeMFQyDm2R6Lfw2D9NacZduTyKiQWGpN_CK1aHwa7lXRqDf-48caGdyeDgPDvo8joDbTgKDYxO24U5eiqmjaQftbtyQ-sAVylOWDlIlZ_yTqLqT4gXaEn9-x3boEuxlUsonM/h1000-e7/Coser-Candy-Ball-Rikka-Takarada-25-4kUp-001.webp"
 ---

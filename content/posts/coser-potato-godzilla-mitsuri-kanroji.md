@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 65
 image: "https://lh5.ggpht.com/-DLI1QKDCUGY/YqpYqHI_81I/AAAAAAAAHvg/uO6_hT7iicoQjCjYwdB0cvOU0E4MPBnqQCNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Mitsuri-Kanroji-4kUp-001.jpg"
 ---

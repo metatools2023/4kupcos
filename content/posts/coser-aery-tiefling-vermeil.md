@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Aery"
+tags:
+  - "Aery"
 photos: 79
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP7jz_7nDCnsqjrRJeFn9CUvPqANfZ1OSPUSKDg2uU0-tdHSQtpkLrFdB0_GEIxztAxmDURS8v6yTD_CjH838msOTNuE6vdeEpyWaS_zsHM0OquivYVV7zuwG9H2vek66-wX1rHjB0fqSGnldnQ2idcU7_gPiJb4TYR3niYzfwoUJW-S4_vyHCbOjs-jY/h1000-e7/Coser-Aery-Tiefling-Vermeil-84-4kUp-033.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA866bMX7CfhIiJsOibc3lcA4mUsX8Kk17t6g4ZZdtKixFacJrlCrfYwZp7ktNSIITYuKeMI-ZyM_GB050IbG3swkBTvsKMfR9S9seFQiFeuWVQiDI4MVieVQkxEINDIF9BzOS24U7PTs5OmRgDE755JhzYq6cVQFQ1258wckqc_3FUgTy77f6ivZHhSQ/h1000-e7/Coser-Byoru-Nicole-Demara-58-4kUp-002.webp"
 ---

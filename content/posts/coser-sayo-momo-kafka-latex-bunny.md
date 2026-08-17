@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 52
 image: "https://lh5.ggpht.com/-3TjyvuYyM4g/ZSr9eSASWgI/AAAAAAAANbA/rRHk48vmsGYYeGymrkPS_Uza8_6Na_jtACNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Kafka-Latex-Bunny-4kUp-001.webp"
 ---

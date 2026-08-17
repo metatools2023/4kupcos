@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgytTcOKWURps_fQOgghUQW6yCYdAsX1Z5CPMsNH6deTsKvSCciW7JsGiAjRovknEswPaQotFOZFxxH03hrBh0ecjkl3_3ujOEFFcIun58_I56u0cRV1QZQfEEXRWJ6UZu9tXMVADupZpElDQi9pb4p8BNOkRcBliz7o_5ID1-lyC7PllpbZ61bLZR0GOPx/h1000-e7/Cosplayer-Shimotsuki-shimo-Original-Dark-Elf-16-4kUp-001.webp"
 ---

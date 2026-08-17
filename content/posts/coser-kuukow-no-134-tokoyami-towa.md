@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRdjP339V7cDRGZU-b5rwr3aOo-pHestx_IF4yNI_wgrYciCbCG9GX3Q2b5XhklX2O9ZQxWvd-Ih1EY2geYn3FA-vaTsEl-lvoChXDMOO9ChpafCuGTpzuNZ6NJBpXPIEveSYKYS63FS4Dzewz3u3drmHRL5vMlNNCIfDTqex4Af7JXdTJ95rbFs4t_WE/h1000-e7/Coser-KuukoW-No.134-Tokoyami-Towa-33-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce"
+tags:
+  - "Joyce"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1fMyiJoAsJUcNJjsEUZXR9Z1BOsMxDz9NnNoBehKGRXh4wtPgyhbfJOyg7dWQYWikAaTh6JdiA3OhYWUzrUyN_siubB6S4r-ynLvFO0SdV83tkmHLMJpcQ1j6-szRwDFNaWnF0egZAxQ6aHX0azOhmFFhHTQza-r9f3Munitd8xgb9SJyhFnBEGyyu5eU/h1000-e7/Cosplayer-Joyce-Lin-Amber-Pizza-Genshin-Impact-37-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ain Nguyen"
+tags:
+  - "Ain"
 photos: 12
 image: "https://lh5.ggpht.com/-kaIlhIcT3PI/YkhS9HOdKzI/AAAAAAAACrU/bX6O8D4YwpMMHTNv38XBb8rkNJb0xbomACNcBGAsYHQ/h1000-e7/220322-Coser-Cherry-neko-120-4kUp-035.jpg"
 ---

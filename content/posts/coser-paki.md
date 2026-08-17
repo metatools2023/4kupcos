@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PAKI酱"
+tags:
+  - "PAKI酱"
 photos: 40
 image: "https://lh5.ggpht.com/-Tbdtm2IjVFo/YxTIkBTBXdI/AAAAAAAAO9Q/T2nv63zsW4EOcrUIs_WG7qr_TmdujyJwwCNcBGAsYHQ/h1000-e7/Coser-PAKI-4kUp-001.webp"
 ---

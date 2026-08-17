@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFJuH89JgTno0i_1UWFtxRuY4UyHc_rplHc8vtI5nCwjV1PL7b2TY-X0yJct-kqERJDCOtdd2dKeqjfvZkDTROGAu-8ktJUz0Nzzq9muJDeGsugdvKM7HIJvlad3ZsIC2rJgRuZmSzVJr8_l0CBv5O-J1Vi0vxjkK6xZbCUKmDZ4B7LC3Sl-xH5RNhd8/h1000-e7/Coser-KuukoW-No.165-Fuxuan-HonkaiA-Star-Rail-41-4kUp-002.webp"
 ---

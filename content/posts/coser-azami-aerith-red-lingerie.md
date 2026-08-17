@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP-xgQMkcVVKNTjgVfC7cU2aD4Kxnqp57U19gbXdq_yFqkCBNqh1ZfbRVmq1zRUesa7P2n8lZTzbXIcjlfWrW7OsxLICg_XsxvLSw41IKg8i2MUxdXZESs-ZC_47MAYxr-zTgajY4oMZJgtSuqAFnOq6ZGKeGtouAKIe7wNpTm2OVX81v-TRnaTBg1brCn/h1000-e7/Coser-Azami-Aerith-Red-Lingerie-18-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "幼愛Youmeko"
+tags:
+  - "幼愛Youmeko"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-EPVdUsigKRzLJgG1OfQhgE9ILjQDycP_IF3a5V7D2oRJTdjggt7WcmHzmaUYKZb_fxlwEY5JEAUPmO5bRn6fy3q1ZX-UhZCUBhyphenhyphenjDoGodF7Su5o8y0SO-K8GDV7w4XCxB3a4JLHsvAx_ITFmRwzt-DSN5QOMlaR6Tdz0g5CErDtYsQRaGpRRo7o_nw/h1000-e7/Cosplay-Youmeko-Hatsune-Miku-VOCALOID-17-4kUp-001.webp"
 ---

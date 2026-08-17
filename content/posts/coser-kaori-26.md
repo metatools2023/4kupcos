@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 133
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqP9PQXVUGkt8qEzgkCF_HolxlWE2DySieanu3X1K_Y4gBjP_yiP6hg3LGkhjdVjObPgJiLpd3kMKelp4UdkhPoSD48C1D0l2NX613YI9ppwlhlb4JM4qZD-2QBFHC8DVG07moSm4Fee6pHspO3IxtKkmNnqEeju9UJXP_WeX-nwJan05x4YgsXR6lzw/h1000-e7/Cosplay-Ahn-KaOri-Katyia-133-4kUp-011.webp"
 ---

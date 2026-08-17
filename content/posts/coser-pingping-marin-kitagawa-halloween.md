@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEuC7XY5BvdRF7Gp5eKtlRpKObF-WHb3TqrLe4Pbz11Ceqak57vrtREfpJHF9joixuKqco6cNYuDR-2nx3NDqIRWMrR_AY0tiVD0xz4DzpGHGeWx2GEY2hveCnk4shpdfRy5S-R4A-fMsJTdwSAs108oQ84i2-AfdVMeoXsXuPtPIp1e-xDjCOfXEwDigc/h1000-e7/Coser-PingPing-Marin-Kitagawa-Halloween-44-4kUp-016.webp"
 ---

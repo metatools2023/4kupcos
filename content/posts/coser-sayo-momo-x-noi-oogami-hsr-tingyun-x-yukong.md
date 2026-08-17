@@ -10,6 +10,8 @@ categories:
 models:
   - "Noi Oogami"
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 74
 image: "https://lh5.ggpht.com/-jdbmxzUK8Jo/ZXuHwIOBgDI/AAAAAAABbc0/tMkuyaOXCKotBwrXvBXZI6g8DahvRFLugCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-x-Noi-Oogami-HSR-Tingyun-x-Yukong-4kUp-001.webp"
 ---

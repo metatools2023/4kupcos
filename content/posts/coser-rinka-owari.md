@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-B6KyjCXt8h2koahzTUWlPytHp3ffarJ-kjdchNQcfk8UvqwZC_-2TSR6cb6e-sp10g7LRKjLZTjxscjcRYN2RUyN50kjtHzdhR5WVF10tplCNGzHGoDoYGjT9HA_9Z7BVpahO29SUbobtT0efCm4I93DcW-sInE6IowzFibslnujt0JEt5xraWAJ1Q/h1000-e7/Cosplay-Chong-Tian-Lin-Hua-Rinka-Owari-12-4kUp-002.webp"
 ---

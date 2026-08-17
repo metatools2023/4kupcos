@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 71
 image: "https://lh5.ggpht.com/-Zb69vn6UdiU/Y3v07yqExNI/AAAAAAAAGX4/ZM-pGHT5m4ImedqeXhpE3XBCzW2rEq52gCNcBGAsYHQ/h1000-e7/Coser-Byoru-Squid-Game-4kUp-001.webp"
 ---

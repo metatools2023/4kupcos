@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT12NLqw-cloyXl5S1IkHW6oiK2k5uwLe52BfgD1mLcSt6kKt8W_PUNz-YE5_BvXbspe9J-G9zH5LmL6peDXn54VikNX1T9bp4E0Rx_CVPkek1wfy_1BhcWpClRGTaET-UPmIC_PF_g-SSGGMxBpWNlUc01hRZRvmhMVOeJo_hbWjh1oTft80Qy_8SYWF5/h1000-e7/Cosplayer-Mochi-is-delicious-4-Moon-shot-casually-42-4kUp-001.webp"
 ---

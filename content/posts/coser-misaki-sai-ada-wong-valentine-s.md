@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Misaki"
+tags:
+  - "Misaki"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt16yYKGfPWHQf92-tSHvgQlN1-jwocqp0ZyC8lMvU4o1vrJuzbvC-r4wYpvVfuEXSaYKneTjDWthA9S1RgIdDGmzwuXPVaVywDT2XEGH6WIQTSh6tmWXLIJPX9vW08mCGLXbsx5I9elDiQxDYZid3kiRZiAvEddzH1JxKWkWDFNgeG_6Hg3goUg08KoTL/h1000-e7/Cosplayer-Misaki-Sai-Ada-Wong-Valentine-s-40-4kUp-001.webp"
 ---

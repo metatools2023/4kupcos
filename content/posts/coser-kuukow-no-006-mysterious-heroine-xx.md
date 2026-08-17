@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 26
 image: "https://lh5.ggpht.com/-RgVyuaQ9AXA/ZKXwF8a4NxI/AAAAAAAAJpA/OHS6db5etZUwor1pwnO0-pQjlvtyLEK3ACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.006-Mysterious-Heroine-XX-4kUp-001.webp"
 ---

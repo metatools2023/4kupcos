@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "笠笠ami"
+tags:
+  - "笠笠ami"
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ2fqF0CN1l77gO_ItCJnhCBu9krcVEmhtRS5rP0JP2S5C-AD81OOWGHGrmqE5e4zAXVcaxBILzqS-vI2KxbOnDQDD4KsvxaR8PFwLwtIwIoAFoKey1Tj2MaY9LLwdxTD4HNACwmkYhZcePlT85y0tPrFRP-8kgMJKhtssuQOtTZGZ6gQQEO_ZSK238I90/h1000-e7/Cosplayer-Kasagasa-ami-Kasao-Saki-cosplay-54-4kUp-002.webp"
 ---

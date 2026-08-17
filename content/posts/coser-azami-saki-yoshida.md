@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgX9oQYYiroMMVniGwoOxgK4JXlf30Zjv3wKiKgMQ22FfBPO4Pg6VltRVjmx1YAqOJTKmYytYCRJo8y_Wnj8dNr0y4TR1pMZ0p6HjE-zl2n1NoazXEWI5hNGWhD1wkM0N8iP_c-OE-io0I_QBzzAAsU1BmsTPgXnGfJHfo8iugKwVmj2zEZqquC-WNVCfY6/h1000-e7/Coser-Azami-Saki-Yoshida-17-4kUp-001.webp"
 ---

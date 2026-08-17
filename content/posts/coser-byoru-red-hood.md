@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWKCtUE9yiwa2eljsTWPY7knCpnvjRwmli8DrgZRpfZyc0OkJv2TUhvomzLkezc4Z2Lx5JMJhzzIU101J0nHDn-GhmTfkbQxGipAJr9HNDveiyKRMJpfGdnlzckRUqKipXM3CteqXZrojo64t4PaMNAzmwgWH71nqkAHZ6E8TlGEfHkW-FiRgrJ9Qz9M/h1000-e7/Coser-Byoru-Red-Hood-57-4kUp-001.webp"
 ---

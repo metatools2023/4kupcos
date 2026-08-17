@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB_9seFvV20slDweCtuz-negsGKeP3zNNnEA37M9PaYHK3CzdmoOyzduuTaIkNMRmthnlLZjZFhcSnEINNBMHB4mPEWSiOV11Nnkj1veK97PU9ke6xtqg-8U3W9_8w1iOgoXKoJiz5sb_xWXGCpb5D4MhJ0m_OXGXECGRkvZcYs_QwMMQgQLLdSFdWCY0/h1000-e7/Coser-Potato-Godzilla-Swimsuit-Meltryllis-42-4kUp-001.webp"
 ---

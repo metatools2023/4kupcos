@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小樱"
+tags:
+  - "小樱"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6ux7pE8ubvdzdWEfD1jQRaTcvzf4f9M6khuaRLa0sU2wpudd8FpcgFUeR-hwPVT14Ei9YbRn0iig0aGP_I3TnODfAGKDPMLGr_5WCc4k1wUEy2ksrjVH-oFpuJN5F4BcEV7bqkdWbHoqD6Plaa27wjQqU2ilXVy0Z3w1DyKHsS8sQ694bpG9ouxWYa8c0/h1000-e7/Coser-Sakura-Ayaka-25-4kUp-001.webp"
 ---

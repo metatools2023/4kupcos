@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi39_gtp7Fiq-CxCxObFjJNKZullrF37rzenXCxomz6PX9GdGc2EON7q7Pb34Kjp56bgX2Al9g9ZtFbCMMwhMFRbKI8Kk-nl9yaljFwH-NkufcNYA6aVBAkgGzG41WwgglC-hQoqDzI52ItVum2FejhRyAF3Wzm2cXr-xb1WFjnFcc2vLnhYkIGWBTOjN5r/h1000-e7/Coser-Potato-Godzilla-Kafka-Lingerie-22-4kUp-014.webp"
 ---

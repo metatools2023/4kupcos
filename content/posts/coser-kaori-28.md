@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 86
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxMtePlS02AeOrCJIIrIAc5_21LtV66loy2cYL-Myf3IdAf_dcVn1Ou1Ob9G54JxesvssQoaj4yAqkWeKbgPB2zEkhiPc20LIcNGBiU2DaTlpCZo7daslIXzoLmSJG7W5CXZuEURsIC2P_dSgeK_bhZEoTgXhEKrEqlPUf6f0I_fTGSE_6oVATGVsBxhg/h1000-e7/Cosplay-axunkaOri-Grown-Feathers-92-4kUp-005.webp"
 ---

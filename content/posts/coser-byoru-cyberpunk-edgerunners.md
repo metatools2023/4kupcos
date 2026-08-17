@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxlZMuDk7ficcaueIo475Q759XnAfVJfbqCIsOOamgl-gVhblnxdKefXETVu8f8cLCiT_kjv3i1My58UEpg_3YCPSfEFsQhPXwYQ2h5GC9t8MngSeT7_B_PtHTJALAiz0ucCQ7v154UaaFi_wATJfCnnJdtY9tamz3nre8_82C_Yg5zsd5jml86bOZgzvQ/h1000-e7/Coser-Byoru-Cyberpunk-Edgerunners-56-4kUp-002.webp"
 ---

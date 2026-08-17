@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Quan冉有点饿"
+tags:
+  - "Quan冉有点饿"
 photos: 31
 image: "https://lh5.ggpht.com/-Ulhs8HGCUog/ZnSS_xJtF5I/AAAAAAAAC5E/UU0mPmAp21Y9G57d7WsxHismD_NMvM0bQCNcBGAsYHQ/h1000-e7/Coser-Quan-31-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 69
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLQnc1LMpThDxSD04yLMVZGHJNfF9yUcN-GN7DNqMh7ad-cyvU4wnhwO-FJiyFqIwCsbXhyz-ea0gDuskBe22Os0fLp3-X20ZZsm_fE_c2Y8YHOi1CzPKRdd1_XmWgTXO0wXamfnNuM0VU92SlLSn5i23rJTLccin50akRK_zTg2gzA7fX-fgblr685yaC/h1000-e7/Coser-Byoru-Yumeko-Jabami-Kakegurui-91-4kUp-002.webp"
 ---

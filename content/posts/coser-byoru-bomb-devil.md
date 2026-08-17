@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 39
 image: "https://lh5.ggpht.com/-zuH_48Tvs9I/Y5l3P6RZrlI/AAAAAAAALjg/mllXG4t722siUAk_vA7QTLLFTKrxMd0cQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Bomb-Devil-4kUp-001.webp"
 ---

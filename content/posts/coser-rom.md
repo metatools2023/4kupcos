@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "秋野こがね"
+tags:
+  - "秋野こがね"
 photos: 245
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTuL5yWIHLYBOiquZ3MjkNDNbvdsa8xeIM1RJX2KSm26mDyTJqY6B8wPAfyd6Etjjxgyp4bOe2JsHH2HshgWe5IOSnGy-FCiszRYGUL_TOg1fP4-xNKzfp2UOpWGZ0DJQVKONOz7W4BL-WpgScrA1uX8VSOxt-4iwX2S7baWFSzGJ78X8bUvxx7JoLVcM/h1000-e7/Coser-Akino-Kogane-ROM-245-4kUp-001.webp"
 ---

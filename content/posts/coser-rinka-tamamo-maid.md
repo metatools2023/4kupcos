@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 25
 image: "https://lh5.ggpht.com/-MNqycNjNdZU/ZNblN2PT64I/AAAAAAAAPjY/cHF4j127xk4eHCzVh0ZpuHD4-GxFdC1mACNcBGAsYHQ/h1000-e7/Coser-Rinka-Tamamo-Maid-4kUp-001.webp"
 ---

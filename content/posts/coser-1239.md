@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "喵帕斯"
+tags:
+  - "喵帕斯"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj5T8DuxDUHIUhiHy1zclDC2D9cep6y_jH2Gj0sP87pfWPyqIX_amUigz06eYXWFX3d9LjNsK049WSSdWPvXiDFiMpvsM3MteS9nRWly9ZQFkrEYryql91pvFog0wNrn7Nz1I4tXVhLR2ra0Ia-J6ktY9ZJNBJtR_P8tkc-zCmuCXEX3c2YDylDaqZsVft/h1000-e7/Cosplayer-Meowpath-Everyday-meow-27-4kUp-004.webp"
 ---

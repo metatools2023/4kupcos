@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 62
 image: "https://lh5.ggpht.com/-sIIWPetMVxk/ZOU76mIa1vI/AAAAAAAAWdw/Y2BukB2lM30OGfHJIHe4Eri3mEwniz7tQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Ada-Wong-Resident-Evil-4-Remake-4kUp-001.webp"
 ---

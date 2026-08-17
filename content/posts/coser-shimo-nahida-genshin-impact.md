@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnhxci0EMaE8gUv-9rw-7FJ2ztacq9zYiG1QfbdVwCYWIBPrRnxmugC1W0zA1f2DkVFZo_i3y9osuRDmNAg6rtHJ1p4x8cKbh9ZCd5ymm3WivnkbYpX8MaV5CObdDvDPh4R5ae8g1dZNyTvidsDRiSHBgGWGNv1cnFcGO3RTiO5EeUhPKpjQMKqUfTHcF3/h1000-e7/Coser-shimo-Nahida-Genshin-Impact-24-4kUp-001.webp"
 ---

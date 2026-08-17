@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-_w3bUG5uJzMHthLSSkoMqP6HxSG3kdPqBypAR-NqMn-Xr5hDhV5Yd08KpUxMtL_6ld04A0OBuxNva8xGgjoBrwuhC1dDkzRvI4DSAHpuUPUPoM5Z8eyiFq9e91U9GmF5CEMH_D9uKQR1Ip-Qysi2NejjepOzPJ3UXh_x3p_4LlVAD8klrwWqoJtxkXrw/h1000-e7/Cosplay-You-Ai-Youmeko-Black-patent-leather-high-heels-bunny-girl-29-4kUp-001.webp"
 ---

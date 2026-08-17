@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小樱"
+tags:
+  - "小樱"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_p8gdq8Lu9sS5xGyj4y_MqF5o5Sp4c7rX5pJkG4qLt8tZYh4nyMRG4PX-nWnqCxceEzHzHKIsL-OGDw7G-s5uCp6ODYeAibYVOjvzebjcQfvAZCqXthQJ3zmevFanekLnpAbiHnBwNLBV3thh2yYZl5fhNL_JMFutlozrzdXXeYzNWfA0ouUpN9JYHuvw/h1000-e7/Coser-Xiao-ying-Street-Fighter-Chunli-21-4kUp-001.webp"
 ---

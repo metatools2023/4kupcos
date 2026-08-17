@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4lgxw_QiCFCV872e1jqsQsAfjHAkzC4BXmpv7UH2_UPWKgwtycGK1UOcUuQyqdNvkwoseXAqPiMZMI83wvjjXic7VBSrKdErBL3_XYQiFqks8du_nDoiX2jBXsU3nqKvs7h-TRl-_ZHR35gzjnYa8YNpTmfljHSr681lFHnaUbZMt3b2EsGGJ2QQ2Sg/h1000-e7/Coser-Aqua-Dongtan-Style-20-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "钛合金TiTi"
+tags:
+  - "钛合金TiTi"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyE6LS_iYcEVPDdjmKOoBmBlz21y-YPPtCmH3w5HIiBmJ9oZhVOnJMw7_FfOlwE7_o6XwUvNKrfQp23LhR7oAMkFNIaXo8mJHOZ8QTK6qWabM0SbUOBf6A4TdRsjLiYwGwlx2yjo5a2wm2i2o4_7T5VSpQbi7aoeUkq55kbWqQVP9LaD8S47CoUXb5OOav/h1000-e7/Cosplayer-Titanium-alloy-TiTi-special-counseling-36-4kUp-009.webp"
 ---

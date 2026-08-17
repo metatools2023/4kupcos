@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 38
 image: "https://lh5.ggpht.com/-dgbe_HvqVgQ/ZQI2RUE_ffI/AAAAAAAAMlY/OjJq5GlK3NkJirWmwmx7O7LGTp5t5EulgCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.077-Summer-Okita-4kUp-001.webp"
 ---

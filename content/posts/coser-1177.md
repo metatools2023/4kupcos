@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星野咪兔"
+tags:
+  - "星野咪兔"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vpK3T1NiKOtjgSZ-pVHssZ55k13BV_r8cfzPp19TTpY8gW0SYsvbSY4gBAaUjFldZm0mUkj2zx-Zwy37Ns97hYIHdnqA9l4xCT8kAfqk7t4xBqBaaDIeHK0QHdm0HaTjNDZr5g9i2q6oIft6agQqYHES57oQvMPSvZ1Z_RPVSTG6CL8Z2mO3E3oh9fA/h1000-e7/Coser-Xing-ye-mi-tu-72-4kUp-011.webp"
 ---

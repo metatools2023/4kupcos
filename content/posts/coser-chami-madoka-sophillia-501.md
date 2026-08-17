@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Chami Madoka (円ちゃみ)"
+tags:
+  - "Chami"
 photos: 128
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtHTxXJvFZfGg6hEByNvUO2gYU0n89hScSwulCanvAQ6rSSqur-sBF-zBiPCNRUosA0c02-gYkPNnaCxZ3LtUWImcYS9A_zZxEJhgixVX8AQBa6cxb0kCUcB_UAOX2bBnPSBI1W7HESp_Agv5sSLWn-9MpESGMZDyZ2JZsr0XYkNxoEAhqBh0AGcxwdg/h1000-e7/Cosplay-Chami-Madoka-Enchanami-sophillia-501-128-4kUp-017.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "源纱希喵喵喵"
+tags:
+  - "源纱希喵喵喵"
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgt-Ft9hW164YbgSQvcIXsCBHPKVRKrKaYKr8x3Qs0I8L75JrKxYADlX3Ctiyz3sGi577Pmn0c6MBCSS-t3z5ppxi53ev0gN1EZ9GPbkVuvuF9mT3fACney9U9ffqFdSUfC_FNCThk0ThGdOSxAT2ygcyRCkmgLMlUFvGhYbMsWRDmerBbg5FiJ6vdNC9Q/h1000-e7/Cosplayer-Minamoto-Saki-meow-Light-and-shadow-studio-shooting-tiger-roar-12-4kUp-001.webp"
 ---

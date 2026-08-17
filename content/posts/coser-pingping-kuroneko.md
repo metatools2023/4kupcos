@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDK90ES7eMcFVRqxNXIzM0lP1CfLL8jg0hOOaYAyWtQRKHxpHDpKjl9LUYVRm3RFz2J8xthHHciP_Dz6SBFZQGeV1GVb6FIaqXMiLzd0-qwTJcP5RLvsFE4OPC-RsND2HmBIs7Rl1H6lS3jtSkpcz353J9bWqwk-z5UzMWOpulPdJDBw-lOMKkXKhDV4a9/h1000-e7/Coser-PingPing-Kuroneko-31-4kUp-001.webp"
 ---

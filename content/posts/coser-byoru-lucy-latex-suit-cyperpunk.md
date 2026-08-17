@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjN8otMWWF1hpP1kiCN5ItiLliNdbxP33NVMVCcH-vOSYkyFbpMkOGgY28nEJqG_-SIFHypCp1lr2_wCVr3Y0wXvISpqrJ7lDx30UKxXR0gCoTNXyY6zxS9GsvCb6GkoRnTfngUV1By8epbzV7gF2GgJ7C3mGMrcV81EQEs3ER0EFAfmRjY_dpISMWuleg/h1000-e7/Coser-Byoru-Lucy-Latex-Suit-Cyperpunk-37-4kUp-002.webp"
 ---

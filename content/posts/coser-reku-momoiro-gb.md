@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Reku Momoiro (桃色れく)"
+tags:
+  - "Reku"
 photos: 101
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiITSmoETPaTrEdQDdnIah8x9M8lXpWLEhAlpSDJ2fShx6q13BA8Whk-idh9DdpTcvfPKxQt8goZbdarb6SOT-7h2MFWXiXuvmAAnwTxHj8Nin57ppdVlicZ0C3jAUUN2zGoXeK-6yhqQdNUMiuexgjWWrm2FYlCDPXNGyacJFPj554gulyxIc5uF5bAg/h1000-e7/Cosplay-Reku-Momoiro-Its-pink-Love-me-GB-da-101-4kUp-001.webp"
 ---

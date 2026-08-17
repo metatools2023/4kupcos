@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMsTtv51hyphenhyphenGVClXx7jhi73KVqZ5_Si4YaBi0wGsQYhGPbw4hlrWCcdOJgeb8OHdleRlrW3eg4vyYZGiJzuqAylYH2SddF-Y_eu-699nfyGsS6kjLi22lw-iaoLlAmj3LMQh71WAROwZnedNQrZjWOIBclXjbTWLH0jv6Pq0CVRS2Z1g3WpUaH77s4uFvSv/h1000-e7/Coser-PingPing-Keqing-Softlewd-18-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 69
 image: "https://lh5.ggpht.com/-EFKxtmURX38/ZobI-y4tcLI/AAAAAAAAMtM/QH30hiT9QCwS3odmLCsOscS4ppSLXKOngCNcBGAsYHQ/h1000-e7/Coser-shimo-Elf-Paradise-69-4kUp-001.webp"
 ---

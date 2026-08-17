@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "lunananya Blue Archive Igusa Haruka (New Year)"
+tags:
+  - "lunananya"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVm9DDGcUxV42TKANmazvQG-Oah9ARc-zl2PJ2l9MZSB1d76hwFxSV0AnCB3nrdnIb4imV9DbQd1OMP-TpYGX9do58q2w11xy_mOfiXL68d7nqxJ6NVQZcPyWtU4HdlnYdBXZnL1NoJXkFdet_n4DDPEm9I7BL_tC02rdmAsyVNjswxhsh803Hua-p00E/h1000-e7/Cosplay-Lunananya-Blue-Archive-Igusa-Haruka-New-Year-34-4kUp-002.webp"
 ---

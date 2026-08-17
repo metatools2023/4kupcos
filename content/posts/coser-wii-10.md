@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "起司块wii"
+tags:
+  - "起司块wii"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDlnbXs7lG7YQ6_jC0YzpcQ11syvQBPEs9lbAWL8fCeRcnCsoMUP1_TkNNs7qP9sHig1yJbFD4hMfg_-_-BH9GDc4EyG-lTJISiIB7epj5XW259KdyYXnn85K2QzTtJgKK2OfoUkaF7qMG1-4i-Qg09GXd3O1HN2log3ClcpAQVhj8c9phx_F4XasEUemy/h1000-e7/Cosplayer-cheese-cubes-wii-Kitagawa-Uimu-Policewoman-21-4kUp-001.webp"
 ---

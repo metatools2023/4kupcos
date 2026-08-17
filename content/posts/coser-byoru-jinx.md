@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 30
 image: "https://lh5.ggpht.com/-l1OrwhNoyoU/YtWI1V7_BzI/AAAAAAAATSg/CTau88v_EdgRFgo0__lj5eMpzk383T89wCNcBGAsYHQ/h1000-e7/Coser-Byoru-Jinx-4kUp-001.jpg"
 ---

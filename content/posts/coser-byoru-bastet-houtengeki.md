@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyl4XegTpFMLtngxdD2p8bVnBtm6qaCEhmuLdUcPZ2L1CU-nx97Bn67p39kRilKSjRxBW9v1Nhr2F3QX91qJ8hUqrmRrtLTbu7siY_LHDWSagQIhLYpNSI0hs33z_hq4m_NsFH_ztBC6iEBhDBugbkqsx2B3lzqkasQxGGOrjRzv3g8zMXyUH2xHM3AYX1/h1000-e7/Coser-Byoru-Bastet-Houtengeki-53-4kUp-003.webp"
 ---

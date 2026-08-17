@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibdLzjY2R4bkYFwl-1FFW5v1njpG_nJ24Fk1_FTHGdoi-LxaPz_O_98976MQ-76LatpNIV4RTHKuc_PD92VPQKM7jXkBmVguJMJzjDynahqbQ1vlHTfYKGb6EjIt6YK2XWmglGBZWszSuQGmjgNUNIqOhcTmA-6SoHVhlCQq6ISuHPFxP8bVq-1N2k1cDa/h1000-e7/Coser-PingPing-Selfie-of-PE-class-30-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 54
 image: "https://lh5.ggpht.com/-A0h5NIZuAv0/Za2cMIRl7gI/AAAAAAAAVTs/yru5hVsGyKE67NqdVpTc1ExElPQucXUngCNcBGAsYHQ/h1000-e7/Coser-Byoru-Mavis-HD-4kUp-001.webp"
 ---

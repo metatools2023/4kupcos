@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Imyuiichann"
+tags:
+  - "Imyuiichann"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyBWb25Z7STX9e5F0oWb3bf6fRhCB4T6V5dJPNEVOUNodovcVz9_8WJZCzGi0UqExdYclFUpnVXRygZgkRYj7bRPIAnCyCGbCpJ5TU2qbD05IfUt5K487tqfxOGosd7s1IqZyu7VEXcBS6le30EyXc10qh_SgONMG0nSy4JQv4bAtl53wsGJuQXaCAb9wZ/h1000-e7/Coser-Imyuiichann-Kafka-17-4kUp-001.webp"
 ---

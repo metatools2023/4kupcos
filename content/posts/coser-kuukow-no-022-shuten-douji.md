@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 57
 image: "https://lh5.ggpht.com/-Zh3LoacENEM/ZK8KiOR2GsI/AAAAAAAAR9o/3YXP9Zka5Y0qb-rH_u47VtvG_5wsNjuAQCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.022-Shuten-Douji-4kUp-001.webp"
 ---

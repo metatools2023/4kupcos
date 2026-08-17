@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Misaki Sai Duchess (Elden Ring Nightreign)"
+tags:
+  - "Misaki"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxgPach1n0f5bp8KGhwSKhhKBmgpe-dxvvzaSOlbd2bspX5I3zatzaz5zPSzN92ldUs0Z3AwKNN9j0CmWsEJZcbwgvhmpU9zXysB00FZekRHezOnE5SxHvd208QqtjUUS4ta6BpBh0aL0I5qTYlHjmoeWH5krYZCLP9fd2a4MN5ZFT1D3Be3L6lOc0Sqk_/h1000-e7/Cosplayer-Misaki-Sai-Duchess-Elden-Ring-Nightreign-40-4kUp-001.webp"
 ---

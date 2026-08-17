@@ -8,6 +8,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvQPYivW0V3GKNyS4H_X9dbuvUBPQMc1iPrAMDYNU0NelywokmTC_5NUepslnNEJe_1587kS_jIH2du2zcG4gFcTXhB7bmcDSS0x6bb1xD38Gxn7MVJr8fYIDcxhyotjHIlUWRHcGrvpIsDVyaa4xEXLiiQ2FCPH3lXbIzT0vk-JA9bPUYEUMZtgETcQ/h1000-e7/Cosplay-byoru-outfit-bluheat-63-4kUp-001.webp"
 ---

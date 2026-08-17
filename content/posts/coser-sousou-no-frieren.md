@@ -8,6 +8,8 @@ categories:
   - "Coser"
 models:
   - "小樱"
+tags:
+  - "小樱"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtf0YBMmNDmpkvwbBozQoJL5kiXMRnSL7sc-9UJviaa-5w4NApND-h4a6itwaWzy_Jfc5Oa2yafqwCP_Bz9sfyM3IYuxApP57VHjXLyZ912uwgXeuVnJZpKx45FfBpsvo0pmrZqDmnumC0CWcBTYcR5m7NFIf714iq_JwKfSH3quJMwrIyDfq_hTAZ6Q/h1000-e7/Cosplay-Sakura-Sousou-no-Frieren-50-4kUp-002.webp"
 ---

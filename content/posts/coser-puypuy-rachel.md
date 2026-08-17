@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 68
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrxkUvllNcI9QUrAx7xuSzvoa0f-B5MAb5xKD4sCthreqwgOsIIZreiEoAL7oWxqgWQko160sdH-WnSAcxfQAmiN0IzyxvhQHzTNjVS9qz7LxVEZNiwPwtJMqrVt9QXauObJ4SW0D5NC8dqD3UjIJZvabbkLVgXpNwYaBO7D7FWi4ougHTANU_2b128Tcp/h1000-e7/Cosplayer-PuyPuy-Rachel-68-4kUp-008.webp"
 ---

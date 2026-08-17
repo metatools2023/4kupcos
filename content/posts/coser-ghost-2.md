@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "无影喵喵Ghost"
+tags:
+  - "无影喵喵Ghost"
 photos: 150
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFc-yIgBLwf0ZFNR5xml3G0l3FvYIXRHhiLFAPT2d4JJSiXvSZMqbIlFMqvYZBPB89voye6hCCL3TN0urP4AeAb-hFYDEBKlK3zrCV5vUwZDX09tqxip9wIoCXOw3kzGWPyXFFDDcr4yiMGG9o06hobpEEPFkl7qE6M_Q7AYAYY1KeDSFYfETMtJMlX83P/h1000-e7/Coser-Wu-ying-miao-miaoGhost-151-4kUp-014.webp"
 ---

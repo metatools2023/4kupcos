@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一笑芳香沁"
+tags:
+  - "一笑芳香沁"
 photos: 25
 image: "https://lh5.ggpht.com/-9gjaadn3_8I/Y7L--AK0fQI/AAAAAAAACnM/rQZUhysrd909J0xuFBCySbLCZRz-cmM4gCNcBGAsYHQ/h1000-e7/Coser%2540-Black-Beast-White-Spirit-Aristine-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "鹿八岁"
+tags:
+  - "鹿八岁"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnefD4FVaFDeFM5yF-JMk7WP45SlWcsfQJGk-yrohO3_Hx3wpIGBd6ktsJIWWbOWlmu22RJpzzZZ4We57tBgnFP2wF_CO4U-9QekVG-vXXO5pvImJUkBWqqXp9IwiuTULbz9cQXsWOYZX5xECOmbJiBCjJ3euqxB5mEa25A_1JOvm-oGK0mrg7uOjT42Dj/h1000-e7/Cosplay-Lu-Eight-Years-Old-White-Silk-Sailor-Suit-35-4kUp-001.webp"
 ---

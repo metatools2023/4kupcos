@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Rizuna"
+tags:
+  - "Rizuna"
 photos: 202
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiujejEeIElaUvz1NMhtReYfgbS6_lkLWjclpFmjM_9rvrFjXHQ1pc45bAbjOy4bqmolzT72uaA7dHg7za-vP6kbKGnBfPSyUdN5lfVqoox2qrhMNUjyVZQKXQVzUspAFarhyphenhyphenM4-2VsT_GW3TMFRKH5Do3Cf60lRBuOTel5-dzB_GPxLxhH8HqlLh_FwhI/h1000-e7/Cosplay-Rizuna-Devil-Rose-202-4kUp-019.webp"
 ---

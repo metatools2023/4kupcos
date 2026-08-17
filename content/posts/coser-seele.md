@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Seele麦麦"
+tags:
+  - "Seele麦麦"
 photos: 9
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidAstZV0JAMZI6ibqubkUVxZmjZFuYUf-QbpPjzCRH3MVZzyOU3paXjTfIQXCzRmdJ2cxSzydXxo2B_ywnmHH3DyLcgeJzMzIcSKatX6xasonLnwihbXXBiWEzHsMkGNAXOjJ3zDKiN5N5NRhIsi8ojH1GgpWqiMxdW-oO01Xw_r0-cNis1AnS0EBZoWC8/h1000-e7/Coser-Seele-mai-mai-12-4kUp-001.webp"
 ---

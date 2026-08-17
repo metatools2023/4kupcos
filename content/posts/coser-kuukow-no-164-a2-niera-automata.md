@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOzg7bKdt4RYXOmV_3g5oELhhTIHeAL1lLjm1i6AJj6Mii0gKcVQrfwjXUR0GwkdBohIVCQpCNQB3VxNJViml1mjT-CJ2sqmIcHVKzfnboJVIz8hqNG0oNQ8Zz-HFBejrzjAcHMVx9axXTWuCB9etSYVqC2rlNz61A4ACnny46eib0Td-6789poUcG04jy/h1000-e7/Coser-KuukoW-No.164-A2-NierA-Automata-42-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru Saeko"
+tags:
+  - "Byoru"
 photos: 48
 image: "https://lh5.ggpht.com/-u6XEX3eOLfM/ZW00TzEYc6I/AAAAAAABMAY/UizTpbgHxCUCuP9vU_7TH0Am2SdM-SHugCNcBGAsYHQ/h1000-e7/Coser-Byoru-Saeko-Busujima-4kUp-001.webp"
 ---

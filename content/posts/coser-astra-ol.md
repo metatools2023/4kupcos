@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 59
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-7phU6z4haZcFcfN8bN6lAyT2c2d4ZLlJ78S424ue7A4WlIQE540Xw4QhlFvLpV_7r8N8T7POrx_CbL61xRKHL1T9ygu72MNNFUSrgZ3T69unv5fmtVTMrDC2_Jra7VROlDX9NBd0trcYG9uy4PqL-nJa11l4pouc-HExs-WvzBtxdQ_nR42fFIcz9lw/h1000-e7/Coser-Yuki-Astra-OL-60-4kUp-001.webp"
 ---

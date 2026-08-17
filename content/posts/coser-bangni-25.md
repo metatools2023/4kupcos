@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bangni邦尼"
+tags:
+  - "Bangni邦尼"
 photos: 88
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCF7U7cAGVe_2uwGphg4XCr-n6DYLIRY5WYRdmowuga_8UZqUtf7jpwJjBT_CeKzjW_e0W41GzacRsYZ03MjG3SFvHAf3gRUNdBnYzfkxDopkTOOsFgXYo49Ov8ITdG8sAJJd-rPM7odrsYdZZt3Is6VDZ_kjprsJDPBXGyE-tkP-tRAAB_SpZcf0n8w/h1000-e7/Cosplay-Bangni-Magical-Fantasy-88-4kUp-001.webp"
 ---

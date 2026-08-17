@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://lh5.ggpht.com/-q4vLPDfkkbo/ZmDx0XrJlSI/AAAAAAAAyAY/0OR1c9TNnHs2_rjk82wx02v2weXZLqctwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Dizzy-Guilty-Gear-63-4kUp-001.webp"
 ---

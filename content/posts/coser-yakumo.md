@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "yakumo猫"
+tags:
+  - "yakumo猫"
 photos: 177
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDHfZKJ4pC-_ZU-v1ehz0NvwRdWc1tHR5SUxMUzX6EpAI8gNPN0jVulm_ukLny2iM4v_v34cuHoeFY60tgn3YEX031iar1Z2wSuLvfaC59tMH79D_Dmt_Mo9cuq-RbOzeqFMLAcR2sMRHoIJ15UKHg-WbXaZgPB6rD2ACmZsieyG0e6gVLIrjRY1PA0B-o/h1000-e7/Coser-yakumo-182-4kUp-005.webp"
 ---

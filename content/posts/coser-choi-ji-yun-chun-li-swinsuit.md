@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi Ji Yun"
+tags:
+  - "Choi"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMiJvVe5s_iRmgX7lDfhwEGIAugZRT-CuS22yRrH2y1nQetqoe-11ISrhUiFf8x77zdclQVeBjps749aZ6NSehOHYdJZIky_B3I_tiw9dwI17YwMcc0q9Upn4-iBmwxL6fHRk07MqSp4edmfC2Te8vbD3UxRsU2-0E7uT6gSIeSbjGo31HbkJ4xAGDisZy/h1000-e7/Cosplayer-Choi-Ji-Yun-Chun-Li-Swinsuit-27-4kUp-001.webp"
 ---

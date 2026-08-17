@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 77
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRnNQDq3_mi3YKsYnfO9N2coxxHKXq5Jg9wo6vhKrHRL1XhycEWRnaTEvoyy6oeMZGLhWR6U4val2MZKDJfRMjQ4oT_AbcBOA9o4TDmPnS72berv8o74mwovDksRUbN-y3MJv1U5Fke7uowMxpDyyo7gW63uKz3fem02G_AiPAWv6iE1aB0TJePfdLqFU/h1000-e7/Coser-Candy-Ball-Atago-77-4kUp-003.webp"
 ---

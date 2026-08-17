@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "坊橋夜泊 女繪師(東雲)"
+tags:
+  - "坊橋夜泊"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj78cEOsAf3j_qQ4m7JddPUjkMjOQD8Zest2mJldast5g7_wsR8BFQ5GO5bkoN8RBctdeCebu7Bqyn2rHd35VQH7Wli-60oDZtC5ctea2bX50Rnk4DJH2pyr89s51X6m0mdjhQ2jDz4ZiTDiH-hAG-VDYrZQfrFTiuHscYVaDdysWsS84kTPhInh5QIWWhp/h1000-e7/Cosplayer-Fang-Qiao-Ye-Bo-Female-illustrator-Shinonome-28-4kUp-001.webp"
 ---

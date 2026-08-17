@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinYzV7AeO6Hy34Nh8L-inUQ3ugU3o2maN_WcQorGu9mRpPS8S246r-NTOQAlWW3mZmeiLTnWgOBEj1lPVent5fsJCGnQ8VEMdeOhnj_K0aJj_EHJHgQ0OJwLOy7FvQbZ8bFWups7uJfd3HzbfVpCFLcJ2NoML0xwethSF99ZC-IfrglTxRauOgPudE5qX4/h1000-e7/Coser-Hachi-Mash-Kyrielight-29-4kUp-001.webp"
 ---

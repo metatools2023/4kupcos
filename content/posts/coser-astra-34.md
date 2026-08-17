@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCzRdZYv6LPpNN9tZtD7SBqTijXGPqy7eiqqKaCEFMMXD51VmlME26RBTFrFr7C5unVTFx8tnAIH7hPQtIjxpBi6te1ou4Cs13oOBjeI-jcKHTf23tkYmK1aKWl4DcmZ4QWTsczfiGUIdd2IaXA6vHYhHMmzdtYrq1gX980McWqxUL-mEkzTeLtRa8d8K2/h1000-e7/Cosplay-Xueqing-Astra-Riveted-Milk-Patch-44-4kUp-001.webp"
 ---

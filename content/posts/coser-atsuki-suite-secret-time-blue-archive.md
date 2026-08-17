@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Atsuki (あつき)"
+tags:
+  - "Atsuki"
 photos: 366
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9CsSZ3M77owAS28ohNdI8bqSqYLAGkpb-_DlHknAeSUpMiQM1iAGwYmGkPc8xH58VqNa5j_-JK_EHcDZlQScWSd0px0fSPVE0zFe5pANUNF3GWY8jalZkHmvcj88SRozc9xWmyrNgfx87nrrbtgC_nKZ8IlAcmdqSmSp7W2kV-al0erFlnCJ1wAIbTSbf/h1000-e7/Coser-Atsuki-Suite-Secret-Time-Blue-Archive-367-4kUp-014.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 85
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpEi5kQ1C6IcSJRgKzBK4bWLTv2yGlnwb9vQtpwQWyL0qz52srWLM0lAqqgCJ5GChMxf4BdnRlhuDmNXLbFp5XyspL-x_WZXY19UQ7IP63XtdVixQ0oXAG21XSSN8GXXDS4FC-NIH93DFa2lgALptbH-nY1k1SlRou49kfxOIi1t5YN5ejnRDx9qs0TV9-/h1000-e7/Coser-shimo-Ane-Naru-Mono-Chiyo-Photobook-85-4kUp-001.webp"
 ---

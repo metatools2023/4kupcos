@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 53
 image: "https://lh5.ggpht.com/-JrSOLOY1GAA/Zm4MEm-0fkI/AAAAAAAA7F0/2SGJbOy3-uspRDZVEl6_DHXA9MaG5EvxgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Shiori-Novella-Hololive-53-4kUp-001.webp"
 ---

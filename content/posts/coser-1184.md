@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻花麻花酱"
+tags:
+  - "麻花麻花酱"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEip8KW8_I2_FUlTdfG_PXRuV2I7scsDQoTP7hdIIWuwPyYhpzmL1qHtgzp1TOiGjz94mjaaagZZz8JEt0hwVQ6A7XC9HAQ-72Jqgf14KgxTsza-4qSYjo1O4iTymKdb2p8dvBpzSWc8EdIOXb9HwOF6iyY2q1hJZ1VPI1f5bitUkV9UFfjVCrT_shYCiSk/h1000-e7/Coser-Xiao-qing-ming-28-4kUp-002.webp"
 ---

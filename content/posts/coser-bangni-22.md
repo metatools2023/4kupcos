@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bangni邦尼"
+tags:
+  - "Bangni邦尼"
 photos: 81
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAaOyEaoFiCz-ZBb5jVpFB3O9U28r3IMtSQM-jFoc802R7pLUHcaOrU1Ho1otPeCJck9jblYmgs7rC_TrCuCBdJSZrQ8PoG5Mbt3rlDERvgMPYFE_9PWgOTOmXDx2LNm9BXsgkUKOUJ_0l73zIqdOr-mhtMnyTA-GvMmac1SDGOB1GHWmU4M_Z-Y1ffn_b/h1000-e7/Cosplay-Bangni-Small-Staff-81-4kUp-001.webp"
 ---

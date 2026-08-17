@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhczVKRniNfMkNVO2eK8dHHKG599dgCBvBsvzKjTiSfcF78yQtTILF7pIynnnkaKFdXvMlj7_HyPY2Uzy7opk7CDQEM5veQZFFFjHgAbJGdUhjvJoT-l1rY3Gn01j864WRFxruvfmIeuePXGZRDkiQHZjtm9dk4-pe307EuLlkqLyuZghIcJtCKPFfVwg4/h1000-e7/Coser-Candy-Ball-Soda-76-4kUp-002.webp"
 ---

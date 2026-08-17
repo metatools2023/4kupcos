@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXu2jPaAeRXYZf1kGEze0a_uIUIudFD4VoprsCboCXsBb_IB_BFtuGB1jA6TzNr3tI8X6tuTqHRorAJX-p2yuUDFwaRn8CSgEjTvOmYS0HGxI-eTksmfPzI7b3FHSPFGoyMYikE44-HGxHDkWe3-8oHrYBNdSE_DXKRv012qnC-f9zn75m_Q1r5Qjbyl4/h1000-e7/Cosplayer-Mochi-is-delicious-Miss-Snowmans-surprise-instruction-33-4kUp-001.webp"
 ---

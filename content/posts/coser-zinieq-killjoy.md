@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 28
 image: "https://lh5.ggpht.com/-4hio5pYY-eU/ZX9zOdj0NAI/AAAAAAABfi0/0geV1g_ocNUwdFblesFApLg-oRthl1JXACNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Killjoy-4kUp-001.webp"
 ---

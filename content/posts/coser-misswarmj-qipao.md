@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "MissWarmJ"
+tags:
+  - "MissWarmJ"
 photos: 20
 image: "https://lh5.ggpht.com/-TzKr1T__XMQ/YngC7J_dNCI/AAAAAAAALcQ/Y_CygCyrm04l5RSsayGiaX9Zw3HtbcUIACNcBGAsYHQ/h1000-e7/Coser-MissWarmJ-Qipao-4kUp-001.jpg"
 ---

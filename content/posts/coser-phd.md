@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "爱老师_PhD"
+tags:
+  - "爱老师_PhD"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWl-4vjsPKhFwChsnm1e2rlrXa-ROtAKR6BMJOeMLDfG5Tz0WQ07fgAJCX6jihaevJIHvmOcwMWTFx2G3R6DCJmHbbFdthKf7J5lULpzLWG_FXWzMOQXr2EqUmFz8siWMv-Eot1aldMVOz8tTxKyeZoBpDxrQZaEq9Nf8FC5XGIkrEiyOpDH_3vpDQRWp-/h1000-e7/Coser-Love-TeacherPhD-Great-Compassion-King-50-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayathefox"
+tags:
+  - "Sayathefox"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLti_Yo1RdhsahLybiLfG_2KzKi9moWcpG19lHPCXbRV86UHzAoO4Q0W0mHDuJAMjeBfHk_aDVkXC8jN_iksyA5nVjzSa1t-K2zaEkcPLdKmGCcQVmqMtptjrvzm7fH6chvO9_hC8WUKkPki2iYvILWk0FpaGx3mLSBScYgaEyPbJUzDiZ6waefPRs14A/h1000-e7/Coser-Sayathefox-Tinkerbell-15-4kUp-001.webp"
 ---

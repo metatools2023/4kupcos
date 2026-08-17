@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiza9SgwBDStB7JzTKIAO-bj8t1kDl310NaEH8BWZURyy7lqjRUE_47hlou0Y6ftmJ58uIC0xG7P0RCf8dd8khQQcW0WdOfJ-HJp3O3NN00buBPdrV9sD_A3aXgy-F9f78AJvIfksHpBPbFJDJ2VhkDewyjEZq3PlZwp8-Vam7Z6E_7Ews06mEYSevhKXXV/h1000-e7/Cosplayer-small-store-chiyo-w-Animal-ear-red-velvet-cheongsam-22-4kUp-004.webp"
 ---

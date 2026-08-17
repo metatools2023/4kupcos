@@ -10,6 +10,8 @@ categories:
 models:
   - "三無人型"
   - "不呆猫"
+tags:
+  - "不呆猫"
 photos: 51
 image: "https://lh5.ggpht.com/-znP1q1xf3Rs/ZmOP2H1qROI/AAAAAAAA01Y/MX4Gw0KgBSU-KJpbWL5P98iqoLlIi-xbgCNcBGAsYHQ/h1000-e7/Coser-and-51-4kUp-001.webp"
 ---

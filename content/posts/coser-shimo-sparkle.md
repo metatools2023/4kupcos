@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1P6O_wCr876AQOkVJpL3q7FerdFmSQHHIlAikVD1MreCMB_FnLVyfhx4aiC3Fnkgc0xet0yQHECpy0vTWy-is4PIo0frSBDneMI1VNlcnsVs04Ju4I8s6vZDA2v7BjTxnIauwVeAGoNcu9fixHBgieO49-ST30gJs0EfB73F61VcK3b-X8bId9HZTEw/h1000-e7/Cosplay-Shimotsuki-shimo-Sparkle-20-4kUp-001.webp"
 ---

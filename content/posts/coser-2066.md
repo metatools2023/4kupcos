@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiS8cZTrxOeRV8qb8-JQ5ZsMOy3OY_WF3Xd1o8HsoP1tFjFN1bR2lGUqggestt63lLBdeNXUAGHow85nbHw9i1blFmiu51MtKBXcjTNmdhME5MYoJw2W4_VPvM_KJHjDddTDHw21iti7Vx0r0M13RoRSgNhnZbUJaPASWcLiyxOix13PVXrxDcByEdkc7nH/h1000-e7/Coser-Shimizu-Yuno-Christmas-cookies-60-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYqSE7t_NvELRvG0EYrwbgxwrVEwPar34_L0Oy6NUK4Z7efcBTkWwNKzAxZcHWR1K3OdQk9FBsm_n4vqtndnprSeZR4wzT4MnzWancoFezGPro15z6g0B8I-zp54UzB-imdAOhK6zWDAZPza4O7Lv01VhQ7NavaP739HBzJSeMeO5wAaie4783kne8pleQ/h1000-e7/Cosplay-KuukoW-Yae-Miko-38-4kUp-001.webp"
 ---

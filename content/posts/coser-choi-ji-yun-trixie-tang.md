@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi Ji Yun"
+tags:
+  - "Choi"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXTj2g-Lb9hT399WYipiMTPV6H6m4IwIQ-U8z41QnJc5_kVhtOI905xNrD7Rpd3o4Qg6Df1I4NpyGlNp-z04l3wwuTAztYBzsPLlC7KPfnxKOVIMsHAQ8Aumxl0BFumjgZH9CDREBMKJop1tCMUguQdAn5_2-_4pfWBYHn6_uWcThGWnTarK3dL2yhF1b9/h1000-e7/Cosplayer-Choi-Ji-Yun-Trixie-Tang-27-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "けん研 (けんけん)"
+tags:
+  - "けん研"
 photos: 200
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCiMxTKHznFtEZyr1MpYujJsYMLr9bYEgpxzoIojurKw4TSFV00qfJy9xYVcYrldbX9rBO9zw4YLvDNldE01oe13OmZ7O9d2O2iOBvtHFeexYjx0RsTvmkJw1UblpdW7oiL6gyF_jm-cnc0M2HdMhmEEHWvuuPfLIb0no1lBuhTWsULHcsC8w6xA9Ty2Lv/h1000-e7/Coser-kenken-200-4kUp-001.webp"
 ---

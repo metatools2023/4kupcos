@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce Lin"
+tags:
+  - "Joyce"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjctoUREXidffbj3958ZNOmgx-tI2blZ8aCHQYHG_YKd0WjIxQfuuAf7b0hwBvFzbytGrZhfV7mYLWOZSbup-IUx_XDxDiBQ73yCbLxRKPG9pScneCeGWkKltW3-e-Usi8YXHx3S2kwm4O-dj5q0kZH9MPfjPkzxhc3hSWzFNlzrHrjNj3oZMO2pykISBMw/h1000-e7/Coser-Joyce-Lin-50-4kUp-004.webp"
 ---

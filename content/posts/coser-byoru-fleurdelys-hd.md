@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 88
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfze-lGJkPfaeqO1K7mxE24QjelwowLBpLh8ocaXkqobX4EKwHSQQqpdUuMHP1a6u1dCSPtBDHVa6-aQ15pTvO7d54d3IlRKacc6rAYaHdVmhW-YsFCdE_OjNU4U1mwz7hBOm-9esC3NWLKRSxBt8PEVYy7Pzh-pFa1kwHA1gKffols4dfxi6Ckj14UeM/h1000-e7/Cosplay-Byoru-Fleurdelys-HD-Mingchao-88-4kUp-003.webp"
 ---

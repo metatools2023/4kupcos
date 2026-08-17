@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7sdBGvLFuXy0jZ0vQkVkTRpNiDgzqV9l2aV-JTQ-1RnSMRZ30bPZ39hnLFxT5oui6eG6Xawmi6lzsyXonuaySULgQcAZWSINVXyV1z3ma3sp-ix_erBEVWwczoxwQ1Dga4xshUO4fUhX0lQqwI2wHuLOonfF-AdqIdGqvxIWG83NsQJ2FGzZpW0cFrEKD/h1000-e7/Coser-Mian-bing-xian-er-43-4kUp-001.webp"
 ---

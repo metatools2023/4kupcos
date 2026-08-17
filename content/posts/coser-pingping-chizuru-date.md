@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwgjDKqlfQEARbW5mBqt9Muld4EMGQOj3-TspT6lbhHxwwXu_c-WWhxPiQ0hWOQdQeTy8PDiNh2uDGywXbE9Ju4l_4NU6aGlf-awFEPlZmw2ukSQCQ1SkfdusMCwU67yZInMoCn-uhN-cSe84u3lhS_4wdEroy9rQ7L_khQNdLQALvNaIWEs7kqDnMC7AN/h1000-e7/Coser-PingPing-Chizuru-Date-31-4kUp-001.webp"
 ---

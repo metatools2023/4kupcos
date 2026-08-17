@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYZhwntwSuXo9kNQPGxDreLU9e3XOTmRtpBB-NjQkf8UMJtSuvpJAvmLzfkPSt9E98zh_XNuhmjOPfZswoqj6Ric3SQHDy2z8C72Q4kAYYesMvfMcr2z83sY0lMRiX5wQYvuWwIGhHXerLrTwQ9CrZWheKU7BbXdwrfWEiP1P5XX6nOakEHUFieFgY1Mk/h1000-e7/Coser-ZinieQ-31-4kUp-001.webp"
 ---

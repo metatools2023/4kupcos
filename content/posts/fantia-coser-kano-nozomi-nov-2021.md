@@ -10,6 +10,8 @@ categories:
   - "Fantia"
 models:
   - "Kano Nozomi (鹿野希)"
+tags:
+  - "Kano"
 photos: 237
 image: "https://lh5.ggpht.com/-oJ5WQSxfWhs/Ykek5csqymI/AAAAAAAABaU/r6JicjoVKlMeUuF9wpJR2gKRtXyJ-DJuQCNcBGAsYHQ/h1000-e7/220328-Fantia-Coser-Kano-Nozomi-Nov-2021-4kUp-001.jpg"
 ---

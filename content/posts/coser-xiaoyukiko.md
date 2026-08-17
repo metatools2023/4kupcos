@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Xiaoyukiko小鱼"
+tags:
+  - "Xiaoyukiko小鱼"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmXdArqU2HhZOn4TS2MGLEcsbcXKLUN1p0DKb4AamY3eD8MTrtF14h75dDanENNZHim4uVj7FJLiOSnKil1n7MonCf7RD0vj7K7PugOGwpnYEBHZ7YVllzm_eS2YnSQWhOk9N3TAfb9l8ufo_5tkcfRpWQ_JffvFjQPgdIDa1UK2rSnQ6YowA_O1b1R6o/h1000-e7/Cosplayer-Xiaoyukiko-small-fish-chainsaw-man-Lesse-32-4kUp-003.webp"
 ---

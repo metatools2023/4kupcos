@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8FgNYcVPU3VLxcOdZvFJn2OGEVZmEmB0AcA7EjI8l2ct9cHxPNv0ddyHPrrlm6BxbEtOPf-SuFLbIKKzOWKAotVZ9r7pX1lZZXHhXVOO41EBo2fdWB7IEc8P7ADxftxHm0DBoTIz-45m_jT2QRTH_JTgoKs8jYOJrztXYBjiI-xEDgntmDAUXDB8g84o/h1000-e7/Cosplayer-Second-Assistant-Nisa-Tokisaki-Kurumi-cat-24-4kUp-001.webp"
 ---

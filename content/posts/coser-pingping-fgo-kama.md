@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu47DopCJKqea0e9olaw9izPlCbHWUuDpD_9RzwhWXplJ6d71BNUmo9RjJ9ksmBVFnnHT11-peehEufFVaNw_78uDeXlNklSi5CTclZgwnCj5zchSNdQuHaDyoHpHw54D5vnF-INtGnUmNOq4fKCS0aW8bENZzJCO_1YJj2SlD_msxwGnhMgtJnZ4BrYhp/h1000-e7/Coser-PingPing-FGO-Kama-23-4kUp-001.webp"
 ---

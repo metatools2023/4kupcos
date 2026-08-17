@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小酥酱"
+tags:
+  - "小酥酱"
 photos: 17
 image: "https://lh5.ggpht.com/-yzz4i9h7mM0/ZlT7XLirp-I/AAAAAAAArRw/9axzz5YDm7ktZDW9n890Mc37yKYeWEnwwCNcBGAsYHQ/h1000-e7/Halloween-Matthew-17-4kup-001.webp"
 ---

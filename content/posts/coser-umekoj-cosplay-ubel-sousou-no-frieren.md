@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 126
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpJHi0M2C3bkXtUPX3TGCIl59swvhVHNUVWExMe0FS5yOJFZ6G38FI04NkeVnrOA-QA2qwieeItDUyuf6yhXOruan850csK3qt6QEJjNGk71Gg-qkqr1fwiroQb5WUtqc5zWelJfX-xan5GFlojpB1GVnTPW1Kl2rgWm7NGzDeMjeIVtTBx6bQWrv9rsqg/h1000-e7/Coser-UmekoJ-Cosplay-Ubel-Sousou-no-Frieren-126-4kUp-002.webp"
 ---

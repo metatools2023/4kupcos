@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 18
 image: "https://lh5.ggpht.com/-yhSfBhRsDZc/ZQd-e6WEmvI/AAAAAAAAQ-k/B8vSRKm2QuQ40t8FUA92OgoJyIiZSLG5ACNcBGAsYHQ/h1000-e7/Coser-Rinka-Marin-Kitagawa-4kUp-001.webp"
 ---

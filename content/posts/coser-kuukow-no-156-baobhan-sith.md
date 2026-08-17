@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBXsNarUwy8WZZZb8rSyRswAhPyK6U55pBC5X2MN_4mFinTc5XH889MM44qL7z5sZ0Usl1JBBOCmEFcKv8jbRnETI-n1Q2WXUJvs-C1542pTOHWR_ffAft1gKfTZIOxibuqAtef3NejSpi2AeFLmPY2HTswkvfDgdYgtIdJZGHI4cAojzp3QYSMmHULNAH/h1000-e7/Coser-KuukoW-No.156-Baobhan-Sith-28-4kUp-001.webp"
 ---

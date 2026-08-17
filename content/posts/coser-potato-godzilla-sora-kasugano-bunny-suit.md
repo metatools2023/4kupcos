@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 31
 image: "https://lh5.ggpht.com/-lEBTtTlqMk0/YqPCpEyfNeI/AAAAAAAAPqM/q4w1Ck4M5Gwbqwi2snQjPPsEdBQRB11IACNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Sora-Kasugano-Bunny-Suit-4kUp-001.jpg"
 ---

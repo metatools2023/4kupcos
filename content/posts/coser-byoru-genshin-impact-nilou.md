@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 61
 image: "https://lh5.ggpht.com/-quPNOilqIwM/ZfcbFXD0iaI/AAAAAAAA7JI/x71ODNmwbdEOajpQApUjVZCTj0E4SKoMwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Genshin-Impact-Nilou-4kUp-001.webp"
 ---

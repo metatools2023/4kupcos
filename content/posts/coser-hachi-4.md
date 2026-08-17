@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidCkzu9YhCNo7F3XuAggGeguMxHVP0Jzcqd1poAJtq4vcER3wf1vggssYC0ICTwJBmnJsHaViv_XDq65UcPRBtd6Rk1UNnEtSro4pRiFBpQU3tYYI3t1fk886InEDV5k7IXzWE-3ihb2yQYc3otc1OG8oi_ccSKOTw4TvbQ6HVDgqKwe3mc5q_ECneqSGR/h1000-e7/Coser-Hachi-Xiaoba-Genshin-Yelan-40-4kUp-002.webp"
 ---

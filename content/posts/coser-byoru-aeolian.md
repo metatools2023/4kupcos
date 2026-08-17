@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 35
 image: "https://lh5.ggpht.com/-MWlQoc3xmJY/YwOqyrlE36I/AAAAAAAABHk/aeAg3BtRkHQd9lM4yNv1qQi-EvwebCy8wCNcBGAsYHQ/h1000-e7/Coser-Byoru-Aeolian-4kUp-001.webp"
 ---

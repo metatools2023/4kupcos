@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 52
 image: "https://lh5.ggpht.com/-c6ibfsobK3I/YtLeFxDp3gI/AAAAAAAAQ4Q/Cj8kYkGHpLEjwOKdWlRvvaiF9XqzzJcDQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Lewd-Ankha-4kUp-001.jpg"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 14
 image: "https://lh5.ggpht.com/-Y8tfbHm5hqo/ZOLTd9hhrdI/AAAAAAAAV_0/GNED1kIixOk4jcK-9dSCWKFEfNilcC0JwCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.061-Usada-Pekora-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏"
+tags:
+  - "双木扶苏"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivNUXHsWON_jw7TiXYUt560xf7c3o-INV8EZAQMpotcTxDUGkmqJrPx97ittyj2nOIIV8LGCLgLm-en7xhi4ZyMel907cLuzMbOjIpvO9bi7FBNmdmvgNuzbOgCPpNUNSQZ7AeWPklf4GD0OefVqddQ5vUihA4jsuZlRSW9voGgRzkWjuStyQt8_Ih1LE3/h1000-e7/Cosplayer-Shuangmu-Fusu-Painting-materials-Rion-Moon-46-4kUp-002.webp"
 ---

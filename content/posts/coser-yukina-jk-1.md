@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Yukina (雪菜)"
+tags:
+  - "Yukina"
 photos: 129
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaIy2OOULvCupFCzkh1uhVlxmj5Fx0BV2BowSxv6a-tuxcmg5vLTHKGNt8erEKZJ6fn0wUe7WcZxZ6f3FYpAoOkEnJmdFhujluFnIqCWOaKaaRzQm0utfaiqwVwtAwZMEUE61DP5K8b_Jw7du_x8ejXJUhSaqBMKANGbaiSp5Hte5lXv3_hsETwrmSRw/h1000-e7/Cosplay-Yukina-JK-Kashima-san-Part-1-129-4kUp-002.webp"
 ---

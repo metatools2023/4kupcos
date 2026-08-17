@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hana Bunny"
+tags:
+  - "Hana"
 photos: 12
 image: "https://lh5.ggpht.com/-S21qi5_YvIQ/Yn7uYgbFBwI/AAAAAAAAMJM/XhF2X15Dsz0yMU81kCJMRywPE1nOYTAmACNcBGAsYHQ/h1000-e7/Coser-Hana-Bunny-Sleepy-Ganyu-4kUp-001.png"
 ---

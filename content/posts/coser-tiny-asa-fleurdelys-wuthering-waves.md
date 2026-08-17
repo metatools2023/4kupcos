@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny"
+tags:
+  - "Tiny"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpuK_lztoibzULmr4HpVuswq-Dpj9D4_XiLrEiC5zgxEIQriZ0ODH0Bqd1BJuwZuALC6Z3tvxJ0-w8pMI-_BfEmNRn_pKDFMYn5V72rvwiSvrD5cClIFWjvmQi1s0dautANsg-vVKkwNh8BDPLeSQoTj5rVf9m4k6LE3_Ri0QH7sYx03rYyJdvqOptnt8/h1000-e7/Cosplayer-Tiny-Asa-Fleurdelys-Wuthering-Waves-36-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 22
 image: "https://lh5.ggpht.com/-sIGWnxM-zjg/ZZneRi8ZyLI/AAAAAAAAFh0/IuQGOMR6xm4c91O6JJoIfBfKdV-Kg4qjgCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Azur-Lane-Le-Malin-Bikini-4kUp-001.webp"
 ---

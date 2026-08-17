@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane Ame"
+tags:
+  - "Hane"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYGfUuGWTRf3cZzIHtpirBrF7WeqJZe27d-Kj5Yey-XWpOV4pYxStitA-sBzY0eyJ3w09YRWJaF38QbYxKmnzAn6tDVUNvz-fJClqEnDPQyw2QDFLyJNHPCf-bT3uzsk9lPw99sRAMMSVKK85SjVcFeDbzexBSJpKgphBi8FoXI0yQSkeEJ4ljcLd45xs/h1000-e7/Cosplay-Hane-Ame-September-Works-Elf-Village-Ninth-Villager-38-4kUp-001.webp"
 ---

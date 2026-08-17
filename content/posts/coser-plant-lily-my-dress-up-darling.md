@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "花リリ (Plant Lily)"
+tags:
+  - "花リリ"
 photos: 69
 image: "https://lh5.ggpht.com/-zPEIQkm2aHE/ZMgrUnVtVII/AAAAAAAABhY/sofaeNqn93YHqJc_y_d7bSWKON_EOOZ5QCNcBGAsYHQ/h1000-e7/Coser-Plant-Lily-My-Dress-Up-Darling-4kUp-001.webp"
 ---

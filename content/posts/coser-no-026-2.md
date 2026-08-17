@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一笑芳香沁"
+tags:
+  - "一笑芳香沁"
 photos: 46
 image: "https://lh5.ggpht.com/-XRapE-c1rkA/Y72M9ko5ROI/AAAAAAAAKgg/v1NyrxhWWvcS8oFprX-seecnfZuScntsQCNcBGAsYHQ/h1000-e7/Coser-No.026-4kUp-001.webp"
 ---

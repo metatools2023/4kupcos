@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMkGp5HOlZpAVYChiUnXSTM_bX-buw6iuJ0_Jrpj6aIOXFN7uy9bVd37lxTIJ1nJ2yUgZ-MICYCsL23MxGMRQxj8Bxh3J19S9HSYIfAib9On-yTlE-L5lGnwjL-AVjx2wdJm3w04zbi26t1LphTVASi0UfoUhQ5yRw3hcD11nFr5vFtuMLcT5BAN2teCoN/h1000-e7/Coser-Hachi-Lucy-Heartfilia-14-4kUp-001.webp"
 ---

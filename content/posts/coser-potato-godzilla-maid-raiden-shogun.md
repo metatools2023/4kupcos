@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 17
 image: "https://lh5.ggpht.com/-QrD6sQy39hI/YxYV5Bel6rI/AAAAAAAAP0A/YXQbx4FVfvk6s7ZAyjgiALVlSw0XWu2HQCNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Maid-Raiden-Shogun-4kUp-001.webp"
 ---

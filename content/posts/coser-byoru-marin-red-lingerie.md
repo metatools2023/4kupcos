@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru Marin"
+tags:
+  - "Byoru"
 photos: 43
 image: "https://lh5.ggpht.com/-yVdGka4xfb8/ZNXLNCOdbuI/AAAAAAAANug/-GF3V2JgFcof7QgNq5CDtOi-kwI0xpbHgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Marin-Red-Lingerie-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy"
+tags:
+  - "Candy"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwgNBu1BIwMc3Mc7vYsgUnERbWpzcKVfB81RYJKhS7opx3czAjBAr1gmgdkE5p1JPBiMvpSns-WNCM-0KYdzfkFG7YHj_qwvt1z6pvuXv2hVLeofLXnxPiWN_sMBtWxCfcZwfvHQbJJ2B49_f5SQhnZBrs4I-JWR1Kk1fRZiBwkDTJ6DRpdi_kbyu6nD8/h1000-e7/Coser-Candy-Ball-Nylon-Dance-34-4kUp-001.webp"
 ---

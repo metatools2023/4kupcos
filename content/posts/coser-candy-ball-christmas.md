@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSZE-uggoyWnhkYRoknra5pmiKYCxr0leaSa9XKbDo7I6jjGHgfcNB7qktkvgd03-HNShmXagOTTdo5x40psjTTuhDAueQHYJFQWWukFZ5jn9ZnEajAFlHuPGvzogJqAFQ1uXkZIs8E90z7gmz-_3Yzx158Q0RzWcbSinhXEBdQeTGFhoeii6oMzxGQow/h1000-e7/Coser-Cand-Ball-Christmas-82-4kUp-002.webp"
 ---

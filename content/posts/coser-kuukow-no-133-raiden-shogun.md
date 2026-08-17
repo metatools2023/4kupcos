@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqR24BOHbtQbvGQlK1xiTVNmNxzjgBoHu-MhZ08o8AXkQFWzOY7PuV7G1xc1_hNk72tV8ws_3IBOJ06xTUEDz2P2eYrfECeq9g3evUKkQiNYqWczdLUiqgL_0dC5wLwTdiwXDl5FAg0PQBeTHFYfMoo-i27mEt_zkjvP3DON6GlSDZYL9inuQJvFER76c/h1000-e7/Coser-KuukoW-No.133-Raiden-Shogun-28-4kUp-001.webp"
 ---

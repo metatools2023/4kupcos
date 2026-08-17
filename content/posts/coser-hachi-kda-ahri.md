@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHKa0g2IlqYE2oh4UKEMn29MKWL1usv-2dkuR4Bhu_FNgRWCmGwxvSE1yGBXrhnynO_LP22d44nZCXaLE_2SkzNBvfFjdZv7OZk13Cb-K1B3mfYWId6glHdlARgC8b6oPFlvcm6gZY1iNZOqE2CpB8XOhnTIhFZrAXpd137qr4UZbGlvXxAq9OQyNbVz6D/h1000-e7/Coser-Hachi-KDA-Ahri-14-4kUp-001.webp"
 ---

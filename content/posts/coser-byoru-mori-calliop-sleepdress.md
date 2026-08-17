@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 54
 image: "https://lh5.ggpht.com/-q7K8dzFwQ4Y/ZTwzT4kQrUI/AAAAAAAAaL4/oGZbBjSTMnES9YZdTjLj9SE1c0PDH4ViACNcBGAsYHQ/h1000-e7/Coser-Byoru-Mori-CallioP-Sleepdress-4kUp-001.webp"
 ---

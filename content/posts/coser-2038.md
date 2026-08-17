@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "矢量鱼"
+tags:
+  - "矢量鱼"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipt9JoflSXURAzzd_-2713BW50kIHKaaYf3D1ZM6rgx2cH_macKmvLarVPbFzzFtgVIni7zrN47VIIqcqN5xqIkWbnRAzsVoWu2uMPRIp-plDl-aCRfSaberhOaz7XuCDB4HQhjl8bK10VwsBd-Zf91AHWhlvpPDyR0jJT2ZJGzvoE_OSkjGCM-UYGNK1z/h1000-e7/Coser-Vector-fish-Xingshan-and-sa-18-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayathefox"
+tags:
+  - "Sayathefox"
 photos: 25
 image: "https://lh5.ggpht.com/-BstKqUhF6kY/ZLG8z_7aovI/AAAAAAAAT88/73KZk2N09FQeHBTgDgkEXUETsqa91GQ5gCNcBGAsYHQ/h1000-e7/Coser-Sayathefox-Ice-princess-4kUp-001.webp"
 ---

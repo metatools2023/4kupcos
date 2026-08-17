@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbRpVOHeQRMqethlvm13quaT59c4Fv1ZmQlgrDCujgkUSE6u6LkQmhPTtEhSCUdHzP83T2IFQ5N7vjJ49AJCkTYEl6e2QigN35jCnW6aIkLp4mAhg38TjnBKOdFM36Qbhd5TUN9O5PZxJhLkFHxeo0IWysgw-sokgxfTg6Ufeu2fiMM6Bif4MwcBRFIQ/h1000-e7/Copose-Is-The-Dead-My-Gog-58-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "切切Celia"
+tags:
+  - "切切Celia"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilwRTpc_r-foAK2qj9GcZREwyX834TskDn6fQoI8mpK3_SJjB5fUS0kD8YEIVpOfaAHKTa4lfEMLqlMao-iWoEIoyny9WF9FnIuIXwolGYEJA4nfQAc0V_d7NmK0WSaVeYAE7vu0DV2-FhLm5OUJXNx_dcmBnlv_Ae4vvyYUNNhSNQ6G48sUXsLD66Wtc/h1000-e7/Cosplayer-cut-Celia-FGO-Matthew-Racing-Suit-23-4kUp-001.webp"
 ---

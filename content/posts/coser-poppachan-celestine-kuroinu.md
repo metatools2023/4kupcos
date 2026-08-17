@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 19
 image: "https://lh5.ggpht.com/-0n3FyJKeKFM/ZkfYCmlMqMI/AAAAAAAAnWE/1e9A5vPuqMsJuB5r4yh1l6kHCPcaKv8AQCNcBGAsYHQ/h1000-e7/Coser-PoppaChan-Celestine-Kuroinu-4kUp-001.webp"
 ---

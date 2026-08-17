@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggakdM9qZBVDnDZ_s-SzaVWfYiA58sweNZ5ibh3Qy2RAhFpybYh18C2NqnCjK0ejpwUUhVZ_ExNHTheKJH0h5q5hOi5_ObZmuXwkAVjVnOvcKf4dl63MiVNWVJ_XjF4y_yaDHEIleXaRhIRhpL7rPlHWvtHASLiL-onf1cjufUiB7yQ3x3_CIhsOuuY07B/h1000-e7/Coser-PingPing-Rumi-Usagiyama-aka-Mirko-31-4kUp-001.webp"
 ---

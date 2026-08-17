@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hutao"
+tags:
+  - "KuukoW"
 photos: 24
 image: "https://lh5.ggpht.com/-hRIaypIqS68/ZM2AxX3S1XI/AAAAAAAAGDs/pzoraBNAwmoIYadK51zYDxgwdiRU1rRRgCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.048-Hutao-4kUp-001.webp"
 ---

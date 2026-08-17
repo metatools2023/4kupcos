@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "三無人型"
+tags:
+  - "三無人型"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjz2ai6v5ps35popgtpIpkMrEJb-1FxmePwTP-9667JvJ0DNQIbkVkoR85kfHG65U25AMQ7JsNpCM7QYpdPk5eIUZ5JYE_CxZUI7xOtTbG3Dr5dAn2QlzmrmTWHgA7ktS1KdzujP6h7TXrZmgfittQxYR3JoimCwhRWzMiDVfuYbxnbKA_HuPtXTL-GQ_U/h1000-e7/Cosplay-Three-No-Type-High-Square-Maid-42-4kUp-001.webp"
 ---

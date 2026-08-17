@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九柒喵"
+tags:
+  - "九柒喵"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhovp5s7Xwbr8NkikGH81J0rROCxaIuRV0PZUUQcRvX-k63m48Qiyg0otfD_S_-p7l-DomoZi17-ux9nugNkldadRWjc_YE5y4QFuTOpuQzaOPtWIgy4odzk2gvAbtB_d4WwGiTL69HGvisH8BBnQSCAnxcJaWh9hWSYXOcWoNtGRpDn5aFCpBjxRHEI93z/h1000-e7/Cosplayer-Jiuqi-Meow-azur-lane-Lafite-ll-32-4kUp-001.webp"
 ---

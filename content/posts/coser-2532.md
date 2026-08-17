@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "秋和柯基"
+tags:
+  - "秋和柯基"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghY1HdGtGR07bNeOtfLlPkh1BtWPtzMXpziqeypnQhC7uQy-Q9vdtNvakJqnnTRlUCK-KVuaiHWn0VUJmnLU01cfSb0HyVsHVhi90LW4HCSOd_BQYQTp7wbdK5UPYjkraubC-C6GClKiOG33aVe5p2ABSbphxu8K3IHDfPT9SRc8hAYFqTvKdBHy1ua9s/h1000-e7/Cosplayer-Autumn-and-Corgi-Dingan-17-4kUp-001.webp"
 ---

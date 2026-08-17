@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 68
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLT0p7xf_GO7ed-AiflGvdxZ38jQ6lya4uGT-S__4LZwxoHbDuN7oUO5GH8P9L7NNmbmWeUsiXnQHlIpuRnI2BIe1Yr8EQ_1WguYdX4bcPesK_XvvyfWrg8ud9jtHsIzMFvCSR7WVOt_0biktFCR2hjj5_s56oSBjmUy9dwBB8JCFb7GsZWPj5VBPqmHhE/h1000-e7/Cosplayer-Yuno-Shimizu-Christmas-cake-68-4kUp-102.webp"
 ---

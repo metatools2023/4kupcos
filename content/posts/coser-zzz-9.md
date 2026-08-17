@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "兔子Zzz不吃胡萝卜"
+tags:
+  - "兔子Zzz不吃胡萝卜"
 photos: 35
 image: "https://lh5.ggpht.com/-rWnLAw1mL1g/ZXjWuU4AT3I/AAAAAAABYug/GGa4QYbLkJgYumJW_-vohwx7F5_Axg_MwCNcBGAsYHQ/h1000-e7/Coser-Zzz-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hane Ame"
+tags:
+  - "Hane"
 photos: 88
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUYgML8cCzcQmuYvErArLh9xRuZKEsSV5BDRyxeGKNhRdVySK6Kx9bFnUSXW0o2Lan43wGs_ia0TXXmSE49Qf54ZafBQqNwJsv6-twxjgs-50-8iZIOfja8pIAv3Sc8LEKe5b2kE82Zs_eHNm3G0Xb8noyEtZz5f3-fpG5W4tdx9Ha1rYS1Xx_K6ae8iU/h1000-e7/Cosplayer-Hane-Ame-Collapsed-Star-Dome-Railway-Kafka-88-4kUp-005.webp"
 ---

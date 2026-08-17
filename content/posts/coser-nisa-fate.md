@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3a0R9D5MFYUKxqZNWJMmYNIOZcK414_TTUh5ajHnPiJ_1L8cVrLDu7Clqzod3uYCxsHs6mJJCHX0UsuP_BzjLuvlcOEBXhv5nnQkG_sknurxPzrhE4sCPQE34jjA2EZ0Akn-CSoL9SXJFjo4GpqObiGtWZeruA0SQhc9KfQTVbsLv_toNr_jpVSeeQkM/h1000-e7/Cosplayer-Second-Assistant-Nisa-FATE-black-swimwear-33-4kUp-001.webp"
 ---

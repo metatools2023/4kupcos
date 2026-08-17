@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 100
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0QtosAX7V3G1MW3y3J7B7p53p5UkhTnA7XkjlMI5-fTWytxElZBuf7gmAInipFKJltzwADGB3ATwhNYmFDazQPDedACag2ieRz8WCS1MO06QqynSpFu8ZObyC56_IcSMkmPj8aOuEXGHBEs9Jqjtv9oD7Nmhh1LOKs91IZBzCBZcKB6N50Fm6pf2NZoU/h1000-e7/Coser-UmekoJ-Reika-Shimohira-Gantz-109-4kUp-004.webp"
 ---

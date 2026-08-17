@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 41
 image: "https://lh5.ggpht.com/-cKI4QLKZatY/ZLmtEYYtpPI/AAAAAAAAaaQ/3fM4Gr7sy6Eil6L1_6oGuLrDGNsymmXogCNcBGAsYHQ/h1000-e7/Coser-Christmas-Bunny-Aike-4kUp-001.webp"
 ---

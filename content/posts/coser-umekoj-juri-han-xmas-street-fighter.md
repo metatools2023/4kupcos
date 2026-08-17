@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 107
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1isltUHTUvb54ODw-DjzcvQylqkLtNSnWrPP_AvOp2LPKQZeQTtQ7L52A9i20ui0TUn8pCzUzG3xQ0bG5lta_IIvpN7jccrnBKtid-f-xlEqIkyAaD6L-Lrh449xJz87ChCTLM0-NtOE9ZQnhIfDQF7sLiS03MJGjDxtLj_cahg0YVqzdAOP3E_n2Vig/h1000-e7/Coser-UmekoJ-Juri-Han-Xmas-Street-Fighter-114-4kUp-004.webp"
 ---

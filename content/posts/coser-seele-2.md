@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Seele麦麦"
+tags:
+  - "Seele麦麦"
 photos: 10
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwWbpZVlWZX77DEQ1L36fd3_y_UM4As09XLZDxvZKf0D0nRV02FdUYbBjdhIRu0DWKyr9U9MnrQgwjip5Oy2MEccmng6_S0o1_5NDoIaRaSvnbdXjoDH1IRI4zw04vbDzZrGwTQpDYvifrTAgz62j9AiyJ5uYutHztbjNPJsIOV_N1ue6ezhGzN9HE6tzC/h1000-e7/Cosplay-Seele-Mai-Mais-Memoirs-Death-Law-10-4kUp-001.webp"
 ---

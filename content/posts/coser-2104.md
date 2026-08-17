@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 64
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLclIQ-zkFsw-KvzQoPIoIJOyGzzQ0spFtOGQHqLUVayoYhVDm2AIMttARCimJ9WFodxiEbZHG00M89-8KhI9wR0vjQZGvOJv-jgaXPOt4PDgAo32OLM2CzzNmP0cgmeNjlRHKlUHe0DUZtjXaVolR5vGlbi6UtRvRmZgwzHBW8a_nOJs0FkbWZuvczThq/h1000-e7/Cosplay-Half-School-Azur-Blue-Route-Chabayev-Melody-of-the-White-Cavalry-Dress-66-4kUp-001.webp"
 ---

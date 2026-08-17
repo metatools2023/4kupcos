@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitJapzhT5GPR4nEezBVzvGVtVGXsZQfkOzoOvobaBF1FyFfWGumas3KLrOe0j647vnChOEOe1uyR3sW2N-Tf52he7v-y3f_v1C1PNINs_MgDCpqLZID13c7xtfvt2NuokQ9k3mAD1yEtsLEbs2qHLoD0zGTuoJngRJkGqeEaWmglKjnlwxK89rhc7_Mh36/h1000-e7/Cosplayer-small-store-chiyo-w-sister-in-the-same-house-39-4kUp-005.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 56
 image: "https://lh5.ggpht.com/-9XGxVSGB3-k/YzytQFZin2I/AAAAAAAADFg/tjKv8FouZaABNuAx0LtAShm2gR7qsAwdwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Natigaru-Dark-Elf-4kUp-001.jpg"
 ---

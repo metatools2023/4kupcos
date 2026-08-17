@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw4lfzCDLTUJn1cgl8U1y0L6uqtlVmUPzDUltg33rNqcEtPNOXSu5OeJdubHOZla1ZU9IlyZ7YgcOb-XR-cCNoLGVmi4i1k7lodP4IZK0Qa3fT3814fjZ55o5oz0ZfYKFSA1LUEGplRvP9OQKqIj11CHs_ow6AHT3wdDc0J3101yK5vcgl_APUWpXos_iw/h1000-e7/Cosplayer-Mochi-is-delicious-waiter-29-4kUp-001.webp"
 ---

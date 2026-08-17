@@ -10,6 +10,8 @@ categories:
 models:
   - "Tiny Asa"
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMYYx1nJmWkjSTE7dVnHFMranlpEItQ5_Te7ucTNlbqOPxNWE1ZyQi0_2id8xHq7fsutyow5Ujx8P6DvYoSVMQATXwz5gcuyoykZ7zfDXOKjpVcGsE5fZ8v0TjossKdwmNFevF_kRbQtqA4LM835W0CbJ2kBMmN-HNv5KVpj5eHZPzibZeTvFW-abHahEb/h1000-e7/Coser-ZinieQ-and-Tiny-Asa-Corin-x-Ellen-Joe-21-4kUp-001.webp"
 ---

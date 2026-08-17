@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mimichan"
+tags:
+  - "Mimichan"
 photos: 90
 image: "https://lh5.ggpht.com/-pSbB-_pVxbo/ZocmpxgVh9I/AAAAAAAANdo/b77FKcjoP88WlVDBr6h_5_SN5jB7tSnXgCNcBGAsYHQ/h1000-e7/Coser-Mimichan-and-Uy-Uy-Seifuku-Shibari-101-4kUp-002.webp"
 ---

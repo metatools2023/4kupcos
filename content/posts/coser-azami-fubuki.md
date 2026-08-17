@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkzTMQyEHduLVrM6m5aQLwkQlcJQ0S_Jvyfnvp0ppZXCrO3kSYDYPGrNUQTv1IONWsFhxTfO4taM82SSqkQWJ3GdjCm-iI3dn0Pt-wirAMRn1QcuwgVp1Ok2hZOBjfeEJXI5q6vvXr6HPy_8z7W3Y78bLz6oqlI8SsKyGjgfAInrmL0Q0-Zv4p3cst5Xvo/h1000-e7/Coser-Azami-Fubuki-15-4kUp-001.webp"
 ---

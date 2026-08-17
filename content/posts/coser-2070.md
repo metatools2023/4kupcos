@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "矢量鱼"
+tags:
+  - "矢量鱼"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoOftl_d3sh57yJdZckMjotwbskYwz9THb_Ls5IOQ-PvQiAtbKrWPehZ4OMm5kImzSl7AElafw48VM3fGI1S1-Zp6zoWz3aV3qsw7B8ZwGgeCCNrhGzZyy_bUV6Xu-svw_LQlrxeMsldYto7GtCwwYbA_ROOndN5jB_EXvF3ov8pBcrg9n1xzd8nh5ke-_/h1000-e7/Coser-Vector-fish-Tour-guide-32-4kUp-003.webp"
 ---

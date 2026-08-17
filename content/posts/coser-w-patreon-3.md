@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0NdzS0V9M7ezzXqm_xBZNS1tBVpaFrXrCrwlgasA_26RZNhfjS67TAWZVOW3ZPL30eCiuM6SMFvQmvZLmfcK36TNTzJUFcEPe31pUVaWvHs7fGpES-g2OK-alJaTC-lz4Ljdm7sULesA1CAc8TlmSR0q-ODmPssEfepCAuwal3FzEBeaNM1L1-8MHN539/h1000-e7/Cosplayer-small-store-chiyo-w-Patreon-subscription-laser-swimsuit-21-4kUp-002.webp"
 ---

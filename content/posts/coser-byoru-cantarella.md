@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 81
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxQfyxf9o7OZKzve_q3eskN0LWNre_-gPF1Cp6F1x31fzDxPyWnONl3J9AJKuYg33zN2L9ILp5HNHUfvjf_il5yyOSG1UFB9eXKzQeSDf9kq3tYQaCX9Eet_pvpVNEeYisTxkxFWm417NtUxFBphY2mZ9z8aFQQptbUWJFjc7zWnFy0IPszHrKDlcJy7d6/h1000-e7/Cosher-Possoru-Cantarella-81-4kUp-002.webp"
 ---

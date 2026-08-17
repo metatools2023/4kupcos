@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjo-HlcECFMU2aithVGC7ufmIdSCqiQ7kNWfOsNLAtpgdFld-H1U27YmKuSmM47lRZmt7YHT3u9AZYTfgGzwiOsoFKb0z_Pzn04hYah96k9Z4ZTGvZ7cWGzkBM6aPXKuHr9selv4bOH7w70B4thYnZKt1otEyGVCvpmpjan75f8yTfGfg6xVD3gW5bl8SgZ/h1000-e7/Coser-KuukoW-No.166-Summer-Altria-CasterFate-Grand-Order-31-4kUp-001.webp"
 ---

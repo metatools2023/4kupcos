@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 154
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfoI4q9kltBLAHQGlDZUJvKj0oKen9B1A8jGx__LeDQ8emrqPYkeWRA2tK5vuoGl9Oev-c5ELWTW0tiBlLAmN0QrqxSxcecEtC3sdCYI8axBWbTR1kZ6easItjBdXBxgpFFFMy5wx_3zrtnOqWIrTmilYXpSDrZ_a5CudvgthgM0FxvJ1OzeSEiJVKxG2o/h1000-e7/Puypuy-Sewing-Ann-154-4kUp-041.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPQTLNEo_4hbwZYhwbDAa6BGzwS2Wfy4IK25T6Xsb04RE-xbpNUAFJUN8K7A3Ex25fbXPZU4mTOftSs_rSf1wmPqM5snH2WJhw-Ozv0oRee2Mp92nKz8MFmCj1cPZs_M_VUuCOBuSlIb3yg_KSUxqjbEdIb69g41cdkm-SM7mYv6Di-C6SpWcqxb4l0gI/h1000-e7/Coser-KuukoW-No.151-Race-Queen-Mashu-16-4kUp-002.webp"
 ---

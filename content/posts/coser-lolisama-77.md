@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihmq-xxTgT0oMXX_jSPuOT0ML59OxxKnZjmXKU5WOUAgnQZnJGJ_ckHp1j1tT-gj2Ciq0cklZgZlo21_lP7IiTsbHgGBddZaeCmYvOWEbqWDWF_JzL_VK3YmBpl2OvOSrm6EZp61UwCiwvPToj35gyWSSSAtYjPmBuP8nDWXtbi3Ha7Kfg5AVpWZg8VerH/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-Granblue-Fantasy-Nalumea-31-4kUp-001.webp"
 ---

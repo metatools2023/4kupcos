@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bern"
+tags:
+  - "Bern"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqyDztmi1_vHLhLldsiH7w3TClLZcP0MrYJY1Gzh93fp4qJXd40SflmPf2hPGs6dWfyshPwA9VqvHqOP7e1_v34VPo6-IXlv1pXb4UwLGh4es2c_v8E7Mpr4FkfQ8B3CpyhcSQ0qtpg9MACseO8sKF-dkkEmNC_y8gE5vSQ3UCjJmKf0DZnjkgME4TftO5/h1000-e7/Coser-Bern-Sredna-Bunny-Marin-40-4kUp-001.webp"
 ---

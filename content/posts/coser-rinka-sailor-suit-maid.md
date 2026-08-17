@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpfMyAIDV8YQMc5ZeBmEojogOZtq0mtdBCQXRihy5rB2PRjPc1VReUrjv7gqDWXggThed5bEINOCcQF0jLsYbC0Yutn6BEj9yUkQ4uulhHQyKFU-2YXR5DAAFtRc8P9fh8GZEvsFYanNOnEjrPSPuSkGR2kkeWN3IDAWfP3AHo3MYOhs8b82NaT1AKXioE/h1000-e7/Coser-Rinka-Sailor-Suit-Maid-61-4kUp-001.webp"
 ---

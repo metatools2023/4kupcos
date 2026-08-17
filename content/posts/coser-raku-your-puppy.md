@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "落落Raku"
+tags:
+  - "落落Raku"
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvK9YMjsI5RjsLe0PLR1VSSakAAqVJGKf_UJkQljdkq-oovR5MrxybnFBNhOx5tNVkj9iAetn9gjhAf7v6MOyjN7NoUs15DkJmXEVT4GTiY5OZRB4VEhi9FCa3m2mF_dn7iSkqHrKdrBP9YOqn6qjuG-_k_geFTNk1_NQ1Bd911EiDd6RZBtVo4IzvxmY/h1000-e7/Coser-Raku-Your-Puppy-49-4kUp-001.webp"
 ---

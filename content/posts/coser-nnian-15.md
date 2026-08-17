@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "年年Nnian"
+tags:
+  - "年年Nnian"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsaZHGqkIQOGnA91MuTu6-CDm74lpG-HrB2-iIF3M-40vSY9rg3M-HLmAoQQDKiiHKVLqBtwRNFW2ygya-vECxfSp6i_srpGVXQB517G6PoT9yxoPDIBorG07vphGbnw9Ce-xdWCrsH4SKmYockvti_nq_C-p10zMP31gcf616mHW4ou3iLy8KsQvpOeAE/h1000-e7/Cosplayer-every-year-Nnian-light-summer-40-4kUp-001.webp"
 ---

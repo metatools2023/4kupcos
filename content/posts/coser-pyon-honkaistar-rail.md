@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxAihrkbGEY6Rw1EMX-tPP24_fJ-rSTvvwTglpZvwtq4Qwb0CpoKdVLFpal-GOQ9rdh36q9dBFYpMJpbCHA1TRo5Nbwkjq3em5tjTx5KbfPEajOqI-iQb_oRHlnkLaPbiu2kb7Ggw_VmxMFuFXgbhcc1OIY8xJy7ozHXBtu-kJOST8FCwHSGmlDDRftg/h1000-e7/Cosplay-Pyon-Honkaistar-Rail-46-4kUp-002.webp"
 ---

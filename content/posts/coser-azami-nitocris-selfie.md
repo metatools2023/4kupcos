@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAVkyGgKs9daxqWJOGVRZ5CO2-liUpiQ5bfLXHWYy5igP8sIy_a20b11jj_vLNlAioFJb4RZlblzj-IkYUnPBbiudEYMZtt8T-l9N5w67xOLrXzGh4rti3YnP2J6L82k79Cbrhlqjq1NurHRlBjdqceoOcA5YKJfSFYL6hSjNh7IqQ1-bKELUcAMT4NRgF/h1000-e7/Coser-Azami-Nitocris-Selfie-19-4kUp-001.webp"
 ---

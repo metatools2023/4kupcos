@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZD7pK5sMNcmor4e2Zx3rrldBoGkYhmSMSHEeaWnu4qR4z6Dj5cDexVR3luTWei1l5h8BSPVbAZBoId5Sq4Eko1RF5QQe68vMbcDmoTHVVfHUIpxznBXL_-YavFNPp6qMs5k0JOWShLva5UHrIzArR4pLD0pz3XrCYtBkMik9nGPICyy3r1jy8fG6Sdj5u/h1000-e7/Coser-Tiny-Asa-makima-34-4kUp-004.webp"
 ---

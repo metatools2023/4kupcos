@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce"
+tags:
+  - "Joyce"
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiftRYZIWiyb67diz7D_jE7Cbaa1HCagtlhxoJ_GQa1Tp1oVhsnCUmonVRgTpbBshNaD9V8wXyDAs8GVYcM7cSQkQEw-AyBIC0Gf8yZPtGuoh02QcGYCMjX2-RL6fDhjs8z09M-M4zOuocZ9qqlzydXA-dj7YKpfSOMFbfayPtFOih9B4lpPRMBfnJPng/h1000-e7/Cosplay-Joyce-Lin-St.-Louis-47-4kUp-003.webp"
 ---

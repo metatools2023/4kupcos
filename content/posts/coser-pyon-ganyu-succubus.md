@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 44
 image: "https://lh5.ggpht.com/-xlbigYgGxgY/Zig2UVmn7cI/AAAAAAAAS8M/5INuzUmAtlUUe4bCTEyEQwDDJbTLkwXcwCNcBGAsYHQ/h1000-e7/Coser-Pyon-Ganyu-Succubus-4kUp-001.webp"
 ---

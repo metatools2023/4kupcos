@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhROKQ0zeXPqIyglmaPdia4I5LH7N40ItWpCYb85bvJW80VGhXdg4sSh_KjHYhdA0nhtf0hRUsK7Vp4TMNpZvxkcmBEw1OrGSpHTBYwT4SXEgdtQHEZHYAWwxn9p4AbHtzaaG-B3SX_bYvLVNQuH0DMUS84N6xACIuJxD-CjbL3En7fFygZEnRgrbPjcPWq/h1000-e7/Coser-PingPing-Gascogne-Bikini-Azurlane-15-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 101
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVc8EzvVP9IlcaOF5Hr0xet2U6NeC3JLyZ2Aiwt8itf2MZrnVJjsFbfl8Zxus7Dn819AP48VTm3x2wOlq6BUVKMuIv7BaNMyx15HkAW3WM1OaheIe7x1tYTBbwZHmUpwYhzk3aiWvjL1YufO4rn0QhuGN1VJhxjk_ylgKFLO7MOAg26JijgbhjmzRfhCtx/h1000-e7/Coser-shimo-Sugar-Summer-101-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "sally多啦雪 (sally dorasnow)"
+tags:
+  - "Sally多啦雪"
 photos: 22
 image: "https://lh5.ggpht.com/-pzCwQeVNxw8/YyiTJKUfn9I/AAAAAAAALK0/BETg5BH6OnMwNDCws2dCzmBwbHa4FcMPACNcBGAsYHQ/h1000-e7/Coser-Sally-Sally-Dorasnow-Sora-Kasugano-Bunny-Suit-4kUp-001.jpg"
 ---

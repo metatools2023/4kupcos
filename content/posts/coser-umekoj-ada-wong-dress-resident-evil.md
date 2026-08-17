@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 101
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQqDwTY_Vh_8h2EEK_lur9M9ex7xdSVI2PM5nhMVetVDn9NeNB2MyioovAJmBLgAUDUsxmXjpZFsWn7EOlfel8dFjECJvJDdVa5b_NVyaYTE62uZ36y2jO_X9XxmlDGh91VxUgfP-kqxQI7v_2NVA0TaJqKxKx_e4QuQpEDKrLq6AsGcXmGGsCDSuWk6g/h1000-e7/Coser-UmekoJ-Ada-Wong-Dress-Resident-Evil-106-4kUp-002.webp"
 ---

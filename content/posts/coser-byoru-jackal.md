@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 48
 image: "https://lh5.ggpht.com/-2QyobPnKEeM/ZG59UAmeEQI/AAAAAAAAQFQ/Bvc97jiwik0iDJ7pnU2Kfxxxc6QY2L1CwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Jackal-4kUp-001.webp"
 ---

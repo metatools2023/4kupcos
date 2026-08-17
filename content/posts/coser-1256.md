@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhstTTH_6xcT-Szw_bafnLEVPNa3J8bxgjhRYQte948hsNMFqIgaVf5Cn-FcrumXEjJfrC5BCVufSPKQjfgW72k04n2lcZdwNNLNCz1KIq_dpuRcuuAXCPFosnvnvz2jR2GehqHCe9lj2tuaxIBroDP70quzs0gYh3QX_HgsrM-6Ngdr_SgxZQgdsK60tIK/h1000-e7/Cosplayer-Kagurazaka-Midwinter-Yukata-maid-20-4kUp-012.webp"
 ---

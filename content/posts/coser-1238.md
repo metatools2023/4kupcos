@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNF9CW1vSv1u0ZaQVUR34pZAlsDY8gqUQtMhWhTj1DxA7Rc2TTbuAX9kwF-YKhjVH_InX1m71kK3ng76jWODIlMQA0PN5Rvpfy-bMB13qUYH3fFZQSPerSS0uFCIsWqK8X89YXoI5jwBOs92cvHtR9IqeLFdPP-h83Uoei39PnXPc3r0ZQGyb-pgBOoQQV/h1000-e7/Coser-ying-tao-miao-xing-yu-16-4kUp-01.webp"
 ---

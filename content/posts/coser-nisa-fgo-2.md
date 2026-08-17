@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCpqrV7aFDeFHG1V5A1zdP-HnYU8r-Zo8vCdtiQZIvqjsXK3CgTAdlWeSH3yUq1-mlnO2X8NTIDuofsHPsTWvv9hwK2ANs_aRDKUU6srjwbmVwc9UYuw1AlnQgdaFNWrIJBg0uNlivPhv8OLtq-x-OTtv5R-WN72K5TTMF2qvfzc3GTUsYfrt8nzpixwJs/h1000-e7/Cosplayer-Second-Assistant-Nisa-FGO-Tamamoae-Racing-Suit-30-4kUp-001.webp"
 ---

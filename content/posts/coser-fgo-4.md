@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻花麻花酱"
+tags:
+  - "麻花麻花酱"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtlwFIyIwdUNV-wsVLyMUnTrc7TJrKv2F5f1bSZsCQYZEyZxKvALNja-sOEiM39Ti8KOertpn2j9Z2U7vg-k5gfu3XpiOHul9k-cqAahhJ8wBgemYk40MuwPD8jf4zzp9pgcl8vMtJq2I_pEBTKWYQUCCs7hJKvT0smliqf_4IyhPw6VXY7jlEbi8v54Lq/h1000-e7/Cosplay-Twist-Sauce-FGO-Mashu-25-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Dakki伊"
+tags:
+  - "Dakki伊"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFHe0QwtEwSn0c6VK9qZstJk0hNL4i6Y8uVDkxEyMoAgsj9qPLv7erpr0ua2nkvHkJC2RjLpGj6k5SmjPCuLj7UB-3ReCvBN7tR37WM8VFJEfFjJp08glTxZLCyGqSsnDUVou1s9plC_-RZVmCbuW847rFbXK0_D6EQ2_NJajxcX_6yIIWTMC9b06YE_be/h1000-e7/Cosplay-Dakki-Azur-Blue-Route-Hindenburg-Selfie-27-4kUp-001.webp"
 ---

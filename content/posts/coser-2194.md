@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏"
+tags:
+  - "双木扶苏"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI1lYpmYpjSrWS9j6qQkL22kiTUinj4rVfUjBu5QmE0riw9DsS4ZMrD099alBUuQZ6MpF_7EKyXwIRkUQ2_7l-xWk9uo6LQQ2v7xo9A2PVZITzaOSdvXtC7vR_SNosu-V1JiX9eHhJNGEzpvm4eSsSXEprch-UrQovpJ-QHpVyz4GCzbLjKdLCMlnZPQQ/h1000-e7/Cosplayer-Double-wood-fusu-Ming-Chao-phoebe-28-4kUp-001.webp"
 ---

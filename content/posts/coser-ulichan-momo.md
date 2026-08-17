@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ulichan"
+tags:
+  - "Ulichan"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqril_tjUv5BLBJqVTbYUhaWtNUJtARucFRTsBDQnq2AbTUerCgI44Q70v7y8o_LiSwbW4u7rNzfqCkV6FZ34x3EfS9alL06NNU6Xz8YWSHq9RuJHcSEgBaX_BIkZWyC22fi0F3QxUZd3eRJ2EO1YAe2qejzuUQIkvDSjQo5LI02NohN3vanPBxSbPp0FM/h1000-e7/Cosplayer-Ulichan-Momo-30-4kUp-001.webp"
 ---

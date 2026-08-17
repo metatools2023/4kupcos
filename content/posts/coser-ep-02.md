@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星野柒兔"
+tags:
+  - "星野柒兔"
 photos: 13
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjMkbT-0bUvgrcZqf48-qgF-RnmzpY3C0cq5ffXW03NtE_6h8heB7bOu3M4aEJUz9Pn7no0zlJYhwz7jIaRbpyYtAX6rwn_xTr1yXijJQ1KcptvrvMgUDejHC_QRkrGh3kICEVnzgXk5p1weEXvHc0cqcS4W9cS5FOTGr5ROsovNpMBQLkENLwLbXtbso/h1000-e7/Coser-Xing-ye-qi-tu-EP.02-13-4kUp-002.webp"
 ---

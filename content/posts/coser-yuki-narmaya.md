@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪貓Yuki"
+tags:
+  - "雪貓Yuki"
 photos: 10
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq8ONCc4WRMmrfaVaraCrm458wf8PVXVZ3iFXo68AX0qZw-9xOJLc7N0-bS4eUaM0OpWZuGptWJlGG08xcnbqdTPZn4CDptHdO_48gN9t9oyDQGglCPreDNbVL7L7E9A5mH3yAbsboWibaw1GY8kB-pKE8xfhJiFl6WEXfoiMWPOQashXcLNOiJtDED6og/h1000-e7/Coser-Xue-mao-Yuki-Narmaya-10-4kUp-001.webp"
 ---

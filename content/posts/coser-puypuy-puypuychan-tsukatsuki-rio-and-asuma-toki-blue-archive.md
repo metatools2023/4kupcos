@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy プィプィ (Puypuychan)"
+tags:
+  - "PuyPuy"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD3c04ltP47bfeFaaWpxLGV4xBbGR2ltmAerNW4z1J0A_Zu3T2a3zdZrCQB5GWTqaqaP2isDW8uwnRlVjyGC8hfJAbRAlJZn2GJaMdh7x6haS_b6MSQCvhDdmk6gphCWufaKNtHr0-cPyRjsGJJXGBPXhISm9ftljgH-taAmCEEjl7DKw8VPWBBo79C9pX/h1000-e7/Cosplayer-PuyPuy-Puipui-Puypuychan-Tsukatsuki-Rio-and-Asuma-Toki-Blue-Archive-Rion-Moon-Flying-Birds-Horses-24-4kUp-001.webp"
 ---

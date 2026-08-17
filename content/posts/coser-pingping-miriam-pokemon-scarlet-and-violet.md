@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDG7A-toMcN3zqwpjEzzAIxFidd1v9toZlQ86DFbYcYWzeFwe_UVl9vXeUZe0O1mfKVii2wkM8G_TPZym8PN7-UltiPJ9I5XjDdWvqYJw9H4akVGsScwX2V_kALUwd2avC_edF_ZUj0Q5qzUUErfifO5yJpBHYmeDZkmprjO-CbEBmmjuOMwQzVnyNO9sr/h1000-e7/Coser-PingPing-Miriam-Pokemon-Scarlet-and-Violet-23-4kUp-001.webp"
 ---

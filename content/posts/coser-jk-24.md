@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "不呆猫"
+tags:
+  - "不呆猫"
 photos: 22
 image: "https://lh5.ggpht.com/-bK0mheg1Fw0/ZoxrG_-mYCI/AAAAAAAAQpM/VVi0s9aDRWUJWDL3wiLzwlVRxYTMiX_-wCNcBGAsYHQ/h1000-e7/Coser-JK-22-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Addielyn (에디린)"
+tags:
+  - "Addielyn"
 photos: 36
 image: "https://lh5.ggpht.com/-G-lpm1MrPbk/Ykcbxd9vG6I/AAAAAAAAAIY/UAuzuvVzQb4TFKCLcGMLA2SlIyyLZPQBACNcBGAsYHQ/h1000-e7/220401-Coser-Addielyn-Sailor-GIRL-4kUp-001.jpg"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-BmCcRRNQMYpVjU739xi0j-YUwG_8a2vrDOzxtvdEHzjVd12r2i_a9SYp37gxnEvhSY17UBB2YJ5NG1vUogbAmBYPdmRzIR2jfvoP6Qhq6w6vZUreaTZZYD3lNEBY4bhbVkdJiASR3Xwis8Dv_AyPmNBaa12Q17_KIQTrcs8johhNEEUmTrOM_44TGVQ2/h1000-e7/Coser-Byoru-Acheron-HonkaiStar-Rail-57-4kUp-003.webp"
 ---

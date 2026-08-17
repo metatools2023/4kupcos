@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZ4DFU4-bTJiSDAjGpLFooOWDGmZQMEvZ6sH2if74QOGEiXEdRi4a7XTZJwCxJtSvt4efVZHjA-O0gxGW9prZLwdj7omB0bdkmm0hmFGDmlAZ9IWF22HMAOs-Fz-WoaQdroWI6V2iL-Sccf4hRJHRwguf_ExGd1oUJxHgjYwHmzOV9LYJHTrHCLirHtuHq/h1000-e7/Coser-KuukoW-No.154-Silverwolf-Honkai-Star-Rail-47-4kUp-002.webp"
 ---

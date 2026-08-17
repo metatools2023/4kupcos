@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi70HPBjSFj5K9VvrJVXCxXc70sMUMxhoVYj3UPoU5fCxItr3t9ashl51e4AZJTIg6mRCYHpQ9r6uNoLznqq6BzVmMU2fI-00E22XNa4VMzhaRmKt7aHSDvigmVZx9-1zChddhJNsSJ2g79BVI-oFmh73J8dwyvhDri9qXl3LTQiqt-xL3-kLCLrNqReTeV/h1000-e7/Coser-ZinieQ-Princess-Zelda-The-Legend-of-Zelda-36-4kUp-001.webp"
 ---

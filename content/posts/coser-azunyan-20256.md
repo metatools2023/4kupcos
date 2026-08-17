@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "梓猫AzuNyan"
+tags:
+  - "梓猫AzuNyan"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6BC6wFr938E-TNPGNe-UXI0ekuizXAPprcgap9CxyULlj1BEsQoBIF1znqU3O2oiPKsEUz74zPL1Q2arfUQ4EZz8qplANleLoSFwWlbpDdra4Bg-C4SUP0qXp6kZ3vU4LG_tMDI5zi5422I-p_lbauvDexmFeBNlC4mLXgJfOcDpTRf8GcwFkN9WqMoUF/h1000-e7/Cosplay-AzuNyan-Captains-Collection-in-June-2025-43-4kUp-001.webp"
 ---

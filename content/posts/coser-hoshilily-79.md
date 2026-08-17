@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrNMmc3JxINHLl9I_1h3vjPMd71LA91xvBmA3GpUvs5LBV5-Ymh8-jzhijDLhb6j1u9JDZF3QSIbO0uZ3eH6bb6cOKC4koNJEDRRPXqU46wrT8mTGuyNTinZzSlamjENmCwhqF12ox2WdEnEUZ1Hjh7lz4nwe60eNpJuiGRJsQPlBADzBFx9QzF0jgwRAI/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-azur-lane-anchorage-49-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi80QOhu_gMW6NWTVGgKeN4gDEYy2ODpnhk7SYOix7erXddTL7CjnP5nx34LYvgLdOOnjg6GWlTA2u_44SYpIkofIUdVa9vuvpH-ocFSjxZ5GA1qLW94qhyphenhyphenJ-49lQZ_UaF_mh0u14INWXT6RNxLI4P3wivVLBxS1Xhtcd6kOb75jmfN6FVjGg0mdQfGb2w/h1000-e7/Coser-Azami-RACE-QUEEN-20-4kUp-001.webp"
 ---

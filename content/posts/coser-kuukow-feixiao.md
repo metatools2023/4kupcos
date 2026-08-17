@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8RzH_xfomNr723M0oWTOMTzd37hEZipu1VTYJOfhEAnQvKBuUi9rDVPA0UmrSFj-dkeBsjkSLf3vIZ0gPCW7NHMih4fFNBKiHBuTx0HQ5sMbTJnd8q2IGLx10C32JTg3a6XMHaZtzp3NGd1NWYK-CKWidCMjTMlmX1g-iAUx_SMTruqvEFQPEs8gHGp8/h1000-e7/Cosplayer-KuukoW-Feixiao-23-4kUp-001.webp"
 ---

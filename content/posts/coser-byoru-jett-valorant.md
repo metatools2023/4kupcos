@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 32
 image: "https://lh5.ggpht.com/-BFbUYAukzRU/Y0BUI7nxcoI/AAAAAAAAFno/1pkxE7evhTUtvsBQpLBxOuhASfLwt1dZwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Jett-Valorant-4kUp-001.webp"
 ---

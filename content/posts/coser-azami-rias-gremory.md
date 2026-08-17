@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdLFldAVhNBK7JbB-RAcCalnVmzEVBVAHzF5oW5KhVRBHjmZU157jS1VmN4JoMDmi55lC3VWija7AmYkTS50eaXtm7Z7tH98O8MCTGGdXG4PGLEyuqhSYHJaauJFf3Tilrhelq3IC1cxWV7pCmZFEPbUwK42NYvOoSr_W30rrQuI6uJqVV9ExS9plEfu75/h1000-e7/Coser-Azami-Rias-Gremory-20-4kUp-001.webp"
 ---

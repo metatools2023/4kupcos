@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdwLeE6xEa03j-D8h6U90H1B4wE-IBHrH-mjoLwRej4y_qPPYpy9SBRkH2QSX9o_Ns7GAiXWYd1k8oah0_fuhrxVLW3-37acpbVNh5dR6bXdR6K7yJzcFXB7FfSjo5TUyYmqb7AViUmT3p7F9aBjk9fLbVqZwx_Y0DT74EuT7En5qqyTFM91Yzb5UGyMN0/h1000-e7/Coser-Azami-Shuten-Jiangshi-24-4kUp-001.webp"
 ---

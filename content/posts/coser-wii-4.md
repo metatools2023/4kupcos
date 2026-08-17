@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "起司块wii"
+tags:
+  - "起司块wii"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3aq6dcCxDxBUFtGEcVEw17Gyr23GGpuEVl5DZXXvIacQpVCX5wbM74MxEXLLjqGj57Nyr9jSmNaU7Gc55M4rKINIbTsG-moqcKnZAwBVDP4G93GReSRdJHPXz1ETT_pDY7NBwUrli2TIqFspsRPNcUxPognYnMdebXLVvm8oKRNLOh-B5K2GuoqPvTg/h1000-e7/Cosplay-cheese-block-wii-the-president-is-a-maid-44-4kUp-001.webp"
 ---

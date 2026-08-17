@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce"
+tags:
+  - "Joyce"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFZASHoBuCRexo90OhAM-rHV250_0AD3P9jgb2BW_y7CnkSspKKTa7kTr99GvJcEcPm1GgrM9ijCgi9nxcvjm_sX1JG1PYZfOyw4JKUo2oA_63XqLqYHVyk2xTvfPeEcKLJATmoAHVvEqtnR-b6Xey7Sr_D4SkWzVPvZbpwEr7JPDIEhRsrNW79Gl1fig/h1000-e7/Coser-Joyce-Lin-Yamato-One-Piece-43-4kUp-008.webp"
 ---

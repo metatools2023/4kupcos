@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "柘烟_Zuken"
+tags:
+  - "柘烟_Zuken"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg71DwMiPmOrZGsam4ghYby5BljEmCIn68L8GxXtK2kpyueyucTt2RtzgQN1plJl-Hpt4fiuGzYZzm_ZDH6-OGAzNF3q3cFnZkFSp0e1PEITnmirVjbUJvPpBno7043WuK211cIhMypr0bhQtdB1VOFnQCGS8CXO5pBQ5oPanKJQ4lq2hiXI_QUwDiy8-s/h1000-e7/Coser-Zuken-Golden-45-4kUp-003.webp"
 ---

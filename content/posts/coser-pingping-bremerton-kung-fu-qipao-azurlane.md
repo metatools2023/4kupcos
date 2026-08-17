@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgo6IquUwgn2lbhRxS-emogzxSwppBuyuTFS4o8BsdrH-YjWxFSee0uALoq3GI1qGqGDiqKg5qbZsycLnD6zOXdaomMoWx-6Rnv3XmwXTYAJpx_qV3YIG9cHEOcYmdNJIogZFdrC51-zCEaKs5dswHTRJWNJi3OtRiFtqg6QLMBXmzBhy13jp9r17pednOa/h1000-e7/Coser-PingPing-Bremerton-Kung-Fu-Qipao-Azurlane-38-4kUp-001.webp"
 ---

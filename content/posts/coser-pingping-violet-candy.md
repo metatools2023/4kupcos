@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 11
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz37u0hYCcs5xtrbYwaPkZDbVgLmsfcpth9-TMyYK7kEo7WUFIFsR2yzLeFQHa31o60PW4Rc9_E-p7Hb0w9QzEfSXuZqRyAZygmU5aOTmAFwzXrhw59F-IN-Y7UYqnx3rxJ0qCVue2h2hf1Fk6FD2BNKdF-05FuFjioV0p0hj7laIgaw6ga1x5y5BaoqEv/h1000-e7/Coser-PingPing-Violet-Candy-12-4kUp-001.webp"
 ---

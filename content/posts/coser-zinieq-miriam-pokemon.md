@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 41
 image: "https://lh5.ggpht.com/-VA2cNVhKHA8/ZXjWb_x8OxI/AAAAAAABYr0/P3_Gkn-pQEUwKe6Sqb6K-pO6qaNHhUF9ACNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Miriam-Pokemon-4kUp-001.webp"
 ---

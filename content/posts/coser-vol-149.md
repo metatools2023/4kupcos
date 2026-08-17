@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 13
 image: "https://lh5.ggpht.com/-Mc_t3kcXiOg/ZH-twc_I5yI/AAAAAAAAFsc/x5xw7ywH660nW0v50hp6micnexzKCPafwCNcBGAsYHQ/h1000-e7/Coser-Cherry-neko-Vol.149-4kUp-001.webp"
 ---

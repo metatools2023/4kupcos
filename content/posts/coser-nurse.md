@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "くろてぃあ (くろ)"
+tags:
+  - "くろてぃあ"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4jLsO26jiOTcE7E7eyNQRMVEakgPx2pCDScKBkCCXYqShqjFxFTwd12LRk0S2mIaHO06vLbWVLHzHFSzgdOsaQr7LFR95C9069JA7Wv9WAeNx5JrTZRW6ZmyfmxQuikjr_9EtnmCwQJsiTO2GimzqK_9mPwITHu-fL5lx6ORgHnSZfqOVJ3CqZzH4U93S/h1000-e7/Cosplayer-Kurotia-black-NURSE-50-4kUp-001.webp"
 ---

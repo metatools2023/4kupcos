@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 39
 image: "https://lh5.ggpht.com/-0WWxVy608fg/ZYNmGcrmhxI/AAAAAAABkiw/WFzDSQChCH0eW6mvNLvZKD9QwFQDZD-kQCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Ada-Wong-RE4-Remake-4kUp-001.webp"
 ---

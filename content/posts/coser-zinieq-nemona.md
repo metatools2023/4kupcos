@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgu5b3GXMCPl2V6YIGNySvSlEPaSNSHOtjhUTKtVt7An1AIAJCfQE8j5ezm3LChpQBnIz5I1VpVpCmg3vRJSkM-73dV3MoQbMh-cRDOKmCfxn3pq0fpXGapaEYilVkon8B6zEjAlHuDbBNrfMDQUp1vyQUhYfl06_5POOMDx1yWSxaBUFiIQhogYycmLnIE/h1000-e7/Coser-ZinieQ-Nemona-40-4kUp-001.webp"
 ---

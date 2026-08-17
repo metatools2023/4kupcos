@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOSx8QCKZvybnNyxc1PiL3c5NVfrXyWuePu6_sl0SDxdXJ9vkVlF7VLgNr7MxqPXATzhWZA0kqc3sbwuKdAq6L6QAjEXwAv_AUhOYMe2hb0SFWFudFsovmJv2O4L0F6z1rI4AptKbW3DZeA9gIMwEfgZanDUqpJ-RnR-P0Bt2X90DgJanM-HATlYMANAU/h1000-e7/Cosplayer-Second-Assistant-Nisa-azur-lane-Sirius-cheongsam-25-4kUp-001.webp"
 ---

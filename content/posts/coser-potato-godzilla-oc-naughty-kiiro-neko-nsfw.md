@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzMFfMB5fFyp_7Bm6sstYw2FmF-gUBbnNXNrZr9p5iaQErIkj_Kb_cPbGp-5COv2BWFnccQNquCUqzZxlxO-F4NGyfPp1zc3QsgsP2uKcm7j-aVhfAPLYXpyFSD1mCHVfwvo7_isQ0KBeK52UAeu8JzbKdp_nRqpnpTjYiHt6nPMpIELShI_Stwfl84sE/h1000-e7/Coser-Potato-Godzilla-OC-Naughty-Kiiro-Neko-NSFW-20-4kUp-001.webp"
 ---

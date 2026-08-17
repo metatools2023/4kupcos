@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 30
 image: "https://lh5.ggpht.com/-9T6D5KaOXRw/ZJiqxjfejnI/AAAAAAAAYNs/qa7vJNkwXEExfwBgIJfVbZNzQLeEUumdgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Boa-Hancock-4kUp-001.webp"
 ---

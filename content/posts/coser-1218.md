@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小和甜酒"
+tags:
+  - "小和甜酒"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwtWTgzvx99_oJZN2yIQkv19VXlAtnXMLSMOEbdMz_DYU0ATN7vE4KB0YjhOzRkxsn2PCtvs_PU53he0P5WQaFBD4G_8O6yhgQxmg2OwWMcIlIRjPr3Lm1r8VyJsU_6OJTXGLc3gcjsWAGHyGR-a8Z78uOijo-9p3wR_IsFl7BE019Ma1m5_9I0VgERNff/h1000-e7/Cosplayer-small-and-sweet-wine-Azure-Archives-Asukama-Toki-Maid-31-4kUp-001.webp"
 ---

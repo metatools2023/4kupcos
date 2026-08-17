@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mercury Nguyen"
+tags:
+  - "Mercury"
 photos: 58
 image: "https://lh5.ggpht.com/-n8LgN_j_pCA/ZdE-aVjziFI/AAAAAAAAlCc/BtfCKEnE65cEesb0q0X_z-0IYyaRgXYiACNcBGAsYHQ/h1000-e7/Coser-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo"
+tags:
+  - "Sayo"
 photos: 108
 image: "https://lh5.ggpht.com/-9s9U7z5-n-U/ZmohfNhLzgI/AAAAAAAA4Kg/M12DS88gD_MRF2z2EGvi2HZMpJdaHlJtgCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Anya-Forger-Latex-Suit-Assassin-108-4kUp-001.webp"
 ---

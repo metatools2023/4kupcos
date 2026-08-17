@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqeLoNhGIbO6sZGzsFwypHcIQeSiMw3qeRZYnbehyhWIOqezqsdv_F99jFzdpiajnb765WYGeI9irqtDumoWZnEzlwTrOAIxROYpVp8uFBVcxLB4aY8adlkwU7a0C43Zh9I6bCOT9KiJs8GyFWlbX5C4KF0cimlRQWZH_tg-ZDYUcg4N5ePRizF5a_e6E/h1000-e7/Coser-Byoru-Eve-Nier-Stellar-Blade-58-4kUp-002.webp"
 ---

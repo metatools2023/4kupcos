@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "けん研 (けんけん)"
+tags:
+  - "けん研"
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFlzx6R66eEXOBYnGAUTi-bL4jNTkBKcccoNrqJWBy_a1BonUsPEclv6159sQa8elktHZJibadgfh8N2GewBFuizPOjgtQHUCwGdugfsP74LSRIpoqRlOxEKZP7sZeJZz3mNgl7BOwVUgjir4hTi60zat89HhLn0YG-X9nq_yzdxtnPzewg6_zGvMwjV-w/h1000-e7/Cosplayer-Kenken-DL-Gura-photo-book-51-4kUp-008.webp"
 ---

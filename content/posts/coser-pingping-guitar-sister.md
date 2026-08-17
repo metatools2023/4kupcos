@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDfTJEmsHj3TkmnnApIZ0LpHeeHH86-eojYA0H30i3CDwsbY7q_LMPH2xriEB-3wv9AtXmqE0DfJbcWhIRomhZ4mFowYCTp-wDP2qxLwmjx77pYMyTzxEUmc5UEN3OfzNXP4gFwL2rw3LauJSDZmBDYAHcrbBvmo_93UbF6TZbLjrhUuF3k094WdRC3L7c/h1000-e7/Coser-PingPing-Guitar-Sister-28-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 69
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJbG3-44fIpUIdwLXz6Lp9JO3ZuEvTjFLOBrFhcgCsRqpA0J7p9ZD-2P8ZP8F4JhhtVcnHjOPhMnSZg-oKan477-cOj4ByUKJVnrO3J8-ff-ZZYAktb5jIvaGFmPXB1LD8HPRzBinDOwJxP3OsmFDltY7JYU5T6kh-MXA19BwCHKKDXogupoWD2pol6FFn/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-Azure-Files-Hayase-Yuka-gym-clothes-69-4kUp-008.webp"
 ---

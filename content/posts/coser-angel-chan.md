@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Angel"
+tags:
+  - "Angel"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBRdyl-Ob7UTriRqGTMu5ZG1jxUbFqENN3Xz80Ilhbpippz-rSV6OwZ0pJCkVQ_5G6Hn5mz_u-smopkm_Oy3KgELziIUOHcm4MXBPjMaHajdxzqqsFKFLj21vifVF-LrVTaM_akbBGCaH-jms2gB2tGBEHjCWvJSDIN8bt-c9MaUqDMHPyfNxC33Q_a2-0/h1000-e7/Cosplayer-Angel-Chan-The-Buried-Frillian-Fearon-44-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 119
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-9Kdl4Usx5hFGuDIeC5-vusmltwWX3GICAAZBOt2dHiqhqRHaLk6_CuwYX7uFjm4igucG6BJ9Onnj2gcXqtXOomE7bSih_8t77yYH8ZDrhNwM39LMq9pkEZV4m8TcM4Lunb_d999dWFyynSsL81Z4Y4z1P5-PfR5LzGrxUpfEmh0HieJvoX4YaFn9XJ3w/h1000-e7/Sewing-Uumekoj-Varasa-120-4kUp-010.webp"
 ---

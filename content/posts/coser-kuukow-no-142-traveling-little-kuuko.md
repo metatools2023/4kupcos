@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3vmGi70fTbxRB6jE-xV_fBbBlZ_y1PfJoFzsYdlaYi97yXCvrXgQfNz3Jj5f4WAsQO4_FXygo_0TBad3dzhXIZ97k9wAd14pM08SDxTErEYlWEDx3TDDuMA12Ncz48gV-Xqp2F5gc5sQpFG928f4khBUNN0T6SY_HPCxqbCaDKYQ_SChRNINdCRH6aHE/h1000-e7/Coser-KuukoW-No.142-Traveling-Little-Kuuko-31-4kUp-002.webp"
 ---

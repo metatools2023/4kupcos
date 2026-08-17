@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "けん研 (けんけん)"
+tags:
+  - "けん研"
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu16Uv3p3M-aIFf5YohkF0Gp12Lpm5hgwFJyDxa_9_OwthjSnYpEsadGWJhoRqYjey93I1NH94zfUWKWIkYZzK69ogTVP2OC7uyE_EESjupmb6klaISXf5cOE0Ucz8L9JoQ3rexdfsqRoXvgXdVHDGmFakoxdRrEcz-PiAhJ_mC07tMDRpbJIIaa7cc2ZF/h1000-e7/Coser-kenken-BLACK-LADY-53-4kUp-002.webp"
 ---

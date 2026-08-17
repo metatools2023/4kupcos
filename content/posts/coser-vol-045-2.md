@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白烨"
+tags:
+  - "白烨"
 photos: 70
 image: "https://lh5.ggpht.com/-H2JKmXzsUdc/Yt3FZ3RrPHI/AAAAAAAAYlI/Ff4Am6PV4OcZkTf3vN7PIFMZI9hBYmquACNcBGAsYHQ/h1000-e7/Coser-baiye-Vol.045-4kUp-001.jpg"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvV4Hop8Ou7NFgcEjhNZ_ZQNmAeYle49ZhU-rNxPQdoeo4meDqO8w_n7Px9eEsc4zFNGUw2ONWE0jf4ObdfVUDZ8AF8zco9sPBV-w4GivwCyI8u7QMbuoCYzvuYSz3tbTswmuUBjq5es_d6A_hRerH8XBCjYhKF3MCnZhADdprqaL7tkGer9Ql_wDnV8M/h1000-e7/Coser-Azami-Mashu-VR-23-4kUp-001.webp"
 ---

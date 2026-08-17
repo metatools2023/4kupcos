@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_tGGCdIodWrY5G-YX7dlJaIRs3F2SbcqxQZnWZj1qDgbrb5gBKhtl5Bb-XNHut31XDRL3oRm-STi9tWTJdE5AhxuoEoTAT067sfTTAuUyogG8G_ObQRoPH4jylzW6soPaxIa9Hz_HpYBU4rAIPVMDUGzbrfee817I6ZACnldDXLhcEhAiYLhsfKZAP7qK/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-FGO-Sesshoin-Kiara-31-4kUp-001.webp"
 ---

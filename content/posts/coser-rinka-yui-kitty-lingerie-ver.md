@@ -11,6 +11,8 @@ models:
   - "kitty"
   - "Yui"
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 14
 image: "https://lh5.ggpht.com/-UkmSZYTY54U/ZWeuXAgXWKI/AAAAAAABHwI/dYcKNWHVnDI8-PJFZjNzlcmnLAhb5DCHgCNcBGAsYHQ/h1000-e7/Coser-Rinka-and-Yui-and-kitty-Lingerie-ver.-Fate-kaleid-liner-4kUp-001.webp"
 ---

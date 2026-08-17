@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw73E4a_9PWDh_9wHwuoWDQSTBEj8FlnFRdm9Q0oNkvx-v7JIoELVr5Zlfhv8J_O9Q3HUf5RDwZToQ-v4qERvS8qNUa8EIT8qPvFNoTR8n1w_RCXEapesTKPNjwjI0Z5ZERzZfSv2_9TWxBvenu5Ct6yEC7WJz_S9FXKVzbIDjv0jjF1yI3LrZ-pw_S_1U/h1000-e7/Coser-PingPing-Nagisa-Swimsuit-18-4kUp-001.webp"
 ---

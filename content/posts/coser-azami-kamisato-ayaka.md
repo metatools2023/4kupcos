@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqVt7N0JtTkYTG-UviVU6T5EDW5MudkfRsYHhe2sIhgschmg5iohGQdoBFaEVVLHETrnEqQRmM50NFuorvpKiShmIdtkJ6oVgtkoAkATHw8Xf61ptrzByOmrb3wADrbZ1UzYPZj-UKDLe_j1Ti5pXA4coRkvPacMbpdDgR76gJx1JemNvAEm8JBsHTZBo/h1000-e7/Coser-Azami-Kamisato-Ayaka-31-4kUp-001.webp"
 ---

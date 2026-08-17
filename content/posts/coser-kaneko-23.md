@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KANEKO_咔喵"
+tags:
+  - "KANEKO_咔喵"
 photos: 66
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRsHQTCcqiIkamYANRM2BBogFM1NpKgYr_MJ4vVhWMEwTG9gs1qL5pX0-3JD0xDUQ1lFCVqE9DznGcTmfuWOMFhCPGB4fvbY4DmPtWjRFZF3_DMqiLHWgmGKn-PJ8GtpphrE2IBtDskGZyRnpZoDk4-nZfLjleTbZn0LZ7oe8fvZ6iJ8dr3cVlLV-XsSw/h1000-e7/Coser-KANEKO-67-4kUp-001.webp"
 ---

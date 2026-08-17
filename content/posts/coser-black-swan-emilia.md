@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 48
 image: "https://lh5.ggpht.com/-mkyqQ1LgQUs/ZobIzs0X_II/AAAAAAAAMnM/glteYklB1IIw4BvJ-404X75bpS2r-1ilQCNcBGAsYHQ/h1000-e7/Coser-jiu-yan-Black-Swan-and-Emilia-48-4kUp-001.webp"
 ---

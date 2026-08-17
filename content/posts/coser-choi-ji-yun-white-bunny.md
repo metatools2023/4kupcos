@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi Ji Yun"
+tags:
+  - "Choi"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP7ybXyUsW213849FOusaMhdtILoCO7DXajDjHXtxrcSfDbqmTKnyRmjHwolS8A6zDUQ8cqr2fiKyUlRoG9vaxV96sQCnW69W1hSk2CAKnuGILVFYoIv8yrtg3SIEgkwapE7apLX0aoOKOTQXHMeCBdtU3ruuH2NeyMpUmDpXHeb92L8b6zcHpeqCa9ksk/h1000-e7/Cosplayer-Choi-Ji-Yun-White-Bunny-22-4kUp-001.webp"
 ---

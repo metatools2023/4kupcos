@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 42
 image: "https://lh5.ggpht.com/-DDVa3OKIgW4/ZaRt8-vfWiI/AAAAAAAANhw/Xr7gZc-UuhQAU0HCuFEVPg4SgAz2UMqFwCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Cammy-Street-Fighter-6-4kUp-001.webp"
 ---

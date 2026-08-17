@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Machi馬吉"
+tags:
+  - "Machi馬吉"
 photos: 71
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhg-qn4Lq4h3baiX0CWfGX3fbYecVLKFKKOZtaJxMf1qoRxtutL-azzf4Yj0YNdSLDXyQ5gFW5Xs7XpUJwS-ouGpQhw0MjqP12WlGnKUSciPNPAb_2R1nDe9uw4ULfKrA1u-H1TM3qtj7yihybwlTNZESCjo3xL3P1wbIIHfLw-28MOE09DyHLfawj7Kw-G/h1000-e7/Coser-Machi-Big-Black-Tower-The-Herta-71-4kUp-002.webp"
 ---

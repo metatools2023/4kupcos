@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小和甜酒"
+tags:
+  - "小和甜酒"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiamnCbnNEbwJ3KDJkKGFy2M1Zuien6UA4o7rXY7W30IbmWtgk9WzFc5j3W5zNc4ccpbR4IRV5cp_pparJ096Lq66JVOqWu2FHtC5UKaGHcblvdXkNRwTuRpV_BMwkNo8ocfrkbXZqvAuXqJIDKTDoorBGcRx8wtJgF2MEhF5lJjVmFZR-aFruzj2NGSa8/h1000-e7/Cosplayer-Xiaowa-Tianjiu-Nurse-Voroshilov-27-4kUp-002.webp"
 ---

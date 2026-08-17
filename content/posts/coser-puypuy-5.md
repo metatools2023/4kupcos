@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 148
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1i0OLyrxhdvB79X8NnW6pgH0UF7W8fC0Y5sej4XTDzOZ23j1UOqUG2AihB6e2RdMH1Qsjg8hq4AC4Zx1UNUceTIp0WR8Ryzt5pEE_zK3QWaRfjKSOqm5Izae2SIszxAbL0_yDX6ciB-Ch-wthPaRNDS7nHBDh_4krvF0sxMGU9Dyxbzx1QVNmJDoQe8wQ/h1000-e7/Cosplay-PuyPuy-Artoria-148-4kUp-001.webp"
 ---

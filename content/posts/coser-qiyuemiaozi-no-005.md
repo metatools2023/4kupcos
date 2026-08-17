@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "七月喵子 (qiyuemiaozi)"
+tags:
+  - "七月喵子"
 photos: 30
 image: "https://lh5.ggpht.com/-zLQG-fXLT1k/Y8bZcrgH9vI/AAAAAAAACEY/Z05N1eQqH_U0B6_eqDieTzxrEyspTfAIwCNcBGAsYHQ/h1000-e7/Coser-qiyuemiaozi-No.005-4kUp-001.webp"
 ---

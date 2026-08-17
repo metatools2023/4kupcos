@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo Firefly (HSR)"
+tags:
+  - "霜月shimo"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicOOv3ceLHYIPNsN5_LhReoLoO2COve5MEiYzkA-7wsw-eajN1PaQQP1tEDXNtxP501Uk1tvJ0jSXzMu7xneEAdax-uCHMaKfYZDOPgncx5VKhTZ1G9Ek8AnnF_kEtZeds5f6TvHdMPIDBM-XJ7QXYfV8VWZzGz332gIjnYcTfuQGOmHwR81Vb1r16LA/h1000-e7/Cosplay-Shimotsuki-Firefly-HSR-26-4kUp-001.webp"
 ---

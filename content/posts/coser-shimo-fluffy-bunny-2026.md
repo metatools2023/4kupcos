@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFYuZQxsAHWLfmZ08WpIQknkyPZXpHml97xZ7-BFvediRVDhgru5GZWjJalmLABYwJk97bbJYVWI_yzC0IcrfdRcJG6UQyiKRp_-0kUgVd5z_32D1RJxvGD0JcPqV8RbmgZGMiYgHeajdyv1N1c0A-HtV9Qk0CZMkPiaPYnbiuzw27RZTmNWWVinq1sAg/h1000-e7/Cosplayer-Shimotsuki-shimo-Fluffy-Bunny-2026-20-4kUp-001.webp"
 ---

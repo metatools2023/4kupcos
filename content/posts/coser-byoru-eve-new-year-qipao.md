@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6IQnTwahz2pQ-A-n1_zCFa_3_V1d96jYjgrBsiT8rKTD-48La93oXJLoyai3NwmbmQsLX5hEhK3dyVJ6BTtizavaNUFKaDLPg7-cTREH-PYHjx8goxPIAU9at7ly5ABhPNYpfXkmIdgfFr99lf29epjgFAlmESSijpY6sp5J-YH6LzodN1C6jRQ9D7pxR/h1000-e7/Cosplayer-Byoru-Eve-New-Year-Qipao-35-4kUp-001.webp"
 ---

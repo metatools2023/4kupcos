@@ -10,6 +10,8 @@ categories:
 models:
   - "冬马路纱"
   - "刺青Poi"
+tags:
+  - "刺青Poi"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmmpV7t5E0zTG-LeWoPrxA1xXkxwDd0OlhxCcJZmHWeddbFwAJDhJyD-p-GxBZFOkUTpRN65W88E7fky0rYvhT1Oc67ZI_treTYg-8jTXQOQRzBJLYezNVpVagdep_7ng0-A4fVHCacwjEypTHDI0IcmY8vw6eB-oiRVRcdrvQrck1ZxFup4T3o1uxQ0/h1000-e7/Cosplayer-tattoo-Poi-winter-road-yarn-reindeer-and-wolf-35-4kUp-006.webp"
 ---

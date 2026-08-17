@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白银81"
+tags:
+  - "白银81"
 photos: 93
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7QWJ-EopqUNfy6cDZT0oBQZnfrLFGZbyAGkBdfUBbI6oQEDzhCjf9-ecU1XJyCt0FLfsMd2WwCuwPLl3WIdm2LKJW4G2NascsqWedKNs-lOoI0GEPRS-uuLJpaIQWqYzs5RKnXtwe0ZrTTKLH4_sLX9LdyQ7l9alzvuTzEiQFv4mqGl2robmqi2FPuA/h1000-e7/Cosplay-Silver-81-Shrine-Fox-82-4kUp-005.webp"
 ---

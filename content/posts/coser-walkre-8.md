@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "絞肉姬Walküre"
+tags:
+  - "絞肉姬Walküre"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJSVonGXCtKT7kryEx7shynED1fQpQFlaLR5pZXGVEIbVqk0wfCNfKP_AJFsrNMiyvrmI81-KN7ArF54y0IVKldP4hTNXCc3seqz-NiT5h9u0PgmZqHIdJJvbbu_LabFqj09xgSnaHieEdmW0qgIe3krnSflWhQPuiSxdDFvG7g5tmoPnOIpB0S3Cuy1C9/h1000-e7/Cosplay-Walkure-Wu-Tina-selfie-25-4kUp-002.webp"
 ---

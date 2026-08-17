@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ely_eee (ElyEE子)"
+tags:
+  - "Ely_eee"
 photos: 36
 image: "https://lh5.ggpht.com/-guQYINJpLNE/ZhAkD5g-T8I/AAAAAAAADJk/gG6HWAWsX1Ufgqxre6em_LAlQA0juZBaQCNcBGAsYHQ/h1000-e7/Coser-Ely-eee-ElyEE-Winter-Market-Lamb-4kUp-001.webp"
 ---

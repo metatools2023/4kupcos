@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 94
 image: "https://lh5.ggpht.com/-tdi5bnnDgKE/ZXZDfhgdFMI/AAAAAAABVRk/mIxhyGBFs8MSqLRpJsVTljqt2v5pObBhwCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-GI-Lord-Rukkhadevata-4kUp-001.webp"
 ---

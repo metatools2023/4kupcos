@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "纸悦Etsu_ko"
+tags:
+  - "纸悦Etsu_ko"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6rM8t6da49MCQukJ5b3LdzbP07uGJt5-UXTNpcDiTgf9hCLaylqpGuHblg9muAnFpdtFYPE450uQIepapqjZf3RAJL3WxqOJySFSkC3aogvEYcxOdTOqwmv9bnqkCZu7qH_Mgy27QjYFnHYZgO8TArFfqgdNAnVDoMv3VgoVnt8e-64iQfa-kCekvjdbY/h1000-e7/Coser-Etsuko-Platycodon-yarn-ball-25-4kUp-001.webp"
 ---

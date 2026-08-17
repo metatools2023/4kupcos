@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 53
 image: "https://lh5.ggpht.com/-Uhk_tbZQ0wQ/ZNXMe2UdftI/AAAAAAAAN60/Cq0dRTfOlAEt48PHdLx-LImo9ljiLZyNgCNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Asuna-Yuuki-Qipao-4kUp-001.webp"
 ---

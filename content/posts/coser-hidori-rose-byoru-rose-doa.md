@@ -10,6 +10,8 @@ categories:
 models:
   - "Byoru"
   - "Hidori Rose"
+tags:
+  - "Hidori"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDIfOn8Lks1PCUF_USvaecQT69Lz7KV2bvH_bCi9Y00LhRGP3JXxjOuYAmBib7e5csHuJQsOfhefxXIQi8Jd7b8pxNhTMuT_AB-PNhypATCN_KYyEbQX2pjJBNJjqgqSS5wgcUP3_KFF1KGQOBCy1PsBODvCZGfuD3HBgEZdjzXFbW47xjprfP8CSp-w/h1000-e7/Cosplay-Hidori-Rose-Byoru-DoA-Dead-or-Life-Swimsuit-42-4kUp-002.webp"
 ---

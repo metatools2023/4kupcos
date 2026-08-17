@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 31
 image: "https://lh5.ggpht.com/--DpigTewO-0/Yq5Kjgi0HuI/AAAAAAAAI0k/FumMOXNn35AMOpvYIL4u5oZlWKaPBXv8QCNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Jean-Genshin-Impact-4kUp-001.jpg"
 ---

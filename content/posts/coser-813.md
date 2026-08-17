@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "千反田鹿子"
+tags:
+  - "千反田鹿子"
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3u0TJzC0ny_oE-A-1Zc07AQKne7GRRENDAXA_EM-G8KrgCMaoURm1qf69UZOjN1b9n6Hz_VjU-y4eGjjbs6MV88DwvCkeWDP6IOLnRcCRcujhrgiLEn_71jo-WnmMfsTJWxMAbnD_tyLSeWoKoMwllf2MP1nthQpDd1GRF-c8FgruyPgZ9OBxB4SuOw/h1000-e7/Cosplay-Chitanda-Kako-Daily-Life-Yukata-Indoor-49-4kUp-001.webp"
 ---

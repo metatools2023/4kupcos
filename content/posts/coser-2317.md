@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏"
+tags:
+  - "双木扶苏"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjto7_9DGfOY8DMmFypDgsDdtRREzDtyoUiizfoPWMZcVvhOaoUlmONlEntSE7MbirmLzZMRP3gk4pbsc-ixpTbIHMLk0ea4xJxemP7Xss7p5zxwH4NLvENJ1mb4ydrEIG3nL5NDSEfvOCZMdKS8zMrgUaXCN6hNrDMm9CT8mYDyJD1Zi2GXsx-h_HjAG3i/h1000-e7/Cosplayer-Shuangmu-Fusu-Kitagawa-Umume-Bunny-Girl-25-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "稚乖画册"
+tags:
+  - "稚乖画册"
 photos: 43
 image: "https://lh5.ggpht.com/-yarQxMST7KY/YltUUqZ7ZZI/AAAAAAAAa10/xDHO06uarYMY1xCgKWUPL3IPsznfhe4iwCNcBGAsYHQ/h1000-e7/4kUp-0014-Coser-006-001.jpg"
 ---

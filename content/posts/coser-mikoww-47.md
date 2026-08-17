@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "miko酱ww"
+tags:
+  - "miko酱ww"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvGl_zWXF9lJXAMDZHTBrDa4EcrorWEgezKMsoAaVcAaqIhFGP4YRY6AmQbYAPz8KgdpUerqs7zZQRITDyAgluZQKeyBLFXzoK0Vm0-a9rs7np5xB7T798k48RgAqccIpmqZvxDUZr0chwkIjA7xzjJntpZEfb4pQfPB_vrYBsvCMWzsi91f6NSCgxWQ/h1000-e7/Cosplay-miko-jam-ww-Mechanical-Girl-25-4kUp-001.webp"
 ---

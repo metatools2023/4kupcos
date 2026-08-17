@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "西园寺南歌"
+tags:
+  - "西园寺南歌"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglg0-r_LwIb78Q0C3NGN3Iy21jMkejA3LY_sCZQsslcpy6r5J0Ep0DkYhTR65-496QkfHEGiCmbwy2qIvI082U-i4DB39VUu1c1y8mDIYPEenkpONjJfO0mnY5R4ZYuB_bHRhZMUBbUa_HWbQXHAB93P92-HcYXFzcm4cMwutbJgvYPxJf85dZvBf8cGr/h1000-e7/Cosplayer-Saionji-Nange-azur-lane-modogal-nurse-23-4kUp-001.webp"
 ---

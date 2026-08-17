@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Eiraotis"
+tags:
+  - "Eiraotis"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifhsfr8OmDDCzIaa_0IdWGAgLPBLmJAIMQEYn4cu6OE6s8XN5yxb83cuUTB5Zc-CAPKW4hn1V8xzrYA5Q-mwvxjiHPPf5TuTjmGT14Jv5yaeozNNTiBGsTrYuumybomt_9JK_KSQky2AO0yLXc5ogG3mOPmxmHJp8mw9IF65xeYxif_mGcXKwohMlZpGOo/h1000-e7/Cosplayer-Eiraotis-Chun-Li-Chunli-29-4kUp-001.webp"
 ---

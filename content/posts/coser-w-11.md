@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "樱落酱w"
+tags:
+  - "樱落酱w"
 photos: 16
 image: "https://lh5.ggpht.com/-hlDsd9l5OuA/ZUAfJTdgELI/AAAAAAAAd3w/A0vIHaQ9ly8vzu7j9hiS3Fniml_HG4LRwCNcBGAsYHQ/h1000-e7/Coser-ying-luo-jiang-w-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 34
 image: "https://lh5.ggpht.com/-bmyG8OXXm-U/Y3z4W9qsAoI/AAAAAAAAHJs/HibkzHTiXI0yiqAvEVXoKfsqXwpqmBStACNcBGAsYHQ/h1000-e7/Coser-Byoru-Quiet-Metal-Gear-Solid-4kUp-001.webp"
 ---

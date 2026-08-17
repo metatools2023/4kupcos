@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 45
 image: "https://lh5.ggpht.com/-0Fox4SoeaMc/ZZGIxQifArI/AAAAAAABwTA/tSUmW0yA-8AnOPPpz5uq5TNUhYm5ljcnACNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Lana-Pokemon-4kUp-001.webp"
 ---

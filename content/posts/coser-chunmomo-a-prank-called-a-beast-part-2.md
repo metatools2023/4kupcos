@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "蠢沫沫 (chunmomo)"
+tags:
+  - "蠢沫沫"
 photos: 158
 image: "https://lh5.ggpht.com/-msuVqjypkWQ/ZLG_iYYtfMI/AAAAAAAAUUk/wa1J7-bkqd8WsQrsuabHb4_KLoi8wRW6gCNcBGAsYHQ/h1000-e7/Coser-chunmomo-chunmomo-A-Prank-Called-a-Beast-4kUp-353.webp"
 ---

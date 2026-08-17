@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcgVrq1A0pGlGF7I5ZaGUbRnYXb79r86A-wT8Z2UHN9_BH2fG2MXs9R-FTGtQiDMCPuoqq7WYq74dS8kepp_-6K89B2jEEi3e90SMqH2ZLSj7npzVro3XuNLFW0Z6Qnx3r3VUk-WBmBHhDOvjq2lqxmCTfBMZQQxoNqM6uplIXjgcRQ6AFKI1PVsM6scO9/h1000-e7/Cosplayer-Byoru-Saber-Nero-Xmas-nero-christmas-50-4kUp-001.webp"
 ---

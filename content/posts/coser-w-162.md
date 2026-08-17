@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdpaoKrAajX-jqrPADlGn8uEbq_JzbiQCOS9rUEfkPYCvGjvHCD2iGwY_738e50kpKmr6f90iyiIDhnEbLqpnojkpHSLR0iauyUSlESNbqGzx0I239iDljFd3PUPCDvYvXtceUa-Sy5h2gKGjZXaTgHYw-R-F8MCAK3j58M7ZKgXQfixCZUtQo0f2kEkG9/h1000-e7/Cosplayer-small-store-chiyo-w-Cow-high-cut-jacket-19-4kUp-001.webp"
 ---

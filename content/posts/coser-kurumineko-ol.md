@@ -10,6 +10,8 @@ categories:
   - "Coser"
 models:
   - "胡桃猫Kurumineko"
+tags:
+  - "胡桃猫Kurumineko"
 photos: 110
 image: "https://lh5.ggpht.com/-U95BV01WsMs/ZobIStIer6I/AAAAAAAAMUg/aQgvx6zrcyMJanoFrnEYhd5p1ATzvMU0gCNcBGAsYHQ/h1000-e7/Coser-Kurumineko-OL-110-4kUp-001.webp"
 ---

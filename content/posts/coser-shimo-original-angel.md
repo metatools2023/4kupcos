@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpLFkMcshgc92QpjcK1BylZq23eNH4TtLivE7z1Q5odK0aWeQES3DT3olSRmBcOAvWzGjBZVNypZMbHjuyzG6stxwrQNQacONDWIWgXAfGrk-WLqR43FvLTTQH-M8CEDP4IinDePqDhF5npvw_bxs0YbFiMn9ZdfbPH-WOl4KWC_DpJxYNiZEsFk4rfZk/h1000-e7/Coser-shimo-Original-Angel-44-4kUp-001.webp"
 ---

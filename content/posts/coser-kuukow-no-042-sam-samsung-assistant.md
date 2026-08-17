@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sam Samsung Assistant"
+tags:
+  - "KuukoW"
 photos: 22
 image: "https://lh5.ggpht.com/-VhJ5F9pjtcs/ZMWNHFe-3VI/AAAAAAAAjMk/vetMHYupU0k4GsPAI99KsYWk8UVAFNIAACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.042-Sam-Samsung-Assistant-4kUp-001.webp"
 ---

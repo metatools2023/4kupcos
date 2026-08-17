@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggJF1ujsPaZb6hBj6Wbg27oSOnDDFq8uIksATVAIOw6CZWns_ESpS4HOZ18TS1GV0oPyNtxZXCBFstzssYkD1_grc2hmmLh2ARbqleL2WM1ztwRP8jzXK82SaedMQwCFFzIgMxONLbMeRP5PlLoglu8a6FypMRnAEZTBVQDOX3jwlM-bhXBZ8Tk9kGhIAi/h1000-e7/Cosplayer-Mochi-is-delicious-egyptian-meow-46-4kUp-003.webp"
 ---

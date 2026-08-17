@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6aBGdJLZabz04njwGazKR2K6mZIcmIAEyRInDngqZNbpaa3t213dkvmKKV9M4ejdaJsN-QoSBhgMbwRsEKECaBxG79FMnZ8cLFfPQqdB6pIo9lsav0VUWPrrGA3Ij81VM-Fo6O0DgQXXgmxJnDP86QSPrXDmXUaUWEPtqa4ErGsgoTu6sCCxAlniBVa4/h1000-e7/Coser-Candy-Ball-Baltimore-46-4kUp-002.webp"
 ---

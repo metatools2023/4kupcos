@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 47
 image: "https://lh5.ggpht.com/-HUt97goRYok/ZkDtc-4IdFI/AAAAAAAAiXo/HngtdAS3AtMM4q4MKJLPRiJjE6hs766tQCNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Mavis-Halloween-4kUp-001.webp"
 ---

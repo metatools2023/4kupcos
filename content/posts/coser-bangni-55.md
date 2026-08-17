@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bangni邦尼"
+tags:
+  - "Bangni邦尼"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNHerYvhEaWbXo9k8PUw2UxZuyZ_uwRzHWsUPlFjuRS8_J_ZhZz5UonDAo4rFP7f0FITF4L2ZM7huDEeYVDQbt8cBw9XXi5YOfbNwaum2KqqippuIG_4PmtUvyQ6tnbKcB04YywBU_yuEbS41o0Og76xtDi3c1PEYpf9R1a98xSs1RrpjbvCuk_c8oF7Ll/h1000-e7/Cosplayer-Bangni-Bonnie-Genshin-Candice-42-4kUp-002.webp"
 ---

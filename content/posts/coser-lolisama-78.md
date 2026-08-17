@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_spAhxxOpsv7NU_oFL0NMVVH255r-RXSkec9t377jswZaABvaKgRmY2AcG5zUkkxX9h8xiWvSHO87zMH0cGtFELpUG39WwD9-z3ZOfQwYcPv-8lUfBcDV3lQIhVIH_Wy1wotx6Grudaco8IZmIn4TIs3FxI2S1tqdIhXkIvJNr2MqkC5jNEMKalWczsj-/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-azur-lane-Louis-IX-cheongsam-40-4kUp-002.webp"
 ---

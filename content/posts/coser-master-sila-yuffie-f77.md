@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Master_Sila"
+tags:
+  - "Master_Sila"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0YEI6JAKTduPbdpkRI9cq6TRfZKQt0YRngzyxyEj25dGqAuF9vOXkIIL2BrQ_nqa7aRnzx9clGUkU1F4e-KQmC2Y_HyClVNGHf1V6GY_dpHlQ_Vd6F0Qn2TRZJ9b_82onCtHKUp4c4lkpFAuB7di-08vK659cF4Kh21jkco9Udk9WqJIS5CRco6j14Yqu/h1000-e7/Coser-Master-Sila-YUFFIE-F77-46-4kUp-001.webp"
 ---

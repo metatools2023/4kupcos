@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hamumang Bunny Formidable (Azur Lane)"
+tags:
+  - "Hamumang"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEywTwuK1BbVMRgR3DpEaUvG22VuhMzH0nyGmu5YH4AO2P-W0L4aoHG0EcerQhdiZbBjCvz4tjs2cb4Mw4nZvglA7bP4WrybYqteo9YgmAM1EjwHP3DtgN2BZUTkam_R6TDYp3dDaIUYzyWJ-TLRVh-0-jNYaQsDsruFkRUmNaqbkG8msO54u1UY52Spi0/h1000-e7/Cosplayer-Hamumang-Bunny-Formidable-Azur-Lane-26-4kUp-003.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 57
 image: "https://lh5.ggpht.com/-KALZIWcgOSY/ZOVDGZrUq4I/AAAAAAAAXXM/cyWmDxbfd_QIyX516g8fKnf9YYicg2nhgCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.063-Santa-Selfie-4kUp-001.webp"
 ---

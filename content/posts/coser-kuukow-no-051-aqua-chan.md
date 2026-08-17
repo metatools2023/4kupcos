@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 12
 image: "https://lh5.ggpht.com/-b6DG9r_MUH0/ZNFmIqLXWZI/AAAAAAAAKKU/ZpdcBaump3IKu1cg-jcpdJsAY0W82AWkwCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.051-Aqua-Chan-4kUp-001.webp"
 ---

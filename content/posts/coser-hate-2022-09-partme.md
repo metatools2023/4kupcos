@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小宁hate"
+tags:
+  - "小宁hate"
 photos: 196
 image: "https://lh5.ggpht.com/-y6UYLlo95Zs/Zen1gPa23vI/AAAAAAAAzL4/bWYNRgnGa2k7ugzp7ouRaeBML8lj7K34wCNcBGAsYHQ/h1000-e7/Coser-xiao-ning-hate-2022.09-Partme-4kUp-002.webp"
 ---

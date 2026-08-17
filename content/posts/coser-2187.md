@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOrF447W_c13DG-8FDaUL-MueJ2Yydx8E3oxU4XfJueqyuUziEji1FhM8kRaOEWAP1s2mxEnvPHPEhwbHyhNQliCsS9HsBkq9j0A_mYJeU5dx7mrfOg9wJ1m9_L7yZs53g81o1YrHz2RKoFnFSYRn-LU0sgQvx0zks6kjG9DdD3k5xHLAxJM5lGAn6FFY/h1000-e7/Cosplayer-Yuno-Shimizu-dark-rum-23-4kUp-001.webp"
 ---

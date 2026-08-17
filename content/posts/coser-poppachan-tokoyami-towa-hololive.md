@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 109
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQYBnlS1NwDy7byLjq1KNzuqp4sA39AnQg3jnMzDQZFyhcBEXBtIKIb_fAqXU826Izh4blxWzVyOiV5KLk6vxzZRK1nVutp2Qz36f9NVLEF57lq9Gnc0nOrn8q3NDLAUAJLrsQRyOvpAD5CVPBH_45Ze42Tt7A0I7m2gPYdqk0LgwctHfa_vTO6diMiNNK/h1000-e7/Coser-PoppaChan-Tokoyami-Towa-Hololive-119-4kUp-002.webp"
 ---

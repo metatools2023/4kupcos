@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Chono"
+tags:
+  - "Chono"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhx3u2QsIwsRQaJfK6dpq4NEfmL_NEMALpRk-Of2aN9VyMSE7bmao8TJA4uXnpTtBbXeMlUfpBypsb-L1yG9NJXNTv6vgbR7no5wggVP6_LuK_0uVXfhjBwhTRmZN1Lsxxv7waiBeyyoCWfT-qBjSYdZ0L5BsJodBNBdzBeFFxnUcmZ7OQpw8AfyK0EjA/h1000-e7/Cosplay-Chono-Black-Transparent-Maid-16-4kUp-001.webp"
 ---

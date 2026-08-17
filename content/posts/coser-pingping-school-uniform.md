@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6u76P1eK52MbtkJMYZYKzn4qt4sqEK4K9oXtNTYqs3zImUP5RAhw_ad7EAMGT5V8ph5NbP3eS2AhfRXpfNl02w7Jtfzxj9ZCBxX-jEA2Q6iwhUC3z1Vkhj6QR-U1eS8MVnLfeNKvKJ7V6fxGFey3WeJ64SYWhttJkQ-DaJtgBGo13U2m131IwPheI2ptU/h1000-e7/Coser-PingPing-School-Uniform-14-4kUp-001.webp"
 ---

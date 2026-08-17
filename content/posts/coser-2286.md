@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi23a6Ccltvktby0LsRTWcP55eihi5o-mSqupcCPhOdNtbrbBdOFBie_LxKUtQn2Vvw8HaWreb0MKebJjGWXVeAZ0nB7Q8rDwjflyw7TubEh82r2ax1Sxt5qSmMRo1cy5nHEmQ_UfqBtKwS8AxIl_Wt3rcMJ51ONP_iMyFn87bOjnGDVHXvcm4_oXBELVg5/h1000-e7/Cosplayer-Yuno-Shimizu-Cheshire-scrap-dress-42-4kUp-001.webp"
 ---

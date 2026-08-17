@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Rizuna"
+tags:
+  - "Rizuna"
 photos: 181
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHzS3PzEd1FfYw49aHAhOv06VA7FlkfBW3mhTIJjnAs5TYyGGSjMP8ccbOdLizMuiqftGdI0K89ggncocNP-kAYfe6mynITRgxq7o15JT87EAsWuxnkDdda84k0SRHmpA3ve9w0uis1iBp3i1caGXDB3YXVNjgmJMfgTrQ8mC7Jt4JhTMFNmWkvpHZdH0/h1000-e7/Cosplay-Rizuna-Yae-Zakura-Houkai-Impact-3-181-4kUp-007.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvY0IGoAnwvPvotXoiM2pZok2_wgziMpLN7V0hYaqaLId5ngqU6Ph7sYH1O8NpG8UN2QA9VuuaXgcMNabW8jzH918KrdvZtWy4Cqo8dGrTH39S9ZBT9wALMKYfHugSptZ8Jsz1IZThVuSpNbZtBw-byTRwuw7FhwgIbCO4WZxMInKHGuaJoFp8bCZTHmdF/h1000-e7/Coser-Little-Chiyo-lol-Viper-swimsuit-44-4kUp-001.webp"
 ---

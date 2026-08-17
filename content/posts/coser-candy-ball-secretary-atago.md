@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_T9tCPgEWtXt_QVqIv2JEV-Rt7zblW5paEb7VUwqx8gnKwI0KC2dB_EPgyAa1hyphenhyphen1HaPZ5BlQsjFTuv7Df2mipysvRMwsJvw6hyphenhyphenPwq0J19DPkCa6YVQl0YpEUSMAMwcjiJVd_OC0Z1hMhFXZOL-bbzDb7lNKRAV7fx1oZN-nokcX8H2ot0imROZGTB1Ng/h1000-e7/Coser-Candy-Ball-Secretary-Atago-54-4kUp-002.webp"
 ---

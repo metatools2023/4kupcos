@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "けん研 (けんけん)"
+tags:
+  - "けん研"
 photos: 161
 image: "https://lh5.ggpht.com/-ZUVBV2XO_qk/Y_VH7EWl91I/AAAAAAAAF8k/-BkIqsPygG8S4WJHQa2faDZ0A-SrUf5wACNcBGAsYHQ/h1000-e7/Fantia-Coser-kenken-Jan-2023-4kUp-001.webp"
 ---

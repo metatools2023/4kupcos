@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 46
 image: "https://lh5.ggpht.com/-wwlO10zpJAE/YtmFqG9nlzI/AAAAAAAAWAk/pSUNwx1lT_Mw2F6Hc4UDLT6LGP24i6hhwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Sesshouin-Kiara-Summer-4kUp-001.jpg"
 ---

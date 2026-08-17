@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2mExg8uo_TtWCXnJkM-NvjAqVn_HbYSU4i5zBFmZirsE9loQEGjb5kDjyhRiw5BrRKhvpQlOx7-0FsNG3AyF3urujQ3S8W5BXiISfiqf-ynh_pA4jbUSKc5qwxSElpGOYOgglDtHkYHSR2zi1wA-JIaBqlbu4NbJ8fmIeE4mtdScE3cgKmPwVTFQrYAA/h1000-e7/Coser-Azami-Formidable-VK-15-4kUp-001.webp"
 ---

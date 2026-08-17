@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDFiSqcFyGdDWaKzYKEuHxKOY7yq0uhjVUCTEm1SD8jrrUogyg4lUk8unWwnGWyR1wpoZCKlDXU98JCmTbZ2gs4mzj6DIVxvazk0XNdPzdUEkCN3UhyphenhyphenFku6NTbkXdfFivuLc4ddGKkL3Eh9xWZ0pw9XtmoPEcLbT1EI5jwFBj3dYJsbuJHvPfUqGqLLbOa/h1000-e7/Coser-PingPing-Nyotengu-Fortune-20-4kUp-001.webp"
 ---

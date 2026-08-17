@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny"
+tags:
+  - "Tiny"
 photos: 85
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMABRtzOw8fBOz8Lo3Rvg24ZFgJcU4fUm4cqA75YsFNEOJcygTfba_x-F6-vR6bYiNl4jqznOenbwdVMa8XFmBvSOGbw10-4jicOGG5f8WVPmftALgcyh7MLow_fXA-EI0_5eurEDzzVm75qURIg9ptECct8tzmDbSS1UX3p9F9FCa_pDIzEQRZAYXgvlx/h1000-e7/Cosplay-tiny-as-Yorha-2b-85-4kUp-001.webp"
 ---

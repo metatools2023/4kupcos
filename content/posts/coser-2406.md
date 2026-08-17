@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8ijCrok-vyegqKFGKTHBux5P-1hj0H3KiJnzOmUsbAQSpi77yNT4NNHOL8WwyyNG0RG1xot7THdh0S43NxoVYvk2QDq2dAHpQ1hjqnmiL9MaI4o-8MsztqKmhqLpepVtQ8rj4hM3M42HaklabWkIRcJSTq3A6LvlXctj08RYi2nAq-MRR8KTOb1i-JAgv/h1000-e7/Cosplayer-Kagurazaka-Midwinter-tabard-kitten-21-4kUp-002.webp"
 ---

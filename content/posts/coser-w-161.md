@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHo1ILJZ7UrqmcZhDivwfAB59fY-rf-7QTjhw6aJF-lsOtGkWopFEQbE3nxecu2qNTbHtj-awiGVEEwLG14-FW78mgThAKbHDqI2uRsguNjmqMbr95ZiD4tGT14IOw7qUfOTeEjbGNNvIlon4zHxJrpHjvrhqssqvAklun4eDMLTA-BzFXFHCCKoVuv5tE/h1000-e7/Cosplayer-small-store-chiyo-w-black-bow-bra-19-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 77
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWnH-mcyndnMNm6o_P-zTZ6fI0M5UPfLxX-tsTKNiz3vXWIKq-CryeBhsa_Bsu_Vn9uyQChyw04UugIKfuunK3UVMiHNw77321IULajj1WCD-UF5cJ7FXZQEiJbBy3M3DVvRHC_upSJgctOa7H8OBjRNtkHjqOfIY3Znud999gBCWA1gasW7F1RGlCdIM/h1000-e7/Cosplayer-Shimotsuki-shimo-DL-photo-collection-Daily-Vol.04-77-4kUp-006.webp"
 ---

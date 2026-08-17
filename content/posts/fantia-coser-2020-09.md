@@ -10,6 +10,8 @@ categories:
   - "Fantia"
 models:
   - "けん研 (けんけん)"
+tags:
+  - "けん研"
 photos: 83
 image: "https://lh5.ggpht.com/-hW6RAw1s_s8/YkkolmZWX5I/AAAAAAAAKJ0/vsAL-f2ulvQRwoMDrQJVLoGP69Ar6oe1gCNcBGAsYHQ/h1000-e7/220312-Fantia-Coser--2020-09-4kUp-001.jpg"
 ---

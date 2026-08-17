@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhOZ1-I98I4FXde0mdhUVMESmWUsV3NYeVxeCEyDpQv08vEpYwxiBsi02Rp0rwfF9DcWAVZHofDG-TH_j8WktB5J2HjR2ZZhF2UMdSG4_sf30C_x1a4tAXZvWhDW1wWAFc4glXJ5u96jFQSEfqw08-xWv-0XaUZrFUJHqRJhTnAL2gfT8HApP1ecb4xZUT/h1000-e7/Cosplayer-Byoru-Sword-Maiden-42-4kUp-002.webp"
 ---

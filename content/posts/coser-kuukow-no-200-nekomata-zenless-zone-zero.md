@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuT1Ghm89JmKtEivQtxoBOOZVLyJXbpKZCRTRw8YzgdhRiZ6EETfLvGhGYMbOmPO2sg5ZbESXWHNPh9h1Vx8Em7AbfH_rzLtMrbQ632J9PD_6OrrHqnt0vUVBQOPNDvJATNAhdTWeEMfKQWjaH071O_ZgQngYaKCEyeSBHXoSjVeYFVHJDauWkqle_qKBm/h1000-e7/Coser-KuukoW-No.200-Nekomata-Zenless-Zone-Zero-33-4kUp-001.webp"
 ---

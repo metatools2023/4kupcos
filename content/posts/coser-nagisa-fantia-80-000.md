@@ -10,6 +10,8 @@ categories:
   - "Fantia"
 models:
   - "NAGISA魔物喵"
+tags:
+  - "NAGISA魔物喵"
 photos: 12
 image: "https://lh5.ggpht.com/-pppXwNQOvuU/ZIuRQZdmcnI/AAAAAAAAON0/NcWE-Mn8TQwAON5R3mJi4hvHNBr9TM5qwCNcBGAsYHQ/h1000-e7/XiaoYu-Vol.1013-Lin-Xing-Lan-4kUp-001.webp"
 ---

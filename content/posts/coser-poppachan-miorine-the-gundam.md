@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA2jksHFYDU7RTWTPMkAa6X3jBoC_IFHXTO7oJdIpLJ-lb6e7NRmMQ-rkgmi6GdX3qkeatpvZMl0k1BkiBkGMGwfnlMC65QjVdW5rPwqEQE6yqAop4pRsZ91KeyFiXUxkuPX1wBd9qrvPW3HZOyXLZpzN7e8Vb_E2urW5JvyeProia2-ySd7j1ANI2JDA/h1000-e7/Cosplay-PoppaChan-Miorine-The-Gundam-41-4kUp-001.webp"
 ---

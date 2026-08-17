@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 61
 image: "https://lh5.ggpht.com/-8-8_Du8vEy4/ZhLH-Tl6ppI/AAAAAAAAE-8/W0O4SzttR0IuGZIiNUJJYQLogXZTXIUjQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Misa-Amane-Death-Note-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一色雨"
+tags:
+  - "一色雨"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxNEECnAKkS8J17pTAxwdrwSl4tBszhKVUNhp7_AhI-yI-qIu_rBNbgsp4ZWoroSZI26-Wt6i5a8rS_4uBVjlWoBjKPf45Adxf-S1gRrY6j6HC5TDZ-bRAfrylL62k9hfRWVo60lTt1Gu2OP5Q0AyzqgKafP-1l73qMUpMgK9LWxopAYSaMZ-Y1dqtuOM/h1000-e7/Cosplayer-One-color-rain-new-jersey-Dancing-under-the-moon-20-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 57
 image: "https://lh5.ggpht.com/-CcS_NaHSCtQ/ZZc-VlPNOdI/AAAAAAAAEGg/pO7tcDlmPDw7SFeGp7E9tEXga9BwEV1pACNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Sweet-Maid-Special-Christmas-4kUp-001.webp"
 ---

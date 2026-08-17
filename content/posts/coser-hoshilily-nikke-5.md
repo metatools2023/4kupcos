@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidfJCUSXb548L3-xspe9zMhF54cGGsRpcXx3tyQQbaxTP058in0Wqn2Q1rAKaLs3HFsIrdGPLI7IS0akGM9YzD0Q7vCsEctGWc4cWvlwO7WIklRDr-AXeQ3aB3OGLwjD29jubm4XeUNLlZGWwSCawnFQwcMCjBew4xuW3fWdtiYR8lM9Z1ZNbiDUtCWy0d/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-Nikke-Luki-Unlucky-Rabbit-20-4kUp-001.webp"
 ---

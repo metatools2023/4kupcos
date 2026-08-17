@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD7lqJaoStgZgZ7VqEQTcrdAsLGVb5w7mQWwW-wmwMgzKuc2v50ERDmXY09wCdNTtIOta2mRHV-rwu8WLRa3GfjG2AAs0IbIlT3KRGIH_uffyN64Sp930D60QLHQNSVeuETODQdLaVqLddX54Wf7WonGRkhUYVBEq1qC1eq43bWurviuH6ixnV4jJ7ePzA/h1000-e7/Coser-Little-Chiyo-lol-Blue-Archives-Tianyu-Yazi-Style-37-4kUp-001.webp"
 ---

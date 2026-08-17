@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 52
 image: "https://lh5.ggpht.com/-hRAS2zNsyQE/Yr8fJKEl4CI/AAAAAAAABGk/gbggQ_G0G1k97fNwsSPnj7C_anKxQnBKACNcBGAsYHQ/h1000-e7/Coser-Byoru-Discipline-Committee-chan-2-4kUp-001.jpg"
 ---

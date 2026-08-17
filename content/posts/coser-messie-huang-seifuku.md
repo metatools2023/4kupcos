@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Messie"
+tags:
+  - "Messie"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBNrk2YZTtooVRdBD9VlqPf99_WNuxc7MQYRgdmEseyk4WhMJab5aAKgVwzkKdkf1_sZ8-qUPlshayNdC9zlTBMxYtcqPmk_DwI8YusHAAwvHQ64QhjW6fjclAxr_zGvrBgoiaCQpkGJe7phh1ddiBpyx5t5XkaEXwVdw0-pF96imYM2H6PBZ9MBsE5JmM/h1000-e7/Cosplayer-Messie-Huang-Seifuku-20-4kUp-001.webp"
 ---

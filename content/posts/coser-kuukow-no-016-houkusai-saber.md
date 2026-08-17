@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 26
 image: "https://lh5.ggpht.com/-JWQ7Ii7dtPk/ZKwkD0Qkl9I/AAAAAAAAOzQ/utFeeu6dvZw8THuL-htPFV_R3GdbwfnvACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.016-Houkusai-Saber-4kUp-001.webp"
 ---

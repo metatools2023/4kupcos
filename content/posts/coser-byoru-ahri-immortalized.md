@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC238BsBtAma_WENvwWu9-ZZ58eXxsf0kktbx6MQve6nFwlxeq-DMIsnwNzi9vxhxmoIxLWV-x4jkZQEvlvGUbzzPs8IyX9C8A3I7HarIjxAJ-PrxJrwE4Zl1nEXsH0YTPIWSBvutq3qeYn4xizp0hNzJ85Wpn6igEjX4r751awnu7gNXq8MHIxY1v2g/h1000-e7/Cosplay-Byoru-Ahri-Immortalized-54-4kUp-001.webp"
 ---

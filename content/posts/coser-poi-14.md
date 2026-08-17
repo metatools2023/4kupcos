@@ -10,6 +10,8 @@ categories:
 models:
   - "刺青Poi"
   - "隼隼子"
+tags:
+  - "隼隼子"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeSxSDb_peubDMxTcyc4a4LbP5OJTcxawxPn7abvUbpl7rgS9009j4DD3Flb2qg79MUVgLDNl0uOfFTM5o_83I5-6GsG8PyTPk20FPMTCRumAt7woqc3tH1ulJjrLN2ujKwjFhH9k9N3f3OzZbf8H8qUieNAQNcVlo_XHnFjgzHYQH7nL7c_COUtojIzQ/h1000-e7/Coser-Sun-sun-zi-and-Ci-qing-Poi-40-4kUp-002.webp"
 ---

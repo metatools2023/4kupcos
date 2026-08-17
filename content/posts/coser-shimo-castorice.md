@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMGI6Y9IIx2t2Da1d4qWkzeWiuIELHvExwXEcChTK_bkgBWzNOZ7wtBurDMl_of6MXQHCcQ0kmrBDStF0r7BFhg_uUneWpQHrHo-FEP1bmBuVlQvgMZ13u7pRtGRtCjUYz64SHXRYsIfoUEPIZLBFOPAo1dPdqP76gHfo4eXWchuILHO7k23cZhG0ILo2z/h1000-e7/Cosplay-Shimotsuki-Castorice-1725-4kUp-001.webp"
 ---

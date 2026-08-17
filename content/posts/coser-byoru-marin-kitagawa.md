@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 70
 image: "https://lh5.ggpht.com/-pMESGuBBJzk/YtmFPb5b06I/AAAAAAAAV8Q/SWvj2y3cjSYbMvnaGNv_tyVrB5hAWi65ACNcBGAsYHQ/h1000-e7/Coser-Byoru-Marin-Kitagawa-4kUp-001.jpg"
 ---

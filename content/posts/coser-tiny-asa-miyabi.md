@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjw3jHS4F45mkQjQgvAnGK9VjJtTaBb1rFpoDSxKxzO1Pi0rcC910VMNzuCeNhVoJF_OazDgIZKYWrNqpuCuQSvtTWODuuJ9uQVZChYupUzSRQAUCaUqPy_HmB1XhwyQusurklv4uTZZXYOwiRTlTKUueTuWHRgcSbAvQNYGG-vF9QlPE738KBkxkkPuS_l/h1000-e7/Coser-Tiny-Asa-Miyabi-33-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "是三不是世w"
+tags:
+  - "是三不是世w"
 photos: 42
 image: "https://lh5.ggpht.com/-ZTfE3Gmhm0c/ZmzDFruNV3I/AAAAAAAA6dU/Rj-tZafGZ70tMRM-_FMlBDtmFTmc4IcBQCNcBGAsYHQ/h1000-e7/Coser-w-No.031-42-4kUp-001.webp"
 ---

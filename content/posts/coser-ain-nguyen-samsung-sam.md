@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ain Nguyen"
+tags:
+  - "Ain"
 photos: 15
 image: "https://lh5.ggpht.com/-K6053VhfnN8/YkkiL19_wmI/AAAAAAAAI9Y/cYcPsdOcadkmA_3STPekp-sW2iSXt-9lACNcBGAsYHQ/h1000-e7/220302-Coser-Ain-Nguyen-Samsung-Sam-4kUp-001.jpg"
 ---

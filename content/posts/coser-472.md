@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "六二二同学"
+tags:
+  - "六二二同学"
 photos: 10
 image: "https://lh5.ggpht.com/-c1rKDfuwJO4/ZcVp8yqrClI/AAAAAAAAixM/IHYISIKWCOgGWiSTOQsXXRDXuBUOSTqxACNcBGAsYHQ/h1000-e7/Coser-liu-er-er-tong-xue-4kUp-001.webp"
 ---

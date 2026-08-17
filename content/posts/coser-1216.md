@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小和甜酒"
+tags:
+  - "小和甜酒"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzi_HEzix7AQNAnbSfKknJwrOJ5iFva9BjQTHiozWM4ovuH_PlAjAugYrf_FQmab2MOAKPa0R1kAYvDzQFC2xEsdZomRfURPWDPtOcXHqittqdt_oIQicFK5IX-D6sWf2_lc3qzl8oi3lPquL_e3qh9kO_TPkD_cKvQVK92UyHLlBkfapeqRc3WhGwzFU/h1000-e7/Cosplayer-Kowa-Amazake-Chia-Orange-Wind-Longing-to-Become-a-Magical-Girl-Maitina-Hiiragi-Donikoris-62-4kUp-002.webp"
 ---

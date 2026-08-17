@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 82
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpXPzjsgmrYmAJDc9BfNKgkEM3qLJRXgw5k6OmN1d9cQknt7xQ7FSBGBkdOBa_m58BIKSp5PzS-_oMAR5rzr3_M0k5RTF9TbvUAuJoBA-UCdsaOybWAl9kKah44jRWk2lGY77G0MO3uqZeBHgvGss8tZm0yX0AGalTEAkHHTTz-RoCCQSAId0qvdaTA/h1000-e7/Cos-Umer-School-to-my-89-4kUp-002.webp"
 ---

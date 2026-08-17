@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Kurumi (クルミ)"
+tags:
+  - "Kurumi"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYCmcsRjeMtAPJbZ6LRWOONe6-yDWol9ut1Pgv6jOwwbHyVZvNHwbMkgBix8EuqerPYEN9MKAnphWNZOs8brRDVDgRTgSGOIzbYn-qaRjnxjNb1WY8X69veXkPEWa-2b2YJzy_oNSIRGtDSaYjqMWL6w269Cak_d0asIJ0mwSMcB9_TfApOAsabFGgpw/h1000-e7/Cosplay-Kurumi-Shimakaze-Summer-Vacation-17-4kUp-001.webp"
 ---

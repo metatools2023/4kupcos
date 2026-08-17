@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 92
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjtxnuxAhCLd95OyzHoAWv0VOmVd4znuK4vmeTqIFF8C3Gzt-CoEJYEuDKng5Oop8NH5nOKIs6pJgNusUOVhYobYNE-lHOfVZosr-fQFob7hXWf0QSIrcH12EoqkoH5Krk3rbrd0GV5j94WhAQEn4hvfADKd2Sribyv6mOuKMBgkYliY7QmWTA4umWVR0W/h1000-e7/Coser-UmekoJ-Seiko-Ayase-Dandadan-100-4kUp-002.webp"
 ---

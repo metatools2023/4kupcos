@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrdI3LSXrqUKE0MHTJGwz-jhwJnmIf7QfEzLvKfp9Iom-gSsuQqAQGmAW_Dj7blx4vP9eA8UyoHQqv67xurN4yptPw4gvUgNHxzsZ3lfBrrCyznl7J8THvu0mZETDoKT18sNo-mDvXjdIYhicLLLWb8dE3dsHQj7J0L9ylvg20A1R5zcq7l77AtcB6PKY/h1000-e7/Cosplay-Ooto-Chiyo-w-Z-h-e-n-a-i-.-C-g-35-4kUp-001.webp"
 ---

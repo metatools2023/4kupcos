@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 56
 image: "https://lh5.ggpht.com/-X7vwLV5gips/ZQymM0pSsxI/AAAAAAAAVS4/TPovLxtEUj8wMF-gHjSAxnWidSeLbMh_QCNcBGAsYHQ/h1000-e7/Coser-Byoru-Cammy-4kUp-001.webp"
 ---

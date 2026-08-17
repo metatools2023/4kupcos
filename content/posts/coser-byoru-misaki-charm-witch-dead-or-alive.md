@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 55
 image: "https://lh5.ggpht.com/-JTEU7ICmOi8/Yqzz_KXb1mI/AAAAAAAAOiQ/FFGcScmESekrQMX5nMbL1JHmKDizj5FFgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Misaki-Charm-Witch-Dead-or-Alive-4kUp-001.jpg"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "星之迟迟Hoshilily"
+tags:
+  - "星之迟迟Hoshilily"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFYywZCKjcppRIvScU7_H4GegcODDnuRVlRaXO20AeAEU9r1aJwaQyUql9x7e18R_koTlsqyRnr79r1N9Mul4R27RPkbMeosIPP3Eeusu_jGWPPyVTDAHzl84BUU-2SNDoboy4fjUHALOGpiLtaTZzhCH99Ptid1tpFRqwXBSJzaTHj3jDb-Ks9diMBX2K/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-Nikke-Mihara-Bond-Chain-35-4kUp-001.webp"
 ---

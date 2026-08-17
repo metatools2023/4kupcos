@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgg4aZPslzk435VoxjilYKiylq6zt6-ZrTNP8LsAyujzNi7MeWV4Di-DfyKVejdCeQHTNV-afd0tDjqQDjnuBfBQN3iNm1jXKGbmy7oq_Tgg2Fg8DQs6n1yEa4kmuDmr7h2fI7tp2PH07-COkKTehxz6L2fKsuTFT-x4qru_iDG0ShmaZxH0tWhWMxfg/h1000-e7/Cosplay-Nan-Di-Kui-55-4kUp-002.webp"
 ---

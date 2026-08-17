@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 59
 image: "https://lh5.ggpht.com/-K8IRoXzxw-Q/YsX4Fxi7t5I/AAAAAAAAF_0/vJbCgirLptAPuC7g1FdzIn9OrZwzcOjBACNcBGAsYHQ/h1000-e7/Coser-Byoru-Futaba-Sakura-4kUp-001.jpg"
 ---

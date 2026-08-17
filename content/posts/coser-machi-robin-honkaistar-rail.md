@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Machi馬吉"
+tags:
+  - "Machi馬吉"
 photos: 62
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2mKpW0WvR6CF8zlnAlwDFwMrdoyyrkbPRjY1HuXYyhUWga8aq9CHjXIOe-XP4WdGNnREubB_dCi2O4mLrQqOF44HGglJ5n8vdDsE76x1xspq5JFd0xpxS5ufUVhOBktEvN5RAeOWovmO-LJUQZxJ6b6udwzRFVQ5H06TVRxZij3s4Ueq7Z15L5El_4Q0/h1000-e7/Coser-Machi-ma-ji-Robin-HonkaiStar-Rail-62-4kUp-001.webp"
 ---

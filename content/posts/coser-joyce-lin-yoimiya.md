@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce"
+tags:
+  - "Joyce"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5pGUuu_CcmtAlve4bbeNTRJ1E1LoZebEoo0IH5TS_oMzfm-raXNz2sVkDgMfyVasea_ib9O-mlsWpyYbKUuGFfih4lNIhVZsN0dEEvu-LTM4dQFz9ub-T-1R0mehMnQPh1Zx1qNnt5cFa5UnKhCxYerX8WIL1oFup50vMAg8O6iu0Y3h_7uFp8SmE2AM/h1000-e7/Cosplay-Joyce-Lin-Yoimiya-39-4kUp-001.webp"
 ---

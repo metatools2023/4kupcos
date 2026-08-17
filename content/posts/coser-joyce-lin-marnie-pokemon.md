@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Joyce Lin"
+tags:
+  - "Joyce"
 photos: 71
 image: "https://lh5.ggpht.com/-Nx-3dxyQTi4/ZRGz3dfpzRI/AAAAAAAAX8s/P3W_denU-YUmby78QJg5LBd4NyjlAVacwCNcBGAsYHQ/h1000-e7/Coser-Joyce-Lin-Marnie-Pokemon-4kUp-001.webp"
 ---

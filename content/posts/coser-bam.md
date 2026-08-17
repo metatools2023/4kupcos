@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bam (ばむ)"
+tags:
+  - "Bam"
 photos: 180
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIhS9XuT7Sb8mbOzAEhVX2H_a4nr8OaCn5kmwsS880YD4pUF3fJ6rPJd5DM-cuD6CySd8DuLffHvM0lQIVSGHUMhXDh3GtQs2nCbvAEtWvp8Zg6K2Z_UxzXXPO8LiF4gTvr6PYmI8yWTtX6taA86NjxnMJSTgb5Y35T34AnIpy3QBQmLvRkLMfbPoaDw/h1000-e7/Cosplay-Bam-Extracurricular-lessons-by-Professor-Bamchana-180-4kUp-004.webp"
 ---

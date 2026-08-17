@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "普通路过拳击怪"
+tags:
+  - "普通路过拳击怪"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJF5vuDZIDdx8XYJRkgWJrxUnq4N2KnEK7z_4sT4iPFeZv_QHBtfrDz-NzAwNLMd7s-u5hv1coUSi3FgXRsbtImXPmqMBM2F8CSynEIUL6p-mHZXtfgyw785zkmvNkPp6xsl0e9HytCj4iCmArHFRw61kIfdowHQi-pFJsWRBI6rZwlMeOqdfdfKBiVio/h1000-e7/Cosplay-Ordinary-Passing-Boxing-Monster-Atagos-Fierce-Man-35-4kUp-001.webp"
 ---

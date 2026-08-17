@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 58
 image: "https://lh5.ggpht.com/-9J_8N_8ldik/YqYfEpVaGZI/AAAAAAAAGrY/CYs5Kpm80bkiUiIM97KicDvvAfvlrC_2QCNcBGAsYHQ/h1000-e7/Coser-Byoru-Cyber-Makima-4kUp-001.jpg"
 ---

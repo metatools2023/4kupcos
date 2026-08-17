@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "是一只熊仔吗"
+tags:
+  - "是一只熊仔吗"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3WLXpXnYPlEZ-X75vpyTw0HS6R7-hd9bizBfu0ohzT0su1eFtCzpXixYw9RzqFoHLqkY5JODGsfJFG8K-MRDQGx4m_kTwpgISbl8W4CBfo-3I_LJYSMYl5r-sRfUxhBaiZk2VfVEG7ZhoVaf11B7m72h79fRS19lOiqlvOEPUSFcndeD7qYp7DBzdC_db/h1000-e7/Cosplayer-I-s-i-t-a-b-e-r-c-u-azur-lane-Sirius-24-4kUp-001.webp"
 ---

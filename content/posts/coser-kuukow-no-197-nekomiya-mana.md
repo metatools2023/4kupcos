@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIkXnqZz3D9BNzztBH8inwyS0Memc3uaTvDI3MxaT3HsShxjaTCTJLgTqnfOKR7PYDLBOu-8XcxmOB67cLBfnGL0tkmg-jyGGt2nq4G0WpbkIH5cqbF-Xzcd4mQI8a2OoAba-34SnxDG3AVOT5O4ityj7kpygjDqQv4QiWLdAMh1W6OXL7SdqQDOhMkd8Z/h1000-e7/Coser-KuukoW-No.197-Nekomiya-Mana-23-4kUp-001.webp"
 ---

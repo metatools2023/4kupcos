@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Coser@皮皮奶可可爱了啦 白猫 (50P)"
+tags:
+  - "皮皮奶可可爱了啦"
 photos: 50
 image: "https://lh5.ggpht.com/-mXtWBOwLAU0/ZBOd9FAXPfI/AAAAAAAALpQ/_k2te3a9FmEymDr76CYnyW8LOtyRrXcyACNcBGAsYHQ/h1000-e7/Coser-4kUp-001.webp"
 ---

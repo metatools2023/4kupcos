@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 56
 image: "https://lh5.ggpht.com/-Hu8hQrDPviI/YqUXBXX4qSI/AAAAAAAAGgs/jVuHRx_AQZ0tLQ8Vc6M2421ylksl6MX7ACNcBGAsYHQ/h1000-e7/Coser-Byoru-Maid-Raiden-4kUp-001.jpg"
 ---

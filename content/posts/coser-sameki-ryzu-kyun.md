@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sameki"
+tags:
+  - "Sameki"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBw8kdTJzRKz8ZrYMpma7lUibO0HgftRkhHrpzj2vgSPm5hlz3Aft6xRd3RInjbmijqsOvpQH2DrNoj53O92snsYJyjPgwNx-dnGnetkBrDoWkNDEcLCcQnBKRJX4s1V7mXFF9qj1XK6yMkYF2lqun7UOe2PoEuo0fXn7R1dj00Xz2KwFyGikRvLyCxGY/h1000-e7/Coser-Sameki-Ryzu-kyun-40-4kUp-004.webp"
 ---

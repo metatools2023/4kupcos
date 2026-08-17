@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "yuuhui玉汇"
+tags:
+  - "yuuhui玉汇"
 photos: 100
 image: "https://lh5.ggpht.com/-oNLKn3ZxNwk/ZmDzOPhEf1I/AAAAAAAAyfk/8LHGGzHiOBcfjrEiYgXLJwCwuoeWc8vSgCNcBGAsYHQ/h1000-e7/Coser-yuuhui-100-4kUp-001.webp"
 ---

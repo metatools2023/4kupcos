@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEix6NIEHx-VP2Dh-nZlif_7kVpbaxdIuldoEaNqRlt0CsaiUPjbP9ECP1qbDnuPQx4yMqcijNWwxbXgoZGXr9-p5k2m279Y6MdP7UhaIVs3StH9an517_EPJ9RCqMXeFhwdZ86mZgBQFD7ZXT9M5SQJGK14uSE6iMkWSJd7rwWVjdMjLfROzCK1ngOXqV0g/h1000-e7/Cosplayer-UmekoJ-Yuta-One-Punch-Man-47-4kUp-001.webp"
 ---

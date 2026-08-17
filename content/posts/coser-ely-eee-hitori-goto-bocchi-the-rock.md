@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ely_eee (ElyEE子)"
+tags:
+  - "Ely_eee"
 photos: 31
 image: "https://lh5.ggpht.com/-EKDQmdLmKlM/ZgWTxQwMpII/AAAAAAABECU/_NF-26wg3c8Q6aVLQ6gLSyuNxzozrSOQACNcBGAsYHQ/h1000-e7/Coser-Ely-eee-ElyEE-Hitori-Goto-Bocchi-the-Rock-4kUp-001.webp"
 ---

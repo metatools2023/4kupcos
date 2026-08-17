@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmpI9VDQURs5y1dV2jWTJ7-8tDvrcfJBB_68vInKYXWBTcMUeH3li8LULuCkI4BnUVrdAcRch0AbzQUz1QtoYT3Ay0UPhYUlP-F7OEfqVEFkK9k-5vfGU1rNF3LKgp4ESxVMQivfKjtTgiEDJoCHCx35P0LhFDNHBNXZwkrlfdkdwf1gSHJoFegYNeIYqj/h1000-e7/Coser-KuukoW-No.169-Jingliu-Honkai-Star-Rail-44-4kUp-001.webp"
 ---

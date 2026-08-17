@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0HiJfcEwgmspJngcIJtksZBA_WcVmjN7_5ERBDEdXUamnfX0WtDEflrPsERvH0CVzk40CdJ55kv-I8elznodrNp6zCQaX3Z5Br5TjbAkZ2BRnHZ_fIJUgVEiE-pRbvVz2zMRkGO_1oIBu2MrG2I81mzTMRs8CO07-M5KuhhTf3NVePWdbTo89P2PcO2Cs/h1000-e7/Cosplayer-Shimotsuki-shimo-DL-Photo-collection-Shimo-Secret-Office-Vol.02-40-4kUp-081.webp"
 ---

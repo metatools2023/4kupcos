@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "贝贝琪Becky"
+tags:
+  - "贝贝琪Becky"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdE44vJlabDG_BElMfALCKrTbPf_1OBrz5CLLR8nyVCgLKpg36VVmDpJBrahLcA5aH0Xi62wi2PP_1D0vE312blZ2nR2Wq_XUS2q1eZPwSFm2D8e6OaSuj90XVPcTjeYqMhF3eCIIG8wmdC8x_26gC_-o_eprOnMsrVjbNITiugosVu_bXr-36PjVLJzBa/h1000-e7/Cosplayer-Bebeqi-Becky-Shokuhou-32-4kUp-001.webp"
 ---

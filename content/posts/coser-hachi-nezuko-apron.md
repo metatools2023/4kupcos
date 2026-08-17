@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgxR6dW0jBNQuipBNFc8XgHVOX2kaoCfFqLHF8Y5SOVdPGdVuCo26cGkvpDmOwaGA6cdaEFgrv2eXx82-ONYAoDDjnBbZC73e4b4_dFHh4yQgAPuLerutwgQg2x1IKi37YMQtgQhc7OaoPvSBsKK0JCO8KvQJxqn24zrSZJWhuORrGR80UGRIbBq34vjTj/h1000-e7/Coser-Hachi-Nezuko-Apron-22-4kUp-001.webp"
 ---

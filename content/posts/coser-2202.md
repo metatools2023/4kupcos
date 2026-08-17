@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "桜桃喵"
+tags:
+  - "桜桃喵"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyis0qqPFzheZojtpH0UcuYtuLCXLZnp5SVYyOojjQK5rsc-Sb4rJS5a2sdYiPK9lY0j6nbtkHKB1d-MRa6cfIOTuC7TEY0SV71ABMSc5W6qUFouJQCrR9s4Lwhre_ui4Q5E024OHYY1svygXZUo9w7-fTudLda49EzZn0n0m_AgCvcoRzAPLeALWYNK0/h1000-e7/Cosplayer-Sakura-peach-meow-maine-coon-cat-14-4kUp-003.webp"
 ---

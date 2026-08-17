@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 66
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBb4FfLjC31nraFiXip0tT1SLVNPSvyKVPCDqE5TZEpf4zVxAseYx7g2vZwGZr5HLpl66wVuLlQB-0XSsVC-NB4ElfDY_K3sJKoSaLvatZ9rxCxLoXAawIT-mhJ9GPV70VTp1BhWlja-EL8aSE5kUe7grbjwpflsTaSKfnsfe6dhCui_AUTKpKsk-FRMs/h1000-e7/Coser-Sayo-Momo-Gigant-Sister-66-4kUp-001.webp"
 ---

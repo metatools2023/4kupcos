@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "宮本桜"
+tags:
+  - "宮本桜"
 photos: 30
 image: "https://lh5.ggpht.com/-BhZv5MuT5io/ZJdw5S3EMyI/AAAAAAAAXLo/TZ-USraQ1bA_c3ld6TZkESYGtU0RM39-gCNcBGAsYHQ/h1000-e7/Coser-30-4kUp-001.webp"
 ---

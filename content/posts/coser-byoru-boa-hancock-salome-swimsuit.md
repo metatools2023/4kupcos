@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 39
 image: "https://lh5.ggpht.com/-CGvUW2dg-_s/ZX9yRsPsJZI/AAAAAAABfWw/zmvzaAx165kARFFoeaEjZC3Yg0Pu8A2HgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Boa-Hancock-Salome-Swimsuit-4kUp-001.webp"
 ---

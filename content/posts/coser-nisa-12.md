@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzXstqnkauf7OzN_FngMPlv_F38AFGvUC6V5erxgd7oBaQ8R4ERfI4cecMw0ghfHdNaQWz65RNGyryOjJ2SbblkeHRnHC1digLASwH9KZs2wYAjiYN8lbfVnkAM4DWBBS1vIOR37Aj_klPkG6N1o-C9tEa8DU7Umr203AcBMDEWtm4dG72soNiX4hD8Q/h1000-e7/Cosplay-Nisa-Atago-Halloween-28-4kUp-002.webp"
 ---

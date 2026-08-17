@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi Ji Yun"
+tags:
+  - "Choi"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLvt_Y3RkKAw4NvHZc2NR9aRFfTRai14Eepc_2knt4rET3gLYAy8vgdOEadRekHRHuZrU71M2DKIWQfNvNDF33lEan7e_lifOBW99mpUn3nZ5CvKijvJ5ihcBkffeJBth0I8wZHLD8Y1k8WKn7CSc7LgSVQJs55Y0ivVkdtzwKHLHLLMsQ1Fztcb87REYt/h1000-e7/Cosplayer-Choi-Ji-Yun-Misato-Katsuragi-32-4kUp-001.webp"
 ---

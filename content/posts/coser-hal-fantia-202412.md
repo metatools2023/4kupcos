@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "HaL(ハル)"
+tags:
+  - "HaL(ハル)"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1BMgNOW41jIYyOnEgP0wbeY0tJaFplyLQBQnMriZJ3u0iDjN7Z26blk187kQTDyTDkJWLujtIajApVZQIORCDSVy8solQvmO5EVKKiXvc2ajrCbolb_j0TGd2IOxQrskKZsdIAgxyC3budYvb9mt5ATooiby_awDUlD94Phhxd63sOln7x_AApoyFCreV/h1000-e7/Cosplayer-HaL-Hull-Fantia-2024-Year-12-Monthly-Subscription-Collection-48-4kUp-003.webp"
 ---

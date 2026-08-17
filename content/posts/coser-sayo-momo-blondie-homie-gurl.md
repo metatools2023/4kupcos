@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 36
 image: "https://lh5.ggpht.com/-NWQeVJ00590/ZXo1WRHBzTI/AAAAAAABaL0/JMkwv6gJu9IFbMRHjx1cw4322cMdo615QCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Blondie-Homie-Gurl-4kUp-001.webp"
 ---

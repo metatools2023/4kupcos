@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAKcGUppxqWfphEoJicjPKIm6305yPLRXxYgByJndfF6V4qTeeBmT7-jyNaN_DmWLt5zc-fxKJLxHSbzxMVeviVt5kPtrTw6a2drnCLF6RKcQcMtGv15rlSOzSOJcepz2N2-Xgi1SKadLpqTurgeoNIRsO8QzxZcAsrxSlIvkHS8F7ir7Yzv6A0N6YYqCc/h1000-e7/Coser-Tiny-Asa-Chun-Li-Street-Fighter-23-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ9BRfYK29R0NHAs1Cg6bsecWfrTPo23cC1wj_MFZW50rCwy2kUEw3ATkjFYdHabbHGoAG36JBe62OMFDnLR9hTRnQe2O8AB-K-ieGlb5X35T18iUKxFVuFyWTlPERFl9bS36P7_U-vqYx3uW5DqoXRvNLTAxJ7gN7HEGF_Mptr3pXPkLHAVTOeWYtgw/h1000-e7/Cosplay-Shimotsuki-Translucent-Swimsuit-29-4kUp-001.webp"
 ---

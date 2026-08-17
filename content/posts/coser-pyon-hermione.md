@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 26
 image: "https://lh5.ggpht.com/-gcVC995WRLg/ZimIP3CQJOI/AAAAAAAATj8/fL3zG79rFPMN-D9Rc_xBF_7MXnBOSOS9QCNcBGAsYHQ/h1000-e7/Coser-Pyon-Hermione-4kUp-001.webp"
 ---

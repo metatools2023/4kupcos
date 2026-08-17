@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 37
 image: "https://lh5.ggpht.com/-0jv9ejcsdVc/ZgGfdCqmqbI/AAAAAAABBnU/U9TNwIQTTuwvcAej654KsHwKy7V-_JJOQCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-White-Valentine-4kUp-001.webp"
 ---

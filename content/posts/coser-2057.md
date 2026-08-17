@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "三無人型"
+tags:
+  - "三無人型"
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyj554a0Y8ilKFhKL0U-NzKhh739HjmbIF-bUeG_98qzl16dW4a0fbNcMZP_cgRaWbABheUyM9MDv4GQOKrVe-swrVp99P2kBv-_bwN0-nj5B-MhGzlqKfLPRuOYTxJYuphHZoQsym3YKflzLG_SCwsmb4d5c7tHO90bahIuzzKl1De-owoOXpSjcjJ3z1/h1000-e7/Coser-Blue-Archives-Rabbit-girl-when-flying-birds-and-horses-60-4kUp-006.webp"
 ---

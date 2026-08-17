@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二阶堂"
+tags:
+  - "二阶堂"
 photos: 70
 image: "https://lh5.ggpht.com/-uqCUI0n45HU/ZimHzcGOOjI/AAAAAAAATbM/V5p7HFDVD1sICV_4XqZyPwmdg2qX3zmTgCNcBGAsYHQ/h1000-e7/Coser-Er-Jie-Tang-cos-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 34
 image: "https://lh5.ggpht.com/-G6EHGqpevOk/ZQ4ZcUOmSCI/AAAAAAAAWRQ/QxFbRUH3dPAD87TvkgdCTMJv-PiRUAhZwCNcBGAsYHQ/h1000-e7/Coser-Rinka-Health-Teacher-4kUp-001.webp"
 ---

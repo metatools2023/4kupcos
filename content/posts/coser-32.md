@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "奇行家狗崽"
+tags:
+  - "奇行家狗崽"
 photos: 22
 image: "https://lh5.ggpht.com/-YyJgJoO2wpM/ZAZhYysSHTI/AAAAAAAACfg/WFR0e7iJcogA7wiKZkD9xYSOoRqNoGvjACNcBGAsYHQ/h1000-e7/Coser-22-4kUp-001.webp"
 ---

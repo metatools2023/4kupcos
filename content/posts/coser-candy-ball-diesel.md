@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ1J2X9NSDakToxItY9_xpl7xPc3Ty69EVuP2riBrq7Oywu5mUF9jeDPYQYXua76ZfQGaY01beMZF6Q0GhdMPxoKWWv5WBEp9tWEfM-Z0_hGYq26Jkq49Bk50oLPjAx_m2WMxT45f4ydaxHLKBc5yiI6zrd3pjAjppbIyf0wY9uIqWPy-1lKFN1TMlzmo/h1000-e7/Coser-Candy-Ball-Diesel-29-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "屿鱼"
+tags:
+  - "屿鱼"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnORbtaWhuJ6krdlNSO3Kdq2JZwRvZ730J_Bo5SkmWJzjxmPtYXMUtNqfZHou9AiSZxAKMTUPTKoaxabLTZSHLUtqtb8ZyoFikUSL1d4yu-URhWOx8bHARIASURYBZ88zN_4Kpwn1whrVFcF3oMIGijEv6VjAuPPKv5fbg24QsJqXTfNMI7Z0SYNgsLzzs/h1000-e7/Coser-Island-fish-Youxiang-45-4kUp-001.webp"
 ---

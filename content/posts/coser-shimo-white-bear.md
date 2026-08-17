@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWx4IKFFR5v_A5IDeqMbckeK1nv6CjpjymytBxOEIjy8LYB8cUA0bMnpxLGsF1WTC40JbFKA1YDXRVpifSaehy3ppPbkn7Z5kEFpLDAZjvw9F6Fd3dkV5BiAqvTFfv1WF-MX8U0m1weU45RUK06jU81lI7ozoPhMbB0dqU7uGafHezYOtU2h35dIl1BKk/h1000-e7/Coser-shimo-White-Bear-16-4kUp-001.webp"
 ---

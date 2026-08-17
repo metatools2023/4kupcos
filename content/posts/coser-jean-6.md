@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九曲Jean"
+tags:
+  - "九曲Jean"
 photos: 25
 image: "https://lh5.ggpht.com/-xIidtEcQPVA/ZnBq3bYOiiI/AAAAAAAAAKI/P7XHnMe7i_sqNB0WyYjr9kyi_IMHBa53wCNcBGAsYHQ/h1000-e7/Coser-Jean-1341-4kUp-001.webp"
 ---

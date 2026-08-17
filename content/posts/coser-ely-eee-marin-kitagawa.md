@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Ely_eee (ElyEE子)"
+tags:
+  - "Ely_eee"
 photos: 56
 image: "https://lh5.ggpht.com/-j_9So5Qhszc/ZaxbURQvxXI/AAAAAAAAUPI/CZmcZU2iIjsO4Bb7KHGASOuxSmjWsEZBACNcBGAsYHQ/h1000-e7/Coser-Ely-eee-ElyEE-Marin-Kitagawa-4kUp-001.webp"
 ---

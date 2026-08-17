@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水由乃"
+tags:
+  - "清水由乃"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6S_TAOr5SlqBRzOGjLD4kkOnz_g5Vhoscpp883-8p2XYTwduq0V4oIxFHxwNhrvUDwqsp2QCTJlnYLis18ANuZdJt1x-E8obNNb2thXuHc1baXyjcm45-c4tjoC0D_UxP5mBFbyXoJw4AOI4xPHoDiQPSifCt4Ay52IXnhlD59BVsMimXtt0yc6QGVFtU/h1000-e7/Cosplay-Ah-XunkaOri-FGO-whiteSaber-50-4kUp-001.webp"
 ---

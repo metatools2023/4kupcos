@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "HaL(ハル)"
+tags:
+  - "HaL(ハル)"
 photos: 13
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFvgJaA9nJDWdkhpnGQO1qfnpngAaecDPwQF9Ms5MB-dwKTAE0voJ0o_Th3sI3RhSXNCWwPpiOAF1Khurh2ShdBezc4fSZwETYTP5R_R9sMr7nPFQuaW87EipHWU7RudB1wdIL8DVKAX1cMgNM2XmO3fkTQnM5gPNAWs2ALbUxNdXd5i7hV6COLVepQOWi/h1000-e7/Cosplayer-HaL-Hull-pink-underwear-13-4kUp-001.webp"
 ---

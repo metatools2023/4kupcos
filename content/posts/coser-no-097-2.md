@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "面饼仙儿"
+tags:
+  - "面饼仙儿"
 photos: 28
 image: "https://lh5.ggpht.com/-DcvYzevfH1c/ZXZDRuz8RmI/AAAAAAABVOc/WzZCN5F5IqUui93tJs0-n-KKUkAYjhVCACNcBGAsYHQ/h1000-e7/Coser-Lingqi-Caicai-No.007-4kUp-001.webp"
 ---

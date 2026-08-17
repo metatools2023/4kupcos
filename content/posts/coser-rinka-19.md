@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrWdSvBfwQX-mPHv4hkJTxGOVE_LDV_YHARWsr_rkscxyeMhjhp8Zee4lMlqbYnpOwmUTU3l5NRwMDeZFq7L4G4Qo1BCoxqj9CoFiFNhEl8lqbT3xReP7EPp4S1iy9DAxcG1qi7u5yHxxzql_lGNIbvVsVKxSexJk4uaBhSYWepL4GUGmypDT0qgyDnO6k/h1000-e7/Cosplayer-Chong-Tian-Lin-Hua-Rinka-azur-lane-brilliance-25-4kUp-001.webp"
 ---

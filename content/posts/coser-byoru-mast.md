@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO1hsL3I4Se2ZI0KtKPR1GRazQ2XtlVla38X9pozaub4xWFSlMBRdJwryQ-YxVys0MnbaYdtlauEr1WOFLcOSfSucrhpcNh-Hiv0rF-O5bFwQVWh3aQWyJYTNZfkKZiEztVulvXmItz0I3NW37x6ZbKfDKl3ZN9mjUg4V8Vwd9gsPgMB7TXDJKdEO2KPvo/h1000-e7/Coser-Byoru-Mast-60-4kUp-001.webp"
 ---

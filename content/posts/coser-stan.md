@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "STAN酱"
+tags:
+  - "STAN酱"
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ_V5TaVKF9kLKCfs1YXQu2REtRmpSc6SSEkmLd-pzGzbmB7LUzru14ykmINsa3hiTScjJ66FSY7bHXI93KvbQu1OVJLLaJ1bl8ZjCmrUw3uO6DQ7k9z_uFO_DUrr5xPWdpjtILlw4bPVxIek5YM0wX_S2fUq_Rfl0AOajQfxlkx5-DlqXddfynYdhyDVs/h1000-e7/Coser-STAN-39-4kUp-001.webp"
 ---

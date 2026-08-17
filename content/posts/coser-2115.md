@@ -10,6 +10,8 @@ categories:
 models:
   - "一北亦北"
   - "是一只熊仔吗"
+tags:
+  - "一北亦北"
 photos: 158
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvv_GOfBSKCfTofE9HBDnhznm4Iwr0l8uhzvI-KF5V5FIeJWWyIjsVFdGf-ZLg9_DrtJSAdiHHrXTgZ9yDJzMJfdVfS_ON6S8ddS4yfCdYjW3k__VDGFv9hPUu3ESGyVEb_rp5lp3rD7cn89yyfIffYSC1dsOn-OoJ71v_pFWtrf0ZM7Vm_v0-POT7N3Gu/h1000-e7/Cosplay-Yibei-is-a-bear-Hua-Linyuan-True-Love-Version-158-4kUp-001.webp"
 ---

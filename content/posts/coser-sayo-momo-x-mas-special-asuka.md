@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 24
 image: "https://lh5.ggpht.com/-T1R2wPjSLLc/ZbBE9CqRXwI/AAAAAAAAXKI/oSshf9lBIIkLGAaJANR6kRGTF-7-nDNEgCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-X-Mas-Special-and-Asuka-4kUp-001.webp"
 ---

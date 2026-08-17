@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Dakki伊"
+tags:
+  - "Dakki伊"
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeGzD4-KSAw6fHeRGibA1pYK8FxGGND8td3XWvMK4VNq2v9HD4heILvLGoCMDxYjyeIIDv3s1lKEUpx-dpz8o3yhCvRAPBetPdT1SNj2g-xlFmQcpRWPOdJ2QSPmgINn5bwTwyNotCyBuwgFWxLU32wLw05zpct75hzTQSQO04uniFAQSbFpAX1cedxw/h1000-e7/Cosplay-Dakki-Noahr-50-4kUp-001.webp"
 ---

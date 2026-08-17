@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "布丁大法 (Pudding Dafa)"
+tags:
+  - "布丁大法"
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsMHYLRWuDsWxiHsPdQ5Bxe1VVzRgaXvSyM_o7nHbm0mvHK0S0SCzGHw1GBFoVrARkuXz7JDR_8wMeqx7iOtah_-glbUgnX3PmUjmj8YRYodcUp6a777mMh_4hIna0lAOTAsxfj6nbzij0rzyQL9W-WqSrH8TCsHKT4yxffl_YBSQP7fnhyvXjayr1X08/h1000-e7/Cosplayer-Pudding-method-Dafa-black-desire-23-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqj2Up4PJ4rgmq1qS-K1Mh5pGv5BMl6BuCRiK6fAUOLlW80TpgHNDzdeIIAUaXWhDwYIQndZ4C3XgMq-HUVRgEdaOqYymQTQnUMwRcu7Wqpc5YOEJJWZUXz7OZOrU0YoVqjUmj_9tqEPBh6JSjqtX0jzOpzOdHA1ZOMhrvc738Z_hNk-pMEu3B1PuipwU/h1000-e7/Coser-KuukoW-No.127-Marin-Kitagawa-Swimsuit-32-4kUp-001.webp"
 ---

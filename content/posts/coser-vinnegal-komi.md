@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Vinnegal"
+tags:
+  - "Vinnegal"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis7NuwxZY4oeZJ8w7jHw-zBran4e6EWVuHAsgkUrM93TeLh3gHhUYRy5DHgWtsgygM92nZlexh2qrk440xwg_sv2emc_Qf1_zRoh0ZcAcP8TSjRiy4dqBDzwlaKWxqzxZsLjEnjsOsXYEZK_FPPOCcbC_x4dHGO0NH-qB7_EYfbaHZtuL4kcuqrqg6EBNv/h1000-e7/Coser-Vinnegal-Komi-24-4kUp-002.webp"
 ---

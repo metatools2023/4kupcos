@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 36
 image: "https://lh5.ggpht.com/-P5AVsrw8ErI/ZkvK01XpBaI/AAAAAAAAo64/RtXiElcGGd0Cwbue3Er5MZjhKDVNJ8ljACNcBGAsYHQ/h1000-e7/Coser-Pyon-Cynthia-Pokemon-4kUp-001.webp"
 ---

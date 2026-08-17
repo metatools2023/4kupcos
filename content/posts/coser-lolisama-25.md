@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 130
 image: "https://lh5.ggpht.com/-tajokegCaEQ/ZlZXZ8rEPII/AAAAAAAAr-U/XqUcBWQBjpM-LI9wzx9gTrq-dwOqEnAzgCNcBGAsYHQ/h1000-e7/Coser-LoLiSAMA-4kUp-001.webp"
 ---

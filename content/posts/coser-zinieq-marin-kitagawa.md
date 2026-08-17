@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ Marin"
+tags:
+  - "ZinieQ"
 photos: 32
 image: "https://lh5.ggpht.com/-bJLVLw2EbVc/ZXDrzkzQEtI/AAAAAAABPsI/WjLrtCTfM3okxtPag5aRsg_HzPUmEc6jgCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Marin-Kitagawa-4kUp-001.webp"
 ---

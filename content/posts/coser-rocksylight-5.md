@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "RocksyLight"
+tags:
+  - "RocksyLight"
 photos: 120
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi14R2QRyCgK24g01zTOohiJoVOcf5NaWhFlvQY_g_O5czlVkYBJEGuQV4FG0eyYfceh76zMIcdvZOTtEhaalQ6m2TxKIHA6VqAuXLTN72eaR9LtVd1b6qkMeL1dx6D54wmSBF_EoNyI9tLd5Px2B06JpIzQKM4rF9LP9KJ-cJK0u9HJhAnsJv0ESqzZw/h1000-e7/Cosplay-RocksyLight-5-sets-of-works-120-4kUp-007.webp"
 ---

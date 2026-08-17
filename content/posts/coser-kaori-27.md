@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 74
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQg_jWoB3OTGd1amMN0liUHavUXaK8y20u1N5X0cNFJPgSeZDjRVrPtxKK9WpUqFLOG9DNyEqKBzaERcqCQvBKP3Hj1vXcaatVqrUy0m9IMUu9upuTUWvMGjcU9djB3EMMGb2ghb7F4Nm-cz-QwrRZOwD97qjBchmuWxFqawrlUGiYR_A9nU1VxKkq8Q/h1000-e7/Cosplay-AhnkaOri-Fludelis-74-4kUp-002.webp"
 ---

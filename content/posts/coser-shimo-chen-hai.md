@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgRikvEVoxrXKjn0h4tcoRZlEgK1yx_0VrwITnEIzUIMc-7rPc671-iMJSQAvcUgPy6lq1_P8smomg7bcnEQDV4hnrSGlZG8yjYsO-eEBESD0YC11HDRyxQDSXVYXOhacQGymlRJL_lQxO6I4f6zf7t3RuVzFNACtqY6lROGklFsZSEfgwg2NqoPN7iwQ/h1000-e7/Coser-shimo-Chen-Hai-22-4kUp-001.webp"
 ---

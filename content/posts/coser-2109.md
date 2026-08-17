@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "鹿八岁"
+tags:
+  - "鹿八岁"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD_LUGISCU8btcpohaG2b8CpWf3FgLmGMo86DmSX92xHdJJgszOac4fdvfHDagp_a_75XAijlKxzF_TIGSeUUgDmhgMkEt9HaZd4Bzp9Bc0MZrmmbpJvMYldxhYhiFeg4pbnzh2y_F7bvZL76ubGfo4Eyn5FZwk0qPx2XCHhrs_06ctGkMYdgEJbyVOz-Z/h1000-e7/Cosplay-Lu-Eight-Years-Old-Selfie-photos-are-included-during-pre-sale-period-27-4kUp-001.webp"
 ---

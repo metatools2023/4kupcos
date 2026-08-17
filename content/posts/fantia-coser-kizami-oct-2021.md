@@ -10,6 +10,8 @@ categories:
   - "Fantia"
 models:
   - "铭铭Kizami"
+tags:
+  - "铭铭Kizami"
 photos: 224
 image: "https://lh5.ggpht.com/-CQH7rsKWuLU/Yku9ZN-fxrI/AAAAAAAAYBk/48e__wOW_RIli8kxbSnszCsfG2CyRP8zQCNcBGAsYHQ/h1000-e7/4kUp-0003-Fantia-Coser-Kizami-Oct-2021-001.jpg"
 ---

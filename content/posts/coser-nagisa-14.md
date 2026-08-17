@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "NAGISA魔物喵"
+tags:
+  - "NAGISA魔物喵"
 photos: 225
 image: "https://lh5.ggpht.com/-IgiyghcvUag/ZIOTbaFOe1I/AAAAAAAAI2Y/coissEXVmmIrLPyEkt7Ag9vlIG6fCEURQCNcBGAsYHQ/h1000-e7/Coser-NAGISA-4kUp-001.webp"
 ---

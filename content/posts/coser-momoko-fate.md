@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Momoko葵葵"
+tags:
+  - "Momoko葵葵"
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdGJtE8DGsGsCFXEXopKcM37KuN5Dm2RfkSDL1Ohg3F7JVjSDmvLW5gIK3PH05Swv5W_XNAm9ITB0CBqe_PidNcG_68110yx-BS5KBaAf4VPzKUKr6DvtZqD4Kx3ONkexyjlfMvKF1lezwm5lGK2jIuxNuDXeLsEVdewiRcSj2WFrc5tG8582gxEbE3wqu/h1000-e7/Cosplayer-Momoko-Kwai-Guahi-Sauce-FATE-Black-and-white-Joan-of-Arc-52-4kUp-001.webp"
 ---

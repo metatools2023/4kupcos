@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 36
 image: "https://lh5.ggpht.com/-B3p0B8wJUs4/ZOvZTqve6_I/AAAAAAAActU/dNtnsratMpw-ebtcymVeJFO6dqxx1gc_ACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.067-Ganyu-Pure-Seifuku-4kUp-001.webp"
 ---

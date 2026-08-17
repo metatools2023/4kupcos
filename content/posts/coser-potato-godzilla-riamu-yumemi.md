@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato"
+tags:
+  - "Potato"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5xvK5uGw2hyPDmcq9dT_Fbn8vDfbBvelalsLnjcSJvDPV93od91CiIlJosKJJ5mDPtXANBcd49Ve-cEjA5eb5TRBs18WPBx9WEhfpdqUsBRGrT7jRvZpuRU10lRAkgs-dMeJYQV3bAPkncioVASxm34CVdBKZWKO_tNVCINyLqsm_qXsCQVLqLO3tpLCc/h1000-e7/Coser-Potato-Godzilla-Riamu-Yumemi-35-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hana Bunny"
+tags:
+  - "Hana"
 photos: 18
 image: "https://lh5.ggpht.com/-Nmq2LpWyxYg/ZfXNjd70sFI/AAAAAAAA6Jw/i75G4dgStSAk9XwCCVnFWKd575xBuBLiQCNcBGAsYHQ/h1000-e7/Coser-Hana-Bunny-Arlecchino-4kUp-001.webp"
 ---

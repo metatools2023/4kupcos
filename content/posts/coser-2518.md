@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿半今天很开心"
+tags:
+  - "阿半今天很开心"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRIe_Ez19fJgZaFYUb7YJTnQX4hnsC9JWoy4XHbcGq8OGCgU24fqBwfx_h_aQ8wA09d-ZteXhRYShc5GOiILqeJVulH3zG4QaTKtWa9C3O2O8gZ1F8KW5OgX4wW3i7iIh3hXoV6HxU5REpXXhCAN9KcmP2CknER6ocfdRwXEITlIUJhQ9G1VVILctjKgE/h1000-e7/Cosplayer-Ah-Ban-is-very-happy-today-Ninja-on-the-Railway-24-4kUp-001.webp"
 ---

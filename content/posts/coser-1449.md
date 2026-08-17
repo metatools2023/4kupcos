@@ -10,6 +10,8 @@ categories:
 models:
   - "三無人型"
   - "不呆猫"
+tags:
+  - "不呆猫"
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFACuLr_FB61qc6AebAD6nEbNi8JVL8lURdkzbj5ZMMUVBizLqT2mvWjrcr-pniD7vAfV_5VX3iEZYd-Kwf9HO8HTdvm5RSojleS8-hRGWw008NR2JNuhF2G6lJ6jeAY0SJB8rJB8ESN7pTvbCxyeVy2cqUq67RVEyMHl68m4dFovCZ5y-9LlZulMA8gY/h1000-e7/Coser-Bu-dai-mao-and-San-wu-ren-xing-51-4kUp-004.webp"
 ---

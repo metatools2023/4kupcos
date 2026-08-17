@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 30
 image: "https://lh5.ggpht.com/-6QDyaBplzeo/ZJoK4lXQt_I/AAAAAAAAY9E/DGk2IPMdJnIZ_vgqS6yLI8oKIjnyulIEQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Honoka-Altermis-DoA-4kUp-001.webp"
 ---

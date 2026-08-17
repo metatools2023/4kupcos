@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 33
 image: "https://lh5.ggpht.com/-7t8JOEmBGpY/ZhqtxT95_KI/AAAAAAAALEw/DTYoHa72V2s_rfXPf2PY7XpKyBGLlSv-ACNcBGAsYHQ/h1000-e7/Coser-Pyon-Black-Bunny-4kUp-001.webp"
 ---

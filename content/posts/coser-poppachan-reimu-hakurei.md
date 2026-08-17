@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 111
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgzYcXVY3ewpNRrKuUp8N9suZiLp-ad596M9nu8iCXT8QzOkwBB7u4ESd_feMzYtw-i6iycS00mV5WXBXd6uUGOe7ZRwSYbr4upOpl9pQRonVANiJKsx9S59uL4-Yh0jbUOnaAzOvkH5AsfhPoYx52XkdIZdRxyD3fV14NIqKgKpzgWboCP7_kZYPU8tJB/h1000-e7/Coser-PoppaChan-Reimu-Hakurei-111-4kUp-001.webp"
 ---

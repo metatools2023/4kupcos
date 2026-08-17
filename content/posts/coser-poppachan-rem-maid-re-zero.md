@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 20
 image: "https://lh5.ggpht.com/-HDo4dySjNPY/ZjqvMSynVcI/AAAAAAAAd4I/5c-gRDbGQZknHe1zjmzeySWSgzooxCH_ACNcBGAsYHQ/h1000-e7/Coser-PoppaChan-Rem-Maid-Re-Zero-4kUp-001.webp"
 ---

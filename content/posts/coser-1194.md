@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "黏黏团子兔『闪耀夏日-阿尼斯』"
+tags:
+  - "黏黏团子兔『闪耀夏日-阿尼斯』"
 photos: 80
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhztIEZLmuZcYxdDoL-dpFlg48igRusMu9aXVuyYz77NsRdhdJJEED-dP12XidBmzHQic4SOibrx_3M3comNmzhd1VCfZANtx1JoTtorLBaYlH219YkON1KX2fPj6nWDgz_l2cI1BKI4iyL7EJnTFf9jmfSpDGDNEpRrbLswQPUyoFmBTLY0YfC3AQj1uY/h1000-e7/Coser-nian-nian-tuan-zi-tu-80-4kUp-004.webp"
 ---

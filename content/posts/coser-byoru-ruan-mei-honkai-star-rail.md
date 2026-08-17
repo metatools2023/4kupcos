@@ -10,6 +10,8 @@ categories:
 models:
   - "Byoru Ruan Me"
   - "Honkai"
+tags:
+  - "Byoru"
 photos: 57
 image: "https://lh5.ggpht.com/-Ay9Klkk-PiE/ZhgKM1DycqI/AAAAAAAAJG0/7CD9Ebvmlx0F7L5WH8gYugLDNwzCrbQ0ACNcBGAsYHQ/h1000-e7/Coser-Byoru-Ruan-Mei-and-Honkai-Star-Rail-4kUp-001.webp"
 ---

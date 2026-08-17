@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 35
 image: "https://lh5.ggpht.com/-ry-_eH5IgQo/YrPLabR6zUI/AAAAAAAALwE/Gpo3G6StYgYu8F_0LDBSNnmqAELC4ma6gCNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Kurumi-Tokisaki-Bunny-Girl-4kUp-001.jpg"
 ---

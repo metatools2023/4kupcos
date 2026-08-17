@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2xcxbWzpoVR6uJtzga_Kac4QmJ08eDUUZglbQJrdctNM1TOqQBVICWBV46BfqEQLyhhVcXEf56jtR_Y4f3Bvxub8Pg7v4XNqk0yBuf_4vt2a_9lU6aS7fxuqDUyNtQPamhURregDKOXnrebJj9gr0Aw0XpRy4bMa1yjv6leEHYzdfr57kR7YYtgmCJL0/h1000-e7/Coser-PoppaChan-Bache-41-4kUp-001.webp"
 ---

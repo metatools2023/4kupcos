@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏"
+tags:
+  - "双木扶苏"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5K2cloPfN8cZlQj3kRd28nyF4B6v9POejYT2Cp1LAJJifAJcfGV6Rgio5-DLxYzL6t-koIFGMFyrRQI91B-_uVcLE7gh2roRyMh93zMmN0Kp5MUqjN8TXpTEUqpYJlnjPxV8niHETSXg5tabKv_yqrtA7l9MgJOC2es5w2PjbGIraFsSh-n56YC_5OcDN/h1000-e7/Cosplayer-Double-wood-fusu-aqua-mines-33-4kUp-003.webp"
 ---

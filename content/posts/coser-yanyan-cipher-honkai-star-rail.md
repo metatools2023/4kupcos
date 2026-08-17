@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "YanYan (ヤンヤン)"
+tags:
+  - "YanYan"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEDtXLmUt6FlpsBp6RaqIz2aB9uXyxz_iwkfPdhd3E9h1xuDMKwvYNU1Fu-Ec5oJ3IYQQhQokDVeDxo4GSKoucTGyxz4QkBk7gN7vYEafpL4OBIaqGfzVPmETN670R-PTW4nGakWPPoTh58rulwEA1xiAGd4Z3mzE_lbn88X4nsY-GuB6Bnco5zO86Zr4i/h1000-e7/Cosplayer-YanYan-yanyan-Cipher-Honkai-Star-Rail-39-4kUp-003.webp"
 ---

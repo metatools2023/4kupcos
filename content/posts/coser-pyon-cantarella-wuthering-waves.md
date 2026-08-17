@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Pyon"
+tags:
+  - "Pyon"
 photos: 77
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiF8r3NjKvS0GqSPgFJVVWb7IqJdzQU2X77aLtWxmcPX875UJMRe5I1Xb9RrK3kVUgmbbNhRJROfx55Suj9vSWRPryje3NmUw7mUmMxODI_smmKaZ0-taBNXI3Kto8rLPhsRzY4IJ0EviWBBZDR76aYE1wUoA7Seh8wyybqZ3BAOKslxqn0a0MENzGZOg/h1000-e7/Sewing-Pyon-CantaLla-Wuthering-Waves-77-4kUp-002.webp"
 ---

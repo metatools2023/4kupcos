@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sameki"
+tags:
+  - "Sameki"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfP5_DcSXhiVG6LmFbKIxSJ0pOXDTGIMFAAJWWJ1FXqj2jZOTvqKXC7A3Bl4a8QJ0BJdt68xgpkctNABZZmtqm4VWaQqEu7AfPo6H7uvQsxu9hOgw7Wx3504KR65-D3d8ka3ZxtdFVYOyzUR-g4Yo37wr5RimIwxWx8TCiUyyPxJiq03eINv2T5kBaQzA/h1000-e7/Coser-Sameki-42-4kUp-001.webp"
 ---

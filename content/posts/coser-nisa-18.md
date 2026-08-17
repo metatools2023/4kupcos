@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "二佐Nisa"
+tags:
+  - "二佐Nisa"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsRrracVcUeIqX1WQ5XVHJirdlvi2gl1rl0qGjY-uYzchCydNK4Cjavg0LmGP_m4hyldw87gX2soJGcRA9erizCTkJA_gaWFrUwA78klPsCHquR0dgiSZonzxl73vQxM1lcznt6IJRBXwq_IFsRlqLxoChHutxMOkrfZeo1e0dT9WQT9Mdrdyt1wBoas4/h1000-e7/Cosplayer-Second-Assistant-Nisa-azur-lane-Atago-cheongsam-18-4kUp-001.webp"
 ---

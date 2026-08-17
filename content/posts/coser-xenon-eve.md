@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Xenon"
+tags:
+  - "Xenon"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCiu_rnZOtByKv_G2FZrPFsRsbyO0pmTFQDdd-izwHTpBviwHYUbUUWMxDoIneumsI40PS8jXAhYHKrYu9J6YDuFNQz1EFA-05Rz47HpYqfp6WVhFootJcvMm3yTRdra0p4PSfFojwwtFfU3dDcx6yeqPrfCDahnW91DP763QrhYtXOoVkGmoOeZdxDso/h1000-e7/Cosplay-Xenon-Eve-24-4kUp-002.webp"
 ---

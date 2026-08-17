@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小稚九酱"
+tags:
+  - "小稚九酱"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgiA0ZcuD_pf9INYcHLg8xonMhfoA9fBWeaoJ5-MioA69JDwHNNZm42E9_fIquRCxpb2xTLbIHddeY3QlYYJQI0_nTbpwHx5NM3cipOqRi3OXX73RfFtEYee_prG0Ys3Q5ybMaX7SBWBkR9iSU7lxvGzDmgLdMo4wESITLaXLvVBvmeVrdtBjF6E_qpOZVH/h1000-e7/Coser-Xiao-zhi-jiu-jiang-21-4kUp-001.webp"
 ---

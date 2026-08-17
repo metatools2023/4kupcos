@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOCeXLQFI_0p9D7yOorUebYceuNcY4Y8-Q0B9gTnXSs_cFvCCGitAnV9Q9NFm7EIUd8ewWjdrbe5RyulRpbLubog3G-El5zIXsXCmYXi8fsozCEfIHY1t1cakL7Dp4Ae80l6MqVOVU4lyDiZHFLaQDQ1PfohZ441L1ROUKe5pma9i1sYML8GsDlfqX77cr/h1000-e7/Cosplay-Astra-Transparent-Gymnastics-Suit-63-4kUp-001.webp"
 ---

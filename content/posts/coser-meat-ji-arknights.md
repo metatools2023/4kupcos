@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Meat"
+tags:
+  - "Meat"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUVGVuOmEbbRunqqFGdUgiIpG9XVJ5dA7chLWRyTMvzbw438PhQlMOrKkv7RKgces6a9382ownk6ftOgHYCQ8GY6ZL3CKx3TcNCFLAgpb416nzoxjMIZw8TDnTwnlM7xXmE9WVE9JvB_Pg22anTfpRezsfJo8X9KfqvgGVARcUuSv5Y3eH9uqEYzykKziE/h1000-e7/Coser-Meat-Ji-Arknights-61-4kUp-007.webp"
 ---

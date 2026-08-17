@@ -10,6 +10,8 @@ categories:
   - "Fantia"
 models:
   - "NAGISA魔物喵"
+tags:
+  - "NAGISA魔物喵"
 photos: 25
 image: "https://lh5.ggpht.com/-BWVf7aqzOK8/ZJB7POMx2yI/AAAAAAAASNY/E62ZqzLUgY8GTenmt-oBpoL_Er1220WnQCNcBGAsYHQ/h1000-e7/Coser-NAGISA-Fantia-4kUp-001.webp"
 ---

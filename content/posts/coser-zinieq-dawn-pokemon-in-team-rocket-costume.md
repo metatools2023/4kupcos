@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 42
 image: "https://lh5.ggpht.com/-2GBKQX9KIGA/ZYYHdh-WUgI/AAAAAAABmi8/Tf9EjljR0b0yRrvXhR_rBcgPPtI1Xl4-wCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Dawn-Pokemon-in-Team-Rocket-Costume-4kUp-001.webp"
 ---

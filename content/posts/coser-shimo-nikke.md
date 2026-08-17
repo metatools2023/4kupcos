@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo 桃樂絲 (NIKKE)"
+tags:
+  - "霜月shimo"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYCOsz2FNqVAHWuWJsmrMIc6RiJFP9PtyV7tyxmcPpM5n3plGlbcw8L3Jpg6WDlJsGUg6EFNW1HNOJ5JnJt90ihMu1OyEE_7X6Sr8qGwgJ09Go_Vg18TxtNIzZpv9khJ9vA-2TDypJOxnv2bbs2FIyNJM8cy0krgHtrYm6K26BumKEXwc_dpr5kXqChnRS/h1000-e7/Cosplayer-Shimotsuki-shimo-Tao-Le-Si-NIKKE-26-4kUp-001.webp"
 ---

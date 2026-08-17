@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 44
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtqGvB9y6UiSBfrfAyDQARZWnl4E3xrULLqkC3K1wpNn9RA-cJF5154CSpwEiN8m_eZgLUKFVTP9DPecQW_WPb8Vn58WlsxChmyw7qCkp6-jbF4pbDWCWWXGewSOEPi25dtoCtkScrOvGy8piSffHZ3ckOe0DIi1ewEIfUWTlIA97yquY7NedOIU9J7PAI/h1000-e7/Cosplayer-Byoru-Xmas-Marin-Dressing-doll-falls-in-love-Kitagawa-Sea-Dream-Christmas-44-4kUp-004.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Reku Momoiro (桃色れく)"
+tags:
+  - "Reku"
 photos: 151
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiXvrWxJaINT7u9RqAhsv6qil4E8HcnhdD1hMa5iMI9p00Mp85rL-IWfCfIthU-GgHyTBJK_KuGHpxrAQOFUa0uHBkaD8dcaMdW9Gv8txAWTcwuZjKhe8T5xUci6rGcLfpgATrkFTF4DabZGy-ifyYuIFfMecO9Rv6mtihISuu4FFcdkN6o2uFrNcbdQ/h1000-e7/Cosplay-Reku-Momoiro-Admirals-Water-Play-151-4kUp-002.webp"
 ---

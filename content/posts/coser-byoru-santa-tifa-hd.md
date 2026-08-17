@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 47
 image: "https://lh5.ggpht.com/-rKH2Clj--5o/ZbBEPynKBKI/AAAAAAAAXBU/ccSD7gaRmbAMuWWPaOY3_FM8gBAI8csDACNcBGAsYHQ/h1000-e7/Coser-Byoru-Santa-Tifa-HD-4kUp-001.webp"
 ---

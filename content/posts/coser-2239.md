@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "前野太太"
+tags:
+  - "前野太太"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSvKiwkx6Cwg0Q0fbVJcZweZNvuBkAdSVESRC-SLF-wiwsBBPUnFgq1tomHKB1wmgbeVU54syNZE3ZJx7Xu-KG489lxmuzUwNpEHGYrioU-D6crhG5CVcowt7rhrJPmhk1a6m7z8NiG1cQU80NCHkDcYdlo1MFONFwDCvCOS1igw4ktomLosvPfsuo36yr/h1000-e7/Cosplayer-Futa-Maeno-Yuno-31-4kUp-001.webp"
 ---

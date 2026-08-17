@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 57
 image: "https://lh5.ggpht.com/-zdV82DhIXiE/YtsQ_Jh1z6I/AAAAAAAAW5s/QqA-80ELotc0176W7kIgftPXumDzflZpACNcBGAsYHQ/h1000-e7/Coser-Byoru-Houshou-Marine-Hololive-4kUp-001.jpg"
 ---

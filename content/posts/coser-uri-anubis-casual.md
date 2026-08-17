@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Uriうり"
+tags:
+  - "Uriうり"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj67pSyyw0zRD5G3UKxSl2837KIG6RnFgc0t-Ab_nFrQsEeszoihlbe6cGzYY73gvVbPT_NvSvd0qMiwL4ZHf_Fp7qGTQjRnzxrV4lQrOdQW62XmzlyZpomTEw0pslcFRwIzpNMxS-gXMW4-QWh7M6wvo1_l9v1VF1RkIqdEtFtTX1gZr5QAgtxnRMG4as/h1000-e7/Coser-Uri-Anubis-Casual-21-4kUp-002.webp"
 ---

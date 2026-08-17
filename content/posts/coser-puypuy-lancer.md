@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 180
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoJBkUYXFBpYOL5XRXkcCNIRmu9g_e7kfdBs886ggjSyQJ3o2CjTnZlcPm743UFdPfOXad8_pCB5cvn4T7Vqgjm8w1v_lhxu_6eMvuSJoM_7900Xyr2sNXqbsilKIvdm3QPjOlmGNwNBFzHfzc7e_MGWgb-zNy6UHEJbRn4BdbErD1Ye8M1UUsm4kpDdE/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-001.webp"
 ---

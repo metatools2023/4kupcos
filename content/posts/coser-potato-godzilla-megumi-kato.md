@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht6gFQNrRonOgmXdutzuWhJ7ygNOLmX9KgjsWbPVC-Uv1LiDtL5ICAbjB6aTxaLXgyxZlVR5NYmj8m_rGd20S6YW9LZbTPEqpDbU7qxfYkfXyW9MfztymoCY3vsBnS3gAE8o06WhiACqvdfRDb8KyARquFYGyhWiKkROtrKYAmAgSUau8_aSCnUu5-EN9e/h1000-e7/Coser-Potato-Godzilla-Megumi-Kato-30-4kUp-002.webp"
 ---

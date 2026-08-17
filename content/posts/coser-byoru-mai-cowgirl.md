@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 64
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjK4z0_cP_4Wye7nA4ERbUSeOwQbaKU517-Ox9OI8E_Psb9zPmi-xlXqZsG2nLvIARpUp2ATW6nh8U2P9nLd6hBmJt1n7pNez_TGbxIUNYcfM4mo4R4IM0jfeaih9g6tTpNSjgZye-ibMPLPIqBcopi5tBFrx_GKXlYAI9-jZwYYuth9DUYoPPGWoYIcIQ/h1000-e7/Coser-Byoru-Mai-Cowgirl-68-4kUp-006.webp"
 ---

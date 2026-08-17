@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHIbi5-gqQI7wq66n0fD823oW6Mk2N4z-ELjYSV4xop3WpwIiZkOV6B4WxYHoUEqgDPJqt61wHYZ2doo_5FLj_QgHREeKisjKQjNFMSUybNKjOnVlhuqn1dypUa95soqolSpM_thfH_R5JMD1KximyBQhPxcc4ICbZ1acMQaZoF9kmPvcqCEUwrn59MLTx/h1000-e7/Coser-PingPing-Houshou-Marine-Casual-20-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 62
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTZp74AjHGhluPSEFqCgSrOj0EPeFA8FS0OWK-MSsRnukyi06legF5Oh9zN-5RAH1tsgaO5vYa81Kzsx1-OVC3PEGDet3M1_1lPDU4bbz5x3yYcOkxtZHFdSejrFeIVwyZ86IonDxIAckp_llRuMSdGi_L9cGgmtGB4tYGGOOAJ3nURuCy6Z2pSeJAh3I/h1000-e7/Coser-Candy-Ball-MaiSakurajima-62-4kUp-006.webp"
 ---

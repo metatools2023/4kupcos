@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Xia Xiao Qiu Qiu Qiu (夏小秋秋秋)"
+tags:
+  - "Xia"
 photos: 12
 image: "https://lh5.ggpht.com/-3QBLnl4GLps/Yvpybo3SfGI/AAAAAAAAtGQ/L4Pb9ZPBWVwV2pYC3KZVcE-CrpmUErRagCNcBGAsYHQ/h1000-e7/Coser-Vol.011-Little-Devil-4kUp-001.webp"
 ---

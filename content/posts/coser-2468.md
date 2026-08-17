@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyf6u8vMt_YVXm19yyFQbm6f9GEhyanhB4OAItNHvuOzBgNaJkepHBFN_5gOO9qe0xjWA6tfubOu_oKmtZbRGX_MOBqN4-_0gm0CDakcsBoR7JGqgVIzQr3dLehTRvuG9hVioj8gzFC6hyw4D5ACD-HAlY0d0P84HNz4sURmQvsBdWiT6EVnhNUXcUwkw/h1000-e7/Cosplayer-Mochi-is-delicious-Halloween-little-zombie-30-4kUp-005.webp"
 ---

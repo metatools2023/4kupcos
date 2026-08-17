@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "钛合金TiTi"
+tags:
+  - "钛合金TiTi"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEictH8dwWO_YZrvTYYYLGgo5otZrwqVPiGIg0D-d5KXGkvnFvbb6LdV4a25xq1Uq4gS8-si6auImi2PCMDsjOvE4EicRNIrF4jY_Vc7asNGiiHQfQepFa5HpVeQgpc-pJVc6K-GQ414RlzlXMIULZVxLZOG8MdquejChCdSAPxBcPFVD7SaRHPw8mSawo3E/h1000-e7/Cosplayer-Titanium-alloy-TiTi-Floro-30-4kUp-006.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪晴Astra"
+tags:
+  - "雪晴Astra"
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqBng1Z-s2QaZI8upVN5YetuLCln3FaDu4dMYefJOrSLMW4CvY7nsyao-O0PoXok0Cbp5v2J7tJ64w1MQVtVNNWzWcQWc3hnDhqDa3wnTUYOWgnx0eZqcYa6ZFj-lMzx8t2gR_Fex0GsHh4Z99_bhwaJy0MN6CGutokKh9Y0SZ-Vq2t75lhs649TRvJg/h1000-e7/Cosplay-Astra-Blue-Lace-Dress-53-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "g44不会受伤"
+tags:
+  - "G44不会受伤"
 photos: 17
 image: "https://lh5.ggpht.com/-_8IqWOJ-zUw/YgWPLJAt8EI/AAAAAAAAFSU/_sHV8pXeUKg6lgPZWL-oE4KcUt1SoqOBACNcBGAsYHQ/h1000-e7/Coser-G44-013-4kUp-001.jpg"
 ---

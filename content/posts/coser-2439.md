@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "麻薯好吃"
+tags:
+  - "麻薯好吃"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9gUXW80FnAYtC_EOJcRcMGYr3fnWbtH3H9nN-6kpRTKQ3fzMg2NXLcwbbMjgWaiE5stY8ClKvV8MDoXqzzXMp0zge5Wu0Dgo15RZieIn2A-gkoLjXd-gL6-B42DmA5C7AAQ3EYYzjSixXPqbqug3_aEjNr5wWWzrb5a2hW6v9-yGQNtZdMGW2bOYiMEF5/h1000-e7/Cosplayer-Mochi-is-delicious-Fluffy-sweetheart-40-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_fPycSu6KAQH-9HZ0qCUIZeTNKKCc_ONJh0lX1jo40L9ZkMOoKAl32clfD9guXh3WV8k4A5izWfI3HIJtzBwCxtn1IqCV-4OGfgvehIgsFE7xOB7h36-S6du3K9yX8rvZIfr4yOf-RuuBJCu5vRJgDHT7Kzo5UglZjaHh-o4aF69Kx3C06ArHORhxdOg/h1000-e7/Coser-Potato-Godzilla-Lumine-Hoyofest-2023-Outfit-Ver-25-4kUp-001.webp"
 ---

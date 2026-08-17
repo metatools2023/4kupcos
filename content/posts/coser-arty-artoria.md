@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Arty亞緹"
+tags:
+  - "Arty亞緹"
 photos: 33
 image: "https://lh5.ggpht.com/-Afuz54Uic84/ZXDviZCCZMI/AAAAAAABQW0/6OSX7FnC9V4Z9pRqmmPNJBopamAavR4IACNcBGAsYHQ/h1000-e7/Coser-Arty-Artoria-4kUp-001.webp"
 ---

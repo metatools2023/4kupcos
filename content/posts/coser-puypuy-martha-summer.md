@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PuyPuy"
+tags:
+  - "PuyPuy"
 photos: 96
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNZfAI1RTho5jjU-Jr2sGIpDwAeE5Hh8aIt9BTtZMVN6xPY7mpozA0xvraqKr10XJ_bfsdBwWlyoMDcGcRAHEq_78NcJzgyYXsEePGYG9wyXSCXGwCxcl80tGgRe8-HVIBip1bUSu8TP87jqPn7rnxvq_LgpTjj-CU1eo6AaTIVu2w5TZ9Xo1hiwNbB3W5/h1000-e7/Cosplay-PuyPuy-Martha-Summer-96-4kUp-001.webp"
 ---

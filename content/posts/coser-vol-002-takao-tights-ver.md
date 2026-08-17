@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 150
 image: "https://lh5.ggpht.com/-uQo1cFCuImw/Yu_tGZ2_0zI/AAAAAAAAmNw/FN2VfGnWe0oQCMD0p9Idq06XHQrFyb9YwCNcBGAsYHQ/h1000-e7/Coser-Vol.002-TAKAO-TIGHTS-VER-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic-Ofvd4T27RMx1xse7gYP28bcCeHx6D7kxls956wvBgTFLhCiz5E6yz-ZD0Og36_yOuVwASErKM5nYlMdcjLIkAgEt-chuQulTZu90s9-D1LZKNoBj8i-RPzguk2hn3f2SqnnYlJT6FPFA8_vD95Qwq9JyuYEQpGhyH6X32QrfgZPaJAUmrVcLzeDFDaT/h1000-e7/Cosplayer-Shimizu-Nagi-lotus-flower-38-4kUp-002.webp"
 ---

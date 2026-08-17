@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdPi9KaogKrnxrEGTwj1CEyey4iCKYa2frKjr6-qgN_r7L-jSJ3nDi7UvIKwpkfep3wY24roaALXQJkQ56vH0mi4aAgPO_TkxYRiGJh_1jFRjBdqdUeki2U1l11Crgjc63UGpetKBy-T-DU7fQ3i4q_JrmYXd0QJoPt9uaiKYsUH5lob-6Gm2-gbOWh4g/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-azur-lane-vicious-white-rabbit-41-4kUp-001.webp"
 ---

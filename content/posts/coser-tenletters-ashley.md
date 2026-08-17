@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tenletters"
+tags:
+  - "Tenletters"
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-Bf89E3XIZHe7x1PxinPTngyq1kCPVrx0e7bsUazo5gwuga83U43hEB386OVxjHk75MDv6LYchx0xxyHVTnl0AwD8oKSxYg5N6IEHEToAOfKQYrQK1sgD1TYJQqbQ_o0TfKnxdAp_C4rLvt_SeQGdkBL19UYuWILatYfiUWZndufFtzOwIfuidBL7SWbG/h1000-e7/Coser-Tenletters-Ashley-46-4kUp-002.webp"
 ---

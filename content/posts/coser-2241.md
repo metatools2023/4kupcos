@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "前野太太"
+tags:
+  - "前野太太"
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1YwNBeDyMFhqOxI0oDmb1qNaekLWFC5SV8SJpWR5Ml6zJBIDsDRoh0WmaeycLqBajtDDkHKOVxCXpFvTQq3KQiyYsjkO9AY0Lb49Qlq3zf4k2mWpCRvN83EG64Sqz3u9gGkTsOpX5LofdKKmBAe1CoD1LjVsat1uPBGPzLbxGbVq41gYzKTNMMHjlmmeH/h1000-e7/Cosplayer-Futa-Maeno-La-Uma-27-4kUp-002.webp"
 ---

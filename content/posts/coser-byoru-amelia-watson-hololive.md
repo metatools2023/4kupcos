@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 59
 image: "https://lh5.ggpht.com/-ccHWWSyfKKQ/Zh0_x7gncyI/AAAAAAAANC0/7iocySoCq1wxXCuT04IpPz72JnSsefYjQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Amelia-Watson-Hololive-4kUp-001.webp"
 ---

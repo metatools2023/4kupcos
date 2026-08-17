@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_mznbEJmr3zpARXhjtyM_gy0_QxzzG4z4SKS6zgsYnhdAQsuHObx6M8eFcCGb_yiNNI98U5Eu9Ws6h0lS8EHcKM7_v8Fndu7xn_RnMZhChj3lb5wftVv39hIc6g9HBqWjpwVi9qvzKWjrKM-dUAWNMHmA08dXc00DDYTR7XuB29xAwbM76BCJlzArBDo0/h1000-e7/Coser-Potato-Godzilla-Kokomi-Bikini-22-4kUp-001.webp"
 ---

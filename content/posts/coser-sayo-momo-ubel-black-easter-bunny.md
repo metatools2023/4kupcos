@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 76
 image: "https://lh5.ggpht.com/-DRy8aekfwW0/ZhgKslQhwLI/AAAAAAAAJRw/SWlOgkJI7T8Rl3ZwhBzR6_zdFJLKQORBwCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Ubel-Black-Easter-Bunny-4kUp-001.webp"
 ---

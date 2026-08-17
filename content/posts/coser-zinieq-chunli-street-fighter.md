@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 41
 image: "https://lh5.ggpht.com/-dY6n5knFQck/ZaLKw3PgqgI/AAAAAAAAMcM/0AgUighd4lcloU852ZkiCo0lu4OoYpbUgCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Chunli-Street-Fighter-4kUp-001.webp"
 ---

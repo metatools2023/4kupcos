@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiUiECDXvJY3alFqqSGlKgTzqzP1N7GKivKWoS_dG0kvosts8ex6sPWaI0UeUr_WntKR0FAqVoO3DQ2R66TXjNTVC_lbhL4GRiEdDPABBpzpC16gG8Y0N1Wc6Xcl4ys9zGs-Wu8PaLrR5jPV3VRVGoPSX7VDyXkfTGetoq7XPIecVdVVix2AHS5cXU2v24G/h1000-e7/Coser-PingPing-Kuroinu-Mistioria-Arte-25-4kUp-002.webp"
 ---

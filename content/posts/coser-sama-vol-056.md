@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "雪琪sama"
+tags:
+  - "雪琪SAMA"
 photos: 50
 image: "https://lh5.ggpht.com/-EjGMakH2pmo/ZMBMhPPwJLI/AAAAAAAAfIM/0WR4QrdJOZcr0nhuXVIqqU3c33SNIIw0QCNcBGAsYHQ/h1000-e7/Coser-SAMA-Vol.056-4kUp-001.webp"
 ---

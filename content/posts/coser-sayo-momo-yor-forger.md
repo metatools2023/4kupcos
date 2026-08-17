@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 67
 image: "https://lh5.ggpht.com/-25XIf0NhxIY/ZbGSmDsnGhI/AAAAAAAAYJw/pC5iJDgJm2QkbcDVcPXbti5cJZyuldZ3wCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Yor-Forger-4kUp-001.webp"
 ---

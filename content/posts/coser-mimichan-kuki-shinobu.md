@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mimichan"
+tags:
+  - "Mimichan"
 photos: 39
 image: "https://lh5.ggpht.com/-q0Qi-2ZMzig/ZPVzG3-RkiI/AAAAAAAACTc/JORYeospReUsCRlbIx8poMzqoBZEhEdMQCNcBGAsYHQ/h1000-e7/Coser-Mimichan-Kuki-Shinobu-4kUp-001.webp"
 ---

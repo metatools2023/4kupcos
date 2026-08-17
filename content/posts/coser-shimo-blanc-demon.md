@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5MUNrTpr_QsB0GdTgeYrCK3GohGxu4t8-UGY4iDp4I698yS8M7yra6lN_K5qoEle47nRwrKU-y_PSS5-jQJgpSYD_kTPp6qrzfBpiW6QAIq8KO0XTnOCUImnDdzMikMTF277exsIxbi8zmthnU5_9SOV43njPUmw9L0DjFzPIvOEYuOZmorQc1IPBOxmK/h1000-e7/Cosplayer-Shimotsuki-shimo-Blanc-Demon-19-4kUp-002.webp"
 ---

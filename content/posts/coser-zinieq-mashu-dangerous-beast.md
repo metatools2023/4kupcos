@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqOoybrIMgy42N98ubXfjZLVc0SJSTu4EuF8QKjBazLp-v-DmSCOAiyRHeMA76GToSOUhtSJtlOp4-0N6KanLHWhNRka3Wdve695XkiSdsLpF0TX9bJoDrWu848WxLBa-3YpnrD78mj45kdmtmLr_D0cveDihUvpMYTHz7520gb0BDCDO_4ryzGnr1MD3j/h1000-e7/Coser-ZinieQ-Mashu-Dangerous-Beast-28-4kUp-001.webp"
 ---

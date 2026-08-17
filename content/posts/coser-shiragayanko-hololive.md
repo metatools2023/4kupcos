@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ShiragaYanko"
+tags:
+  - "ShiragaYanko"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwx62O42tBUbqVSJWZ3E4YsnoljTp8Bng0aqWNw75lp_E_k28n_u7AdZSrGLBM-k0JBX6HX1v-o9Id8Zrvr583WlCkG2LfIJmIevGegpL3FS-cW2GLmCHn8Zl_Nn7GHB856H8jalmlEERIDh4pTAZcm9AplHhk9-pR7unsw1fgDk9Z8zdlGRyGr3Dwig/h1000-e7/Cosplay-shiragayanko-hololive-14-4kUp-001.webp"
 ---

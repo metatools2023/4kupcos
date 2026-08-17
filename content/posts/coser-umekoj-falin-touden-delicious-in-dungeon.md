@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 59
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4eAYcMTpiY2IN2w96tT_EMZHwA8c2DOuYMvrM_r1qOIiEJ0XCP8WIkDmp82jA8QUYviB-r26ky7bNXIs1HinCy6krIGlkDeL6U21X2bxkISRrXHZI6YqFZRV4Sx4ctbyt3GixtB4ynEE9i43aV8jEKD3wefzFcQ9MMEYi-79jb-psCSmfom9diMyruUKf/h1000-e7/Coser-UmekoJ-Falin-Touden-Delicious-in-Dungeon-59-4kUp-011.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 39
 image: "https://lh5.ggpht.com/-SH0dzZuZdNs/ZYIdE-gqyRI/AAAAAAABh6c/He_3VOlRv-kF4WgnKvWoUswEumAhOiGxwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Hanako-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzWGFPoaIeO-S3tj8TkGCH4ZAxKfsJwjA7HN1nNvr6XklocV5JEFCWhtd_6wgmhNCjYtWhe7jHmObfkkj727uRWUiBacTSH8MbNrIH4mWfTobVY3_eKfWhwO80Etvt9-Q8QBbc7bjEiSslyWnrDL2jvp-Pv9v0w6TW5ccIphXAHvoXOe6NrmEPBIBFpw/h1000-e7/Cosplay-Okita-Rinka-Shinano-38-4kUp-001.webp"
 ---

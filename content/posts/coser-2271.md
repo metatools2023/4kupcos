@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "湖里狸"
+tags:
+  - "湖里狸"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8je2-7Hy-ZnKo2ASPfzKKXt20APdu2eHpbW8XhbtY8dr5Kp6h0j9OWNVNOf3nyq-Re65pWxnGuRxKNw1Njn33hR7Pz97l2YoVlC9f9GsezUAR3aI7PgA5BbHf3w2I23ab2t_ah8UiVm-0oB5m30y1JxAjnuXxIOKYA9ni-g7EDyUbPEf-6iXp4uVmD3OK/h1000-e7/Cosplayer-Huli-raccoon-Nero-30-4kUp-004.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 35
 image: "https://lh5.ggpht.com/-vEDOlHRfI0c/ZYIfWY8sqBI/AAAAAAABiTw/UaplsY2VYJMHNC2nh4k8Otp-Zte9w7W1gCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Battle-Marnie-Pokemon-Sword-Shield-4kUp-001.webp"
 ---

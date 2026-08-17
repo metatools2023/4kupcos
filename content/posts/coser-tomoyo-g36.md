@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tomoyo酱"
+tags:
+  - "Tomoyo酱"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKUyFPRtSHEfgqXAcTbt6A7jvnDdiH9KT10nkHuU6PGbpLqDE4BNL0qIlJWofi4HuGSGjHJ6ik683bspcvSU3GhRr3X0n-BA3GXaHSLpB_8Ut3Gt2JI3MMtxMKRqkqVAC3R6DwhqRmckGm47CDkvDzzWoaOsGugAov1D1D5MZM9NiIBLK-lNNaueFpApDp/h1000-e7/Coser-Tomoyo-G36-30-4kUp-001.webp"
 ---

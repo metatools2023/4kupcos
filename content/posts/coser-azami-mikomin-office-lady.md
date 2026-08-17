@@ -10,6 +10,8 @@ categories:
 models:
   - "Azami"
   - "Mikomin"
+tags:
+  - "Azami"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGIxYMaGkfroMmJ5uqxl9p3IKbdPsafo2kTpScdUhNeZHHJJ89TPwq5gYu7kxFvSFsk0R3bWzZmmSuf1BjYIPKisYlUxgJGv982ew3DenvQPYNA4Yu3v9beJMwJ7WZgvDElRRozwmsf1QJ8g4u-nGHquAnfhA9GhrNTkC8H6D337sR30Pt7EfzS2NhyphenhyphenXI/h1000-e7/Coser-Azami-and-Mikomin-Office-Lady-24-4kUp-001.webp"
 ---

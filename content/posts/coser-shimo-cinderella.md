@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNEG3L2cs6v3i64duD5cvZkTHw6gts00f6fimGIIvCa5uu661NYANFnq5BSISycsU7JmX9YCcWIe60ogSLivjmh-W3KCVIx5oGiJNTxbXilOj6PdIpkFaZpu590BxueYzVLEwJK3ml9wvjYeCxR-gSRWNmJaqxIt-PNBXb8jYHyKCdphvNBM3ApLXsCgqf/h1000-e7/Coser-Shimotsuki-Cinderella-22-4kUp-001.webp"
 ---

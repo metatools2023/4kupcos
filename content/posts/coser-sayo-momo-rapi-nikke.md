@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 78
 image: "https://lh5.ggpht.com/-sP1V8-ptKu0/ZQDlyyDTbeI/AAAAAAAALvs/08hoO3_nP4cSo8mZGSbaTmBkj6exFeG2gCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Rapi-NIKKE-4kUp-001.webp"
 ---

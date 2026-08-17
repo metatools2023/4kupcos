@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "神楽坂真冬"
+tags:
+  - "神楽坂真冬"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL4a_QG0eaYsk5UsXq8lGrNS74SPQNcsaLsPjCFwhW4Mxb-gspCPna_Vi2vZNTbddPz_4-cu6IBBHOm8AlK8nJFd032C2TCV5D1XksojlvyLIHABTG-ctUjn_-N0gqwClmB6ksK3xm901H-Jx05JKEY7-AZ35M9QZkwdyzena782KfN1IcwMB1tk4t8ID2/h1000-e7/Cosplayer-Kagurazaka-Midwinter-tied-hands-and-feet-19-4kUp-001.webp"
 ---

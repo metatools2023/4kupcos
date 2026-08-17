@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 96
 image: "https://lh5.ggpht.com/-crmKoQLAUmE/ZaW00aDYTxI/AAAAAAAAOQ8/lg9IikSv5lANEfZGYa8GJRvlg3Y9T1iogCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Anya-and-Yor-Ft.-Mikomin-4kUp-001.webp"
 ---

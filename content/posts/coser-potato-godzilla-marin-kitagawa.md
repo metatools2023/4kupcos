@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 29
 image: "https://lh5.ggpht.com/-dOR1EPyiMsA/YqId-1_geRI/AAAAAAAAPaE/LmLjWfApAV83ptj30zPNz3SutoyDfnatACNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Marin-Kitagawa-4kUp-001.jpg"
 ---

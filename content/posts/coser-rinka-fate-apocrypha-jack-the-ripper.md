@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "沖田凜花Rinka"
+tags:
+  - "沖田凜花Rinka"
 photos: 17
 image: "https://lh5.ggpht.com/-X1mjX0cTJtI/ZPZdnNqI9iI/AAAAAAAADXo/9iwkh743HKIk8STy2gaD0OIMEvvgHFUPQCNcBGAsYHQ/h1000-e7/Coser-Rinka-Fate-Apocrypha-Jack-the-Ripper-4kUp-001.webp"
 ---

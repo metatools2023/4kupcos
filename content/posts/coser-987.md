@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏"
+tags:
+  - "双木扶苏"
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTNH5Ayzbb4p2NHCX2QQw5bnMyILl3e474ASpVWgEgVL7u3pIXfbsM4m9Se4QPTuZ5TfgoxHbf8K2mz8dUUOCU8ZoPaVlpHZCjGFB1Xud1C5oS7thBfHCKoghsXxc61LsxpdtXq7jGqxRGOwbZlhGVGP4coy4BDYNaq7tF1ePVI9BFY9MBNWkGGYwzZA/h1000-e7/Cosplay-Shuangmu-Fusu-Xingshan-Hesha-34-4kUp-001.webp"
 ---

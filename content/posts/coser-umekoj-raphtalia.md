@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 82
 image: "https://lh5.ggpht.com/-pU28ORIFVoA/Yr8hFTZX7VI/AAAAAAAABOE/irZM3erSQNIVQ4JYfYoTvYeHNbzV2zP_QCNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Raphtalia-4kUp-001.jpg"
 ---

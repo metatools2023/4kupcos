@@ -11,6 +11,8 @@ models:
   - "Choi Ji Yun Hinata"
   - "Eiraotis"
   - "Sakura"
+tags:
+  - "Eiraotis"
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDM58FBwudoWA3Ldv7KHIU-oR3fnbdSNRvBeiYCkxTKmqTp4PXU6psVX8zm6S4w-Jwr5-081JKLwCjeLS-91NPw9iO3DFf5Xloi1gr52Ha66zsQoA3dFP9hDjAk-djht0imU9YP1aMc7SuLyYxZfE8lMccDjaWi6-VDtVJpvLZlnDFnndLffGxiULNGzI7/h1000-e7/Cosplayer-Eiraotis-Choi-Ji-Yun-Hinata-Sakura-28-4kUp-001.webp"
 ---

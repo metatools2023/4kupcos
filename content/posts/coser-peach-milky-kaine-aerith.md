@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Peach"
+tags:
+  - "Peach"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2XacI5Zu3prH8DZacm826bvqNJqD4_xen5NOsYbekvK3qVP9JYi2I_3xr579slD57aqZwc5DW90WNO34I6nrSkPv2vCENerdcoLi9QIsJmeXIWWIF2cDnKFtoy1aCjhu-Vl5U9b-xM2RTpw60YTWeqO7ZccCGKta1bjS2JD0o4nZIE4Hi5gtdFyhH5dKG/h1000-e7/Cosplayer-Peach-milky-Kaine-Aerith-26-4kUp-001.webp"
 ---

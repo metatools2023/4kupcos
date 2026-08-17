@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEHCGfS1nhBs8ReUPYsJYBUcf0dE3K18RZskYd0uADbXE037-m_bxG90vz30S1QTDIrQEYO8aqt1pqirOP2V1EFmDsQ3rHqC2c_LHtA7ZBNJQZ4s1vhE-TINWOMPPrIRiXaYtOCo_WYm6HiOAPm_0eDbeSqFBWaocxMVYL__F8p7KV6a3uDH3qUtx2y6e3/h1000-e7/Cosplay-Byoru-Satsuki-Kiryuin-63-4kUp-001.webp"
 ---

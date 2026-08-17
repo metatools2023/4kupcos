@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 63
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_UYBUdve6WtvwKBM5BJv9yAkAoZv2rqrrQTD0RxEQi_W2RXHUj7GFudXIzqODylbKHjiuj7utMJJAOdXXThtCTD7MsqvGZeEkaExZ4CPl6prkREhHLswDXqbFysSpQsPsMpkNjovXtX9V0Jh6a_DK0S-CbdxfNZGCmnkt6irL65XP6uTlTQbsbRZ9U44/h1000-e7/Coser-Byoru-Mary-Bunny-63-4kUp-002.webp"
 ---

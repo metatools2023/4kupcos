@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "蠢沫沫 (chunmomo)"
+tags:
+  - "蠢沫沫"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgaV3pRa2vXMc-l9xm1CwQlRt3RIRBzU8A3g6RORHTV3ym5rukgvYhHSOMH3h8phez4vgnlp7Bq8LqlIh4XNTFo4ut8pEO8Pg7C-eRVFvEFU3-kp3LV_H6L4ogKo2-K-pKuydm0lMviSFYigF7n9pyhyphenhyphenDJIS_YTzWIKPc9QHHCI0l_qby2Iw-NmsEOW_4oz/h1000-e7/Cosplayer-Stupid-Momo-chunmomo-white-sweater-18-4kUp-001.webp"
 ---

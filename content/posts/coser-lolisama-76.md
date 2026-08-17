@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "洛璃LoLiSAMA"
+tags:
+  - "洛璃LoLiSAMA"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLgkLRHLLjWfkIr9fF7EfNtk466iybu0IxekLdpqrELUVRdge09zBLzIuYjU96oWdQKEDejdEE8Wt9BChZyaKlCj7niSWZ_AKdb26nflUOQERI6khRlwHHsXGoZn7RxxBZ7zV4sYHUMTbnPvdAHSsrHGZhiT6ECLCxqkgg4llAzkc7nWYIgV2Bv_1xv7CB/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-ninja-24-4kUp-002.webp"
 ---

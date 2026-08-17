@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "切切Celia"
+tags:
+  - "切切Celia"
 photos: 150
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEqF6dgSL0Eq-qzlvnLZRL4DBU3R1bFEGC_6uchQ8jurzqpTygV-vlfrP47Q5jHCWd5aIoQ0hkbC5xo4DBG4QvAqYEbHHMQjXvk9B43xx97YrNURcBqKwv81-awNRbGOz3MTAqaZAwZbhLWk90msFb4eNlaxqrD-jo10umCsReOk7264q8jKLt9vGzMEk/h1000-e7/Coser-Celia-KIRIKO-NIKKE-Goddess-Shadow-155-4kUp-001.webp"
 ---

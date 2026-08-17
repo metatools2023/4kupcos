@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Uriうり"
+tags:
+  - "Uriうり"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUVdw-yszGGetBJ4kFoC8lLo5Q_BkOp7QPvAcaWs_RBtG8bjxzoCZ9AOHogsXHxhGUdzh9wKankKCUu3ZAeQ1-BHJ6dMy3GMqX-SUCMP2vkW67ayMcZjzVav5BIAus1mmwOrF6uUqMzNzBxg94AEyHv52Gd1EdfgPcd4JDzN7gl9HETFh7MO11peALPn0/h1000-e7/Coser-Uri-30-4kUp-003.webp"
 ---

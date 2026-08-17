@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 57
 image: "https://lh5.ggpht.com/-c-Zpb5XcKTk/ZeySemojREI/AAAAAAAA0bg/AntDeEw06DQ_qjYz4X6quqofDgdo5IwRACNcBGAsYHQ/h1000-e7/Coser-Byoru-HMS-Implacable-4kUp-001.webp"
 ---

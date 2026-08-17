@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KANEKO_咔喵"
+tags:
+  - "KANEKO_咔喵"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTbyfXGLVQzuPC0qaqmE98pG7RBFYxE0Ap5iONDaI6VXgMmpa4r3xLlBcDrWG59YQPJwF6xE25B-V4yZwAz3Hojyvqx_8bMl4UX1XVNSX8RPVsIEJb75UrbAhia8p_h4E6lB10n0yhFgwo3LwCDgOosnXeMgMiLmVQe3sH5Rkju_NrzAdaJRMYuXPzQvkp/h1000-e7/Cosplay-KANEKO-Ka-Meow-Azur-Blue-Route-Prince-Eugen-swimsuit-25-4kUp-001.webp"
 ---

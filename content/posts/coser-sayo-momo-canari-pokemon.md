@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Sayo Momo"
+tags:
+  - "Sayo"
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL526jsPcs4KrWDLXvqeXdsbn7w69PPHcoIrqKT6wC6HqthQ8JjX07HRDiUcNum2xik3f9cnCfHw8em2jK5UU_z8fVJ0ElPbGHGeAsCA5wQOaq7MO7uMdZWS6wmzGhYVq2gk4Hrbk2MOo4BixD0IPVr_MsHO6kiIH-qSeW0zMJ9_Z7YAv4iF-DdMTiwpUy/h1000-e7/Cosplayer-Sayo-Momo-Canari-Pok-and-mon-43-4kUp-002.webp"
 ---

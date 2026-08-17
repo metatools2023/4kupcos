@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXrfzNULPwqzCYVD-8PNj1bb5IplL43DEj9N4QFKJLMKLwQsVlM6LaUcu7A7zzyxNesAN0zv2AeaJGU5t01BS73EA7TVhmo6kZ1LmKC7swnukEcOxA_FLOMClR8iJab0YCu848SK2jwDvMAp7k18mlN_YPSIeaa-CZMYfjvwN5uzQgWmrK5SKLgZjW_3e6/h1000-e7/Coser-Tiny-Asa-Tsunade-Set-42-4kUp-001.webp"
 ---

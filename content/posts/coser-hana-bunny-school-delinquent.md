@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hana Bunny"
+tags:
+  - "Hana"
 photos: 16
 image: "https://lh5.ggpht.com/-JQyovJOIHeU/ZTWk6GiBz9I/AAAAAAAAVqU/EPzjgmzuAVgkVHzGqVhdmD3_pclTY-U9ACNcBGAsYHQ/h1000-e7/Coser-Hana-Bunny-School-Delinquent-4kUp-001.webp"
 ---

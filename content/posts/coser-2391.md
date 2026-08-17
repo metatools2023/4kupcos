@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "双木扶苏"
+tags:
+  - "双木扶苏"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Nb6lYEgKaz47Icsfdi9DPebcPyujJNHVHh7e7z9_zVgrLabnyntL0Ou1ZYq9DWWUVNNJUUG_6DHoIpnGGa1ZWehFtI_NjkLhbBr8DEmxbyDXQ_MQHZ1R_ANOHBFTYxq3KsEbxLyZ-x8XnzI9ZO4GplL-6R_jjuJh_wJX5WQ7vZNEtARTyTIZ08ZJC4Fm/h1000-e7/Cosplayer-Shuangmu-Fusu-azur-lane-mercury-commemoration-26-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白银81"
+tags:
+  - "白银81"
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHpheJvN7_LYcepgXbWqtTVB4uBo0jTkKTr922UemezfJf7bmprGzyjZjR-OGHytb6CF4K276kIqn_0KR6fRslwokE7Uj7nFwX-SgVMLoQrpqiZ0iv3JvY61Nhw3UnRkGNeUB0zpvSwWUsxnynfLCfCRX8kkRNWYfUp4X50mctslEk4pPyc5BMDF7-TA/h1000-e7/Cosplay-Silver-81-Transparent-usagiga-ru-32-4kUp-001.webp"
 ---

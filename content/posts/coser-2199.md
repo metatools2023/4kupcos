@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "宮本桜"
+tags:
+  - "宮本桜"
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvH6HCgrLSkBLaaDOpW0U1X8ZLpWefGSlWbuUkm17D0xx0GQgt6qH12oIJXedrpsFfJD6HEmWdBtr88VNRgbHF3M6JuFq04V0VvTCORfOL-toE_m8VX9nruYN6Fr3BxKtzLg-04Y2C9O7yqgIskEGGv8X_dEOZB6dCqS-MEHtizRk3fKtDzu5JuBie8bU/h1000-e7/Cosplayer-Miyamoto-Sakura-Crossed-fronts-Sabertooth-Policewoman-22-4kUp-001.webp"
 ---

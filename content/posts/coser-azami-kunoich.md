@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Azami"
+tags:
+  - "Azami"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvY9hMLaAZH0yDjIlnDQ7gUrSuSxvwPRswihPcmfvniG_zOq4Nz1-xNr88pmrh_xvSUqiz054EXvKsqp7ozCWCOS5n5iLW7yvGby2T7xOSKhtrLFOLepWJwfmds5wNyFj2S0CJKuPv8r3Oj2pGddojCWXlZW67T8DWGbre44m52y4TUQwIzmSKOJ9sVcA/h1000-e7/Coser-Azami-Kunoich-15-4kUp-001.webp"
 ---

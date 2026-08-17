@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 90
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF0e8U1wi9-b5w_zIOprLp0DWGQ9qWN3Gv05pL2WvrZGLo-MtkkhazpmesZVwowvD0pBK99ZwvuM5Zm5tAKOC4xTlPIcKbOWEPu4UC2aZbt-E9bfhwzR9EzvYgrUbMkMfxHLdwtXDA-V4JhYZBhhWU1J6Q7BSaxOA5EBk6Cm6eHlQBoyyIcT9zmu30ltI2/h1000-e7/Cosplayer-Shimotsuki-shimo-maid-illustrated-book-2-90-4kUp-016.webp"
 ---

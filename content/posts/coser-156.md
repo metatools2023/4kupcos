@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "半半子"
+tags:
+  - "半半子"
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBV795alCs7YqREEzwbdvnWk2eSY_BJrb43u6DfE3DAYODjRQ3NSj_yAtaO9zlJaQTkhoUCZ0kNplxcS87qFn6DFppN2cq0tNzlrcdo5w5kFWPCDJVuOcRIdR5pJTsOOyaLTyvdhoiGxLPsqe9GYpEIMjAQiaeFHXAdNuL9Z0P1oSUgQ8Bjdgs0561ev4f/h1000-e7/Cosplay-Half-Sub-Guardian-of-the-Water-24-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PoppaChan"
+tags:
+  - "PoppaChan"
 photos: 107
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj170FsoVK4HtguFhgUA81tOuAQixcc2nzA3gvSmOHRhdOsqHlhqqtCeB44wN9gCBJK-q5RpDCI9JJKDVBmgWrUqKW3f0dJAV3mujBGXog_JhJdBTv3E8Z2HoZzH0M1YQk7LGnv_uvel_i4GehWYLsg2G-RJFl6BUqSAqYRpioE2DE_4yPSATzL2qg5Vrg/h1000-e7/Coser-PoppaChan-Uruha-Rushia-Hololiv-107-4kUp-001.webp"
 ---

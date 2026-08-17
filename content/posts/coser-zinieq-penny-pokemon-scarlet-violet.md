@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 40
 image: "https://lh5.ggpht.com/-_n6ejHN9-Vw/ZYS8ki4y_UI/AAAAAAABlA4/vrF4Xbv-1do4C8Ss4OzO79BMHh533VEmgCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Penny-Pokmon-Scarlet-Violet-4kUp-001.webp"
 ---

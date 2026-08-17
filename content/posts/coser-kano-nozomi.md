@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Kano"
+tags:
+  - "Kano"
 photos: 113
 image: "https://lh5.ggpht.com/-qcIPb_L2FWg/ZTrolVsmmbI/AAAAAAAAZcM/1e-561x1koc5nUCClHyLNAv0dDnb80UCwCNcBGAsYHQ/h1000-e7/Coser-Kano-Nozomi-4kUp-001.webp"
 ---

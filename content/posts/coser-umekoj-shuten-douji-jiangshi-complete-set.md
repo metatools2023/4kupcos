@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "UmekoJ"
+tags:
+  - "UmekoJ"
 photos: 163
 image: "https://lh5.ggpht.com/-Tgc13PtoOYs/Zk0qadfYXPI/AAAAAAAApyM/qQJhKTNmisABbAWGHYn9C2Tcb8oSpcZqQCNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Shuten-Douji-Jiangshi-COMPLETE-SET-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "水淼aqua"
+tags:
+  - "水淼Aqua"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikGr_ahBSDRJzdXPF16kaYnX-db7tgGYgTtXiPrK0KZeW0CiVajBDt-aCkU26mJOPyjuSiI2GC79XYF82Gfh-LjWAIFERhi2Ga-CEBeK6cVZ0FyIFPhp5iY38CA6gbNUqs67iU2PWTAwvFOEDus7mK4zRyw5ysGUBn1KJ2yzJj_6Sp2-npOuVUuzDhbr60/h1000-e7/Cosplay-Shui-Miao-Aqua-Zan-Ni-Selfie-30-4kUp-001.webp"
 ---

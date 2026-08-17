@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "纸悦Etsu_ko"
+tags:
+  - "纸悦Etsu_ko"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqnq2v_sVqLpFkk3aDBXhYH_RSQqPhbH4DC3ZlQaXLIst5X4lGjsvHBUGBAWC2KOoXTNhgYpBUpilp-6PVs1wMNOKOu_wgGcp-ouzOImRE4Ib4bBsO5HvahJSxX7sZbB6ZwfP6UDpIgNyNIsZn8z1VExWkZ-LMd4-T14biImtbgDA12LYDKxK0VTI7NQ/h1000-e7/Cosplay-Etsu-ko-Looking-forward-to-becoming-a-magical-girl-Arakawa-Kivi-True-38-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小仓千代w"
+tags:
+  - "小仓千代w"
 photos: 195
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiK05UBtdJ3_sY0k3ArlE5chShFMoecazVz5BthaskQPnVP9LXHDw2bSBBUq-rqC4-y7Kwj_mHbr05a-D-255RpE15V0hckbIwKOSNa5hpK7fSDcWIYNxPO947mozPhW7_IP7tNCCJJHOyVSDiSUjBx3ESoRmcwkP7d7G6_fNrqEY6M-hACKqd1Vd0jIzM/h1000-e7/Cosplay-Chiyo-w-Okura-2025.04-Patreon-195-4kUp-004.webp"
 ---

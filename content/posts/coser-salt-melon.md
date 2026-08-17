@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Salt Melon (塩めろん。)"
+tags:
+  - "Salt"
 photos: 87
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5Fq3n2sKIrJ-q5vZK7a6D5hultSzUTcryuUc78R317ZMDn7T0c4ejPii_QNegNsorVH9uw2GOtaPFH6XMcyutp49kpSn2e_OMnFz8Z9q-iJ7U2UJV3d10mXLeHNVZKXwSQuZ7HrfwfbJwmylCOtI2sZ3ENMTdIjtZyvPgVNOdprHc8KZnY9bmFqSoAGo/h1000-e7/Cosplayer-Salt-Melon-melon-S-i-r-s-t-u-e-h-a-y-o-w-l-b-c-m-p-f-k-87-4kUp-022.webp"
 ---

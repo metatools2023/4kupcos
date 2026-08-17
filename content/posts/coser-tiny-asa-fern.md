@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Tiny Asa"
+tags:
+  - "Tiny"
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsmsRMEIgiOIpYFZxi5P0WBnv55hlYEb93P_IoZzVtermp6_vjS3wcNsiVyAo0cJnSXMKL3VPtBO_gsErBP4SJhy7gk9bB9gPvq0dpABOUxAN44INhWZRsOTpyYmPDAesmVMyD2GdYcs0-PGwzIyuWGfpjmWQQPrcUcxNI5tpEjN-lTNVWFQ7dGMbLGn6S/h1000-e7/Coser-Tiny-Asa-Fern-31-4kUp-001.webp"
 ---

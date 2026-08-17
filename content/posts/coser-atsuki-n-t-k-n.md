@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Atsuki (あつき)"
+tags:
+  - "Atsuki"
 photos: 116
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtnX2wzlMmh2Fx5FweXrPgJJwI7JByBBq5lIJJttNuuU5LSk-f_Xp9IGPRxkbzqkRUjlcRiXgC3DXgV1LfjaSVElcydr2NcwWmr7JSEpY2aNBSWsE4au776n5DI3dtk7W1Zb0XytCXyqcwK-cK3LnE7xd7MgxR8_olBv1Mun6D1zfZvJtM1JNk3Sf10plr/h1000-e7/Coser-Atsuki-NTKN-116-4kUp-013.webp"
 ---

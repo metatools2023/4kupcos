@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hachi_小芭"
+tags:
+  - "Hachi_小芭"
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaNzxEwqSIA8RQp_06oQz-LsioD8BxsZYmKUDiGp77YN8efn3WTJhwianeqJcGngExxZBo2sY_5C8_u7LFumow2m1lRJHaBk3aSUs8yfBrEtqNE58nGqZclQu9-kx7iSHVFGeKmii1KUVb9lokYd-w7QYSV7SFzSc0OahpUW7hMkjaTrHyXNibaht5JIjF/h1000-e7/Coser-Hachi-Ruka-Sarashina-15-4kUp-001.webp"
 ---

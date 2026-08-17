@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "九言"
+tags:
+  - "九言"
 photos: 66
 image: "https://lh5.ggpht.com/-ViMHb9yIrKI/ZeuVXMQwqAI/AAAAAAAA0HU/l3wnyAf-zv0ec3D3DgGukzwBSD-MmXxQwCNcBGAsYHQ/h1000-e7/Coser-yuuhui-2-Leohex-4kUp-001.webp"
 ---

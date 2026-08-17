@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifXqwRd1Wgu4l3autXKZqUTTlnijGeJdrgxEj_Vo6TZPz9MrUvD6g4Xwa3YAK_Pn8kqs9oaB38q7eijG2K6j1DIDoEU74skUeGYPvbvrrEbHcXUIIkrBpooT5A_OdbvhgnNvGYUy2hih498tMiY7OKX3A_dI0iklM7DClOmtrlmqwH2lu7w4fX5PnMc_8/h1000-e7/Coser-Candy-Ball-Office-Latex-56-4kUp-001.webp"
 ---

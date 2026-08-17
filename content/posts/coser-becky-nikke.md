@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "贝贝琪Becky"
+tags:
+  - "贝贝琪Becky"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKcC2emFf7aKAWUXbrDExLzVoyNxvBT5m14mCtPaV0l33h5dD9xJXe_rUm_5vbHhkCzYt6JnAz2rXsjwf-UFEFhZzVaaOqXQ8im8V7lCk9_V1H_N-rb9dMPZfWQjrQqOquotqNzZ4ITRmm1j5PTssuAzu3DCbUkNIERaHFi26hsKcO2g2am1oOLCB76JZ0/h1000-e7/Cosplayer-Bebeqi-Becky-NIKKE-goddess-of-victory-40-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "无影喵喵Ghost"
+tags:
+  - "无影喵喵Ghost"
 photos: 98
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAS1g-7ngzBxUGWdktzk84dkO8Iplg7Cb_WeoPj9czrujS7-_HG7tGo3VjRc_-oYKtXlYQjMAPlao9_lWYj6tNESC1lL91wmECC2k_1vkmx1MWqys9eya5VZ2Qj00i7kbjjIAfFgB-LEXySi9kwo1QrqLWmyuH9YEbxZEYwTkIDbfyQxWlhFQvjjzbZkkG/h1000-e7/Coser-Shadowless-Meow-Ghost-secretary-98-4kUp-003.webp"
 ---

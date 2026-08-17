@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "如月灰"
+tags:
+  - "如月灰"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCBixDQHWqjjqiOl3tosxJJyyrZuN5jQaa1QTwUJGF-dP5T8o8DaEGhNtmf9Wa3SIApWQ9Q7uR13a5MBSS0Nv-QlYNFVB0qoHTSP2U33Z5PfXDix9j3ScTVibGiG7-2Onc_AKhTh54dnOZQcHlmj5OMS9j1_ozrw2LJJlGJa-VEyJRlOvyvByaMqfNCtk_/h1000-e7/Coser-Ru-yue-hui-Platinum-ARK-17-4kUp-001.webp"
 ---

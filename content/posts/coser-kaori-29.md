@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh1UR_wUVdKE615YGGY1m6q1P3OVHSyhGx7Im2FjKTCukpsW2cFKAXqGqphZds9yKxUtqnY_3QvzsjE1IYmrJ8Tc4xV7O4htIwbUMzYDwfF6rL102gNVP7mUvot2wuvlet7YVi_yqLoPgq4i4s9OkG0E8A1d0w0QSZF461Gn2T2c98B-JXV3uJq4cTlvdM/h1000-e7/Cosplayer-Axun-kaOri-Eternal-calamity-Yin-Ziping-33-4kUp-001.webp"
 ---

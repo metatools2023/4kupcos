@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Mikehouse (ミケ)"
+tags:
+  - "Mikehouse"
 photos: 78
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtpY4oY8kaaUObN_r_OsOupqh6Dz5L5tulOfx6YBJJBYV4LipBFZy-Jlidaf_2roQDqDCMG_T6MwYfS8wreP8MtYJf7P7x14eYVE6fqE5DnS9niGPGXFOaIz7GS7pwgSjzknNMdi9aEVTlVXfOh1UYFkcS-FDRrydvAd0D49Wf8KYU8NEYMxlHvcquXHU/h1000-e7/Cosplayer-Mikehouse-Mike-Emperor-78-4kUp-001.webp"
 ---

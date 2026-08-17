@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "小空sora"
+tags:
+  - "小空sora"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVY9LieTRkKsXB5sGZaUQoV07puxFOn4PbNWMzQ3TEQCLveQPXbwf46vg_kRfjEatpgupwdxMpcFD7bljrE6E_CWn0NLZnpFUwwDUhdqaCunpbxiaH7Fn6WpB1OLU7pw9tSJ4ZDXF1niTyX_lHXh-aoRiqyLKFIpmAP-AMIpREF7hC5AU8x-nPX1lECupb/h1000-e7/Cosplayer-Xiao-Kong-sora-Ganyu-dark-nurse-19-4kUp-001.webp"
 ---

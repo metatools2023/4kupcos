@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 55
 image: "https://lh5.ggpht.com/-lFYTajmxh5I/ZBeD_gsRpJI/AAAAAAAAOtM/Gy8fObdqwt0edKdYcX7-7JGJRkfjoWVswCNcBGAsYHQ/h1000-e7/Coser-Byoru-Guitar-Sister-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 44
 image: "https://lh5.ggpht.com/-f2JrDo1tLc8/ZNkr3biMmpI/AAAAAAAARRg/hEw9TOim_kwWDT7riWJ9igNMNojX8GWvACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.057-Shiro-Akuma-4kUp-001.webp"
 ---

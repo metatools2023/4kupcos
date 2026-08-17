@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿半今天很开心"
+tags:
+  - "阿半今天很开心"
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFKu4AFOQKmtQLoG4lgKaw9WXgUqwNyhXE0m88CxhTcoU1oINZpRezU4MFtW90_q_dWQW-DOTNdOSUQwX8fvvglaKMzdQp-cQjM9qcazQNw_F2M_HwLu32sD9IOz3T9sfgWSGh__R-IKDFdrcRtIleHVxtUbf70_MPXR3_KNVryOcqqkdwYyOjzSK7Smpi/h1000-e7/Cosplayer-Ah-Ban-is-very-happy-today-azur-lane-jean-bart-swimsuit-19-4kUp-001.webp"
 ---

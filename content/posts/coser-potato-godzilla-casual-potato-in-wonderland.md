@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Potato Godzilla"
+tags:
+  - "Potato"
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtWGjQgim5tz59O4haQzzFZVnvagYlTVcHG2HJW4cSL0WyVF5MqqiRSJkpQnJhAgge2vAh4wAKr1CN6_L6rASC8xt6fnTihy42ENWnjuYodgMT5Bjo5A2-oOV0RkvCQL38m0bIrhgvaTu3z2docgNSshkpN86Z8gdIhc34Us5erMeZxTugu4oaI5bVCWY/h1000-e7/Coser-Potato-Godzilla-Casual-Potato-in-Wonderland-16-4kUp-001.webp"
 ---

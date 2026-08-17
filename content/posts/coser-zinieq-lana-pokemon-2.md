@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ Lana (Pokemon)"
+tags:
+  - "ZinieQ"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_MNj_Ij2iOLJ4HjKIXyki7TSy-lJlKON9Gtlcn8uzT7q475fbMzlWkmsm9bIW1di4MZlo20BrkBZF63WPy9Sfuf2wYzyvvUMPTaj_UEAg74iGt2uBjIB9w26elkKYrzv8f2GGkjj64dok31-22TbknzCZ-hFtkFN-naBmHfX78O2k4UPR-Wt1csds4d0/h1000-e7/Cosplayer-ZinieQ-Lana-Pokemon-45-4kUp-001.webp"
 ---

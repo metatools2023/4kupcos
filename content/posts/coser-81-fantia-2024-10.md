@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "白银81 [Fantia]"
+tags:
+  - "白银81"
 photos: 100
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXjZgN76t0ZB1DzRHh8mVCdeaq54EHje2dy-zKOUnH6KHDkwJqnL8Sl3kVPsDozb7dnx49uHL34mf9R7C-7-iHdxtDQ2O4utNXsRk11bnFmDFuZKb_RjmVO750tTE3O6HMF4lh9O3-TwbsEfuKKOrDfEj4fVq2EIVu7Oyb6yffU3u5o0yJjiYaf1_68sU/h1000-e7/Cosplay-White-Bow-81-Fantia-2024.10-Chinese-Girl-Purple-Wife-100-4kUp-003.webp"
 ---

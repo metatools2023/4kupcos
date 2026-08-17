@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "阿薰kaOri"
+tags:
+  - "阿薰kaOri"
 photos: 67
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiycRQfHL1weBJTkLNsrTEJoj8hHpMWR9jHqLlRGmvyFG83lNwK97jcQzvbBYBfpWag42wr0f4mvz0Ly9DApjz2CZT0zkMlipKmYOLs6XV1i4whdvyzx-ue6PzLPkRILMjT8cXndveBnqaksQ8ax5mxXecNAFMrxp8OkoXqOSDMyJ1PirlHIv2tiqrW33m/h1000-e7/Cosplay-Ah-XunkaOri-2B-White-Flower-Marriage-67-4kUp-001.webp"
 ---

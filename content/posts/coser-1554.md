@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "前野太太"
+tags:
+  - "前野太太"
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKy_7_zl-L0SaFUkjDVBLCWWfsaXwwEvqSiDjqZY6n4eEl642U-j3wJv3jmHH_zRmDw_n07DmTZj2S0jF7Q5K9PG54vWla7g4WDSZFZ19dUwgQn2jc0tCCxZDK63K8z7oZwCY1tniM0yXXOYfRyCq_dY9kuBLhFgATZdA1ZCkPK6Z7UdEhJ7f8HQSkZkyM/h1000-e7/Cosplayer-Futa-Maeno-azur-lane-Amagi-swimsuit-26-4kUp-001.webp"
 ---

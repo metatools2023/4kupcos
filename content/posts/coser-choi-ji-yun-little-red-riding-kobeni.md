@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Choi"
+tags:
+  - "Choi"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj13OC-31NlZztC9qqz9FcTru71XN8PBdDR4Pp36UhNyKyk41Eu8UrenxTzw-J_MEv3RNIHLsMM4IyX6MtjZDCi6KuKBWMYGOCxmsZVyzi8ncHRzo9eSlOIwfuUJUZWv3j5uVZZDULsaSgBPnS0H8U7iX_ox_W5lri1BhTS_VdMKEPDNOPeBF1zENhMWOE/h1000-e7/Cosplayer-Choi-Ji-Yun-Little-Red-Riding-Kobeni-45-4kUp-002.webp"
 ---

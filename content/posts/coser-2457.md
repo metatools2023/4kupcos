@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "秋和柯基"
+tags:
+  - "秋和柯基"
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMF5z0k2yWtL5JtEF8O3sAtw8PmID-MeA5yqUwIKZJ2OgB6cg4cE1lOvKkL8GcCa6ZeYoxfmoe4UsjJjaxgGd2unHQWy2rGIGrywMYXlkGqD4oBnAeuggIff3nZUrb8pPWLGvEz9wKBYYYy3yAT-wy9-olIdXLjV0CA_N4LjxD59EvilOc3GM3D0gO8ULy/h1000-e7/Cosplayer-Autumn-and-Corgi-ribbon-bar-17-4kUp-004.webp"
 ---

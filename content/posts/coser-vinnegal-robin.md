@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Vinnegal"
+tags:
+  - "Vinnegal"
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQCdhCTS2-iuVl1Wfitjnugz4F1Y0GC9eBzBrrI3OhYKYbsyd6oqhEdc2X8K4E9GO5q93KBuPKbYZaM_O-4si0eb2rlIvJUWmzLG0VWAYEwII8AGrqAFnDcthHWGrnWsu1Ebd0fSxyRNoS7DRXchO5thHEvSBdLRgvrTUkRc-Y3yJz67FzRJdXSEbVl-Ks/h1000-e7/Coser-Vinnegal-Robin-21-4kUp-001.webp"
 ---

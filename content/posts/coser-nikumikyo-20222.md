@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Nikumikyo"
+tags:
+  - "Nikumikyo"
 photos: 52
 image: "https://lh5.ggpht.com/-5hTsscSanlg/ZSnGHRmWG1I/AAAAAAAAMmg/GlZL5X5_yYslS_W39okRa4FuJWaifJxHQCNcBGAsYHQ/h1000-e7/Coser-Nikumikyo-20222-4kUp-001.webp"
 ---

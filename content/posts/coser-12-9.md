@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "暴走鲤鱼王"
+tags:
+  - "暴走鲤鱼王"
 photos: 562
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuzhqmSWHTH0sZQZa-ojdmRU0XrFEoQ6dqVLgo3tx2IVuLGttf4ZPQzfs41ACBOdAWL2IJpcEj7-d6RQZAsU7ZQleCr0LU5lw2HMuXiORJWyC9CidgPrNguTc1yRSBBvTSM9bT8T1YUn-FOoTjK89l6Vp1V6MjZRzpJPyUQCDVQcfhODxW8cczoWvR9NDI/h1000-e7/Coser-Bao-zou-li-yu-wang-12-562-4kUp-006.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "霜月shimo"
+tags:
+  - "霜月shimo"
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNg7keQZH0UFOvY1Sxr6fKWKYscMvzZM8aAv0-zeeuYdDs3cidqgCVsPgXTUV5l0gZAQbbJ5dl5g8YTehQOzXbWYfuYwc7zdq2AGPd8cpDcO0TqRIHg2KF4P8vbcxsCSzGXEDYs1zzoxZRh_QzyMU3nqvi7sS2QjZSdjAuUTsbuz4oUGaegVgbEwEs30mZ/h1000-e7/Cosplayer-Shimotsuki-shimo-2025-Year-09-monthly-subscription-Sai-Bo-Hei-Tian-Shi-Cyber-Black-Angel-23-4kUp-001.webp"
 ---

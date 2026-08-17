@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 47
 image: "https://lh5.ggpht.com/-4f1Bd9HRDM0/YrDx0YE80ZI/AAAAAAAAJ-8/xxGXVaxM7ckqxqRHtULPuAPPr-VeRkTtACNcBGAsYHQ/h1000-e7/Coser-Byoru-Mori-Calliope-4kUp-001.jpg"
 ---

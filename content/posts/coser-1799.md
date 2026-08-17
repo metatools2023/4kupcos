@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "不呆猫"
+tags:
+  - "不呆猫"
 photos: 66
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXNdFfQP6e4ZCZK6ofDQOzlUzUFyfug_R7ivuAK5yDyZvwreB6DJ_E7FTB33pD7nR83mPFd6v-lzP2K_3xCotkBpOARe6FGT1wygF-RJZO0iO-HjXTMLHWFQPnAYNxdc5B4sH_CKRxWEhMipJC6JfvTupW4ivehn0-oSKhFlbo8M4n04xHGugQqf5gI-u/h1000-e7/Coser-Bu-dai-mao-67-4kUp-003.webp"
 ---

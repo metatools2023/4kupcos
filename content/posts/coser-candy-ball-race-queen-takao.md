@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs2ivWStybIsNbiqxxylNIQ9v3gnCvCNsecleoJ88bh2MUQQKeQ6upO6K6cwaL2clJDmqEt-HN7gMOQ_511V5tUAivUDeP63nBxapvUKgXpBkeZl34joTmI4tnH04Pax1-YOM2WrJAWIxkgg5z-lJjL8ngE2HzPaEqOVDSE-UF6olBrBw4iA8IbDLgSPE/h1000-e7/Coser-Candy-Ball-Race-Queen-Takao-48-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQgV2TsOpAZmdqjiOj9YRmHzUDhMLnjOTpch8FWzw9acleK9T5JBK7hU1QSgu_GVp0DZLZfe9X2M7DHzAk57v3ihrOWwCGNPa-d0eZWH9ddtQC5Zrt0pw-zDsw0ldDcasd6LJ8B3xdQIoIlA8fg8XvvgowXyGjksD1W2HdfZmeMTzbbzjHweFQlckGUOYu/h1000-e7/Coser-PingPing-Illustrious-18-4kUp-001.webp"
 ---

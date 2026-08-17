@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtOBRqCftDmnLCn6ObTF1vgvCJzZOrDw_vnQskYL7Q-C8CoUh_oBK2Oqq6nSDqee-PkPL78hGWwQ9GhC14qZApGpJE-vjXVG21tJwhYDrTi8hSmg3E-QNqcY4zgWdZPG6VjYOCkYTQtJZiNN2h0gJm_8GLKLBT06l_X6jBmLz4WO9SkI_7AW8qKNpOA0g/h1000-e7/Cosplay-Byoru-Rosaria-Succubus-Genshin-Impact-61-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Natsuko夏夏子"
+tags:
+  - "Natsuko夏夏子"
 photos: 42
 image: "https://lh5.ggpht.com/-KEX3SQ_Cn9A/Zo27qSBps1I/AAAAAAAARtE/_Zxv-4CpLn4-geY4059rbzwcEjpXmY5FACNcBGAsYHQ/h1000-e7/Coser-Natsuko-OL-42-4kUp-001.webp"
 ---

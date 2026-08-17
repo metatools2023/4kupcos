@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hana Bunny"
+tags:
+  - "Hana"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz9_MntgGUVGfvy4sHQbMVuQb-Txk2dTM5NSW99W_jT0WE_lYZ7RXTVMCl8f10cnHrK1K0hjwo-3ktUP7rGIGhxL7cBwoE9BtO8GGb_ULoAYz6mCB_fjFhk2kNuE7HAjwHHHgqb5pi0bPZzoag3hF6Ty3FyhE2GxF7UA5Gtusd_woKkeUFL8JEyRV5BTs-/h1000-e7/Coser-Hana-Bunny-Denim-14-4kUp-001.webp"
 ---

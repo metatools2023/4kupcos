@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "rua阮阮"
+tags:
+  - "rua阮阮"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6jJbj8t-eRRmuN_auv-qetAwGH-H4GUDOSqf4p5ZKceSCfanraWjh-6cjlrD-DfsGkOvjLCdv_CoZxACC47VPfoEN2oJfSf_C2PF01-0gVIhH8qofjJ4WxmuiI14E9ZCuzmYdq1rsGiqfVppVIfg5RBQQOgVMdNdH8Iuvo98WOJ20gp8HsGCMoBTHaSuO/h1000-e7/Cosplay-rua-Tactical-Self-Graduation-18-4kUp-002.webp"
 ---

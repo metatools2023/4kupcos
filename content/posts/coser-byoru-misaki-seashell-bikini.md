@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 53
 image: "https://lh5.ggpht.com/-sqQLsH41OyA/YtbcGoZFPwI/AAAAAAAAUCs/suFaw7fsyhEtTM50XPP7bgh2V5h-l5wngCNcBGAsYHQ/h1000-e7/Coser-Byoru-Misaki-Seashell-Bikini-4kUp-001.png"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Bangni邦尼"
+tags:
+  - "Bangni邦尼"
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizE4DJofkXDnBLkZndieEV162qE9tsRFYtMHBDqZH8nIq8N1DP3o9Ffp7aalv5lIxSCjgFL3bz9oNnMp6bnbEl3YaBeVKLJ9xiBabMdb8PaLP6igTNfvKqqmXeNkT1wvSQL8zTZ-eUVM7zkXocuo6ol8T12vGqdkWcJ2j2EOFxgemPTeAUwGeOqAgBGBQc/h1000-e7/Cosplayer-Bangni-Bonnie-white-flower-wedding-18-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Hana Bunny"
+tags:
+  - "Hana"
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf0QdqR1qXhypeOpdSeB5f5l7DzYegVlxmYUm0fCGt9jvmPT3JLbtvqF86EwBJqnjoEGGFRM7I6DKDZuPXBi7YXFu2UWJnD-297wvpdsE6wqMTuL-S5oqvvxjVgAca1cfaDMHJpb0e0967TfAUHw01x5pQ-ckvGC-Ucgb2lHbi12wCckHouKT25Fzbxg/h1000-e7/Cosplay-Hana-Bunny-Fern-14-4kUp-001.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "一北亦北"
+tags:
+  - "一北亦北"
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrzdqhEavokHDbvv-zCvDsp5r5Up5Yo5pJKNCVDXYTItrousvZQ56SN3S0a_kVbUDnhQkgw23Dw0si2ej7GenA2fjYm9OhempRssf3rK7j8DXESRlMWPQVkoBUy2BwYH4yKm_lX7T3ejbcccnUj9uLIXcyIBh_Brm9tfmAQxjsWG4ODtBnm6Co6dagers-/h1000-e7/Coser-Yi-bei-yi-bei-48-4kUp-001.webp"
 ---

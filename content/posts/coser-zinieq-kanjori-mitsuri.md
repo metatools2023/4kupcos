@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "ZinieQ"
+tags:
+  - "ZinieQ"
 photos: 43
 image: "https://lh5.ggpht.com/-WZlqFiNPkpw/ZY39zwbZ47I/AAAAAAABtwY/w46w8kMoJ4wV9VVaaETzg-Q3HCZWz7MoACNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Kanjori-Mitsuri-4kUp-001.webp"
 ---

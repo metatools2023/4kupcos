@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "PingPing"
+tags:
+  - "PingPing"
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs7v9wZxrNCOyj_n-xIAanGnr7Di4rRI-_8Cf4L0me2njqlySG5YtJ8H7Ge4PzyMtAkrZgRpmmFRULYXto5zrqF8RED-RZKIkOHwnWB4uB8UUWc_jIk5PpAD9Vg7nxDnf0Knc4t6QE7YYHaBFjSYEn-RsI7QG88XYULl3dhPjCdRpe7fJLQKjqIKV8XUdI/h1000-e7/Coser-PingPing-Kobeni-57-4kUp-004.webp"
 ---

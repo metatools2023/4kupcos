@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF02MKujDp4JIiCtu_FCZ597isaJ-apYDQVPUcyide0wEYrJIc3qbf0wvtdAgu5vip4_5OxH6eZHuJ1NG5xvvvgYWglrmt_UAuPfnWRWVYvoVA_lVM0SKlmfE91j-qi-l1-zJFuf0NS1n10BVJTN4EtkrW7XLAxGXwp7-5xP4IZFjiSOBBWrIFGXGvGzYn/h1000-e7/Cosplay-byoru-mihara-pain-eater-53-4kUp-001.jpg"
 ---

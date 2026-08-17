@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Candy_Ball"
+tags:
+  - "Candy_Ball"
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjArY4zKxy4kAi_OxAVNANx02Vb6xJXLjhaGovAYS9xnvABEyOKIdSKCDzf6RrCtXYSfchd1nh3NGNlV9zRs473ri9_AkzE1Fk2mpmoOrZXamRRKcTp8ba7AP8uFPVtQwMOemhNVTQQ2800WpOwne-7PerQ2Raea784TjgS77CEt4I3zrh2SriS-OiWII/h1000-e7/Coser-Candy-Ball-Marciana-Nikke-70-4kUp-002.webp"
 ---

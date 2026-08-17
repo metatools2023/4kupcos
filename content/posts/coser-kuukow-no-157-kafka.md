@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhead-JKwL7T8ZmeAippcjlqFZ9afCnltPnw_gxDUCJHk9Sb0egi0H4udxG7uJbQSU9-8mlDSCbBRrxJJuSa_h4tivAfJBA8ZLvY18xDbtPWgrhbBHFrrqXnEXJS3vPM8MeHlJEAWUtrKOiArtLy91_RZMAVaB03kRy-3JInW4kH-BbwMp57TC8aE_vEg_b/h1000-e7/Coser-KuukoW-No.157-Kafka-35-4kUp-001.webp"
 ---

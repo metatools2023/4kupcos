@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "切切Celia"
+tags:
+  - "切切Celia"
 photos: 17
 image: "https://lh5.ggpht.com/-SVj09ceqJ2E/ZXuFsUdSnNI/AAAAAAABbFQ/Pqtp_QS8-14fTMB__6gq0Mbm_CDZ2HiSgCNcBGAsYHQ/h1000-e7/Coser-Celia-One-Punch-Man-Fubuki-4kUp-001.webp"
 ---

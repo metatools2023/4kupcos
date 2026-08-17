@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "KuukoW"
+tags:
+  - "KuukoW"
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixFtnBO7_F0U08PLCMLKrpMrHaqkyLj1aWk8SeQHI0meSXRI91RE49vChSO-PlKplDqMAEQp_xlehl2ofxvZJ749Lqxd9A3uFg4DFfKYyqE6sDQsjToEJnn3mmyL4RJ2yxvGK0pxZPetgAdRhIweyIge9enm51-BzJjmamcheUJAQbHgm2N33NITFTqak/h1000-e7/Coser-KuukoW-No.132-Bocchi-The-Rock-38-4kUp-001.webp"
 ---

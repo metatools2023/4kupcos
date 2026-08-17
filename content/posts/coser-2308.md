@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "清水凪"
+tags:
+  - "清水凪"
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgikcJQ7-9xqJrJ0IoZJJI13GmvdLWBqQ0cmKJfCbYfJnrl76bfM1RGCuFeJp1mQ_P2varQzx3a9B13C82wlMq6UYXcYMBpyq0rWK5C5mbHBeod_JVHrNpUwF1c4VujT12KXZNXqtNU8Gn0JfC1MPvVYg3LeQT2QKUdJ5ZKxFORRQQJdoXkO8r_vksC8I0o/h1000-e7/Cosplayer-Shimizu-Nagi-We-wholeheartedly-provide-you-with-the-most-sincere-service-39-4kUp-002.webp"
 ---

@@ -9,6 +9,8 @@ categories:
   - "Coser"
 models:
   - "Byoru"
+tags:
+  - "Byoru"
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSm6fnUVxF-BDZYo08G53jR_Q5gRDNn41viZTA7LCA-oXlqLxhZIOeqnh0q9pINzm18eSmrXjSaoSgTQwm0S70V-YrJ5W8BKnE36Ep39-1wKh89WT-X_rt_4XJhYpa7PqJ1tpFGJr3s3MloNf4ojU7bRrQfCMOH6Es07_QLCIqqoPs1L-lwc2E5wcr7Axl/h1000-e7/Cosplayer-Byoru-Onsen-Kasuga-45-4kUp-002.webp"
 ---
