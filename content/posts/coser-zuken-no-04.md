@@ -11,6 +11,8 @@ models:
   - "柘烟_Zuken"
 tags:
   - "柘烟_Zuken"
+  - "大凤旗袍"
+
 photos: 24
 image: "https://lh5.ggpht.com/-gfFqZP8dyQE/Y_KZf41Y6JI/AAAAAAAAEKU/KeRLt3X32SMeemJvlOyWzPTqGyZk9MeZwCNcBGAsYHQ/h1000-e7/Coser-Zuken-No.04-4kUp-001.webp"
 ---

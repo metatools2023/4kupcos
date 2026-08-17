@@ -11,6 +11,8 @@ models:
   - "秋和柯基"
 tags:
   - "秋和柯基"
+  - "Nikke胜利女神"
+
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWbc1VAGA_3iU86a32lcl7n0VqXLkr3fxlcRYu3SAE0mztOFtQAgurA3ClMm8Tgc1Xfuro5YezTn_A3n1t8H9s7eEEFwdCflu87PBIX9i_5-ZCHjOWd9KoKDkXP8iLcsTBkL84YH_pIw8fHZ7fEw1OCORR85EeW4swTph1ruNyKUIkotwDKa47zuG_h-w/h1000-e7/Cosplay-Autumn-and-Corgi-Nikke-Victory-Goddess-Rosanna-Elegant-Ocean-40-4kUp-001.webp"
 ---

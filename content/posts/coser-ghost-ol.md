@@ -11,6 +11,8 @@ models:
   - "无影喵喵Ghost"
 tags:
   - "无影喵喵Ghost"
+  - "碧蓝航线"
+
 photos: 155
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRD5mPqvWuckNFXs26hp1ucOr6S359sJR82DvEbKYvguwVVNVPkZP6C99G3FFhb_jiNVXqfd0r5qYvC8STistN6YdkDP8LAIj7Ghgo6RyNfV1bplMg9lI-mHsqFpViFZELcKFtc-JBuz5gXOE2Ya8EcZG3gNvq5HTTdQRKPam9LaEZHHLGDMtq9Qs9OCaG/h1000-e7/Coser-Wu-ying-miao-miaoGhost-OL-155-4kUp-001.webp"
 ---

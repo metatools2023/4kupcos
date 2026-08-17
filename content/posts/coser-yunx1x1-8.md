@@ -11,6 +11,10 @@ models:
   - "云溪溪 (yunx1x1)"
 tags:
   - "云溪溪"
+  - "Yunx1x1"
+  - "奶桃"
+  - "蔚蓝档案"
+
 photos: 100
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsy4zmLZ-Gkwot-8K8TuN_ki_pk9-B_bgbWnSni_bpwa-9UyBx8Y8ZUe8N6vkKAerJAyad6vnH2TBboDxGimRcPVe3zL0z6ueoo8C4Fsiln6XlLj5NraFbBic9XsWwdDVHE67FaNrFmEGHvzhz3jTCMdKdLbQew6cE_crfOPDKUcwr93IUeFVfwulvLWPG/h1000-e7/Coser-Yunx1x1-2--100-4kUp-001.webp"
 ---

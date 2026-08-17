@@ -11,6 +11,8 @@ models:
   - "AT鲨"
 tags:
   - "AT鲨"
+  - "碧蓝航线"
+
 photos: 83
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjp4L3QMEgK3WX9ev46XWH1tcMiiq1XFrPFC3XsqJ4qGZombPzpa6UptOGCLszYagbcuZ7m8jKdA6AuDYL3cj2U7Jqc_Ir0CRxSjiT2peDOHbvYVEB1Jhe726GuIqe4xvoId7JN8H6Iv2Ibfc8jNqXI2vgmuLkHePRGal_uTEGtnxkRAN7v7uGvttmu4l5/h1000-e7/Coser-AT-84-4kUp-001.webp"
 ---

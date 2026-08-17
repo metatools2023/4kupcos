@@ -11,6 +11,8 @@ models:
   - "rioko凉凉子"
 tags:
   - "rioko凉凉子"
+  - "碧蓝航线"
+
 photos: 25
 image: "https://lh5.ggpht.com/-7E70t-3Voyk/ZTGbY7mLDcI/AAAAAAAASl8/0z4oEID0yV8tri4qlREHC7EsE7OoO2hEACNcBGAsYHQ/h1000-e7/Coser-rioko-Vol.122-4kUp-001.webp"
 ---

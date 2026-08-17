@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHEM87cIAW5z2V3hgPU01Zs2StM3jFFUDUDq9w5TQx16blC-Wya664l12fItQACAfSCr0Q8s7D8Jie1gTx8NN3HnyoUZRtz4gvUDmQtX2HZlKkG-OKfrhTqC85X1WuDplrh3HZdYTnhasYXqqHHSd6jVp6Gq_sGVL16NZ3Z7gBQAHJ3BttQBzS_Nymk8I/h1000-e7/Coser-Sally-Sally-Dorasnow-RAINY-LAUNDRY-DAY-60-4kUp-003.webp"
 ---

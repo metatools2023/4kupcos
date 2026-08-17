@@ -11,6 +11,8 @@ models:
   - "Sameki"
 tags:
   - "Sameki"
+  - "原神"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7w25QcZ3EJ2nKeHyzXYt50iLTbsqsxRsrlFbHkVKbYl9BG3byxYjVCJJ53ZDxSm2EG9HrqHNA6ja1l1vf91gyTkXshv8G2IbTuqT4butL9PmZT-6apYkQdV_cuOSGF8axiuJpF5h0Rfb5boobQBCLwFtxCaGHgzo_Qs-4iIk1hl-PGeXGvhWN6-xPKfN4/h1000-e7/Coser-Sameki-20-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "双木扶苏"
 tags:
   - "双木扶苏"
+  - "碧蓝航线"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIQF6YEtbGFAAJPw0RsH7bBeT2mfQmLS2kwMMudEFWuO6Z-T0C_8ZUQwpDCRM0aMBVDUrsJW392geAUxSAMSlq0onVNrDm7s_bDAGXdLt5YT_ZXGl6JyiiqCPutiF7zU5g2BCmtHZ8CQCd4PEyXm8BAcrMiZLGYCl252w23Qb95i7xqC8O2pPuxSdd9Av8/h1000-e7/Cosplayer-Shuangmu-Fusu-azur-lane-Befa-30-4kUp-001.webp"
 ---

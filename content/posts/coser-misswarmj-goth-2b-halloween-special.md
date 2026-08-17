@@ -11,6 +11,8 @@ models:
   - "MissWarmJ"
 tags:
   - "MisswarmJ"
+  - "2B"
+
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcylsM0k5ogR_zpW2cT2JPfcY3TTZOCt2fPJlz4X4H7HtH567lsoGuIM3NsBAcoesrfL3WP8Zezi-jtqUw4-hW4HfB6iEknN4z5n_sX2J5gGTBaveAMA3SGEYwGMQB6LPqzW7bwWHYaqUB8a7ehPmsm39wk2E02obL4GN5zTJpYY-Fuk6DvSTEQAPyObBG/h1000-e7/Coser-MisswarmJ-Goth-2B-Halloween-Special-52-4kUp-004.webp"
 ---

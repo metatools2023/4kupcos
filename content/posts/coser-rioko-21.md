@@ -11,6 +11,8 @@ models:
   - "rioko凉凉子"
 tags:
   - "rioko凉凉子"
+  - "碧蓝航线"
+
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzO2K8hVwaJNRI3uDlz1LVdwU97IKmSf1n2zgD92KLMXz3ppSByER82gO8gBv8aRLMxgXJh2TekxNs8otdvB2MAINTVTaz2ja1kKklEFn0PTdXyQdLrtETX_XNpZ8ddjNbR-WirYWUGJvX_h00s-dQbvdv5A9C8xsE3iC4Xtxy3PvOQSfKE37N9e_tWIE/h1000-e7/Cosplayer-rioko-Liangliangzi-azur-lane-Omi-Asama-43-4kUp-001.webp"
 ---

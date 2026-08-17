@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Hololive"
+
 photos: 54
 image: "https://lh5.ggpht.com/-cLvhwN_gIoI/ZmzCIwxFn_I/AAAAAAAA59s/TWP-aYMwZYwaGqiWNzywnThcrQXlm2KTACNcBGAsYHQ/h1000-e7/Coser-Byoru-Pekomama-Hololive-54-4kUp-003.webp"
 ---

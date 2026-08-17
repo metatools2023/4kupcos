@@ -11,6 +11,8 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "Genshin"
+
 photos: 33
 image: "https://lh5.ggpht.com/-cqn2wBkNdJs/ZVFI-5WB4lI/AAAAAAAAwFk/-rQg8FkXzWELctMH0KhN0Q6OAGdWh5GlQCNcBGAsYHQ/h1000-e7/Coser-KuukoW-107-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "菌烨tako"
 tags:
   - "菌烨tako"
+  - "原神"
+
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj15gdSI8n7mcjt0hYlHWt2DMnZAjH41snSRihSLxYdFqsX5CGCsuNK5rOhMiCNAOCOG-Moi3ewqf5bjlRBLdeq4Xc7v8jI7Cr9miA19xbZMEjS9s-yJIATbdVCjbVmkJPirruh-m89I4WRQAWdd_1W0aCl28ayP4v6potpG8s8xHr1EjB-DDJWK5RRvZzo/h1000-e7/Cosplayer-bacteria-ye-tako-Genshin-General-Thunder-Racing-12-4kUp-001.webp"
 ---

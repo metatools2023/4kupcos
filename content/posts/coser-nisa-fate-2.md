@@ -11,6 +11,8 @@ models:
   - "二佐Nisa"
 tags:
   - "二佐Nisa"
+  - "Fate"
+
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRfdXqr-cOaMTUH3PTIRBo51OgAdx5AltJZaoNGs06VvkvXJ0p3QD2w39DmULeJTQgThjE6ck5bu7uowJZ19PwEcZaa5qGIft8JYpUvOuwhd7JY5un8jJMY6qiCgy6NEq8CI7XIbeu7TkcixBCvEWRcNUP7rIGowUfekWtMqGz54yJ4Xprq4ed6HylsOr5/h1000-e7/Cosplayer-Second-Assistant-Nisa-Fate-Illya-Beast-22-4kUp-001.webp"
 ---

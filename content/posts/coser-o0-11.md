@@ -11,6 +11,8 @@ models:
   - "萌芽儿o0"
 tags:
   - "萌芽儿o0"
+  - "碧蓝航线"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5SiC6k9YrAUZaB9x01KwDBbPM7cTLtULPm4cboqvel-HfqfQ54jAOXnvbnRCGSZr2cFZALCaETI583PAAumeuJQJSSigz7hPQSlUyijk6IqNaaSuCqIbSvF4zIiQAl7MLJX0sQQsJtYSNtOKDhkpycPraNZvaB_qICy_DtdRB_3lrxzlFV3y_1rhAt9Fe/h1000-e7/Cosplayer-sprout-o0-azur-lane-st-louis-dress-20-4kUp-001.webp"
 ---

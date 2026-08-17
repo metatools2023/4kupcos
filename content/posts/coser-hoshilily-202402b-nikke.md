@@ -11,6 +11,8 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "NIKKE"
+
 photos: 80
 image: "https://lh5.ggpht.com/-teDgjG3Tf1g/ZjO9sq8jfjI/AAAAAAAAZuM/TuhgU_XWO20qgNgu6237aXKMO-dFxNBFACNcBGAsYHQ/h1000-e7/Coser-Hoshilily-202402B-NIKKE-4kUp-001.webp"
 ---

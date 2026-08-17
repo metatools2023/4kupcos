@@ -11,6 +11,8 @@ models:
   - "けん研 (けんけん)"
 tags:
   - "けん研"
+  - "けんけん"
+
 photos: 150
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg60ixA3qkMN8v9N2SAy5L5tQ06VothZBuUw46upi2XBg45TlPXXZgIcXdSt6RsVQLMfSOxTk-5cCUWL92tMF3t1ouK9Wd8oTX1O87BazT0AaU17cAinbc19Hu0ljZn9CVQg3dO1fArrlg2lKJZLuGnYS3yw29TCA_OAnYPgul_r3TMXRTxkGiy4U83OiH3/h1000-e7/Coser-kenken-150-4kUp-008.webp"
 ---

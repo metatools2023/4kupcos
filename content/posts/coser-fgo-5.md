@@ -10,6 +10,8 @@ models:
   - "樱岛嗷一"
 tags:
   - "樱岛嗷一"
+  - "FGO"
+
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ5ZkwnR3dr6BqyAFhrTrRiIKQTmgie_H8PCQQTOH6EZKYUz1bBCnKpnyJe8GMhvP9UeDSyxprp7VQi6SJjG6Vd9idwl3x7BIKcGK1XE2PqfENjfwb1nG3paKcPuMDdCtM7ODH9BEW9LipE22s1Op10jZ9s6YWvXs0sg2pTA_VmTJSVR_SWIXvmsuMnA/h1000-e7/Cosplay-Sakurajima-Aoi-FGO-46-4kUp-002.webp"
 ---

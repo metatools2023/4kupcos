@@ -11,6 +11,8 @@ models:
   - "露兒大魔王"
 tags:
   - "露兒大魔王"
+  - "雷电将军"
+
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPKhjzlPeRnwwIqjB9gfgGZUm-XSdQ8pn3uy3MtnyDhN7A8_LKBKQH5TowYkOkw56pS6oIAkot2vmIwJ73pP9XOTtAWiAjDDlEeyLYWUKpzF76Q7_HS0NdUFL2VyyR4_0BbmLH_ZjlPofwvae9BJS-sdpKoV4URU4Fq2Vv4DGt0dzgmt8BCc0zYnRVRKA/h1000-e7/Coser-Lu-er-da-mo-wang-17-4kUp-001.webp"
 ---

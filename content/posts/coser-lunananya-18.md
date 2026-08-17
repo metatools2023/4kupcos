@@ -11,6 +11,8 @@ models:
   - "lunananya"
 tags:
   - "lunananya"
+  - "碧蓝航线"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-yR9W4qeRGNVCtxa8PfQP-LySx3Od66v0Lpt4wtCxoYI0J7CL_dOp1hwwgq-8TX9oBziEPtxoOZpFG4SPG3esKYzfhpJyBy2k3pTL03Gb-YXStF2SPAbWcZFP2d2OX8dpOQwq5AOuzRYB_KWZZPth_EHGH5h8nlPMu0Ag35WGZPg69ocWDz0gTCofhUrq/h1000-e7/Cosplayer-lunananya-azur-lane-tashkent-20-4kUp-002.webp"
 ---

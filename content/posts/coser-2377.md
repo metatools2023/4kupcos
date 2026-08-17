@@ -11,6 +11,8 @@ models:
   - "半半子"
 tags:
   - "半半子"
+  - "碧蓝航线"
+
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-PaeHSi9S6TUZUq_ykEnJT4fdpyuQddKLhpUFJZ-c_O2GTmPJcyT2FQuEnruVudb-bwzrPEMmivyVj48j5ISN9MzyjTE0VgqzXdmO9j5TpnKKxS1XYh7NvZRE0_jiPmpkJCFGQjgi2f6DJcwFY2yZ7fUEPlX_lpZtm8zx33pXwtgVzCHZwkiOFyvNOqgx/h1000-e7/Cosplayer-Half-half-son-azur-lane-Amagi-Fall-of-the-Throne-40-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "瓜希酱"
 tags:
   - "瓜希酱"
+  - "碧蓝航线"
+
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ_eEsNm7PYSbX7qRqQrnnm9GstjuNQZuZHst-LWYdsvEVxuVYJZKeyjETQktBmV58ujF0lZm6KOMIK5ByIJWHQReVRaG3Z34Ychq-EVbknIcU89qgM_spHdYq7CHRD4u6Br-I_LufvfLc3xkcbEapD_u2YApdAhBYeu_xqVMWN-iQ0QGubA4n-GW936SQ/h1000-e7/Coser-Guaxi-Jiang-Azur-Blue-Route-Glory-12-4kUp-001.webp"
 ---

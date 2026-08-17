@@ -11,6 +11,8 @@ models:
   - "雪晴Astra"
 tags:
   - "雪晴Astra"
+  - "原神"
+
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBetmdUfEIFDUKmVN_oVtnNolnSeyF6Za3Qyi6sf6J7Ep-HpcbZbJ9PbH4M4SfmWrod_V2JezPEvNQygAfGKdZjlLQKoEZ-xTJ2tuWeJ2lMxCncxNuit94pXRP6Cm4mMWr82CNojEnwzQ9NsHVjf1MTcTQi7T1ddllgbHOAGuXsouhoJxqMsJTaWPjGixQ/h1000-e7/Cosplayer-Xue-Qing-Astra-Genshin-Sweet-Maid-31-4kUp-001.webp"
 ---

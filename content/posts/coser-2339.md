@@ -11,6 +11,8 @@ models:
   - "是一只熊仔吗"
 tags:
   - "是一只熊仔吗"
+  - "碧蓝航线"
+
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3q6l5-G85OVHq9Nc0QjQsv5gp6MCpiZieZK-m-950m9E4dilxYYHd98P56QP7cE5ZRD4WyietnYGbOTcuQZY803-WuwMZ8VpEBVXz-zSJJz2kzg_hqv1AqYuHonD1aycNdtgL0h0n4HSS0zyYEP-VBwochrmtquG19ktuxjJ4K1eA5PYRluVf5TXAXa9h/h1000-e7/Cosplayer-I-s-i-t-a-b-e-r-c-u-azur-lane-black-prince-cheongsam-19-4kUp-001.webp"
 ---

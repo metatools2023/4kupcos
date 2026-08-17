@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Tifa"
+
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinDXMsSnMp0c9Dvmjwdr0x93uqg6qCK7BvGABSxtDCDg9Bl0towHqcwzl8nF_ZKPxv18BwoufpP3AuVz0lw0SHWKZuA6Cxj7ztbLkd2E_GKAtyCT2gULZgIAGwrmFTZ4OdFHbRE2emwIzE_15r9Q4vdL0Ua5jsOtbo1eMdljK9KugrhqxUt_ZSvyr0LQ/h1000-e7/Cosplay-Byoru-Tifa-Bunny-48-4kUp-001.webp"
 ---

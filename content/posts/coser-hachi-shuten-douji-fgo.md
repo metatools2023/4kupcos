@@ -11,6 +11,8 @@ models:
   - "Hachi_小芭"
 tags:
   - "Hachi_小芭"
+  - "FGO"
+
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgml_SNAuwCdrQpZy2a0TlUQYrsISjSzV5R15i_27SkqdSscf6lAU2qZYZpm1DXlO5-CCZl2UOu7s9jmZtKJw4YavDR34j9rBlNQlHQdnbwR755St-2Z0ZuBfW0PbNELJ6BcKNon7GAlPl4uPOAQ90aQCVhh3mgQDu5uZprGgf0BB9-XNrOrXWtxJvkDfz3/h1000-e7/Coser-Hachi-Shuten-Douji-FGO-14-4kUp-001.webp"
 ---

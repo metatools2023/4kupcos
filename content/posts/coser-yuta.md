@@ -12,6 +12,8 @@ models:
   - "犹大Yuta"
 tags:
   - "源纱希喵喵喵"
+  - "碧蓝航线"
+
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLCpiecHOMPfTrBsPCmMrx-C4LubCg2k42rw2u763ZjQtXVhJYS31H1TB6iFOa_-ShCzThQYGCm1ghLYsy_9UphG5YsN-dgBayJAZOzT2f3r1Um7n4ur1zp01cTI0MUaD90VnOTT-z7qPts9HGQ8lBFFUwLTAcp6yLzu6lMX9EXuAsHzdYoMmAnp5nBbAj/h1000-e7/Cosplayer-Minamoto-Saki-meow-judah-Yuta-azur-lane-Belfast-28-4kUp-001.webp"
 ---

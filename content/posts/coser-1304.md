@@ -11,6 +11,8 @@ models:
   - "日奈娇"
 tags:
   - "日奈娇"
+  - "蔚蓝档案"
+
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM1NXwtBHUi_3A8TIwI5gRUntHRl_zuNYg8orcGTrwJ6gbjCV_9Zhl-2aaYuO7l-5empxHhodk7lSPLljkUjcPEAwpDSOaX5lowtCUWbuRtKeXAZW7SXGsfXu6FEKS0UNx3jBvyEcLZBTQ3bulCgntY-cYoKz1RZJ7Z9yon406e0SQbFgE8TFmCDn2g1qh/h1000-e7/Cosplayer-Hinajiao-Azure-Files-Shimoe-Koharu-Bride-26-4kUp-001.webp"
 ---

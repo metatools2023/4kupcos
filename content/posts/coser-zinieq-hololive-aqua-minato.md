@@ -11,6 +11,8 @@ models:
   - "ZinieQ"
 tags:
   - "ZinieQ"
+  - "Hololive"
+
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG06wuYQhLfaUiHNqBO3T-lfFZyoYjAkWUAhWKAFnxcGsrLE55Mo9U-W2K71sz0H0tDbnGZLR4srja6i3HmzioQPp29EeQ9_Ypwy7-SngGg4-udQNh09i-RZZG1-AQAF9PXd98OwaFdhwJyUAG50OWHcIZf2uSefHWtDoMA6iwiIbqMZjUq5ZSyG-A41c/h1000-e7/Coser-ZinieQ-Hololive-Aqua-Minato-39-4kUp-001.webp"
 ---

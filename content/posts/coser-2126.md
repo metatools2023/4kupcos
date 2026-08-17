@@ -11,6 +11,8 @@ models:
   - "瓜希酱"
 tags:
   - "瓜希酱"
+  - "鸣潮"
+
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwRMDNwl6iVvUyUZ9G6yknHK1N4aw3bICixQaAcILlRAH_QDDfu68WeNhNom8J2fKuXt7OqNUHIMN3Pae45EW4HaaWg2BBY9XU7h9y_C5o9_QBX4Fz5nJC5_Xl5uAEdZsdutavL1IW5S41zWpZST76K5xQTipyDjvIcqQE3YMKQFcNZYfQyRq5Sg5wcJET/h1000-e7/Cosplay-Guaxi-Jiang-Mingchao-Yinlin-27-4kUp-001.webp"
 ---

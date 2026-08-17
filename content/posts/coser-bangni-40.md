@@ -11,6 +11,8 @@ models:
   - "Bangni邦尼"
 tags:
   - "Bangni邦尼"
+  - "泳装"
+
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE3D2JK4ZolLDi8Sutb4Gu61QqUGqLALpsEcng3LpvB32KpNhv_YlAPFLrRPzzkRgrCudej-I07fMcdRr8ZqNPEMtXfBA66odNhWXaHNlxpyElaGD-8E9wUDKWF-0QLaxlzgdPAq1xUQbVIeQfoOX9eL_tF7f3IZ8Jw1uB-Etau_OXDVuxLegdLnsCjtsi/h1000-e7/Cosplayer-Bangni-Bonnie-Eternal-calamity-Delicate-swimsuit-56-4kUp-012.webp"
 ---

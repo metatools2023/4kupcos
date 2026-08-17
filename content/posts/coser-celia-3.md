@@ -11,6 +11,8 @@ models:
   - "切切Celia"
 tags:
   - "切切Celia"
+  - "明日方舟"
+
 photos: 27
 image: "https://lh5.ggpht.com/-11iGL2Davbk/ZX9yc58z8aI/AAAAAAABfZA/tLzb6emKjzocU3d4Y71G_w7dqO9HcDltwCNcBGAsYHQ/h1000-e7/Coser-Celia-4kUp-001.webp"
 ---

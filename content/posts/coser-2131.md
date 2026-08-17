@@ -11,6 +11,9 @@ models:
   - "喜欢爱理吗"
 tags:
   - "喜欢爱理吗"
+  - "恶毒"
+  - "碧蓝航线"
+
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9a8baIu9dPhvUtucuGXS-VfL7NtW3W2JcqBeTKWzR7ULJ7p0r_Y4GLseUyL6sHgvaf_-Z-d9uikteDWV8lNn0rRc7JMv6EfF7sZyKnepIkU1XfeyQ6z5P-PiKnCcCPVtz9i5TLOz-ozAnJEHv1EFQZ32uMLFRNMdWjVBdvUUjEFqsvJDzVE8L53ntM02Z/h1000-e7/Do-Cosplay-like-Ali-Azur-Blue-Route-Vicious-White-Rabbit-37-4kUp-001.webp"
 ---

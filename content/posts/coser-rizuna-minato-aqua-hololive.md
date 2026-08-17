@@ -11,6 +11,8 @@ models:
   - "Rizuna"
 tags:
   - "Rizuna"
+  - "Hololive"
+
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBYlRIkQJp4gUiVtrRoft0fRzOSqJR_e2MRkZSgIPBsi8AYT5s4YCMTVPPwFyEv6JYTZ33RUJvBR8_pv84zzxqOIaIOZn7ZVNGcinN_HupI8kqAsFJ7Y5sFOXhf1osV0NXCeh-VIZ0iu3_ZnMngTJibghOo8uc2hN7IvZSNDHQDYokIlwgKKgl3Ww9aD0/h1000-e7/Raison-Cosplay-Minato-Aqua-Hololive-55-4kUp-001.webp"
 ---

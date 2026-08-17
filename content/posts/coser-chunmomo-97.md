@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggWXtHa-v2nW73gXTh79v1EIpslcOFXZ8EEQ7vceeC_BrjORIKZx1dH2KE5b_QzVDDXG8mbnXgfCkN07J_XPTSsjdhVRB38jN3SKrNtfJb-nas1F56FGGxfalu19mKWXGI7885lttxyHOWTbSZJphp9XbhQ460MiQhpGVZdBnBG2twZMJnsYAxv5W2uIiS/h1000-e7/Cosplayer-Stupid-Momo-chunmomo-white-tiger-bikini-24-4kUp-003.webp"
 ---

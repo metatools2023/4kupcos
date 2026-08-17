@@ -11,6 +11,8 @@ models:
   - "Sayo Momo"
 tags:
   - "Sayo"
+  - "Genshin"
+
 photos: 100
 image: "https://lh5.ggpht.com/-LVdeqz-Mt8M/ZfNzhJ38QpI/AAAAAAAA4sk/61Sx8giGZEMmhrCE6IA1FwM61KsXwaeKACNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Furina-Genshin-Impact-4kUp-001.webp"
 ---

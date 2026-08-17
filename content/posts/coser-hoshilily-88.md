@@ -11,6 +11,8 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "明日方舟"
+
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_D7U0tPYhgD9Wdb9Jr9KtirhKTDqKnzbjEnGDaBUizn-w2BnnJk7Ftuiwq4lkDsjn4ux2ap2WmG9I2k1tRhUbvkHv9XLQvlr7sh8UKd8wS2j7mnPDfQKZYCJtpPq96valYVm4_ViFEp7I8nfRRrNLvf_2GvxRGmCq-zrYZG0JlbU-HtJRHzx551Ydf1zF/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-Arknights-horhaiya-35-4kUp-002.webp"
 ---

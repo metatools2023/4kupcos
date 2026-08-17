@@ -11,6 +11,8 @@ models:
   - "lunananya"
 tags:
   - "lunananya"
+  - "碧蓝档案"
+
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtDS1Fu8PCYNtAK4R8DnuwwUIQOE-2u7kfooGMszvWqrtYJGhB4luBDIBHS-L7RM8Xylpuy-Rs8W3lyLcA4VkvAtun9mW5cV0z8i7Tld2IFF_f-yemn_F-lJCDlhkxR7fD6D98Gw897ZI1lTYFQvxwioKf4tWh01JORBXD_nzJhoR_xZNmDuz4y_EOI20L/h1000-e7/Cosplayer-lunananya-Azure-Archives-Talented-Green-28-4kUp-002.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "洛璃LoLiSAMA"
 tags:
   - "洛璃LoLiSAMA"
+  - "吉他妹妹"
+
 photos: 73
 image: "https://lh5.ggpht.com/-Z8oSJvKAruo/ZjKMVcSwolI/AAAAAAAAZE0/olA4OvvpuTY5YijHhCncajGO2mld-OgXwCNcBGAsYHQ/h1000-e7/Coser-LoLiSAMA-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Nyako喵子"
 tags:
   - "Nyako喵子"
+  - "风纪委员"
+
 photos: 85
 image: "https://lh5.ggpht.com/-e3FBCKq1UVs/Yw-HvBB2l1I/AAAAAAAALuQ/tZfPKvbWBfUs6C0RmHGh4fQokIjurfFRgCNcBGAsYHQ/h1000-e7/Coser-Nyako-4kUp-001.webp"
 ---

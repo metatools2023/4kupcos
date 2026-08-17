@@ -11,6 +11,8 @@ models:
   - "矢量鱼"
 tags:
   - "矢量鱼"
+  - "蔚蓝档案"
+
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglYWK4OK9A6caPgPxU3fbaT1J3AXMOawsLS-ga2C_crsdAIRy612KJtZ-Vtkj26WN3DcDFR5R9dLO0Eux2wmTTYl7zZiAhHHdNbB-JvqrzhTqHN_SnowxnBGrs6H30CZHoUmBKlwJEql0b5eRs1BEd118vb1ZNMV-de1719eK-rirYyEYRuKLOx172GUb9/h1000-e7/Cosplayer-vector-fish-Azure-Files-Kona-Haruhara-31-4kUp-003.webp"
 ---

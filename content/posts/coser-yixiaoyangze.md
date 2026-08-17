@@ -11,6 +11,8 @@ models:
   - "一小央泽 (yixiaoyangze)"
 tags:
   - "一小央泽"
+  - "旗袍"
+
 photos: 87
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2yWkZXUKnXqe2Kvrn0xL7IL3tM_JnN6KPm0MrtqtoDlZuy-_noYrdD7fOoHw5aU95gs2QcFpQgSr6FxsCnHAcJcYLRm9RxCQsIrg3KR5ckKb3XsMXnTQyRjr_CXRzHrNqpLrd832XT0ZI-93JOU4mljRxwCbOI7nQDxR0Ex_qlG0acVSFW-PJ3ZVbJQ/h1000-e7/Cosplay-Yixiaoyangze-yixiaoyangze-Jianwu-Cheongsam-87-4kUp-003.webp"
 ---

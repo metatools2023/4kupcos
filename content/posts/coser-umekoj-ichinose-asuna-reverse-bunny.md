@@ -11,6 +11,8 @@ models:
   - "UmekoJ"
 tags:
   - "UmekoJ"
+  - "Asuna"
+
 photos: 131
 image: "https://lh5.ggpht.com/-es83gbqAz80/ZlucGVhV6GI/AAAAAAAAum4/kfjeUk0q-9QBlMmEy9xSEi-m3wxog-VMwCNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Ichinose-Asuna-Reverse-Bunny-138-4kUp-001.webp"
 ---

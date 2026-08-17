@@ -11,6 +11,9 @@ models:
   - "Choi Ji Yun"
 tags:
   - "Choi"
+  - "Forger"
+  - "Yor"
+
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVDx27BFWdU_rECNM-QlLMd5TLYySCLbjr7eKou1TSITTXVxn6Jl4GpenXk0HTINVMLiQApMtNCd8y8JU8s89NALYQsA4V1QjUk_U12N_7WxBvDVJ7vwTEv3z2QhGGYDFQdSjblemaPhCR8Gk7h3Xe2KsR5QTLHv7fJBlVS5RAIosnLGjOtRcbKsS6UZi1/h1000-e7/Cosplayer-Choi-Ji-Yun-Yor-Forger-Red-Drees-49-4kUp-003.webp"
 ---

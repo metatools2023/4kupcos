@@ -11,6 +11,8 @@ models:
   - "水淼aqua"
 tags:
   - "水淼Aqua"
+  - "NIKKE"
+
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggJxtLtiEdu_fS7wKRfMz3trLIplqP3nLOdnRVG9Pu88ZoIiCwQ0F_AxsYjt3MN0HjC3LyUogQELwNhRzw3RCJgMSBF75PZzdU0swryyJ9D1v3E3eY3XYD0vjhjZy-LNJdwK2qcOHIM1AVrSNdeBpdzHTs-uHShacRzjbTp2dh_Tv2wIj5QifgM2muTL_G/h1000-e7/Coser-Shui-Miao-Aqua-Goddess-of-victory-NIKKE-SSR-Mihara-51-4kUp-001.webp"
 ---

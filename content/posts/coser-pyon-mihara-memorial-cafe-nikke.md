@@ -11,6 +11,8 @@ models:
   - "Pyon Mihara Memorial Cafe (Nikke)"
 tags:
   - "Pyon"
+  - "Nikke"
+
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkYT36Lp2ROaPO-HFRBa-65FObMmtt6N_CWea9ubyQxhMZ1DiIcSlYhSrOn4mCWKiemdfIfoJ_BdErTvHLRNiHiBLDcJLktiFZzlrZvxkv_1pEnhNV69Hsrsp8PDPszmnG9jfFYJFBsu8qKgGMFWstbgEL-2X0Wtpf947ar-Aub7Va8zcr7dyxUDIBdSW5/h1000-e7/Cosplayer-Pyon-Mihara-Memorial-Cafe-Nikke-50-4kUp-001.webp"
 ---

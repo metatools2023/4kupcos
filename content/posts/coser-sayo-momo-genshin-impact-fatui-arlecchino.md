@@ -11,6 +11,8 @@ models:
   - "Sayo Momo"
 tags:
   - "Sayo"
+  - "Genshin"
+
 photos: 66
 image: "https://lh5.ggpht.com/-ZlMajP9ZWCY/ZNFm021lizI/AAAAAAAAKRg/IZWhurWHuxIuvUAk7JSsmTq45RspP_IlgCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Genshin-Impact-Fatui-Arlecchino-4kUp-001.webp"
 ---

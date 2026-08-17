@@ -11,6 +11,8 @@ models:
   - "如月灰"
 tags:
   - "如月灰"
+  - "绝区零"
+
 photos: 10
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpe7AlVTNyClyv6vpAlXuMiw_9FC0q-tG0QW8HNEoAvbNc7MOwEm_-i1KP2FajhjMQvBKrP60aDWw5In1YuGxm-gMy4QkkF-apdv-6piXd43s3f08vDrOYWls-9U2VWIGqnZakmbTkRNL3UykD3E2DmtF-Kp2Tf5lAxgjtYg3wO9UANlC1WbA2wTivjQ/h1000-e7/Cosplay-Ruyue-Hui-Jue-District-Zero-Jian-Du-10-4kUp-001.webp"
 ---

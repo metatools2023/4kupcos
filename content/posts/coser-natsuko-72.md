@@ -11,6 +11,8 @@ models:
   - "Natsuko夏夏子"
 tags:
   - "Natsuko夏夏子"
+  - "碧蓝航线"
+
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Q4-0-7GJA6lqJTZ6YcZnYl2Vmyvef_Hm05vhro0cdys90QC8ZrmwzZNW5-3gyT-kd2Jf4yypA8FV2eNR0yJpI-40VLN2BoVGXwdJZxYH55ie-BElRtddJnaCQEs5uthVkYYPzCI-2XHXWk2VtMYDMzA4HmqD28D95d1a4y7kyALi-hV8piZml_tnONdT/h1000-e7/Cosplayer-Natsuko-Xia-Xiazi-azur-lane-cheshire-wedding-dress-48-4kUp-003.webp"
 ---

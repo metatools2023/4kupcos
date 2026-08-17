@@ -11,6 +11,10 @@ models:
   - "双木扶苏"
 tags:
   - "双木扶苏"
+  - "卡芙卡"
+  - "崩坏"
+  - "星穹铁道"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWsBNKAk-jY4yMN_EMc6V_PxYZU0t12gkR-VFnIv6B2WBFbi9GHfQG4I7zny1aLHRSSCxGD59AyZTt9yc6cgkaeU7Qd_fyUjVVnX6v9uGoz2VhKbZM19qMR3hnFqtB3kWeero-W7TIhYfpAvlmzFfpWuvPz3tBsO_bVWoVDChGNLYus2qH_lpt8d9e2g/h1000-e7/Cosplay-Shuangmu-Fusu-Cangfa-Star-Dome-Railway-Kafuka-30-4kUp-001.webp"
 ---

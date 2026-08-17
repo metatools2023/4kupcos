@@ -11,6 +11,8 @@ models:
   - "柘烟_Zuken"
 tags:
   - "柘烟_Zuken"
+  - "Nikke"
+
 photos: 48
 image: "https://lh5.ggpht.com/-c9sOGrsMOPc/Y-_0sRNnFyI/AAAAAAAACGA/ZKn8jpZz44kl6wKsd_7efKF_bNs_5FcSwCNcBGAsYHQ/h1000-e7/Coser-Zuken-No.02-Nikke-Rapi-4kUp-001.webp"
 ---

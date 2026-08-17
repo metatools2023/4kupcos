@@ -11,6 +11,8 @@ models:
   - "Sayo Mom"
 tags:
   - "Sayo"
+  - "Mashu"
+
 photos: 57
 image: "https://lh5.ggpht.com/-Ii9WuT9nS3E/ZZSYs3y4f4I/AAAAAAAACiw/FFxnqRS9HjUx2HbZ7EjxtJ3dvB6GRUrNQCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Mashu-Kyrielight-FateGrand-Order-4kUp-001.webp"
 ---

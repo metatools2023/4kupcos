@@ -11,6 +11,9 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "原神"
+  - "甘雨"
+
 photos: 50
 image: "https://lh5.ggpht.com/-XRLvkJuWLW0/ZeJShNigwZI/AAAAAAAAuz4/sxZAuCccCgs3OHpChS-4VRLVltrr-4tFQCNcBGAsYHQ/h1000-e7/Coser-Byoru-4kUp-001.webp"
 ---

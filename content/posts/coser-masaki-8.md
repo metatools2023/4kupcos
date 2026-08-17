@@ -11,6 +11,8 @@ models:
   - "masaki雅祈"
 tags:
   - "masaki雅祈"
+  - "碧蓝航线"
+
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwf1mqnDrzit_8Q3qUrX5qLAkuD-2SCahuK_GHvUFKpAikYNk1ExttBtxoNQ8Opa3tN2D3GFjeIPIpA2qizkVD9RkyOM4M8fXpYRdGI7pSEbx7CkmxSIJTfK154G2gRILJpxNdXlueFQG2Hj47TSseKWNQKQNN6PoodRwCKpZhfUlknVaS6McIKw60_K8/h1000-e7/Cosplay-masaki-Yaqi-Azur-Lane-Awesome-Dress-27-4kUp-001.webp"
 ---

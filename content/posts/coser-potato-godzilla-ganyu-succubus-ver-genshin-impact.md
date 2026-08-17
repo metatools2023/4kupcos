@@ -11,6 +11,9 @@ models:
   - "Potato Godzilla"
 tags:
   - "Potato"
+  - "Ganyu"
+  - "Genshin"
+
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6KtxulKLLL4pN_RNWhQhd5i4xWsjIyYkxTCFXREYqPum4OQdYZyLE7HEU2k151pDe9Y6FWxoDQ7x7zMk6t5iuWgY5unSX4HhOorhf5AWOAhJgjiQa-WHcYEICzVjroAKVJVK85H7fUEJnwaylT5BU23iFMCDLjFwxcAdY64guPYOKgnjrLPvOOMUkP7k/h1000-e7/Coser-Potato-Godzilla-Ganyu-Succubus-Ver.-Genshin-Impact-15-4kUp-001.webp"
 ---

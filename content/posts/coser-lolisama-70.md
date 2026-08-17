@@ -11,6 +11,8 @@ models:
   - "洛璃LoLiSAMA"
 tags:
   - "洛璃LoLiSAMA"
+  - "碧蓝航线"
+
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpFMTWwAZs84bKHn5ih0D9QMqG0_lPlN7UdGhbIRrlp9GLoU90vpgAwI10TxIIaDbzyl4Tot-gfA7y-MR_7S86zCSCIFbPcI3KoCDEyQu06X4HpmsFBujIigYhm32-nXH0uYHkObLRSzP-93Bu3EspIpIjkv6cD5dRgjWbTiCFZW9WCb5MqJxAo6M-1EA/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-azur-lane-Evil-Bunny-51-4kUp-004.webp"
 ---

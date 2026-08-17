@@ -11,6 +11,8 @@ models:
   - "Tomoyo酱"
 tags:
   - "Tomoyo酱"
+  - "碧蓝航线"
+
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEga-tgEVIS9I7ycslr-z2t3Mr06nus6kx3dGp4iPS852BdLtVsC7fbY5avK-g6j5aSi8oEIaNn-jGWvArWQ7lIEDvqm_8ZQB_8ql0NwSlFTKUXH7ag9qWYFP1-jBidgxDrFZktjiRgXRj69p0KQJsxAnkFV4-y8ZwpHDel6IvmM9RbzcbdgXeZt-NvNmge9/h1000-e7/Coser-Tomoyo-27-4kUp-001.webp"
 ---

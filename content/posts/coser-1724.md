@@ -11,6 +11,8 @@ models:
   - "如月灰"
 tags:
   - "如月灰"
+  - "碧蓝航线"
+
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgqe_XpE5AGtSj3cZEmgB9GuP4RHkbSEIbmD-l6Zg17nLZ_UPJGnv5LDv9A25xO3JlKDOn0edZnyZWDej5G26Oi8WjfEuTHaqySYxCZTmjoxEQ-9Jub_Dy3_Bs6kfgW9G8tBEJ-QOV9pRdpyhJBOjkbxaYCntyP6WTHYS_4Yjx16-pvaQVAoXJEwuSfoGi/h1000-e7/Coser-Ru-yue-hui-28-4kUp-001.webp"
 ---

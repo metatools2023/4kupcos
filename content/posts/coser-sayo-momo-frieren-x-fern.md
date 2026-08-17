@@ -11,6 +11,8 @@ models:
   - "Sayo Momo"
 tags:
   - "Sayo"
+  - "Frieren"
+
 photos: 94
 image: "https://lh5.ggpht.com/-ooCAOlj9URs/ZhQjuHBYS4I/AAAAAAAAGBc/gfZHbqLei8U_aHGS_j5fQaRnvhXvMk3BACNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Frieren-x-Fern-4kUp-001.webp"
 ---

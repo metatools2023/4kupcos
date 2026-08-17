@@ -11,6 +11,8 @@ models:
   - "末夜787"
 tags:
   - "末夜787"
+  - "碧蓝航线"
+
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8mDD9TX33cJaQ7mTHMmPKanI2kipedjumRePnDlWiDFmggfV-IJyWy2FW0DXbB7Xdo88eFA3Ixb66LwnMSHEwFlHNd2BvHayTQIdetKQQPDZ9UO_mPIOE2M3axtvWlQdxcTwi-KroFJojSVnZUziy8IJwaes2MvPKBcSHqe37rTtO1c0f_NPEBg1KRZtQ/h1000-e7/Cosplayer-Last-night-787-azur-lane-Resentment-OL-32-4kUp-004.webp"
 ---

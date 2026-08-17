@@ -11,6 +11,8 @@ models:
   - "Natsuko夏夏子"
 tags:
   - "Natsuko夏夏子"
+  - "吉他妹妹"
+
 photos: 48
 image: "https://lh5.ggpht.com/-0z42qKz7OB0/ZnBrCraULhI/AAAAAAAAAM8/6CWVY3AwKnUIqDG8haHAuDYG9YVjP2ZGACNcBGAsYHQ/h1000-e7/Coser-Natsuko-1341-4kUp-001.webp"
 ---

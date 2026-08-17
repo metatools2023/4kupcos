@@ -11,6 +11,8 @@ models:
   - "洛璃LoLiSAMA"
 tags:
   - "洛璃LoLiSAMA"
+  - "碧蓝航线"
+
 photos: 54
 image: "https://lh5.ggpht.com/-Cb2WUP26plI/Zn3whrBJUCI/AAAAAAAAG84/qtgTCtdYOdYvosF_hwqZWQ1lEh93TvgYwCNcBGAsYHQ/h1000-e7/Coser-LoLiSAMA-54-4kUp-002.webp"
 ---

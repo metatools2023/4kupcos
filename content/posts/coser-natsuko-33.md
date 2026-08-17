@@ -11,6 +11,8 @@ models:
   - "Natsuko夏夏子"
 tags:
   - "Natsuko夏夏子"
+  - "碧蓝航线"
+
 photos: 90
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlUMLweipA_Fbmle2cReyXza3BUJwTYkWqjgnvrhKj5oHUKuQ_y-hctvMEC86LsWCEulKapR71jJC0iLjIdGNp6x5Igbixg817Ggz_M3iuz_jUyX27MJo00mdfhS3AdNDqwUc8Ewn87maQePjUaMH4-sliXmtdWP1uwKhbAMXjLvkPC4Adld8LZQ70Mxg/h1000-e7/Coser-Natsuko-90-4kUp-005.webp"
 ---

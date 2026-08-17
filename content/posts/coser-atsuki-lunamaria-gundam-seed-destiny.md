@@ -11,6 +11,8 @@ models:
   - "Atsuki (あつき)"
 tags:
   - "Atsuki"
+  - "あつき"
+
 photos: 104
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgACu5gfbBV35Jf9UlN-fbK9UoYvZy1wg6AMGVVNR_rTXY616axEFG-Xw8OxasZ2kKdJ-q4VA95YjCCTB8ZtK8B-sDEznYCIo1h2bR312EsR60XwvxJ58x0fG61AX7KUC36Zqf0HaoiNw-tq_elMyKzidJuWtuKSwvsQw9PN6RIq6uNcRv6syT8aYh0VnE/h1000-e7/Coser-Atsuki-Lunamaria-Gundam-Seed-Destiny-104-4kUp-047.webp"
 ---

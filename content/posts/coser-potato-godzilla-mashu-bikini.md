@@ -11,6 +11,8 @@ models:
   - "Potato Godzilla"
 tags:
   - "Potato"
+  - "Mashu"
+
 photos: 22
 image: "https://lh5.ggpht.com/-bjMUCSbd9Dw/YxkVJ2JlgYI/AAAAAAAABXM/3xuENCmA99QdZVGJwBj-7I5wJltcBzhtgCNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Mashu-Bikini-4kUp-001.webp"
 ---

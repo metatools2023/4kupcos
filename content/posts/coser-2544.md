@@ -11,6 +11,8 @@ models:
   - "叉子宝宝"
 tags:
   - "叉子宝宝"
+  - "吉他妹妹"
+
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO_HMJ8mQ86hqq9WhK6qcBTjSD0sPinnrCmbnqLMqjh2cYc8CaL1LkObklJ_yqTBVqEVI84tGdqor7lSU57WT9qGRzsDIn1xmO1knfQWJjXPfaf4CsB7Zuo1bP91KUrHVyZSjwZtR_lix-NLTw560v-U_rF5Fr5T6eUh28K5vH9HXRDIV6SjRxj5bczb0/h1000-e7/Cosplayer-fork-baby-guitar-sister-23-4kUp-111.webp"
 ---

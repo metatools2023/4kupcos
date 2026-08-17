@@ -11,6 +11,8 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "NIKKE"
+
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4lx1tiRFIB_UOptiAcjp_dG4WTdI9kkJPUcu0z-qgHJHduRbcniyvrx85wriChLiKYtLr3w2zob_GR8gdBCMw1iedBp17op5hNiukEj-yaprBmTSRRp9pq2vyrXyCiyTwhDICOIlFrD9tguxfxtxhzz3NXV-glC4rdPqcU3KypGF13rQb8Xtq3ecAO8w/h1000-e7/Coser-KuukoW-No.129-Hero-Laplace-NIKKE-22-4kUp-001.webp"
 ---

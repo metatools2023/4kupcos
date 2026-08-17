@@ -11,6 +11,8 @@ models:
   - "yako喵子"
 tags:
   - "Nyako喵子"
+  - "原神"
+
 photos: 79
 image: "https://lh5.ggpht.com/-7DrSKSTE8LQ/Y-_0JSUF61I/AAAAAAAACBE/pKBMILG3j5wlqN-RKR1pt6ifLQebmtIoACNcBGAsYHQ/h1000-e7/Coser-Nyako-OL-4kUp-001.webp"
 ---

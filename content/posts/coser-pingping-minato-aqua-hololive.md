@@ -11,6 +11,8 @@ models:
   - "PingPing"
 tags:
   - "PingPing"
+  - "Hololive"
+
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmfafFWj9dSy9pOSJI1U-tp3Y36HM3CG3jR8YVJGLdD91vqcZUK_9dXGyN2PPDh14k0Q5Y_P2vQaqCavvaDcOZqIbFYFu51SofZxnnFOCO5jOozfEdFGpiEbHSAFxIAA-FWlsB7Ko-zpEk2eMEg7q0efNsfLCKanVVbudhApMBRGPwa3Bn1dSWJKTH9W2G/h1000-e7/Coser-PingPing-Minato-Aqua-Hololive-28-4kUp-003.webp"
 ---

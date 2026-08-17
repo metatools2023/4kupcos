@@ -11,6 +11,8 @@ models:
   - "小空sora"
 tags:
   - "小空sora"
+  - "绝区零"
+
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV0NyWTUTI0uYa6FfPVxtjxb66tXeXk-FSSqqQAPRs-4JUgGSh0sQScMZa0APOIiBq9kXbqqZVdqso_bo0rqvyqS34aNW_rXTOxsOdixXjPaMr5Y_JvCxTxRGOi9OYgV6M-D8dO1BNzSJ7J0EPyAUkCx3MVG2BRafx2BBVvc3ecusHlzRQfS3bZvBAAxv5/h1000-e7/Coser-Xiao-kong-sora-39-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "ZinieQ"
 tags:
   - "ZinieQ"
+  - "Hololive"
+
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBAf4IGVmS7AzyDCYSlDxTf-sKkB5KUIRuDGgmszyN6sDlMcFFSlde0DDoBV5zAhfFHqHZar03NdAlnebeyWK0QOsLTgRGZF07CPBmRAzxszD3VHtAJqCK8ZmOb5e3GuH8W8O_FLUFVlGUcUgJ9OSTa6TY3yZ-1x67XgCrdj9_EU-SF8hpCejLL1G8GEeD/h1000-e7/Coser-ZinieQ-Hololive-Pekora-19-4kUp-001.webp"
 ---

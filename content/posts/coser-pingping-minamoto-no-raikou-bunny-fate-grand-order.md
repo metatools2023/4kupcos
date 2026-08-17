@@ -11,6 +11,8 @@ models:
   - "PingPing"
 tags:
   - "PingPing"
+  - "Fate Grand Order"
+
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisTTtktz7PUKmsZXzvi_D1U1DMUG8U8MakoZNQJ38e533ZKktZ46k6LY9YHL4jojMBK1-Vci2APcXgBbdSJGZ5s5UmA2zIKaGJktqR5uqKfx6Pf31UxYIw4UGOe5BDqg6M61b3TApq4K3tdrlW_H4hfrX_ZMu9OFQNXUCiq7utRIS0LLKttDTMaFtwtkJU/h1000-e7/Coser-PingPing-Minamoto-no-Raikou-Bunny-Fate-Grand-Order-33-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "九曲Jean"
 tags:
   - "九曲Jean"
+  - "碧蓝航线"
+
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH8evc4W0B6UuUPc0yqfkRmvWgWLEvDbxm5NG8td8dDMQZdKYd5DSWujS3xMCRkzkg4qd-XMXWoCX0-LBqtZNPtagY_bEd79iCqJ936uHjvLF7P_25BSTfHqK8Q3-FY6E7xdBfTWNAu9hyphenhyphen-rnfTIE5oXeP12yQbGqz_VMhNEkGzgRbaiRmxAsaMaVNHhSg/h1000-e7/Coser-Jean-24-4kUp-001.webp"
 ---

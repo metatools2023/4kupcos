@@ -11,6 +11,8 @@ models:
   - "布丁大法 (Pudding Dafa)"
 tags:
   - "布丁大法"
+  - "Pudding Dafa"
+
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijz1NkvUiXw4Rpl9NEfQxasJ2UXW_cw-spgzz3fVcyQbOMjUTifOUpxBbFmYwnHe1fpJULT-QgjihFTD2e-249ag_GRyLUTo1-DYQmEOz7bSQA2Fjtexzlhp7mSBTEBxZ-Uere_gk91V0eHGeU_3zkBlVIjAoxVQPUALuKeQrwRMsLR1QVBvM6XY4LGTvi/h1000-e7/Cosplay-Pudding-Dafa-Dongshan-Xiaohong-22-4kUp-001.webp"
 ---

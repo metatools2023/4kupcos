@@ -11,6 +11,8 @@ models:
   - "发条少女 (迷之呆梨)"
 tags:
   - "发条少女"
+  - "迷之呆梨"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjElQH1nmHET8U2t9HM5Cw2Vicu3qVlwpQuuncFLmpCynkq9530ip9xiGDCyWC5GZc5B3rvvWtTwi2orTNxRjqAtpqcITLnlv2WKo35_9NlSUZUufbLeouh0PX83B-swsTgdFCCCKZOylotC2p8GpkkKr3MwI5M1zLz34TeRV2CYVKqaHBlfwCHmFlNFhs/h1000-e7/Cosplayer-clockwork-girl-Mysterious-Pear-burger-21-4kUp-001.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "前羽_rr"
 tags:
   - "前羽_rr"
+  - "八重神子"
+  - "原神"
+
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyB70pR9VeQ3ESxARDid1UCIoF5IwkdC93hYjiQdgARkcuoBWRidOeS_IcfXMdbXBPapql45e2FGbpO-d8VEPvlmXlJax96P5oE3OpOM40NxJFjwvTNkT1nlE-NzSP5Bee12E-ePgVaJzPBeHcoYofWKGMDdkzI1xvJBJDic1UkW0wYt-x7Se8Ytm8KeEU/h1000-e7/Coser-rr-36-4kUp-001.webp"
 ---

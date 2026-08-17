@@ -11,6 +11,8 @@ models:
   - "Atsuki"
 tags:
   - "Atsuki"
+  - "あつき"
+
 photos: 367
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH1nRrMVHDzIXecG9_ov4Od1_zq7q3d8EfpdLQtuYe0_QsKMTPIQ2AN_NaIlwbgSwP-J3ioU6ELBE-9Y8_YBhW6SZKJJwApRoM9rYFoIuZBc_aWZhqewgPmBZozS6i6dPOrQixFbalgcxybObM-VUp_CuAYoHp3nxBc3jU0mGLSkEae-j7fEl6ux-ZWLx/h1000-e7/Coser-Atsuki-ROM-Suite-Collection.38-KanColle-368-4kUp-020.webp"
 ---

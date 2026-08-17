@@ -11,6 +11,9 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "竞泳"
+  - "蔚蓝档案"
+
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4HC4MmTRT4Tkv9hb2zz8BFvlB8_HariYK86zLpC7fjLbs_jsSbZ1xV5Gedkm0XV0ZEvMfSNKJmYjwT1eN4ALUnyYYxWW_gIXkZP4d6nWMyZOj7K8xbpyEdLm7XsDC0lB1S2KuaOKjkVxffjm1R_0XbF2pcyIjg7VId-qC7Gm9D4rtWSXaEreouqK2IE4/h1000-e7/Coser-Yu-yu-28-4kUp-006.webp"
 ---

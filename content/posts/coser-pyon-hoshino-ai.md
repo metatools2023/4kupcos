@@ -11,6 +11,8 @@ models:
   - "Pyon"
 tags:
   - "Pyon"
+  - "Hoshino"
+
 photos: 36
 image: "https://lh5.ggpht.com/-t3YlbGiBk5U/ZirncMfXmNI/AAAAAAAAUZo/PzwhSj6xxA8kFn761MC_airCSmF2QXbMgCNcBGAsYHQ/h1000-e7/Coser-Pyon-Hoshino-Ai-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "洛璃LoLiSAMA"
 tags:
   - "洛璃LoLiSAMA"
+  - "FGO"
+
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMjW-JbYd4xnn-OYJHzFV6deZBgnl9B22fssFbG_GnLWIwM0ul4E2gd86svhUVPvX0K-bUIIvNYF2IcA2vmDhw3O7wNtTalH_Mrvqhh2Y74KDebdo_auQC-T0WZicxC2q6EyTnv-_Xj1-aC-Uny2UTR9N3ZDHNtRtwpCBPNjARh3-3BLyjMhRd97YYAZU/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-FGO-White-gun-bunny-girl-49-4kUp-001.webp"
 ---

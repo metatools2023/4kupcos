@@ -11,6 +11,8 @@ models:
   - "Ely_eee (ElyEE子)"
 tags:
   - "Ely_eee"
+  - "ElyEE子"
+
 photos: 27
 image: "https://lh5.ggpht.com/-OfNpenB8tKA/ZV_UttH0TsI/AAAAAAABAWY/a4Xoo5bLFtQuIsssKng8MfWysj65Vm04gCNcBGAsYHQ/h1000-e7/Coser-Ely-eeeElyEE-Original-Devil-4kUp-001.webp"
 ---

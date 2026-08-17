@@ -11,6 +11,9 @@ models:
   - "水淼aqua"
 tags:
   - "水淼Aqua"
+  - "妃咲"
+  - "碧蓝档案"
+
 photos: 89
 image: "https://lh5.ggpht.com/-HschL2yvGs0/ZHj8DNtqksI/AAAAAAAABIo/Vtlc42ZJ3boQaoGV_njoZI4PpdHycBqsgCNcBGAsYHQ/h1000-e7/Coser-Aqua-Vol.147-4kUp-001.webp"
 ---

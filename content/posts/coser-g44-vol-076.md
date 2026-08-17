@@ -11,6 +11,8 @@ models:
   - "g44不会受伤"
 tags:
   - "G44不会受伤"
+  - "碧蓝档案"
+
 photos: 40
 image: "https://lh5.ggpht.com/-6wV6pCoRD9E/Y-bGHY-TUlI/AAAAAAAAIBU/PjeMufJoW6QhFEB8ESGBiNCYBTv3OqGCQCNcBGAsYHQ/h1000-e7/Coser-G44-Vol.076-4kUp-001.webp"
 ---

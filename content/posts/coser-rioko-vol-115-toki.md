@@ -11,6 +11,8 @@ models:
   - "rioko凉凉子"
 tags:
   - "rioko凉凉子"
+  - "碧蓝档案"
+
 photos: 43
 image: "https://lh5.ggpht.com/-Qs8ZOc1I-tM/ZJS_5UFqUTI/AAAAAAAAVfY/hBo-rkuFeZsoQseaeVCTRUP_vVZTepgHwCNcBGAsYHQ/h1000-e7/Coser-rioko-Vol.115-TOKI-4kUp-001.webp"
 ---

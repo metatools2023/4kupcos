@@ -11,6 +11,8 @@ models:
   - "发条少女 (迷之呆梨)"
 tags:
   - "发条少女"
+  - "迷之呆梨"
+
 photos: 65
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMfXWUHJF-ddjTMbeWlMKSgiMUUwfGot-4m2mrVz89GZWGWJsFkkiAbU1caetsd9Ez5Djrq7VY7YyC1U28evG6_WhxO17l01kjbixD5r9vAmg9CCexvMI2pxsuAsC9jJ05TQaeM-Tbov17_aZhr4pKRVmt-PgPByK3l0fL6fleX7cZoNwR3Z8UNchRPWI/h1000-e7/Coser-Clockwork-Girl-Missed-Dai-Li-Red-and-White-Nurse-Please-follow-the-doctors-advice-68-4kUp-002.webp"
 ---

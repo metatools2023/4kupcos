@@ -11,6 +11,8 @@ models:
   - "PingPing"
 tags:
   - "PingPing"
+  - "Fate Grand Order"
+
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhNF50-qhEAmvgovmkEEgLn-jWAM88eaf2z__kvGBt3dMhgwJ3B3JBQEtY5wsuj6AInXXb_iEFQW3Rt7Tj11VZDCmktwR_w2SFlXDB76g5ViSy2qs_85dpTKju1e_3pEu6h-XHXSvD89TzaxJ2lfCBtyufINiaWADswZ712gukeInQkalMX4yfZbt4OO7c/h1000-e7/Coser-PingPing-Nitocris-Fate-Grand-Order-24-4kUp-001.webp"
 ---

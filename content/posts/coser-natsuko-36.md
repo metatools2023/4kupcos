@@ -11,6 +11,9 @@ models:
   - "Natsuko夏夏子"
 tags:
   - "Natsuko夏夏子"
+  - "埃吉尔"
+  - "碧蓝航线"
+
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh78gLUWXVlur1O2Asy6UoIV0GWgJSULu-TfhBnzgTV7WXDDYefxAUUiy2DVlB_Jch4VSvJeblfX9y6h5max93pbUUnL1bYppQZf_nhyZD2C8o3QHFqk6xRTh0liBV8rJs0T9d7OJ0aorSbwJiDdsjjmvaZ-DGukvR_PL3FuoMDl5a5fqUdlqbBthQFcyfx/h1000-e7/Coser-Natsuko-17-4kUp-001.webp"
 ---

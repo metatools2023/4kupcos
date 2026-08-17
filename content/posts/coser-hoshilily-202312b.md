@@ -11,6 +11,9 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "女仆"
+  - "碧蓝航线"
+
 photos: 78
 image: "https://lh5.ggpht.com/-qIIxRTHu21A/Ze3186L5l2I/AAAAAAAA08Y/iHe4-_KeK6IAc6JLAwLmm_lLEO9wxIyxQCNcBGAsYHQ/h1000-e7/Coser-Hoshilily-202312B-4kUp-001.webp"
 ---

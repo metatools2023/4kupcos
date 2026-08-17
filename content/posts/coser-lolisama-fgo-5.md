@@ -11,6 +11,9 @@ models:
   - "洛璃LoLiSAMA"
 tags:
   - "洛璃LoLiSAMA"
+  - "FGO"
+  - "玛修"
+
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglhyphenhyphenI16r09QS9X0E8SDbxKgojGdU3edWUhMRKS7zfbrWGT8Qm_LBbSeOJBulNChuvnwyZWP6WqKaxvUrrmoNxg46kinDG9Q5De8Dlsixl5xX77NzPwFb-4vRAEPDjulL83aGRAAOyx6vxy3YPl1wmfwZHqtuFJ2BK3IvjK7KSIxeiHmxv3S0tM8_71Qxo/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-FGO-Matthew-cat-18-4kUp-001.webp"
 ---

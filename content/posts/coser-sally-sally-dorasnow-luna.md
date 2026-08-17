@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCSNa5fj4XXNbdNqaSkji7jB2nD-xJbXIzn_LttVGkFyUZn4nNazrbfRnl9IGN37lyey9jaDHFOh1VB_X2FYwa9kozUTbjHmhhOwZcU6dtvvVp3I70JeOz42ySr3IRBP_VWC5OS6fEL942U1G_GuiFALzSXC7uUSVfoYF6Qc72k_aL_j-t5X34ak1FqoI/h1000-e7/Coser-Sally-Sally-Dorasnow-LUNA-34-4kUp-002.webp"
 ---

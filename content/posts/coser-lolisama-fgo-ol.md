@@ -11,6 +11,8 @@ models:
   - "洛璃LoLiSAMA"
 tags:
   - "洛璃LoLiSAMA"
+  - "FGO"
+
 photos: 113
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhw-9ohuZXjpfNNfzqDGrz5K2GYtDvG6mutVPTNuVioZiXtjypdrKkgIj6BZwtQje-tRYM3cI1yJSl2C0Yyv2kP-qe3KO0E8jopa4vbgensabtrHkCRmI71U5ceuErrgpUmMYTs2TkVPaOTfNx9Gu9N4b1CAZMEAoNIIQWEns_EwKNiLDg0eSKabFXaKOo/h1000-e7/Coser-LoLiSAMA-FGO-OL-113-4kUp-001.webp"
 ---

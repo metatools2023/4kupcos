@@ -11,6 +11,8 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "Fate Grand Order"
+
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuDW1K6p40ovuoXcltR0IScaYaIBOJPX7RfhR1xrVtXjOE7YMeupW1MCuAZBSSmsbhnnEyBdv7k1jqh3-shuBwNbR29BZwIhZ2akOoRyLSfjwbkXjEDq9TuHub_LnTg-lV3hQWVVZPoVG7EAA5p5ovJihYIIUtX6iRDajEM-VTyqwsQQVNLn4LRY_J3j9d/h1000-e7/Coser-KuukoW-No.170-Elizabeth-Bathory-Fate-Grand-Order-41-4kUp-003.webp"
 ---

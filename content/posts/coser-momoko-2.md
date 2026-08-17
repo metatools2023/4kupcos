@@ -11,6 +11,8 @@ models:
   - "Momoko葵葵"
 tags:
   - "Momoko葵葵"
+  - "碧蓝航线"
+
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKzWLcCVqXmujRAIKm_1-5OPO44OO_VScl5kcVkESlbpeugjFO3ROUZUurBj1VnhLi1arjmFZz99KlTTpttFlcjCB2nNON0ga8ez8fvdoMFjUPs3I57MghotDpnqxoOT33Dpl4-KexWp6m-ABB3UC-EY4Kd1c6AD8M7l8FjqB_CLTI-JTdWCbPiDLmdBGs/h1000-e7/Cosplayer-Momoko-Kwai-azur-lane-prince-aldabert-21-4kUp-001.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "习呆呆"
 tags:
   - "习呆呆"
+  - "Ganyu"
+  - "甘雨"
+
 photos: 36
 image: "https://lh5.ggpht.com/-0voN6byiUMk/ZOAcKqyVtjI/AAAAAAAAUdY/0Pnazz43tDkCFo0tWEiiLOZOFt7mKX8nwCNcBGAsYHQ/h1000-e7/Coser-Misa-Ganyu-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Azami"
 tags:
   - "Azami"
+  - "Ganyu"
+
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4QPbNh_kJA9Fkglf0q-vI4Zb7ipCi3MDEYozrm-1SVZ4C801CZLV47PdCNUScYiHeLpM4i-WRCR_bD3abWd18oGrSw0Nj0SvXA_oBEYKqGScaSmbNn0otp5qynY-R4ipENtJx2SHA8dq_M49pTd1sQL98pvNZXHzOSfZcaYUiY04UxJ_k1aUz0atVl_w/h1000-e7/Coser-Azami-Ganyu-22-4kUp-001.webp"
 ---

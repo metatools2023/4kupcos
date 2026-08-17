@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrrys_jm3vrB-xgiCJdB_weBpRlVXA-eV1vdci92MyLvjjB6Pb2UNjTU0pNOUY-7feow24u7NHgX4Mv_qHJPA_T8_ZYdGIHNNzbStxahlV3qY1k5apfNsInb6uh0z_PbBuLqFCf8tBR1-P2NJ_W9NRWP25Ojmt3hltucvdmnSR044bnkAMV3SCbjvYwLQ/h1000-e7/Coser-Sally-Sally-Dorasnow-Red-Riding-Hood-58-4kUp-002.webp"
 ---

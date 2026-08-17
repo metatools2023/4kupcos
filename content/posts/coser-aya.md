@@ -11,6 +11,9 @@ models:
   - "小木曾AYA"
 tags:
   - "小木曾AYA"
+  - "妃咲"
+  - "蔚蓝档案"
+
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig1Lcn_QSCPCwCNQQcX7bZhBggWOqmg_7InaQNreLWgkDBzPXjf_lAMNsW9VZSYmJMst4kLmj5vIEUfC1hLl-E53bQWecIqy3RPXDk237GPUHwywkl1GP4Y5dKIbH3F2I9fJv74lVp6GUUrf709DS518wBiITlj1iX76-BzoBh66vMTCfkHZhkq34vUHCl/h1000-e7/Coser-Okito-AYA-Blue-Archives-Himesaki-33-4kUp-001.webp"
 ---

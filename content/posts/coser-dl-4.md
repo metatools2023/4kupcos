@@ -11,6 +11,8 @@ models:
   - "けん研 (けんけん)"
 tags:
   - "けん研"
+  - "けんけん"
+
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdDRCGm7qtgtsgRiZc8cEfpX_mGraLr3S286XJOdroM1qP6VOmzz8CIU5s1J5W4P2UoS1_PFHjrp3VmgmzibgrQleqYeSdGx-nAAo9UFrLD3o61PKYUwraUAzaDYskEpe2URwjV634aqEYegv0UpjVMIJEqLBirW5Tu1UjVV2kk-FKxWgtgNmgA89EB_EF/h1000-e7/Cosplayer-Kenken-DL-photo-collection-What-I-want-to-do-with-my-favorite-maidroid-47-4kUp-002.webp"
 ---

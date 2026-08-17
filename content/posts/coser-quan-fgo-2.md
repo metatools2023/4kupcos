@@ -11,6 +11,8 @@ models:
   - "Quan冉有点饿"
 tags:
   - "Quan冉有点饿"
+  - "FGO"
+
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-5b6xgSOu5ptBFdpqeYkCce6Valkatg3CpDcyo-69CBzsNxpF0BaH8CbjV5nY2NlS8EQi5PBCluONuaxBcfTCAkAcD_HqyN7hM3pUYK6bXjdW6TgjB1otoN9m2kCnJ80jyOm94TZOvz3N1PBPb6NxAszTbonn-ZQu9NQ-Vnuq14cRYqu83Ge2L0sMkw/h1000-e7/Cosplay-Quan-Ran-is-a-little-hungry-FGO-Shuitun-Boy-Fan-Little-Zombie-47-4kUp-002.webp"
 ---

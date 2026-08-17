@@ -11,6 +11,8 @@ models:
   - "Hachi_小芭"
 tags:
   - "Hachi_小芭"
+  - "Ganyu"
+
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_zdmQxhJkxblemeWOvg2aTaN9oaE4TDqvD3JBE-L91JxogwPepqFRbESFtQNi9cVub_JuYpAxfH44hgN1tmtljpihTT_DLBkmWIX9y03wZLTdmkFwiF9ltXG9KEt7thCy3Q0fk9LY3ksKrDPj_5SrxUJI3RlGO1aCGQq3T-FkwpYU_eGw5ZjQ36d6fg/h1000-e7/Cosplay-Hachi-Oba-Ganyu-15-4kUp-001.webp"
 ---

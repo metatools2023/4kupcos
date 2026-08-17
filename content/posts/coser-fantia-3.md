@@ -11,6 +11,8 @@ models:
   - "发条少女"
 tags:
   - "发条少女"
+  - "迷之呆梨"
+
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyfKnmvicg8dvuXFTwG0Se029xOg80lVLmVIIjQ0w3bRmBXGKPh0I1-31vkeWnNx6SLb5TYL2rdxsypUlNkx7m0aZQETASWrpy2vTRNBte-zpfI0M5LpGWWAwRBJNMU6W1AzisXmXDd_cLvGAIP3XCg5fVG7mZ2gvqCqQcf7DMwsjDcieMkaTQy-gCBtfD/h1000-e7/Cosplay-Clockwork-Girl-Mystery-Fantia-Your-Fitness-Band-53-4kUp-001.webp"
 ---

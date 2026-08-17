@@ -11,6 +11,8 @@ models:
   - "鹿八岁"
 tags:
   - "鹿八岁"
+  - "碧蓝档案"
+
 photos: 49
 image: "https://lh5.ggpht.com/-fSTabzjxZR8/ZoL4J8upXgI/AAAAAAAAJ0w/6Ns7kMMwPCAFPnT33g_eGHduqFJgm17YgCNcBGAsYHQ/h1000-e7/Coser-lubasui-50-4kUp-001.webp"
 ---

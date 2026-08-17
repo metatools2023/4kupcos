@@ -11,6 +11,8 @@ models:
   - "Natsuko夏夏子"
 tags:
   - "Natsuko夏夏子"
+  - "原神"
+
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLjrzIkDLkiqwoxoUXGykHnFN_tje533EDJgm_A58wCmBFdqYAxWjjRSXRl3ys0ssx64HB2enT_iwyM2PYxCEqpQXnIN_0kqF8fbUad7X4M2yYM9m_Z5s-lxIZuaambGXZQSt2Z6lwTBQpYV632V0RASS3OgwjU9-i-5aLG2wKYL4c_b40mC8sIxfGL8A0/h1000-e7/Cosplayer-Natsuko-Xia-Xiazi-Genshin-Night-Orchid-Bunny-Girl-37-4kUp-001.webp"
 ---

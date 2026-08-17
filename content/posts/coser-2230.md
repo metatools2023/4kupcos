@@ -11,6 +11,8 @@ models:
   - "けん研 (けんけん)"
 tags:
   - "けん研"
+  - "けんけん"
+
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYoLCLB0Q0DQcq6vNJCHd62DWt6Gcivwrjn5tk91L7Dbv5PoG_f-8dBmBKgu-KHn4xgIP51C-fbuLjnPQ9_Gqr8NfdC4bOUZLxFnaCgAANeFu-IiHhTkrH1CzTVHXnd6qGSGd_xkmxY3zhVoCjGJUPnvHMopHFCvyyOhQHTswwmsMeBZZwrOIH14g4RTcJ/h1000-e7/Cosplayer-Kenken-ornamental-fetish-maid-42-4kUp-002.webp"
 ---

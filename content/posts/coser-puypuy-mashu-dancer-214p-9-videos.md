@@ -11,6 +11,8 @@ models:
   - "PuyPuy"
 tags:
   - "PuyPuy"
+  - "Mashu"
+
 photos: 214
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE0jxCIXcnSa8082FLlbSYV87M26RvPBn2UmfCpWhallahYVbBC68CtxOK3BCmdtR42QXZU6Kf5gMHc4LBclguSnPfZ-WIhZhaFaTnkQOj15YNTYET16-9-8aUBAExxWwSu4pVJnUONpis6fKL2GElksNj9Qbo4-p24FNUe_Wb2BttlP32rBmGqfWNP42z/h1000-e7/Coser-PuyPuy-Mashu-Dancer-223-4kUp-005.webp"
 ---

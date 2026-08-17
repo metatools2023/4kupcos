@@ -11,6 +11,8 @@ models:
   - "桜桃喵"
 tags:
   - "桜桃喵"
+  - "雷电将军"
+
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAJBmggTZJ0MaOP429wUYyteBLO5oRmj7hQ0Y1Sh5etEd8g79vry9cdsYINoK1JVwbioK7jajM0fzhWAqazJDcX9vD0ML9b2VpjerqX3xNBSFC-KbzP6b8tww7WZkod-t3JjEFX7ny9Zm8QTs1Qp68rcTny0P_qgdE0ViVXLGkjnlzt-eNrffWt8vIkJLI/h1000-e7/Coser-Cherry-neko-28-4kUp-002.webp"
 ---

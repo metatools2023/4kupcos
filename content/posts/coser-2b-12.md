@@ -11,6 +11,8 @@ models:
   - "零崎沙耶"
 tags:
   - "零崎沙耶"
+  - "2B"
+
 photos: 100
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3RqSQO2S3y2AwGjweUeMIGPsODEBn73LkO3tSEEa6tdUhGRAjldNSDFGUgBet-Dq5VRCy_tFd-SQZJp-QKiW3iT-O4QPH1r032YiR-08La-fGMQO9XHe5G68TEANMRvx6kneJr0fifwVzZrohB9lr5hIJdyqxRMyqz5YmmDUNPUBcEIIbtikltbRI0Bg/h1000-e7/Coser-Ling-qi-sha-ye-2B-100-4kUp-022.webp"
 ---

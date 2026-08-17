@@ -11,6 +11,8 @@ models:
   - "Bangni邦尼"
 tags:
   - "Bangni邦尼"
+  - "八重神子"
+
 photos: 99
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoWKgN0g1B_xuKLLgE7HRK4zcov4JLACr7sQ9PeBFs7v7F-Rdls2xxA8sCBNQ-EIWLxXDTtPk4hpK8Zu-kqSwzGk1FFqfrzWL1EnfvnppLxynkTWUxoF3zkNgq6hgvWXFnj6KffYSv2KVKFcth1t7NHZy3m3mZ60rUWX5Pcf7LerAGgwYT9hOJBjlRrRV1/h1000-e7/Cosplay-Bangni-Kunini-Yae-Kamiko-99-4kUp-002.jpg"
 ---

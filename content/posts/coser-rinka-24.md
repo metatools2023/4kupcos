@@ -11,6 +11,8 @@ models:
   - "沖田凜花Rinka"
 tags:
   - "沖田凜花Rinka"
+  - "原神"
+
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZnuYMhNgeI-d0k3bgnfCIj2wz6w19SQpnQ9LLAsWjeCSD3CIfKz36nDiRXAN7T8A081qlUGqGTAW7SdN0lhQZddbPa0M3HFPJt9EawZHoxqcHoTD2dxvYdHG0jXryqQ_9Rop1kVA-bgViwWqqu24QefEmg1gmn-MQuY8o6fgcCetq0VZ2_Xvlsbzs5PQ/h1000-e7/Coser-Rinka-31-4kUp-001.webp"
 ---

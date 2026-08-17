@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Yor"
+
 photos: 40
 image: "https://lh5.ggpht.com/-zYBQIu59cac/ZfHUS4IMZBI/AAAAAAAA32k/VJgkdjlbcewg7J7qJBwFyZutvuI686DOwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Yor-Black-Tape-4kUp-001.webp"
 ---

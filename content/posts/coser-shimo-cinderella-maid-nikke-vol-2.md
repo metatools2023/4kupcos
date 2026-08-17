@@ -11,6 +11,8 @@ models:
   - "霜月shimo"
 tags:
   - "霜月shimo"
+  - "NIKKE"
+
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI50c510FoM9B1-qbOSn3rHDosAr6n8cxgk8y0rZ1gjhsUVT86iC-etpLXFEK2RQ4p9DNYSiOHCSa9iQ2ysHCuaGmtGs3qRv9MV8upOfP_EleMkkceLQC9wjtlAIhLJNACyBVriNrfQGjzrKumBRI1cFeJda9GAmEbTGXioBric_rUWRMgfzVy17EBuT5J/h1000-e7/Cosplayer-Shimotsuki-shimo-Cinderella-Maid-NIKKE-maid-outfit-VOL.2-33-4kUp-033.webp"
 ---

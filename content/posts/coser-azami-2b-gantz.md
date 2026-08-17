@@ -11,6 +11,8 @@ models:
   - "Azami"
 tags:
   - "Azami"
+  - "2B"
+
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTPnblA0iBLDVX5BQLAmqH70jBqE5IFfMTYz3zwfL8fZTOKIzNYLcqA5VUkeISH3v0S25-HpnNwtUL222yh2i9XAX6IENSoVcsEUovjH8Azy3tgraN7Rk1N6ckrN8zsHuPFU_fLOG56gv6XrUasmYyyYShlhy9Y3SQiGdI2Hgrb4bf5lH2kJxp3bLOaBI/h1000-e7/Coser-Azami-2B-Gantz-38-4kUp-002.webp"
 ---

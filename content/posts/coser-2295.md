@@ -11,6 +11,9 @@ models:
   - "麻花麻花酱"
 tags:
   - "麻花麻花酱"
+  - "柴郡"
+  - "碧蓝航线"
+
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV0iCfvq02ShkBWmtPvvp8Y7K_1uqVm4ZRFcpaNEI5ytGJo_LTGI0jO2W4w_-Fm1N-jUR6eT2GFvPlRzUfrPEt0ChUAZ8FLX1YW7O033a0c3vtUQUkyuIj7OkkmEALiV4GA3Z1Po8pvn_Hk0wOTRCa0zIqb7dWmUCSVvXIhz3K78OIL4vM4C4P-jqiyvo_/h1000-e7/Cosplayer-Mahua-Sauce-azur-lane-Cheshire-28-4kUp-002.webp"
 ---

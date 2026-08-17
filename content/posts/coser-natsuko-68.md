@@ -11,6 +11,8 @@ models:
   - "Natsuko夏夏子"
 tags:
   - "Natsuko夏夏子"
+  - "碧蓝航线"
+
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiY2H-YBiW-Ajt1-xGA2qWUZ8t7_GZcSvPA3kIgpTZ8B4Pv9GyFr7aC2NhcTydkufIF6RytBQEbuthJD243tP39yEdGGOlemf8cqubjqPAIW1bUuKUSEa7i4tcSnswq_hw_zoFkgKkwGjz46lcTEXTLHQGlCodln1oaLGg9V6FkuCzeSnox9fDiyikfyXtK/h1000-e7/Cosplayer-Natsuko-Xia-Xiazi-azur-lane-Shokaku-racing-suit-23-4kUp-001.webp"
 ---

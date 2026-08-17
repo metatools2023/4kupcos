@@ -11,6 +11,8 @@ models:
   - "Momoko葵葵"
 tags:
   - "Momoko葵葵"
+  - "FGO"
+
 photos: 13
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZlU-fNTCB1GAnzIyLJkMFjhEXz27dsb0CUuU3CFbChJkfi2SBxwK-MX4ue7KwdwQn3ai5LDWm7ME4dGtEzIVs9WadUFX1L3bvWP_FYX5AFmlEiT3tlGIInbtZXiTmtMHgR2yH6fwqLeNY5Kd7062_xlkLAUIKnrIoL8U_rEdlz43XwroJIMOEpr5wkrAy/h1000-e7/Cosplayer-Momoko-Kwai-FGO-Nero-13-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "桜井宁宁"
 tags:
   - "桜井宁宁"
+  - "体操服"
+
 photos: 77
 image: "https://lh5.ggpht.com/-W0s63BKj_Q0/YkepwvR2ZRI/AAAAAAAABrA/Ugp-tvyEsKcrLSeoVMrZRSoY1n2qKIkOACNcBGAsYHQ/h1000-e7/220327-Coser-ying-jing-ning-ning-046-4kUp-001.jpg"
 ---

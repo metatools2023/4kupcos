@@ -11,6 +11,8 @@ models:
   - "絞肉姬Walküre"
 tags:
   - "絞肉姬Walküre"
+  - "绝区零"
+
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5uO3gpM5Skg5O_0133z8kr5UhrJolz3ZBCqPNrqU1hcekJIFrdKSoYJ1e07L835-GfE-WLmQw6U-JInwVqJnm0jUHJ5UAbgBEbxngmuU54SF9AKytyVvcJxSBJWPuJP4CwIdJrEoRV553D2iK9r9njrbvO_HY3MAI58C6nB3TsFYEfnakXMq2s9nDfA/h1000-e7/Cosplay-Walkure-Jue-Quye-Jian-Du-60-4kUp-003.webp"
 ---

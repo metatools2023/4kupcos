@@ -11,6 +11,8 @@ models:
   - "miko酱ww"
 tags:
   - "miko酱ww"
+  - "原神"
+
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmdfLp0wmViF5oVDByRJO2HJfeNxtcuKyrCBvIopQviKDjZs2TR5Z1JQ-C96oNOEfInDUGtBsmJqwhyDVK7OtYUL1z6nU7vxyf6Q76K5CgNG7M5iv3BAAUrSfBZ4LFYTfVaR9xsuNbmfqDL_I8Sq44YOb5EZngOf0BV1YPraVELK3mWq7zLl0IzL8GfAY/h1000-e7/Coser-mikoww-OL-43-4kUp-002.webp"
 ---

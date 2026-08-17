@@ -11,6 +11,9 @@ models:
   - "Atsuki"
 tags:
   - "Atsuki"
+  - "FGO"
+  - "あつき"
+
 photos: 309
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5MIVdRdktqqA22HOIN017mM_p_bSPzZmxp0q-yIPyQmQxtxnTYBIcfLJ6hP_hzCKiR5j2zpemcd1eGV9L19rZe53oKE4i-vEtWuRRR9UGJWRAZ0CFeEQVtj-FZMsFxd1NNKNBKDnQ9-epvona2yQEmbs-kpSi2ji1UsmgTKr5Wj7BL_dDCm2iD7g28Ak6/h1000-e7/Coser-Atsuki-SUITE-GRAND-ORDER-31-FGO-310-4kUp-006.webp"
 ---

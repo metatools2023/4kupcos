@@ -11,6 +11,8 @@ models:
   - "阿包也是兔娘"
 tags:
   - "阿包也是兔娘"
+  - "碧蓝航线"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDLrafDXoPdcyCit4nRSKSFvq-2rIoexwHmxNVNzoZjrjRzjmFyryrvt_rO2w5s8TiyCtWYVy3Rf30Yx4cLcL2TvYPVARkvb9zGCWFPLXK2zlGHmyVTcW6AarjDbuJ2wLZvSiz2wGkjo2nvd72Dx9m03p1VuApdgHR9lyL1ivHg1egUaySxALTDhdCfPZD/h1000-e7/Coser-A-bao-ye-shi-tu-niang-30-4kUp-001.webp"
 ---

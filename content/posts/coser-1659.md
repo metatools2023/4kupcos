@@ -11,6 +11,8 @@ models:
   - "是夙卿呀"
 tags:
   - "是夙卿呀"
+  - "碧蓝航线"
+
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbbvvEY1LCzwQJC4IN_N9KHMjpbCmelJUwztZWXS66NIMbD3xXa_bAkJiPdkSapXj1TC0HPM6l3ahC299vT-sAlUUkSkZxKLe8SxqzyIdwdfGmypvjTEN9Gb7j929rOA5VGdKcFh9gkfZxX_wOu1ap5otI_KeLoJ3vp4vz3N8DNV_wxNKfVFR9TtFh1Tx9/h1000-e7/Cosplayer-Its-Suqing-azur-lane-August-15-4kUp-001.webp"
 ---

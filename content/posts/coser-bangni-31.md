@@ -11,6 +11,8 @@ models:
   - "Bangni邦尼"
 tags:
   - "Bangni邦尼"
+  - "修女"
+
 photos: 125
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3v9kEinA2fQ3ZnT8vj50B_fDw3ig6wVtXJ2otdZ2PiWUpUVfygeS4p0Ox5vgciC22MjOgEe0UYBPYfXt6O1VzzdnbOy7M_ZlLJjNWngXAEInocelINJU9G01PY_L0TSELpyc4S3NyHwB6_EEwc13HXIa4Rq4sJgDttLraV0e_Jomh509MLfwr5BLg6Q/h1000-e7/Cosplay-Bangni-Nun-125-4kUp-003.webp"
 ---

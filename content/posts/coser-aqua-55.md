@@ -11,6 +11,8 @@ models:
   - "水淼aqua"
 tags:
   - "水淼Aqua"
+  - "自拍"
+
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwDn9AVJKecc_Ppyr1iugiaYDomEJCUBJtj7GwWzJER39viNxyrW9hA-KOYUvrubzHbw34Dynko1AK-NEZ_JntvwR2CHHZLmxnKkQj1GGDltj1U9Y78U7TOB2f3O0NRC1rFTy0HKKg1BpgBuKnd0B8emhkB9r0BNr6rsHOY025_1TeYy1Ze-v4n2f-Wyo/h1000-e7/Cosplayer-shuimiao-Aqua-Selfie-28-4kUp-111.webp"
 ---

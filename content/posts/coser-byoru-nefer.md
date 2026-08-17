@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "原神"
+
 photos: 46
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-emLN7WziPZupoF4ymtgVvFJq05U7yR8BhNQzEcK10sTLJhPC-X_DzVY7JvN6l3dn_eAYB8d2GNJwfl79PSMUzNajLeuVyCz1iItJOjQBAMsREKYwK2Wvkex1gcgg8jYu2ydunj0BWnivknXAXuDk-jGosmhKATGk3WZukhtKAlaf3PLPRbHk8X8Hm7-g/h1000-e7/Cosplayer-Byoru-Genshin-Nefer-neffel-48-4kUp-001.webp"
 ---

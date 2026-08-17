@@ -11,6 +11,9 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "可畏"
+  - "碧蓝航线"
+
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHVlIf2AqX9TezgVfZMozlcIEUgfzRUhaV2EGMv6UHxsSZuwSqaE8dA2hiH8qlcsUjnEWA8AMRp_W_bHb1gEL2lr_YUDw2gJDaNv6jtv85tYazjC5UkeQJ-HDkEjaPc2KFxFcvM189YHSnnK5e9VvxJoqx5yI4D-BFUXsxaL_FhmfRJoataYpLL0FNzQaA/h1000-e7/Cosplay-Stars-delay-Hoshilily-Azur-Blue-Route-Awesome-60-4kUp-001.webp"
 ---

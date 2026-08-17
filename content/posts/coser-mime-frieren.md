@@ -11,6 +11,8 @@ models:
   - "Mime (弥美)"
 tags:
   - "Mime"
+  - "Frieren"
+
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgY2jrXNRmm4jff6KHmNb7uMPzRFaocyd8qPy-ntMKoAmDbd2ulpF9yV18ja1fZUMzIAZNl_ycDMaqqP55zcBDGY9NKvu1RAE_5ZoHqRJUtcWm2hIKLGStg2hYiR0bj4ncz6-LnGbuVpl4bsCLIIkDMQySi7g7tZVD7ZiQ05Mk6dGPD7BvOYF1QlhI5J1Y/h1000-e7/Cosplay-mime-Mi-Mei-freezing-31-4kUp-002.webp"
 ---

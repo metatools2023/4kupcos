@@ -11,6 +11,8 @@ models:
   - "桜桃喵"
 tags:
   - "桜桃喵"
+  - "玛修"
+
 photos: 15
 image: "https://lh5.ggpht.com/-rRQxw4PTqsQ/YmS3b0zsBbI/AAAAAAAALUs/tgBJDeIhywwYOShM1PWLdWHrDMjqhSK-QCNcBGAsYHQ/h1000-e7/4kUp-0021a-Coser-Cherry-neko-123-001.jpg"
 ---

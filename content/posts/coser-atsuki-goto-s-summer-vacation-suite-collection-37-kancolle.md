@@ -11,6 +11,8 @@ models:
   - "Atsuki"
 tags:
   - "Atsuki"
+  - "あつき"
+
 photos: 333
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1GL6NfolzlB5Wq7DLbvxRWFskzfdA7quUs4QECB8ETT89MuoCN7BknX5DRDx2ShxyUgwc2MeqqUK4k5QD0HGJKLN9XiCe69TVHLeHYyIhC6n6f5w4OUJ2pgxqDVlZXt65usLCpmEAGMLGLTJG-u8RBTwjx4NcipagZj1pog7bbNWOh79d81c_VFdS6zp-/h1000-e7/Coser-Atsuki-Gotos-summer-vacation-Suite-Collection.37-KanColle-334-4kUp-075.webp"
 ---

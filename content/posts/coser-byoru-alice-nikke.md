@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Nikke"
+
 photos: 36
 image: "https://lh5.ggpht.com/-ZTsLohHYe7M/ZR8qnKG9m3I/AAAAAAAAEOk/VS5rYmpbDakiLs0EBhLG1oUh9b2-AU3MgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Alice-Nikke-4kUp-001.jpg"
 ---

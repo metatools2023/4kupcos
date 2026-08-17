@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 40
 image: "https://lh5.ggpht.com/-Gi2a8MEw3L8/YzNr2TlGCbI/AAAAAAAARzw/lDRwtCRUWaYRO4fcrIXlZrcnwW0oY3TpQCNcBGAsYHQ/h1000-e7/Coser-Sally-Sally-Dorasnow-Nekopara-Vanilla-Lingerie-4kUp-001.webp"
 ---

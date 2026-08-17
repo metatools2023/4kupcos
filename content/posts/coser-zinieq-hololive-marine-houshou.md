@@ -11,6 +11,8 @@ models:
   - "ZinieQ"
 tags:
   - "ZinieQ"
+  - "Hololive"
+
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHRJHXaqzxh1q9gZFoXHX4CjSRxZBVMaWSz61sRyd5gL8dBPNcKBQLmeH08Qg3AO2q2YFGB_nNUVMXX7V06nq83lsIzeepth_6CPJgAhFxbyq1kbiGa1pxwUVW4WmXA4h4xcO77ef76SlG9rtdOfwgcITtuSQtYTFT6E0hFGX1iNr51qTSprIey_NcANg/h1000-e7/Coser-ZinieQ-Hololive-Marine-Houshou-42-4kUp-001.webp"
 ---

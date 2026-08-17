@@ -11,6 +11,8 @@ models:
   - "雪晴Astra"
 tags:
   - "雪晴Astra"
+  - "原神"
+
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUQCQGMLKxvjQoQjiitYgWy_S-sGCtmTFciFrVQOxOBm7ITMCu33ATFfSmHvpcSmvxEQdGyf0SvKq611x6VjAXkE7qeYTOsEQRbj39W_bY4hHeJCHkxSH4bgyFwPGAoLXJiaitw_J2Ew64NPnoPMHG7IyDh9HVHHYCDjCxS3BP5IMBkmVKZ8ChbpOjtnA/h1000-e7/Coser-Yuki-Astra-26-4kUp-001.webp"
 ---

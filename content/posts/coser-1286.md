@@ -11,6 +11,8 @@ models:
   - "是一只熊仔吗"
 tags:
   - "是一只熊仔吗"
+  - "柴郡"
+
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQ6uoJQS97YUMocDMZEF03lIKvhdgjCmJGp1YhB5Hu0vob21lhc2GCDR2oG7HHimc8a8pkwr7Fy2F2R-4ZjILPiMatLMyyCW5ad1s-Rsrii3y1KCYNADcNIse2J7zVvB3FRGPx6kmo51eZubeFYsBP3zrE9S0oLk2Rbm65nBFECfnj7YXJAzgS5eP6P5k/h1000-e7/Coser-Shi-yi-zhi-xiong-zai-ma-25-4kUp-001.webp"
 ---

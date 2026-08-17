@@ -11,6 +11,8 @@ models:
   - "半半子"
 tags:
   - "半半子"
+  - "绝区零"
+
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-51WvNbDy2hscYAhJglIzkqPQbocSUXCDkql6jJejXw3AQUJDJ4uKu8_MBa3BYgVku1vc4iHUShar7qIazH59jul3JiADxVa5FglSlxZCnqLcqCV2HX6Ox0LM25I9Cahny7DjWSQoQsrdV-1cS9LlqdZ2u7OJXUsDfhf_QMfPGciCZjUA8qKVmapxsUES/h1000-e7/Cosplayer-Half-half-son-absolute-zero-Master-Gigen-ink-shadow-32-4kUp-001.webp"
 ---

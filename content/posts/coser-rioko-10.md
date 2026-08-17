@@ -11,6 +11,8 @@ models:
   - "rioko凉凉子"
 tags:
   - "rioko凉凉子"
+  - "蔚蓝档案"
+
 photos: 62
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK4mkunGpcnSwt0qoiJf27TzT3Z3RUZjvWBf9x_IcI4I53ITqlXVp9ONZK9NMeCK_ySM7SarPuVbtim3JAsZTo9nn_fZxbrmTgLDE-OExFRY2v0pm8enbMdW1LDYz98MITwupm2l-DPobDkxwMQZnhoNx4AH2qAq9F-FgeNPWjk2M4Da4Puopdufi5pmcN/h1000-e7/Coser-rioko-62-4kUp-001.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "ZinieQ"
 tags:
   - "ZinieQ"
+  - "Eula"
+  - "Genshin"
+
 photos: 42
 image: "https://lh5.ggpht.com/--ghmTRRcc7s/ZYeQP3AAw2I/AAAAAAABoMQ/oungTtGXhPM-CDCJN_AdePP0uwOCSLowQCNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Eula-Genshin-Impact-4kUp-001.webp"
 ---

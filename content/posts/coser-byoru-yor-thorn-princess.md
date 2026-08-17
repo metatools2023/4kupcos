@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Yor"
+
 photos: 48
 image: "https://lh5.ggpht.com/-ELConVTGypQ/ZYS7cjPOObI/AAAAAAABk04/Rw3GXWYLm2gFQekgfHtwXJTfF8h_py-xQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Yor-Thorn-Princess-4kUp-001.webp"
 ---

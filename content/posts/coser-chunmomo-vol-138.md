@@ -11,6 +11,10 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+  - "泳装"
+  - "爱宕"
+
 photos: 37
 image: "https://lh5.ggpht.com/-2cBwmnG4m1U/ZFQI3q5D7SI/AAAAAAAA2Yc/1hv0xn5u_aAj6R_9BKVOebqgE_e7B8BMACNcBGAsYHQ/h1000-e7/Coser-chunmomo-chunmomo-Vol.138-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "碧蓝航线 冤仇 办公室的意外"
 tags:
   - "rioko凉凉子"
+  - "碧蓝航线"
+
 photos: 35
 image: "https://lh5.ggpht.com/-8WuxK6Rt7M0/ZDLgfHLu3uI/AAAAAAAAdq8/qRWhj94AtYYl5ES0cP1fep5Ud1ujQ951gCNcBGAsYHQ/h1000-e7/Coser-rioko-Vol.113-4kUp-001.webp"
 ---

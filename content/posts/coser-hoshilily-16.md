@@ -11,6 +11,8 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "透明护士"
+
 photos: 46
 image: "https://lh5.ggpht.com/-lr1XrItBaI4/ZHUqtoqzJnI/AAAAAAAAU3I/6hC8F3zoo-gjafjZ32XYxOjfX6hqqlOLgCNcBGAsYHQ/h1000-e7/Coser-Hoshilily-4kUp-001.webp"
 ---

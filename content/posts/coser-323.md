@@ -11,6 +11,8 @@ models:
   - "柒柒要乖哦"
 tags:
   - "柒柒要乖哦"
+  - "婚纱"
+
 photos: 53
 image: "https://lh5.ggpht.com/-EGP8fLqzFfs/ZWkGK3sleZI/AAAAAAABI4U/VvWYi5P8XCcf_RsSC3BREJgkJWNyOVkAwCNcBGAsYHQ/h1000-e7/Coser-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "ZinieQ"
 tags:
   - "ZinieQ"
+  - "Asuna"
+
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhenzD8sd5I_71TTZT9HBAJv5WSI4y5CBFKAbE3I0O1zLxws4Hz9fG72CcO6zUYlcyoC9Jh_wZKivjX5vWSUeOur1W2QTfK0fUWOFj-crKUfcR5m8CofqCoj2QZXeV8wTb5K7aPxrSGJUxQ-w-9Q3afz6s2HDAshGfbRTV8vb5Ly7L9I5gUewFz_-ALDzle/h1000-e7/Cosplayer-ZinieQ-Asuna-36-4kUp-001.webp"
 ---

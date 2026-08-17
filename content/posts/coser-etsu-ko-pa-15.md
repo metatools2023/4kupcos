@@ -11,6 +11,8 @@ models:
   - "纸悦Etsu_ko"
 tags:
   - "纸悦Etsu_ko"
+  - "少女前线"
+
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlc1DWEygQ112XCjO-7rHPPQbQi7mjv6mCKnqFEndyv4sjTJ8qA_fJQ72Yj0oTB0CsYNWVG6HcJKh3gXp_CZcu7vT-kCDB6W0YAes87b5EXNUAAgOeN9SFLw6hkrmBMG5xtq75J3v6RSDdzY2U0-bkvKx57Kf2eJ7pos2O5BsZ7kIQt-LCWU1xwKIjAA/h1000-e7/Cosplay-Etsu-ko-Girls-Frontline-PA-15-College-Heartbeat-Story-51-4kUp-001.webp"
 ---

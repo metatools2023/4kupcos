@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 25
 image: "https://lh5.ggpht.com/-sKNkT2RDTHQ/ZEW1__zwtMI/AAAAAAAAqsc/znxni_stxEwjSmY0A9CpyERN5Ie6twqUACNcBGAsYHQ/h1000-e7/Coser-Sally-Sally-Dorasnow-Shiina-Mahiru-4kUp-001.webp"
 ---

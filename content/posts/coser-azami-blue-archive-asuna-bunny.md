@@ -11,6 +11,8 @@ models:
   - "Azami"
 tags:
   - "Azami"
+  - "Asuna"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBKhdiAH7OpTh6mEFXfiPPb8Kh0iLAk1mOq2tkdGbB4lKb4LpT2OdzF0WYaDrC7oE5K8SLB9d6VMa82T4MB2uZXJ90wV5BQgWtj-kqBlT0fDS0_SqjXAfdBFMUZVlF0CUMC1n-yuv8LSg-CVQpKLGhHv0h26QcKH2LZbxC5UkVmCmt1oA9f-Vas74pFNE/h1000-e7/Coser-Azami-Blue-Archive-Asuna-Bunny-20-4kUp-001.webp"
 ---

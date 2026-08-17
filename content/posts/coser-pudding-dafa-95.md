@@ -11,6 +11,8 @@ models:
   - "布丁大法 (Pudding Dafa)"
 tags:
   - "布丁大法"
+  - "Pudding Dafa"
+
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSy_FD_2OLwnj8LQ91J746AFaX9y1aGCVtbOGpkpYfnZXA2p1Y5_VU61MOKoe2RWeLOpuzQjrx6hB_xD2R7SKmAWT3oz3AMLe2Yi_Uq7vcxx2hKcCkYa2oDup8Epxif7pi5-dbAsuVt9IdNwZDbZhhcXWP2IDEeGVC1QKrbx4ljaPWrBczhCqZOv5NVj-o/h1000-e7/Cosplay-Pudding-method-Dafa-Transparent-sailor-suit-Xue-Sheng-Mei-18-4kUp-001.webp"
 ---

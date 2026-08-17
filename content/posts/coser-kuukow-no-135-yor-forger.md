@@ -11,6 +11,9 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "Forger"
+  - "Yor"
+
 photos: 62
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwpQcy_1K1wKkJIbKZVIxDT_7QzKknZFv6cjHyVXHmSQPNN2kSXiaWE3_QqlpQOB0-iByeQiKtxhHrChv4BABj10uoKhjf_9lCrlaBCYOhGo5OlzC7bvA1XZOfU-hCePJFpNBUs1ru7bihoL7xD46-rtFzA0OuaRTtQgATw9UKIY_oZUCcEf6FEBkQDxA/h1000-e7/Coser-KuukoW-No.135-Yor-Forger-65-4kUp-002.webp"
 ---

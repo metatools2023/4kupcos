@@ -12,6 +12,9 @@ models:
   - "隼隼子"
 tags:
   - "刺青Poi"
+  - "兔女郎"
+  - "碧蓝航线"
+
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwzP-oJPBAcfGpp2BT9yrII6hvKuTjdASJECIrUCBQ57SvxlOCPnDplHw6qQJF2t140aq0BT5mMGz5DhZ42gjkNsx56Hi-8GL3Qt87ZieWNr9WbGXwYkx-7ysNEKRsB-qsruojFpHX943rsnBE9arHdAPD23-qEOKw8Hnbw5cKSxT8hJ_GvZzVgOq8YyXP/h1000-e7/Coser-Ci-qing-Poi-andSun-sun-zi-40-4kUp-001.webp"
 ---

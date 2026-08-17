@@ -11,6 +11,8 @@ models:
   - "封疆疆v"
 tags:
   - "封疆疆v"
+  - "碧蓝航线"
+
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqSV3ky1qclu5s4fZEpVm8u2KW8Yb5dMD2OjXSYF5nVLILb4PvnhG0GxwLmkNFHWIjSfbV2IkxCyfwVkbhL-0DBjvxfAiwI-pN5HTE3w6_nYw8PgK_LOH0s-bwpuZx2zIuuPe9jnM5VtOPG2CsQfv8LUp5KN9_JwhB6YxnjGzkwk8yqmpSJD0PWGgfaOJt/h1000-e7/Cosplayer-Fengjiang-v-azur-lane-cheshire-vows-dress-17-4kUp-001.webp"
 ---

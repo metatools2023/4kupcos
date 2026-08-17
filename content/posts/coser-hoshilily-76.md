@@ -11,6 +11,8 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "碧蓝航线"
+
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8SfHpztUOPlUzAjEJlMF6m4W-92Jk6D5XPV83N2tQgAD_rDnFlUYcIWVYQuryRmPVaxaGalR8vVJHTVJJhUqZ611jyEi4Bt-FSy-UBW6BJhJFi6LDk96RG514TGYST_gsKJJXSBG6Udr0u02LaNFFyN1Bc6k7c9ukZWnAl1Abi1nm2lMioeBi3QSnk34/h1000-e7/Cosplayer-Hoshilily-Azur-Lane-Halford-47-4kUp-002.webp"
 ---

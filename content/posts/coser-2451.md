@@ -11,6 +11,8 @@ models:
   - "半半子"
 tags:
   - "半半子"
+  - "碧蓝航线"
+
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_5q1z0MQZ1QLswvRvOKngMMX3qKaVfE5X34mUGmYLl1vpmTR1ftDFIOY1oG6dLZthDc1Ge2Wt_ilHuMEaoZUp9OMzDtX7NhuYT9g-ixhi45N2rEYDeCJZG6AXQVFEsmkmSNrVj3PYfsE9erVuCZV-YXBKxw-or4t1rLQ46LmUZ3-0_M6goiOVLwMfVwEm/h1000-e7/Cosplayer-Half-son-azur-lane-Kaohsiung-The-mental-quality-of-a-warrior-37-4kUp-002.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "けん研 (けんけん) Fantia"
 tags:
   - "けん研"
+  - "けんけん"
+
 photos: 83
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCeO9XKUO5rtTfo8fnM-zCS5hbQLkCXTv936cM8iIZyl5j4uc29qnSZfWESVehsC9Vf12TjGrWwJgOWR_9gvmPPb3huS0ByBMApkMsph6KY3SuzhF6-QEAoF1sBFB5uwMv8BKT8jHiZvIWBjRPvHnW7jFedm4z5cMyaphPupIskWqdHmuzu15BAeuQwdZ8/h1000-e7/Cosplayer-Kenken-Fantia-2023.01-83-4kUp-024.webp"
 ---

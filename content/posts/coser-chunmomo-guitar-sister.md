@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 130
 image: "https://lh5.ggpht.com/-40dDrVM48Tk/ZWPC6r9g-HI/AAAAAAABEQY/7gebuA_73SknTCGuydfgLDYNvFh0aZEpQCNcBGAsYHQ/h1000-e7/Coser-chunmomo-chunmomo-Guitar-Sister-4kUp-001.webp"
 ---

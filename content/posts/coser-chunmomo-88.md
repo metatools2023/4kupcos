@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjz-mfC2TUZRKRdPys_y3k0sJv6mbJGsAQ6LEfWeNHk5yQ_jetzY7Sv5JRkZMyNLhYhHe4PcKkc0IRI05AguoV-mPyBVgtsFJVJYE4VgxxbbqghkOdVQ9GrgA6kwZy_X0XU38wS24aNvtOeJscFC71d-fco-X3oPw_vScZIlXaScyRIrhpe1UHTN_N5yBCN/h1000-e7/Cosplay-chunmomo-Rain-49-4kUp-001.webp"
 ---

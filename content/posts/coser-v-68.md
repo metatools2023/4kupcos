@@ -11,6 +11,8 @@ models:
   - "封疆疆v"
 tags:
   - "封疆疆v"
+  - "碧蓝航线"
+
 photos: 33
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2QeCuoNJna5-CpEpZlXouqofb6wVsEent6EGKdEcJJrfyMQZebbzUsgRtz3PVZLH1S4ni8H0eMKtNN2DJQ_wWxDLY4ar3aaLTSSglcF-RhFEKPMwLy4JP9LunfRXJc7rEYmeas4B_c0K4K1LyOvCQlLsQ2eJBVGn_K_bPQLhJYsh9-ML3eXw4dD1FevqM/h1000-e7/Cosplayer-Fengjiang-v-azur-lane-Kenmu-original-hide-33-4kUp-001.webp"
 ---

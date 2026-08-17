@@ -11,6 +11,9 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+  - "卡芙卡"
+
 photos: 197
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinstoYePLLAM0QEgf63TK_Uip-0Gn73UcGuoUHeG577UVkMXprMH88YNX8tXlhASMpKVFTjnzsGnrtQM7rHBD2H5REbQ8HXbu7QLMl_zm0K_NlsHGrSySS6x672mHbmFVO9fUtAN-kxLsURvCFTuqh9_Do7eQnmgM6YSyMJjmpQWbG8JR39Qv9o4bEXw/h1000-e7/Cosplay-Chunmomo-Cangfa-Star-Dome-Railway-Kafuka-197-4kUp-005.webp"
 ---

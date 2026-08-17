@@ -11,6 +11,9 @@ models:
   - "rioko凉凉子"
 tags:
   - "rioko凉凉子"
+  - "大凤"
+  - "碧蓝航线"
+
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3k4AptyfHHgs1kbHHSwvU0D5eNzPg54AwSyUDalpxUZaf3GgwLmYGC07t-em4GKTwOpEB2m4p35ygwqe9WMNJsgd2N9CbIG9dVuRWw1EAxs_8T9dDlVn0pHlrbrw3vYnhUffhiKxs-AUgKzV_ITgcwx0CaK91M7X3uRYn83YaqICtlzxpxTDjqHdeVA/h1000-e7/Cosplay-rioko-Ryoko-Azur-Blue-Route-Big-Phoenix-Billiard-Bunny-Girl-56-4kUp-001.webp"
 ---

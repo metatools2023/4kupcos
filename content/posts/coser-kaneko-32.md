@@ -11,6 +11,8 @@ models:
   - "KANEKO_咔喵"
 tags:
   - "KANEKO_咔喵"
+  - "碧蓝航线"
+
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUSQUHiJo_x8mbqnj1Usug17yzGKd7nQV17UCAv0oUUB1Rk0tW984j0NQ8BNiwhH88mESa2RpdRETLuPYcOQbCGsgXKjIfEdyx5k22mwQmp02Xngkc4DpzUitA5o1sGNhyIwg5umx1UNUCRj8GLuP8H2UQ7h3N-IF2Z-_HymyaTpWswHTJXBXrXLt_rOIB/h1000-e7/Cosplayer-KANEKO-Ka-meow-azur-lane-Pearl-black-and-white-36-4kUp-001.webp"
 ---

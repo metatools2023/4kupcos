@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 94
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRIT-wmlF-9vTYU6oM_Vv1hpfVYHBWb2G4hrqylI2nLZS0RM_9IYokOB_4dHwuiV679qeMBXt_BmWchPGMPQNNhrb3A32rtr29PfPKe8sohKOwcWmLoVwe1lWPFgUkfls9L-g-L2Z9pEpQHqW751Z-azUsB00q2FzrBgjJSta25xsnAqJUbdRByVUmp-hE/h1000-e7/Cosplay-chunmomo-Blonde-bow-94-4kUp-010.webp"
 ---

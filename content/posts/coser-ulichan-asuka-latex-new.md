@@ -11,6 +11,8 @@ models:
   - "Ulichan"
 tags:
   - "Ulichan"
+  - "Latex"
+
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIhtckJPfNso9ti-2SZdAYY27IFjF4mLOTVuCElWvpXdAk1lFW-OFMb_esHBRGkYm4OLnBJVdiS3QAANJeM5Cpp-AU7DcK5bbc_Gnh_BV9pTYo_xW58llLQaFOCiMnmZaVKFeHpmGweq_9HCT4gwO5R9DrWpsovcpGMJyjhtCmEjdVn8uHL9Pgq-9W3w/h1000-e7/Cosplay-Ulichan-Asuka-Latex-New-48-4kUp-006.webp"
 ---

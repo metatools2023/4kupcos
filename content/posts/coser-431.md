@@ -11,6 +11,8 @@ models:
   - "九言"
 tags:
   - "九言"
+  - "竞泳"
+
 photos: 69
 image: "https://lh5.ggpht.com/-MtKyJPvjk2E/ZagIqm-B1PI/AAAAAAAAQzk/Rh6MLwsFrmM7DmAfA-o9lrJMZlqfjfDuACNcBGAsYHQ/h1000-e7/Coser-69-4kUp-001.webp"
 ---

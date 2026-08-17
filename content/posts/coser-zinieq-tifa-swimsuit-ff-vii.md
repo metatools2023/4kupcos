@@ -11,6 +11,8 @@ models:
   - "ZinieQ Tifa Swimsuit (FF VII)"
 tags:
   - "ZinieQ"
+  - "Tifa"
+
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaB_1W-U_qS9JEQJM1yvYlcmIC3CJVksIfP9SLFKyjT4jHrPVv-C7STt0UbfmBodBZnTkbJh1qR1C6onJwIQKts7a11yjh92bbzW4Oj19rkpIg_6-ctQWJGF-xhhquKcN6dQ27dHW-ybWOGhuNgiUPCssjHcQznNP-iC2fz8z1eKEUeYi6go1yVEKdRoPK/h1000-e7/Cosplayer-ZinieQ-Tifa-Swimsuit-FF-VII-37-4kUp-102.webp"
 ---

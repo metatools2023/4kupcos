@@ -11,6 +11,8 @@ models:
   - "小木曾AYA"
 tags:
   - "小木曾AYA"
+  - "少女前线"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvlw34Q67hch6CLhXmTtRlSeVPs45qoC8fJ6a9HjByshbTQ6_1XDbZ0DzTk0nm3h3KMczuyL_fkAzfaSJTw99Ymsarol0D5euOFfbTTlxlygNUmmcQIqwg9PcUK6xq9c71d2pKjt8CocLFkjGgHb3uZG98fQrFQZECsdVdMcZ04_7UcMub1FYyg1Hig8Ub/h1000-e7/Coser-Okito-AYA-Girls-front-line-Fn-57-20-4kUp-001.webp"
 ---

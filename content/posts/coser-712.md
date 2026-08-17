@@ -11,6 +11,8 @@ models:
   - "七七娜娜子"
 tags:
   - "七七娜娜子"
+  - "风纪委员"
+
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5dIDtx9pLqx5h4v96uDq_YAg9xZzt7P_trMLLdK8_zQF8IcMCtf0pTzvuZQdvJs5-VtC-Fyro32GZarnt8lju0Fa1nRchRUcVFOMsYDrWV6ziekRp0CDTQtwJ__uO7dPGnZS5lPXrdnoXKR9iRJT6k2amlmDhL8vwehoQO1B2FOOp3xvKRbxGWz1R6g/h1000-e7/Cosplay-Qiqi-Nanazi-Feng-Discipline-Committee-26-4kUp-002.webp"
 ---

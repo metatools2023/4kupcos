@@ -11,6 +11,9 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+  - "胜利女神：妮姬"
+
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhanx8RgTp3Rz61PHTIkmEuYryOrXPuYac0FhFjoojEfzmpNQHQapLiRhB2C4n-gVzw7EOMxyrEbURrX755iTGBbqwiaBBBna1ot92lUh3hLPBjY5tyWnkgUQDvjCWg0c_QTJot9Saknc6QGSCEwJtDYxrUJs8WVJg1ULDDY5xHzOFJCvV1Ty2wsOpR3n4/h1000-e7/Coser-Sally-Dorasnow-Goddess-of-Victory-Nicky-D-37-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "面饼仙儿"
 tags:
   - "面饼仙儿"
+  - "碧蓝航线"
+
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYPksjI6A3kngj0HUsRQ0J7MV2T772HZ9Ncy5xptEErx4KeXZTdlDJCOTw7zm362bI8Fp1rJU_mmGqGGzIebLTir5nIvW9uDd_2nHGsD7eos3rDffLxAwWcEGen46d5Sy-KO0zy7_TsOtv7G01YEDdfnjzZyrUC1jQl6iTPDBfeJgs6ZBgtMSS-bq466S9/h1000-e7/Coser-jiu-yan-43-4kUp-001.webp"
 ---

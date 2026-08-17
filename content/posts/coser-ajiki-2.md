@@ -11,6 +11,9 @@ models:
   - "安食Ajiki"
 tags:
   - "安食Ajiki"
+  - "原神"
+  - "甘雨"
+
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZn7Dy3dFTnCP0WImenKYQJfH_Sub9-SCkjAQJV2_TzEZLI7NARaCztbLP_ow4TbI9IkkeR-wI-Pjxypoa0SqDKxaR0dOj9lslq2QWnemrQAn6kwZsJXjJaqWeLsr_LmpTL-f4KHUJ6DA-vfHYTdwEWv26u50VdLchNhKHZQXwK3F1lo6uoz76xUFIFPJA/h1000-e7/Coser-Cheap-food-Ajiki-Genshin-Ganyu-48-4kUp-002.webp"
 ---

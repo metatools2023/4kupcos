@@ -11,6 +11,8 @@ models:
   - "けん研 (けんけん)"
 tags:
   - "けん研"
+  - "けんけん"
+
 photos: 105
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_7FsUak51I8AKP7_-jGR7DsRD0B-O2tbOxq2fNX0NvAsx6G9QyNKlpt9DTgdz8Vfy3mPWkPWYEz7_yLO8uppBPRTTrJfDK8ZRdW-dEnwAdvNvw7udhobEZkh37PV5QqoCPP96PsFgSjH93wI1JBoyeq-d3k7n-HYsQH4aEa7igVCz09yMEH4zTz8vjk8/h1000-e7/Cosplayer-Kenken-In-Secret-105-4kUp-009.webp"
 ---

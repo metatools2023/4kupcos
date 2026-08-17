@@ -11,6 +11,8 @@ models:
   - "蜜汁猫裘"
 tags:
   - "蜜汁猫裘"
+  - "2B"
+
 photos: 72
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqCQ3JukIqwwTTuKM3ZyFC-wjqgHsdrUpIMTwVc6IeJBwmdOjcMtiDwhoLDh_-MXL9FAGO5a6Svkl84KQ0JQbICMt3kIeM5PrPohz0MepucTGhG8giWTy_NwZp6IoUkD1hhFe1r5k6xzQeyTbicM_Y8EJnZiVCKG0uXLkSbhixcmFQLaDuLKtqfqdzFq_/h1000-e7/Coser-Mi-zhi-mao-qiu-2B-72-4kUp-001.webp"
 ---

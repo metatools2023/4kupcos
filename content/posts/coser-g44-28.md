@@ -11,6 +11,8 @@ models:
   - "g44不会受伤"
 tags:
   - "G44不会受伤"
+  - "蔚蓝档案"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjsn32EfH11f1fxUIhzrICmGmFhE78AbZXFoecu_vtPTv-y85S67ah9rhpXkycWOeyQCiQ1qL-Lh36eyFwsiZWs497gnbCfUPK-h0aHgW80aEABUkiKCUo8pXjgMVafdfzizTtkYWVwDhMbcQAQk566rh3Lwq-WlmYjRcvwt5eIwchP0ehEWuN3R-uysgI/h1000-e7/Cosplayer-G44-wont-get-hurt-Blue-Archive-Raw-salt-is-love-30-4kUp-002.webp"
 ---

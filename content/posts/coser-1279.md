@@ -11,6 +11,8 @@ models:
   - "是一只熊仔吗"
 tags:
   - "是一只熊仔吗"
+  - "碧蓝航线"
+
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiqI-tdJOyDLlSXHEkKh645MCqmp1veL5Xpts0_8_Scnt3PaqGecX_-JzMW1nCIXHvEoyL6Hn1o9l8H30uAjUSxWUHTsYHHZC0p4yuT-FqU6S4Mdhf9XmosxTOm1cQh90CU_6cn0MqCg3h8bOx7TgX82OuBelt2rUK2j2eNM-UYMXz9jvHkwGjx8Uf4y8E/h1000-e7/Coser-Shi-yi-zhi-xiong-zi-15-4kUp-001.webp"
 ---

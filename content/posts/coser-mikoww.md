@@ -11,6 +11,8 @@ models:
   - "miko酱ww"
 tags:
   - "miko酱ww"
+  - "吉他妹妹"
+
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDvTB8wSJR5OXl1e0EG25cbEKv1DBt1a3N0aV1BbMW0yxNlF1X5b8X-o2jj-ZEs4qWuzeEXWm8Unc-LJCCOomRtITNUllwt1QZ56JDVpPuRbyAHPb3H_RPsXXuiP39WAowE5yi1EX1ORKT55YFP9ip_S8NUkyhUQP9W4RhBzYoZFyvlsixWJK5F4tpdbo/h1000-e7/Coser-mikoww-36-4kUp-001.webp"
 ---

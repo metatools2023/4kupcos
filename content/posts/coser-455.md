@@ -11,6 +11,8 @@ models:
   - "瓜希酱"
 tags:
   - "瓜希酱"
+  - "碧蓝航线"
+
 photos: 16
 image: "https://lh5.ggpht.com/-7Y1E_jWNs94/ZbWZ59R1qJI/AAAAAAAAa1c/xqKvm7i3FYs7NmNeT9Nce3TMLL8HXxs0gCNcBGAsYHQ/h1000-e7/Coser-16-4kUp-001.webp"
 ---

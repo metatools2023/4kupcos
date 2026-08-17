@@ -11,6 +11,8 @@ models:
   - "UmekoJ"
 tags:
   - "UmekoJ"
+  - "Mashu"
+
 photos: 74
 image: "https://lh5.ggpht.com/-NDPtdVtpwf8/ZhgK4UfGrUI/AAAAAAAAJWg/uJoHiWZ_ldYwweKr1KgCLZTLfVXB0XiZgCNcBGAsYHQ/h1000-e7/Coser-UmekoJ-Mashu-Dancer-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "yuuhui玉汇"
 tags:
   - "yuuhui玉汇"
+  - "蔚蓝档案"
+
 photos: 124
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPJr8FgUlrg5MshwODsWj2Z7q0ZpQjmeuDnzZVWcJO3m_AKz2v2Qb5S6QY5GSadjidu95tcENtlARnWAZ0EiIw_dmTHz6Rra5LBYjqxBMz8gCel12B8lFnnrY35c7ZcNMvDc06ovhdNB6FmJGd_2dwVNbcCK21lyOtfIiL95jTa7vTlZE5JUIZg5_6TvvZ/h1000-e7/Coser-yuuhui-S-124-4kUp-002.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "习呆呆"
 tags:
   - "习呆呆"
+  - "Forger"
+  - "Yor"
+
 photos: 21
 image: "https://lh5.ggpht.com/-UKTwBbCs4V4/ZQd_s80nPqI/AAAAAAAARXI/OnN1L1d0Y2Y6qppBvmLAhMNU5ziVljVzgCNcBGAsYHQ/h1000-e7/Coser-Misa-Pack-Yor-Forger-4kUp-001.webp"
 ---

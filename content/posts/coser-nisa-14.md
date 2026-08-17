@@ -11,6 +11,8 @@ models:
   - "二佐Nisa"
 tags:
   - "二佐Nisa"
+  - "碧蓝航线"
+
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhf0bUJtCD0xHmvaNojmpIzo6sP7WB89ics0IRiub5JXGtpMpMA06oWK91MeQwLcgyzaTWzegMX1IQbP0rQMK9imwhSjKb51rXxc8LlW2fZ6k0Q9zJxn62fgAHM8HwX6l_7tuKED3JSN47_T-eMNbUq9_q9WBrBv7K45-sg4ofadmq_Z93Y4sTpOnyisM/h1000-e7/Cosplayer-Second-Assistant-Nisa-azur-lane-Ayanami-New-Year-Cheongsam-21-4kUp-001.webp"
 ---

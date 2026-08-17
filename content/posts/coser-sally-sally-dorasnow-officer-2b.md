@@ -11,6 +11,9 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "2B"
+  - "Sally Dorasnow"
+
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5uSvEGQKnlTFyfy215nHy7OCIs6lP5TgHD03x1DPn3BhdLe8WnNczu96J_AJGBQw1ZI06FC9CWmD6tgX6YkasooSRN7rDcicab0Y2rtl6kcqwjEj405slAawR1FKjkW0h4269jhVGFhL4Pv6mP8GGOwDmqEhlwU3y3vJcRFuezg42piMHeyFETZBrGy8/h1000-e7/Coser-Sally-Sally-Dorasnow-Officer-2B-36-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Sally多啦雪"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjicBO8ZYC4hZ9xBLdli6sap-tpcJwCWl8ga4a4Fwkh_hG39IvnO5IAwYCc7yHRq25CTSfzS1Trc43obdTnGuqZiZ2k13101fZluzrLJNi-wHRKkl6Smt4JMjKO7-Cc33S4c5xolf7maoOdovKe_TqJqWOJN9_z0apr835uSA9idaqMvd18_vpDR3sBFxs/h1000-e7/Coser-Sally-Sally-Dorasnow-Miku-Bunny-Girl-20-4kUp-002.webp"
 ---

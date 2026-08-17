@@ -11,6 +11,9 @@ models:
   - "麻花麻花酱"
 tags:
   - "麻花麻花酱"
+  - "蔚蓝档案"
+  - "飞鸟马时"
+
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyO1nb8DDZoqX4aqazXCIS88LTmMl65vrjH8JeoBZoOmoi-pPC37VcBWvrafKml_vpzYCfRKKGw21_NIiUiVm86P1gu1FYFbb0Z1EAS1cm2_A7xTfSFu8pOpX-rPHG7bVWiW3YeW7c0pdI1NCkG_RbuJ1hOUmm3O-oTLNroVT7ppN5N95YII6vRQ22A9Q/h1000-e7/Coser-Mahua-Mahua-Jiang-32-4kUp-001.webp"
 ---

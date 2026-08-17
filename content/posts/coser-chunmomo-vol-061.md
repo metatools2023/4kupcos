@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 40
 image: "https://lh5.ggpht.com/-JqzyOJsvZog/YyTzOMe-SCI/AAAAAAAAIiY/5pPO6gY5HbcXOA6oidMW6Md8lFsvLkNIgCNcBGAsYHQ/h1000-e7/Coser-chunmomo-Vol.061-4kUp-001.jpg"
 ---

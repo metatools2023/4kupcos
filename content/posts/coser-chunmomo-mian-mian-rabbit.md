@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 56
 image: "https://lh5.ggpht.com/-84zalrmSYlA/Y6hrxGuOd0I/AAAAAAAAHrc/P1EzY5YdrQc2hoYwiFpBfWl_BUhK7aAiQCNcBGAsYHQ/h1000-e7/Coser-chunmomo-Mian-Mian-Rabbit-4kUp-001.webp"
 ---

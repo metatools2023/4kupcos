@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 50
 image: "https://lh5.ggpht.com/-kA_9bSojDdg/YyotLaCgbUI/AAAAAAAAL4A/4GGX9-xM7hk2E3uVDjSKYP55BCaB_IHMACNcBGAsYHQ/h1000-e7/Coser-chunmomo-The-story-of-cornfield-4kUp-001.webp"
 ---

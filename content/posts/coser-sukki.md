@@ -11,6 +11,8 @@ models:
   - "溯兮sukki"
 tags:
   - "溯兮sukki"
+  - "绝区零"
+
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhctthjMiG98uAjnwDoDdq9KlWxGBYbgRiPIOVU-kKBU29bYNKZru6frajSpO21aFK_QaLUgljDukkVbp3_S1n9pX0yjEUYQn1GSp1CyKMFa171yUdcmPn34n1YTPAyX_s0H-Sr_UD65WS4TliC2V9uudDHYpGkOgDrv7gzn6ET_NJ37sXX-nlF49zXDQ8/h1000-e7/Cosplayer-trace-back-sukki-absolute-zero-Id-Haley-19-4kUp-001.webp"
 ---

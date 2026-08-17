@@ -11,6 +11,9 @@ models:
   - "小仓千代w"
 tags:
   - "小仓千代w"
+  - "信浓"
+  - "碧蓝航线"
+
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_OKKNFVZd1Z7e-6QbJJtfW66RDnke5zkRXDYeTE0MHepyKOKtVIuP9F8htiiLaDMQu-QMJUH3H8dVfW_O45A9QbWZiYonSUrXr6EKwolBEohRuxA5F7hykpintUzdapQF4HNJ_PaXrH_Tueg9hAH0rsjdm0-iNlQVP89Q_fnB-ksCZwl7x0Hu5SB3EgQ/h1000-e7/Cosplay-Chiyo-Oguraw-Azur-Lane-Shinano-Racing-Girl-57-4kUp-001.webp"
 ---

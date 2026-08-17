@@ -11,6 +11,8 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "碧蓝航线"
+
 photos: 98
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcSmRMVz8FFjOC6l04Ev1zjJJ_xePvu-BCBo1lnJGpbPGHDFvV7YYVqLfTLNdJbHzodsN0g6TygCFA-6gEFsseKawqn9oivIdDpDyX5vX0xSB3J_srUilENN6cgMrxx4pu08_W_M-r21t8pJSQ6P6ZyxNrzlUc7QRuQ-4_5TY2BJt9vm7PhB-79H-Krjo/h1000-e7/Cosplayer-Island-fish-azur-lane-Strasser-Gorgeous-books-and-beautiful-jade-98-4kUp-022.webp"
 ---

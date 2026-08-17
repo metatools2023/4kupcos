@@ -11,6 +11,8 @@ models:
   - "封疆疆v"
 tags:
   - "封疆疆v"
+  - "碧蓝航线"
+
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRBt_xFEIteHy3KMLYGwmE8EaBqCJp65Z0Rp6P_MhlBmmUUu-EygrjZwVHHKpFvloSaekxsXB7d9ZZFhC1S8u2j99mwHb1bCHJMPAMFsj3wXXKXmK_ziOeI7l-aLYoiHysZXcyfI5EkOGwz0CiMwzxHxJkFuUSS0R_0CkpuWDbBjyWxbx9tEu0xqtnNB3O/h1000-e7/Cosplayer-Fengjiang-v-azur-lane-Noshiro-16-4kUp-001.webp"
 ---

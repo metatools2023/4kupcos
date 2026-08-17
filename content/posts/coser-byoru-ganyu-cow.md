@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Ganyu"
+
 photos: 51
 image: "https://lh5.ggpht.com/-bAjXXEyBRnY/ZfXNK1761DI/AAAAAAAA6Gs/a1dcrhGzYvIojvINv71MGf3_bKy4fR3zgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Ganyu-Cow-4kUp-001.webp"
 ---

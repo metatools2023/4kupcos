@@ -11,6 +11,8 @@ models:
   - "发条少女 (迷之呆梨) [Fantia]"
 tags:
   - "发条少女"
+  - "迷之呆梨"
+
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkGJxuULJrEFVQjRH0ZS91RjTOJSfL2dC2304dO1wWnbQxQY84NeCDEnpyDtUr5Nuf502IG6QlF7F6aq_OOEOub8owe-sN2UAEtKL8-HozcTi6EKSY1bC5gbObpp8RAOLr0NsB1Z_R2V5Tdqhs9zipK-dAiTb6FZkI_ju5m8SXrZYwFg8xIr9RHXmgFpzE/h1000-e7/Coser-Clockwork-Girl-The-mysterious-pear-Fantia-Be-obedient-18-4kUp-001.webp"
 ---

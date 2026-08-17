@@ -11,6 +11,8 @@ models:
   - "湖里狸"
 tags:
   - "湖里狸"
+  - "FGO"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3U-hQCQB4Srr2hp5UNSfTq9PHJh7L3sAXUCOHLlEyRAdkNpGnPEZxDBIE9YnrBf917OQNryRIz-3-8iu7NZ6r5XVWsiFxZ2MymOkrllOoFvErTFpydhguCjoSHE7PHrpDmq9oNGM0NQJcPMyFOq78pALJ9QhAdzrFC1Zux_-lYc_37hyjYyXglZG0aOU/h1000-e7/Cosplayer-Huli-raccoon-FGO-Matthews-wedding-30-4kUp-001.webp"
 ---

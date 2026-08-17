@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 20
 image: "https://lh5.ggpht.com/-7BvzzzdNUGQ/Yy-YlmxpQ1I/AAAAAAAAO_o/28qIdY48sLEvPXs-RXxq1Akg__YSkS2hgCNcBGAsYHQ/h1000-e7/Coser-Sally-Sally-Dorasnow-Echidna-4kUp-001.jpg"
 ---

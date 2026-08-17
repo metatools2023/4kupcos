@@ -11,6 +11,9 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "泳装"
+  - "碧蓝航线"
+
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihSzVZQfZnmZEC8SYrMIAQwAY89D-UM9fG7qiAnQzljZCmNOTEJw-u9w-NQZOFteIxZ7WNU5hu06oF9-xt9fOoRLtH-ZlWHbMtYVHqYy5j6CuyM5f3sBfJvEDHmqPm_A2ybpbxsf05bD-MOgkgrZAAnT8tLKG213zJa9tdqTaksMLYbJWaX79j6O9y6mrP/h1000-e7/Coser-Yu-yu-50-4kUp-001.webp"
 ---

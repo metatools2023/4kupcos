@@ -11,6 +11,8 @@ models:
   - "小仓千代w"
 tags:
   - "小仓千代w"
+  - "蔚蓝档案"
+
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBkUYPo3gFrYQ-2AyWA2FTyABaH4SKukz9V6_PLAvvLIg-Q_qBzaNc3oiPFKnDUTdK4294LKpIwEhBY8HGhNCMw2eF2o3YOZ90HmR3pdYCIN-ZqKoR-US0SgxPUYaktY_3DehkAIFg4BbUhZh5q9Hb0etywW0zwZ-dd2hPOaEMEIw0OYIQahYLj1k2iRsy/h1000-e7/Cosplayer-small-store-chiyo-w-Azure-Files-Tianyu-Yazi-cow-bikini-14-4kUp-001.webp"
 ---

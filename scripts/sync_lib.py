@@ -15,6 +15,7 @@ PER_PAGE = 100
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT_DIR = ROOT / "content" / "posts"
 CACHE_FILE = Path(__file__).resolve().parent / "cache" / "taxonomies.json"
+WHITELIST_FILE = ROOT / "data" / "keywords.txt"
 
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
@@ -82,6 +83,73 @@ def refresh_taxonomy(kind, cache):
         throttle()
 
 
+# ---------- 标题解析与自动打标 ----------
+
+COSER_RE = re.compile(
+    r"^Coser@\s*(\S+)((?:(?:\s*\([^)]*\))|(?:\s*（[^）]*）))*)\s*(.*)$")
+STRIP_CHARS = "()[]{}【】「」『』“”‘’<>,.;:!?/\\|-–—_=+*&~^%$#@`\"'"
+NOISE_RE = re.compile(
+    r"^(?:(?:\d+)?[pP]|part|parts|vol\.?\d*|no\.?\d*|set|套图|图集|全集|合集|P|\d+)$")
+
+
+def clean_word(w):
+    return w.strip(STRIP_CHARS).strip()
+
+
+def is_noise(w):
+    if not w:
+        return True
+    if NOISE_RE.match(w):
+        return True
+    if re.fullmatch(r"[–—\-&+=/\\|.,:;!?@#\$%\^_\*~<>\{\}\[\]]+", w):
+        return True
+    if re.fullmatch(r"\d{1,4}", w):
+        return True
+    return False
+
+
+def parse_title(title):
+    """标题 -> (coser名|None, 主题词列表, 括号组列表)"""
+    t = title.strip()
+    while True:
+        m = re.match(r"^\[[^\]]*\]\s+", t)
+        if not m:
+            m = re.match(r"^(?:Fantia|Cosplay|cos)\s+", t, re.I)
+        if not m:
+            break
+        t = t[m.end():]
+    t = re.sub(r"^Cos(?:er|play)@", "Coser@", t, count=1, flags=re.I)
+    m = COSER_RE.match(t)
+    if not m:
+        return None, [], []
+    name, name_aliases, theme = m.group(1), m.group(2) or "", m.group(3) or ""
+
+    parens = [a or b for a, b in
+              re.findall(r"\(([^)]*)\)|（([^）]*)）", name_aliases + " " + theme)]
+    parens = [g.strip() for g in parens
+              if g and g.strip() and not is_noise(clean_word(g))]
+
+    theme_no_paren = re.sub(r"\([^)]*\)|（[^）]*）", " ", theme)
+    words = [w for w in (clean_word(x) for x in theme_no_paren.split())
+             if not is_noise(w)]
+    return name, words, parens
+
+
+def load_keyword_whitelist():
+    if not WHITELIST_FILE.exists():
+        return set()
+    return {l.strip() for l in WHITELIST_FILE.read_text(encoding="utf-8")
+            .splitlines() if l.strip() and not l.startswith("#")}
+
+
+def auto_tags(title, whitelist):
+    """新文章 tags：coser 名 + 白名单命中的主题词。"""
+    coser, words, parens = parse_title(title)
+    hits = sorted({w for w in (words + parens) if w in whitelist})
+    tags = ([coser] if coser else []) + hits
+    return tags
+
+
 # ---------- 转换 ----------
 
 def _yaml_fm(d):
@@ -141,6 +209,9 @@ def post_to_markdown(post, cache):
         "photos": photos,
         "image": images[0] if images else None,
     }
+    tags = auto_tags(title, load_keyword_whitelist())
+    if tags:
+        fm["tags"] = tags
 
     body = []
     if album:

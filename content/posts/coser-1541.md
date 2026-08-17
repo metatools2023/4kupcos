@@ -11,6 +11,8 @@ models:
   - "阿半今天很开心"
 tags:
   - "阿半今天很开心"
+  - "约尔"
+
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiquInMNhRAzMBeNl9rqiZbFqC1McoSoQYTHJhl7i6p0G38t7cEfYerlME1OutaM2jdVZJ3qKYpk-boC8pt-0WdmxQ2STRIjRV5G5C5Tj87nO4NlE23OpIjPgzs5PcqAeus1jf-E7tNvPpzPKOlVbR8EHnOFMlcXHx8I9oHL6hb-XkHNyJiu_C2Qww_Tdht/h1000-e7/Coser-a-ban-jintian-hen-kaixin-53-4kUp-003.webp"
 ---

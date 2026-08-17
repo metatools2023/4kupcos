@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKDIeaoXDsN9hBXxJ83KxErVX-_3AzpNIfR4ReR0EDR_QZ1pnxkax5lYWLP-jAb0dZWFSqARnU7hdh0hax9-mHSL8hgLO4xaaKsB56i3Fav7S15B7RH891qt9nsR8Fcb1esQY8dzBqj-K3wyBpkD8Y-yCD7Xny5QyaEW60CFcTFK270O2Lj6shwVZmncVT/h1000-e7/Cosplayer-Stupid-Momo-chunmomo-Broken-wings-41-4kUp-014.webp"
 ---

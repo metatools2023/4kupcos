@@ -11,6 +11,8 @@ models:
   - "湖里狸"
 tags:
   - "湖里狸"
+  - "体操服"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8sCCXSeVyzwXwUgJHHDpty7era9QGHvLw45PqaO78ohwRDnr3XQ3suwCkqpy50Nae6SXvMpVYpFJNP-32BZZbcd7yMAs72yr_MFUCgyKrNKtkVXWp5lgAPtZSiWCxGi6gzIZKt3nFiZDowLcl3OeTWTqd4TKUbXQ1KIJ4HavjxiX6qM00N-WSYkmfZME/h1000-e7/Cosplayer-Huli-raccoon-gymnastics-uniform-20-4kUp-001.webp"
 ---

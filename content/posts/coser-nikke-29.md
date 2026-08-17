@@ -11,6 +11,8 @@ models:
   - "三無人型"
 tags:
   - "三無人型"
+  - "Nikke"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd_eTZLDV_vvdduit_ZQcjsiurKjFa9MhqdrSuVuuuGbwihk1xEroJj0u-fK7P8CmR4uT53dDWGb7GvGSRzv-PnxzP9pGPjMM9ob9gTi4WxKDCbqq1TEPjWMv_EddscVoj6G8L6ck6bNC6kxTyHYb35e0OkaehaFweBte_fG2m320xz97GH7E9qgfAPXA/h1000-e7/Cosplayer-san-wu-ren-xing-Nikke-rabbi-swimsuit-red-style-30-4kUp-126.webp"
 ---

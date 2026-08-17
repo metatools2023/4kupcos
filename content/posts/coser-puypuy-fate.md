@@ -11,6 +11,8 @@ models:
   - "PuyPuy"
 tags:
   - "PuyPuy"
+  - "Fate"
+
 photos: 71
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTjelWJ3-r65gZ8dumAePWlAXXeo5g-0rqG6YJKpmITFqgGzMBQ1gbdbGVatwt-dRFmXo0fieRQ0o8beYSPGflRwi5XxznGuGpO3llSZ5MEVgTwMW_1wdMWhy1nfVLkg6HaWEmvAiTJzNXQXF3gFlLOzFMhY_tYGKnZHC7Xf2oqoRMvWQVFmapi8HjkNfH/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-015.webp"
 ---

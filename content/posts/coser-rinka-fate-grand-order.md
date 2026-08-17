@@ -11,6 +11,8 @@ models:
   - "沖田凜花Rinka"
 tags:
   - "沖田凜花Rinka"
+  - "Fate Grand Order"
+
 photos: 13
 image: "https://lh5.ggpht.com/-AHfoZ5UewH8/ZOfiFvCI4GI/AAAAAAAAaPI/zt1OP3ApoLIDBIWTdrpv-jjQ2LIa4WHrwCNcBGAsYHQ/h1000-e7/Coser-Rinka-Fate-Grand-Order-4kUp-001.webp"
 ---

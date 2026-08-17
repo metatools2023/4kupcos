@@ -11,6 +11,8 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "Asuna"
+
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf8b8v5EBLBKDbxUCcIT7gvhEb7KUpkA7elXVVn6V12h1DCxxZWX5BDsxfahAtYQGOE-Xc2A6nC8XJ_ZEPkZR-tWcc-kbaaDs3pHAVZKd0NX6GbRZVcuJcYZZGwoYNfJ3_-y8no0xRKBuo7Ge_BWMI9EF9AmR_Jt-CXyiVvWPd45CDYPf9niTX0GZERAY/h1000-e7/Coser-KuukoW-No.137-Asuna-40-4kUp-001.webp"
 ---

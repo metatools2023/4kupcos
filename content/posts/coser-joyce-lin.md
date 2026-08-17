@@ -11,6 +11,8 @@ models:
   - "Joyce Lin"
 tags:
   - "Joyce"
+  - "原神"
+
 photos: 89
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8uZxLglnGMmOVRKWQ563yOfz1tOhq1dG8tftWt0zJcF-6mARPvCCnquK5B8rwTzmr4WuQAfomUp0eg0Qxyeqjja9D2rNSdMejwo0gOdgmwWz2J0V3HOIRPAot-jsFpukKq8K8opCUWwWw0fq3CwAO5Wcv3GgMjN2nDqPhxmC6VUtpdYFBIOu8S3hH63U/h1000-e7/Coser-Joyce-Lin-89-4kUp-003.webp"
 ---

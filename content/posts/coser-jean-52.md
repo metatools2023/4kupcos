@@ -11,6 +11,8 @@ models:
   - "九曲Jean"
 tags:
   - "九曲Jean"
+  - "碧蓝航线"
+
 photos: 8
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0R4SbDNY7oxflsRmzZ4adY1NxcJpfAfATU4LQ_icz9lkuq_O4GfrIMETCss-UsRJwqddRz8AieN3dLkQRaq1MWgyFCe1yhBDKF5rkCAMSspty-Tq1fOqzuidghm-7aZUsjmt7RO2mibmsbOA2cgUdH8BCy0us0k4Wu4MR1pMcAruTX_aQDKRvdJ-GvQk/h1000-e7/Cosplayer-Jiuqu-Jean-azur-lane-Shinano-dress-8-4kUp-005.webp"
 ---

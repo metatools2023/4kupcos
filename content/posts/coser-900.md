@@ -11,6 +11,8 @@ models:
   - "九言"
 tags:
   - "九言"
+  - "原神"
+
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQgfPboeUdsi6Q4rfAHMTF1fqLsjlPHyZkUeI2NV-0y4x3-7XlLFMiMPv-ifu4En1GuHyUltTa3gLB1sEVQ8vyqkCYiQML72oQa_YmE6LWQ5T81MhLyZOQCXj3YIOXBq4IEkC6zax6vadv_R4HUyJG3f5dkVHt8gnpyJu_iuidIkaUCnSWd_xPvqwOILPg/h1000-e7/Coser-jiu-yan-31-4kUp-001.webp"
 ---

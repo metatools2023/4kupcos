@@ -11,6 +11,9 @@ models:
   - "蜜汁猫裘"
 tags:
   - "蜜汁猫裘"
+  - "原神"
+  - "甘雨"
+
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgacVEppgVPibZQLPE1nmRFgGX3g1Qn9doeTpcnMxsOTC_gj8zrUlZGmHbxwQJ8spSuieixCv_IErBUbWEZQDqCwfWTfeoL68gwS5wkYBjs7mfJqFvSpVGm8aju2rN-wwT-CUiFZKSmYdkU4qRQsj8ShQnJIzOqsIVIp_gfpDojuNWJ69CN3wLgbJFm4tBD/h1000-e7/Cosplay-Honey-Cat-Fur-Genshin-Impact-Ganyu-Chinese-Style-Little-Zombie-47-4kUp-001.webp"
 ---

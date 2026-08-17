@@ -11,6 +11,8 @@ models:
   - "Atsuki (あつき)"
 tags:
   - "Atsuki"
+  - "あつき"
+
 photos: 273
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZZXBxSELZQh3rLe8Lzlg4T4fODek51OxsHBr-5QQ_YZTF6RecuEycRFjDe22JwVe7woXjoV_zZN4fmVPYGTzRIfUo5lC2kVVRnglJR_8MC3ZlsKlCvzmbBMXsLc007E9cTPvRLbYwbRGmm9S-Pb-K9DgBs3er4MJMMDAGcjoxjticMGGwDqe4QwhO2cPO/h1000-e7/Coser-Atsuki-SUITE-LANE-23-23-Azur-Lane-274-4kUp-011.webp"
 ---

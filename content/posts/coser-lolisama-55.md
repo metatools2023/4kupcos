@@ -11,6 +11,8 @@ models:
   - "洛璃LoLiSAMA"
 tags:
   - "洛璃LoLiSAMA"
+  - "蔚蓝档案"
+
 photos: 72
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMq1MxqhigyNxZ4ifjhfh5LeLeSD4o8Zs1ScfXxHmCW-7KyStbGQ91x5h2TdSvHbb6b8BsmawJ3mNYuybVhOwBjz7J0NXaNqpb8Ddr7xIUmAo5McEvwbF2fjcf_4TIiiJoJC1DuuOx7neUqkd9KfGyc9FK3rT6QTx4P2J2a7jyS_TYmZfQZePErBfpQDI/h1000-e7/Coser-LoLiSAMA-73-4kUp-005.webp"
 ---

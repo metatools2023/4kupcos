@@ -11,6 +11,8 @@ models:
   - "Tomoyo酱"
 tags:
   - "Tomoyo酱"
+  - "星穹铁道"
+
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhscsX_sduWzEDEGBqxSWuNxP320ZwDT_Rw-FQVQ8Mk9KPd7doHBrIqi9FfPYuU7_8PWWGtHYA8MKwCz8bdIgxy3CQhJSiB34eHW2Z1FP8JfcqRWyuhURSytcekEyootk3m58RVTj1TwANScyy5TpwQenoivhTEu2K9y2pT8GNsYO2DOd6juKfgT84p2T3P/h1000-e7/Coser-Tomoyo-24-4kUp-002.webp"
 ---

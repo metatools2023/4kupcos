@@ -11,6 +11,8 @@ models:
   - "习呆呆"
 tags:
   - "习呆呆"
+  - "原神"
+
 photos: 25
 image: "https://lh5.ggpht.com/-FMjWv7MhqpY/ZP5Bf_c3TUI/AAAAAAAAKJE/bxy5pdWUBC4yOSlBbi4RRy-EtK2eb4dngCNcBGAsYHQ/h1000-e7/Coser-Misa-4kUp-002.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "Marie"
+
 photos: 30
 image: "https://lh5.ggpht.com/-XT2Stl3Mry8/ZKSo03ZXB-I/AAAAAAAAIaQ/_ZllwraVgb0grScBkQ7au-QUruZxdXumACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.004-Marie-Rose-Selfie-4kUp-001.webp"
 ---

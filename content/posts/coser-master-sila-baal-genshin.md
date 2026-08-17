@@ -11,6 +11,8 @@ models:
   - "Master_Sila"
 tags:
   - "Master_Sila"
+  - "Genshin"
+
 photos: 73
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg52eWG3UuMQmZ65JeAMYzQ35zcEFu3AHTfO2SQP43AM6wyd-c8kgY9Fu0-hfAtmjj11rtO-k3UEaQbmjZ3lMZ93DC_3pPfCPjNrdeErD571UPNy0uY0qBD44hSKOn8cB4PTjCeXHKfHzWjol9JNrOaPrwpco1hH_DYhEnYrf-7TnAGjyX4cKHRRalcwp2C/h1000-e7/Coser-Master-Sila-Baal-Genshin-73-4kUp-002.webp"
 ---

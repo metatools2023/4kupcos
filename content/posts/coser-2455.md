@@ -11,6 +11,8 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "蔚蓝档案"
+
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6TMTXNl2Kcn4z_ReaPuxYDr34ChRTPdlHXMx_mUDfl5bezqt9wORVIQutW2qijijxMrcsQlgDjKYnSXwdR566arryWSKOZsTK16Fry7B8D4whyzG07FvEIdDEJkyPj7RiutbIxWQFuDIsObhFXPCUMnZlMyqcKO0QeDjV4Ngy_7J7o_k7CShLfrCfa8VR/h1000-e7/Cosplayer-Island-fish-Blue-Archive-Jingshan-pure-white-swimsuit-24-4kUp-001.webp"
 ---

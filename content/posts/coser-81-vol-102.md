@@ -11,6 +11,8 @@ models:
   - "白银81"
 tags:
   - "白银81"
+  - "自撮り"
+
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNwRsYfKeUf7wQ_bxsq7JMKKnDUjOVghf8MnjXeqPtW8iD85bEdrI5fBJKzm3HqlISmua_I7grHsTNIbVJ9whw5e95ZJvKwCft4rI4NjsHX_MxR5dZFdDUEc_XiztZtBGF3s6DqsBfE_4Uo2d5A9vrtAh1m_VCWDfkKLGWxhylIs4VRKizrUAdw0sv84_W/h1000-e7/Cosplayer-silver-81-selfie-Vol.102-60-4kUp-001.webp"
 ---

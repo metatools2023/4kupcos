@@ -11,6 +11,8 @@ models:
   - "一色雨"
 tags:
   - "一色雨"
+  - "碧蓝航线"
+
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinGsNEkw2fQBReDpGyOeCV2noIIP0C-8rEOJjwrVf1hJS40P-B963Vxtzv2HMNhpxalWT3X0p5Y-21f2ohCMbsdRnoj9IUwdZ2BTe5CBGjP3i1t2HvjqEMEOZVu-tSMsrlDSFx154UmH5iOC9ksoEnOzPcqVeTXbfRtOlE2Txp-CvRnVWl0oi3y9DoMV2n/h1000-e7/Cosplayer-One-color-rain-azur-lane-new-jersey-31-4kUp-003.webp"
 ---

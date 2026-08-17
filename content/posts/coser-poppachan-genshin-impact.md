@@ -11,6 +11,8 @@ models:
   - "PoppaChan"
 tags:
   - "PoppaChan"
+  - "Genshin"
+
 photos: 102
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijRjLBEIU7hY9NM7hw5qiVkXZQn0Mvj8TxhclLajmqUt7t2CwNqHLvNQtp7xe2rWADZ6NuSUnES39yTPi3RS3dy7CthqsvlKGMil1Bs8zFqnlrBnhbViEh1a6-eStUJMfaE9EJ5Esxiyf_IUwQjOI8WVbsMTH5UngVdxO0cPF2bqCetbUYGHSwD6nIeA/h1000-e7/Cosplay-PoppaChan-Genshin-Impact-Great-Tree-King-102-4kUp-001.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "焖焖碳"
 tags:
   - "焖焖碳"
+  - "原神"
+  - "甘雨"
+
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7RwtF5q6-1fmOM1zZQdCM3tH5npBEE7FCZBdXdl8JlUNwdboUFCTOW_pwvxbBFPfVSldLITf1Yx-A3ZdFoYTwvqRIO3lBYMl_kNnVoZCDePaIDpUrCWbd_6quIIXT_ZSVp9sUIXqCIToQKKE15p7Oi8oS8yXPICLSo4dCR3ecy1aG9_oFCyNCdZ71mZM/h1000-e7/Cosplayer-Braised-carbon-Genshin-Ganyu-23-4kUp-001.webp"
 ---

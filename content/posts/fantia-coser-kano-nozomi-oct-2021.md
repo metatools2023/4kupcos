@@ -12,6 +12,8 @@ models:
   - "Kano Nozomi (鹿野希)"
 tags:
   - "Kano"
+  - "鹿野希"
+
 photos: 157
 image: "https://lh5.ggpht.com/-QGOcfhZ1Ag4/YkeqMo83o4I/AAAAAAAABvs/b2ZKGjdybG0_hTX-yvpLpV1Gknw761oDQCNcBGAsYHQ/h1000-e7/220327-Fantia-Coser-Kano-Nozomi-Oct-2021-4kUp-001.jpg"
 ---

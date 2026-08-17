@@ -11,6 +11,9 @@ models:
   - "Zaya秋"
 tags:
   - "Zaya秋"
+  - "埃吉尔"
+  - "碧蓝航线"
+
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAWAVFPK-aVLnCU61tfrz8VGnZ04dbUIMdyHzV6NbsaDM9cHbh2pGiNBd2USA2YaPgjF5KrcV-heggQl6yM7kEV1gK4-4B0tzYrta5Tc3PIiLIk30gUBap-4vz_GdjmXVP-80AiWRLZ0_cWUxgDG2yrxVPslsnx522Ip-oPhf6X03PL4__0MbZwgxb-Xxf/h1000-e7/Cosplayer-Zaya-autumn-azur-lane-Egil-38-4kUp-002.webp"
 ---

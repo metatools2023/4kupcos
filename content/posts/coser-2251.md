@@ -11,6 +11,8 @@ models:
   - "瓜希酱 长离必胜客 (鸣潮)"
 tags:
   - "瓜希酱"
+  - "鸣潮"
+
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisH1hPtBkFYz_xZEL1OlACF8wmLlo-hgL2hphsSkTO5y1vmrDATcLeJEIHSn-X6PwPeOFqcETQz1219kq596pG-ayheyfC53xn2d0lSi38sB9NrqoDQgfJvq8JjlXbaYf3ZZBV7GAeigH-Li7CY6dqLJRzaka4RvJXeAPFfQ4hm9j82kzHOCttGc7T8OOm/h1000-e7/Cosplayer-Guahi-Sauce-Changli-Pizza-Hut-Ming-Chao-18-4kUp-001.webp"
 ---

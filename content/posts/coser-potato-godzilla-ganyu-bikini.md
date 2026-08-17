@@ -11,6 +11,8 @@ models:
   - "Potato"
 tags:
   - "Potato"
+  - "Ganyu"
+
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwlSxe3kGfdk-UrI-f2pluyyAZVzJhBog4T_st78EHBcJZr5suI5HAH5bJQGeNPVKXfaFiP2YkfIGRUoEN1lKbKKVThbWWf8BlXcLadeU1FejL3ZaBd2NqqKmICDagGGiCTvKSzrY_p4Qmz8zUQZFBv6RttYNE0x4lLLQVAAn9JtE167gSY4jr42ogQ8CY/h1000-e7/Cosplay-Potato-Godzilla-Ganyu-Bikini-15-4kUp-001.jpg"
 ---

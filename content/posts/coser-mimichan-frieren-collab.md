@@ -11,6 +11,8 @@ models:
   - "Mimichan"
 tags:
   - "Mimichan"
+  - "Frieren"
+
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitmlhkrRGgZHIkhzESxlPb0QSalX8R6FJ1CBWy9Xc7vDQAX5DhvUnvsRl6mcpZdeSUYO9uyaq2m1LqerYAiZNgx1vxiE2kBy0g-_r9z8A3Y_l21llSv5BMBsr7mueUXcO4m6PulZuN51ZgfHS9FRaNLnOIdqTCLVOxQ7tGkgP6sVLqbhLoXKeOCan73OM/h1000-e7/Coser-Mimichan-Frieren-Collab-41-4kUp-006.webp"
 ---

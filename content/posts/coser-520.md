@@ -11,6 +11,9 @@ models:
   - "黏黏团子兔"
 tags:
   - "黏黏团子兔"
+  - "碧蓝档案"
+  - "飞鸟马时"
+
 photos: 98
 image: "https://lh5.ggpht.com/-aZjiF5BeBl4/Zf2zHSu_AuI/AAAAAAAA_YQ/k4MHvTRXdiMz8zBM4_hP9RFrhMu_YNgVQCNcBGAsYHQ/h1000-e7/Coser-nian-nian-tuan-zi-tu-4kUp-001.webp"
 ---

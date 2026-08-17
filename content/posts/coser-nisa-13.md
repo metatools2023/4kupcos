@@ -11,6 +11,8 @@ models:
   - "二佐Nisa"
 tags:
   - "二佐Nisa"
+  - "碧蓝航线"
+
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-iyb7wkGto_YXJuem0RY0Tmfgipfs-xfznK3MEuOE4kBkYL7fvGafJ9edA_c36t4twMQJiASKae3yCxGCrfjQ2OojInNYHiMu_RfHel_ajo2RCZHldz-wqyMAxnNCYDzeZ6_jKwYDi19as2oPUnwNGntfH_eTOL8NsQ8nxLn6xzGO1sWsCKKHefYzong/h1000-e7/Cosplay-Nisa-Azur-Lane-Musashi-Policewoman-25-4kUp-002.webp"
 ---

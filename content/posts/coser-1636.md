@@ -11,6 +11,8 @@ models:
   - "布丁大法 (Pudding Dafa)"
 tags:
   - "布丁大法"
+  - "Pudding Dafa"
+
 photos: 126
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOsMNbITmoXZeeCDG1fyimAcN3ohuOe-K_E7S_wADo4mIkBqrum5Atk5G859hxDqVEUxogAIk1bJ4KsZax_CpZdH3ZodsH_yToNy38RmFUN3tPmKqXuq-Rd7WhCNQhwrD1Mq_e0PMk44SanAf1EfyhsXZUBOlheGBxS1fDGxhIsj8Y7GeXg4X95ckfVpY/h1000-e7/Coser-Pudding-Dafa-Perohub-202411-5-136-4kUp-009.webp"
 ---

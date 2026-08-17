@@ -11,6 +11,8 @@ models:
   - "Bangni邦尼 布洛妮娅 (崩坏)"
 tags:
   - "Bangni邦尼"
+  - "崩坏"
+
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVreUin_BLDhlGUZqgXIfG1EV-QNJvFQ64YBG2JAqnNJPCn_e841yRNC1hGjZM7UOqzzC6X4dw1CJAtLHA4Uxpmc1BNWBMzaRDmK-ja1m0m-iclwCy4vb69LvR1IOOMpZITdRvtZ07ueG5H-3XZ-DgGJjv3ADSitRA2_Mb0p5koLP15RKeOdHTYa2hQcxI/h1000-e7/Cosplayer-Bangni-Bonnie-Bronya-Collapse-54-4kUp-003.webp"
 ---

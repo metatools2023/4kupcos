@@ -11,6 +11,9 @@ models:
   - "十万珍吱伏特"
 tags:
   - "十万珍吱伏特"
+  - "恶毒"
+  - "碧蓝航线"
+
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOAyQDXQQyB6s8WSB89yfWabuAiE6XZosueQ2zdv-T1wJlBpEZs7iO5xiNUM9476XlytvHoqA_ymhyIrvuaMea_RmYsbH0SxicB7HBvh5ODpeHv2fQZ9rTf-MniRqy8IugCZR9y-mSxTZEcJGXWnhiXQRNdRrliRvLqFoBV-QGRMpT7yM5uD4bfXlAn2yG/h1000-e7/Cosplayer-One-hundred-thousand-precious-volts-azur-lane-vicious-50-4kUp-004.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Azami"
 tags:
   - "Azami"
+  - "Hoshino"
+
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWNyX3Rzn4vsswe8oGuNOr8q8do586O6tk5qNb6ptprFw1fltykpr0VIYrBtHqQL9mYroYcNX8jA2GL_qlhK_6ASWpZ-35MEh1-QCqyWxqXT09JlNJ3hSOubzoHe_PKYeaKsKrHHKQW9QpWAPCFDnCpMNTAVdAs9Wq9LPGlkuhvjnfx3DyDsgD89HwN8A/h1000-e7/Coser-Azami-Hoshino-Ai-34-4kUp-001.webp"
 ---

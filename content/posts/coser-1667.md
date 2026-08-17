@@ -11,6 +11,8 @@ models:
   - "贞子蜜桃"
 tags:
   - "贞子蜜桃"
+  - "碧蓝航线"
+
 photos: 78
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnWtxzizxT74k5mBXT7P3So8DfTx44_cokf4bfCN4ZWK71D5C8y4Ef1ryFCVPKIjGhxpvnltS6f6Rj8vpHALoJm7hyphenhyphenj36qybeWDbDN-LIkJfBwPcc4sISQIUmYDMTnIry-Tzhk8R-xhJH9SZWDyvk7SJc9SRa-IjR8AB4Tps-FoRl73nOFnZSSmx4-dBQ/h1000-e7/Coser-Zhen-zi-mi-tao-79-4kUp-004.webp"
 ---

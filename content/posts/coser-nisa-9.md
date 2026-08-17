@@ -11,6 +11,10 @@ models:
   - "二佐Nisa"
 tags:
   - "二佐Nisa"
+  - "旗袍"
+  - "爱宕"
+  - "碧蓝航线"
+
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7117RORMjiVUgkkYY0HQJ3tjlHzhCCKSHbEZ5ui78naXGXPBy7qMNJcFQWzSrOTu3D0In-jjOhuBVPpgDKjtD7Ru86y7FKD1416wLimhIUIcx4V0TBOhMkhX7TAwjrQipXBr3nEyhkPotq7Nd3BHEQJuNynLfj6vVNZTDcKrSHTcq5cisqivgjBl52SY/h1000-e7/Coser-Nisa--18-4kUp-001.webp"
 ---

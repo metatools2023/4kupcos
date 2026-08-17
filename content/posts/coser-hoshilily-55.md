@@ -11,6 +11,9 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "碧蓝档案"
+  - "飞鸟马时"
+
 photos: 58
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiZEtmPvwqCNtGM0u9_HwsUx4IkApXyFDOgOztupB8ZXK_0eet8e_ytt5f9v3p47hwhyphenhyphenTr7CV8oaayS92Iy11eSMSCqOYdkvdNMEhM0aQi2Q6gt0whQd2w0Q9N_Bcfa38wS7SReG0PilbV3bMpGviv_83GiX_8qOjoPMSxScHYUfBtP1FLXvQhY0pJmhzd/h1000-e7/Coser-Hoshilily-58-4kUp-001.webp"
 ---

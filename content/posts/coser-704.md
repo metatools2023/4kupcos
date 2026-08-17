@@ -11,6 +11,8 @@ models:
   - "七七娜娜子"
 tags:
   - "七七娜娜子"
+  - "竞泳"
+
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLgjSsndbixkNP8SJtB5rgoJSfu7hdjOVNKZGioEBLBO_3qNuZQeUDbo_TlBML3t8jRBp_GaJFVqOLs_PCwydTnTDluojGcOJ07HWC6RrtzJwK8p89Mb3pB8gvbDu7ZYBZFv18KWWdhKS0OSFNSTML87bBB_E5O5IBcEdKKaR5vwOoabpywaPXr11-dA/h1000-e7/Cosplay-Qiqi-Nanazi-Jingseng-43-4kUp-001.webp"
 ---

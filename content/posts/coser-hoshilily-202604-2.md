@@ -11,6 +11,8 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "鸣潮"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOGEqavfpWSe43f4Vsl6itOWchN5fkAAZPrgyg9FgGAQmn2knS40YCCOH1NqEKFEeo90E9UTW00b3POWGxvdTeBdYD4r6CkQtjwpcs-cuBkqMuNf5l9e-AIIPHNJ-Jhgn1GvzleJF94SwV9m_duzYv7SxaJ-k0BRK58YJ5aw2QMSZAjCKmrxbbajLAVs6s/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-2026-Year-04-monthly-plan-Ming-Chao-Chisaki-Linked-coffee-maid-30-4kUp-001.webp"
 ---

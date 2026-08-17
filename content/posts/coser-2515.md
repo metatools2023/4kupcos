@@ -11,6 +11,8 @@ models:
   - "阿半今天很开心"
 tags:
   - "阿半今天很开心"
+  - "约尔"
+
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDuD_s9zFR5k42SDyP-Ts7RDxc5Vsu0SGNPoFk580dshWMKLNUXgqMN8S5Qq_FGkmYn53L15a7GI6zmkGFIS44cIEjaUN2Bg65VjYNui-4TUCl4UhJSerddx5XTxinTvtVI0QBECGRzJrlMO_pBIqWFtumf2NCO1WyY6tlRgkX6WXtBPxDwC7yedGQVL0/h1000-e7/Cosplayer-Ah-Ban-is-very-happy-today-life-or-death-Joel-42-4kUp-003.webp"
 ---

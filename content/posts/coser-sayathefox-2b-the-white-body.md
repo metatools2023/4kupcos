@@ -11,6 +11,8 @@ models:
   - "Sayathefox"
 tags:
   - "Sayathefox"
+  - "2B"
+
 photos: 10
 image: "https://lh5.ggpht.com/-cnM7v55hUks/ZK8LTdFnPFI/AAAAAAAASEM/OBHlox5Jbj8zEbzfH6LhzWyiN1vqzkPDQCNcBGAsYHQ/h1000-e7/Coser-Sayathefox-2B-The-White-Body-4kUp-001.webp"
 ---

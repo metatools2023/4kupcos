@@ -11,6 +11,9 @@ models:
   - "阿半今天很开心"
 tags:
   - "阿半今天很开心"
+  - "兔女郎"
+  - "蔚蓝档案"
+
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihIQOCNZccITSj4yNF7cySXJotMG5IZIxV4bLGaszkIk6iEpPuTpCvUdXk5bngKUFh6IdpzKG2z-KXuDhWlSX8jHHvKUv3vPmVXA5o9XRpjBiVYnRKkvxlPTQ3A58sWUPGNu4FA1kHRMLAZQJLOWRdJBUyCOj3vgA6GfcsLqRNwGEQQgkZS45jlI6FEY0/h1000-e7/Coser-a-ban-jintian-hen-kaixin-54-4kUp-001.webp"
 ---

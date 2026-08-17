@@ -11,6 +11,10 @@ models:
   - "洛璃LoLiSAMA"
 tags:
   - "洛璃LoLiSAMA"
+  - "卡芙卡"
+  - "崩坏"
+  - "星穹铁道"
+
 photos: 61
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOmY9HvsWWfYjCpcOV0UwYLYtU-eG3UN2Bf9puKWq0QdioR5kvENeoZKx5mFxxdC8mkUoUbTdK81FlvpoAmdzc_RF4uUetaCH3zzErs1QRXXBggiekEHHSEoEup2w2rmumJvCdMHZlTaWrX2wWLJtvugILW61DHB4Sl0S1_GiXKBfQFQyMNXY7wHaTYI3n/h1000-e7/Coser-LoLiSAMA-61-4kUp-008.webp"
 ---

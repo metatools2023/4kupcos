@@ -11,6 +11,8 @@ models:
   - "Ely_eee (ElyEE子)"
 tags:
   - "Ely_eee"
+  - "ElyEE子"
+
 photos: 51
 image: "https://lh5.ggpht.com/-HJCsPTlvIH8/ZbBEfgScCrI/AAAAAAAAXEQ/H8ItkjV7B7kqT9PE6P0ikgJYURervB4vQCNcBGAsYHQ/h1000-e7/Coser-Ely-eee-ElyEE-Agdoll-Cat-Doll-4kUp-001.webp"
 ---

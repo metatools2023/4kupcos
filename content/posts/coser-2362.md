@@ -11,6 +11,8 @@ models:
   - "亚马逊鲶鱼"
 tags:
   - "亚马逊鲶鱼"
+  - "碧蓝航线"
+
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfOWYFKz007W9FNS9bgs8zXM8E-Q-HhTOiC0Y6mzDla4JxbJUU8ZJbGCz2ya3rv1badruQLzoF6yx8_pLn4h7Urijf4XZUDVgjpkBiODw_aAacWzsCGpL27cfNmgv8itecJIKRVZ3pU0AbT8SDr-B9cGwP22ret5AhO6-TBlhIiJJM6IkcvOb5phd-FsdN/h1000-e7/Cosplayer-amazon-catfish-azur-lane-Big-poisonous-apple-12-4kUp-001.webp"
 ---

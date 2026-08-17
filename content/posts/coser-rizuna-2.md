@@ -11,6 +11,8 @@ models:
   - "Rizuna"
 tags:
   - "Rizuna"
+  - "八重神子"
+
 photos: 90
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg_tEfCl9o8-YLcN13RvOWcRoYuwVVg1yV54QvLG7YmNnYCf8QM3imDrlDdEMsPF9zOFrm4iHLryd19FSNkrhi9GeyzC6g6G6rmE9y0UQUOSEr5HPftr45HcgaW5MiGdsyuaa0YHkApvCbgT2glAMtRIDR-2eDudteW-CWHKoi3rS6U7INRWHWiNzdt-8/h1000-e7/Cosplay-Rizuna-Yae-Kamiko-90-4kUp-003.webp"
 ---

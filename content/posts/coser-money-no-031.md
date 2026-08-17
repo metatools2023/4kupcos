@@ -11,6 +11,8 @@ models:
   - "money冷冷"
 tags:
   - "Money冷冷"
+  - "蕾姆"
+
 photos: 15
 image: "https://lh5.ggpht.com/-miSZI0aYpMs/ZJYXH0CNUuI/AAAAAAAAWR8/B7xdMVWBpzklwdVGihBl_yfjWlLzCn33gCNcBGAsYHQ/h1000-e7/Coser-Money-No.031-4kUp-001.webp"
 ---

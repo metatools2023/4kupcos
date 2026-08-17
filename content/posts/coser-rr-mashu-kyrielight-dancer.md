@@ -11,6 +11,8 @@ models:
   - "前羽_rr"
 tags:
   - "前羽_rr"
+  - "Mashu"
+
 photos: 10
 image: "https://lh5.ggpht.com/-b4jiF3XT5vU/ZV52zQLrI_I/AAAAAAAA_ZE/DD5CzY6LoAwD0BGDW7LSuC4P3jptbvZWQCNcBGAsYHQ/h1000-e7/Coser-rr-Mashu-Kyrielight-Dancer-4kUp-001.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "Asagiriai (愛ちゃん)"
 tags:
   - "Asagiriai"
+  - "体操服"
+  - "愛ちゃん"
+
 photos: 27
 image: "https://lh5.ggpht.com/-9QXyqO8InAY/ZX4x-VOpnyI/AAAAAAABd_M/-bGbhVYJRYEcdhtfezTfMnzBA-DeQJo8QCNcBGAsYHQ/h1000-e7/Coser-4kUp-001.webp"
 ---

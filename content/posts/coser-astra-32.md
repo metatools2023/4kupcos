@@ -11,6 +11,10 @@ models:
   - "雪晴Astra"
 tags:
   - "雪晴Astra"
+  - "崩坏"
+  - "星穹铁道"
+  - "阮梅"
+
 photos: 84
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8tZ7eOt1ii_25DMtuH2vWtZvfgEvdx7A20WrrP82e6G-gLv6bHkw3KWEUHGkErN_k9aCfsggOTQDqQsTGq6hSM5oSaWa_BuB5z08HDFAd1af6aZyNsncU9sDWu36xN6upr_NMBsfR5YXTQQFot9qyCrqN7WmIxcB_hO4YBcwH7eqcqrMP02TR7oEl4U0q/h1000-e7/Cosplay-Xue-QingAstra-C-o-l-l-a-p-s-e-S-t-a-r-D-o-m-e-R-a-i-l-w-a-y-Ruan-Mei-84-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "小仓千代w"
 tags:
   - "小仓千代w"
+  - "碧蓝航线"
+
 photos: 45
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisJfUbvPMwX0pUeDe_SSMMX0MIzScU6kopFlsP99EcXqwZIS1tnjgqvQkyI5Ei6R6UQlyUUv62K91FQFOMnb4LdIJ9foluSD2JbgFZwbcMc9xTOd9Rdn7sj-BTfrlVvQ_dHogqIxH73g_QL8lJMr6SHgfUu_5E3zzuShZ2gskU3M91-OeZqyBMhVqxAnk/h1000-e7/Coser-xiao-cang-qian-dai-w-JK-45-4kUp-004.webp"
 ---

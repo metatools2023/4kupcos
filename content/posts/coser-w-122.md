@@ -11,6 +11,8 @@ models:
   - "小仓千代w"
 tags:
   - "小仓千代w"
+  - "碧蓝航线"
+
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbAcE5RWXFHbQnGOZhbCGgfTipMamtpTzSvPLc5e0954uJVHIvMTHk17odIuHpx9fMhIr76Vy9xGGn6qDiSoXqqy64cwuH4O3ha-_fwIHbUFfTXyvMJNd_7nWZfraHy2zjYj9pYt1PZxwWi1b2JyQdx36y2zekJKay6atbH8xYI9UjV7fD-vK1lODHzejq/h1000-e7/Coser-Little-Chiyo-lol-Azur-Blue-Route-Shinono-rabbit-girl-37-4kUp-001.webp"
 ---

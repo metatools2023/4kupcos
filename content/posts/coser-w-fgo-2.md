@@ -11,6 +11,8 @@ models:
   - "是三不是世w"
 tags:
   - "是三不是世w"
+  - "FGO"
+
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdglmWK6TjAStReS_-RTWhmcDff61MetopJ6jJPs3jIhUjcHmZQMHYpq5WbWI4kDGxr2nG8dzk8YfKLprbtMj6tveMAvPvRA86BgYTmKQvnWFoFPtsRgbmsKlQcQL1AJ4oUNgYmTOZuyocNpfKUXA6t8151_KWOywn_VAihWo3cdY6vtQ_amoieQNzywYg/h1000-e7/Coser-shi-san-bu-shi-shiw-FGO-35-4kUp-001.webp"
 ---

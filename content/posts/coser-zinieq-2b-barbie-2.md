@@ -11,6 +11,8 @@ models:
   - "ZinieQ"
 tags:
   - "ZinieQ"
+  - "2B"
+
 photos: 32
 image: "https://lh5.ggpht.com/-AiTJDoZ50gU/ZlOy-C5YiNI/AAAAAAAArGM/tXFLm-Aq_VM12iWpjYwym_RAOiTSIUw7QCNcBGAsYHQ/h1000-e7/ZinieQ-2B-Barbie-4kup-001.webp"
 ---

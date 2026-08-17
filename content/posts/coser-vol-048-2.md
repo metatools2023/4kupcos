@@ -11,6 +11,8 @@ models:
   - "白烨"
 tags:
   - "白烨"
+  - "恰巴耶夫"
+
 photos: 72
 image: "https://lh5.ggpht.com/-wQCOAsg0Wp0/Y0WVJEfzljI/AAAAAAAAJRo/Q-kWARj55-4_BoEb8CaaFOqzidmmOWteQCNcBGAsYHQ/h1000-e7/Coser-baiye-Vol.048-4kUp-001.webp"
 ---

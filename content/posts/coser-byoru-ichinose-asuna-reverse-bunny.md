@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Asuna"
+
 photos: 29
 image: "https://lh5.ggpht.com/-MN0VH89veg4/YqIdXb3WtpI/AAAAAAAAPYM/GN_KpzOaluAwRpPg-pZ9oK_M1WisxPuOwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Ichinose-Asuna-Reverse-Bunny-4kUp-001.png"
 ---

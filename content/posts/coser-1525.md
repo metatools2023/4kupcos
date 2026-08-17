@@ -11,6 +11,8 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "蔚蓝档案"
+
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHXJYGIBoC8gz80ktImdOhWeTrom3G6Ti4CxodjzEJ4h0XRlETQFvor9Mrps5ka5nFPpX6UGJfPnIhWR9lKHlg4aUbpP6mqHfAsIpaIOtIPpxLp0zZDuuSgtsT905-rzTXnKZTnKn0mrPEie0j7MO3q0XpNIfTBEf7KxEY17-mBAr3uCsLkxika9aTCfS/h1000-e7/Coser-Yu-yu-55-4kUp-002.webp"
 ---

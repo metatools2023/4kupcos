@@ -11,6 +11,9 @@ models:
   - "霜月shimo"
 tags:
   - "霜月shimo"
+  - "NIKKE"
+  - "Viper"
+
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVVI1RxfsaB6G9RaoQk5bJsmMJAK_tc4MdXD-23O-Ino2nFfjT4zFcRqhp-bP15eVtrvPruNYUhyphenhyphenSLUqMf6eotih2o5V8__6D6eL4UGyr-Yyp1t6XjE9PFxQ0ZeqWLur_r4bQZu5vef6gdoSzr6S-cksLa8g8KeKb3uYX838hNm_hA5ZU_rs4qPTyCuxwg/h1000-e7/Coser-shimo-Viper-Bunny-Suit-NIKKE-25-4kUp-001.webp"
 ---

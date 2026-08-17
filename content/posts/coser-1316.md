@@ -11,6 +11,8 @@ models:
   - "是一只熊仔吗"
 tags:
   - "是一只熊仔吗"
+  - "碧蓝档案"
+
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZKiW7k995l8Em6T0GbNvSZorPF13D-Bp65HgDaO_fwTXeKb921lUQFm-ZeWENQkf4XzomnLqkXWsv_WAK5RSdSitGmME5k9xG0g7Gj1ThdnYM9gMr6hJWLNZhKEu4-1XhZci16NbwQBY3jsLM9IvpicaHYcD_AHxY1yyJBjXR1jc6u8zs-uD58klxwlc/h1000-e7/Coser-Shi-yi-zhi-xiong-zai-ma-35-4kUp-002.webp"
 ---

@@ -13,68 +13,15 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from sync_lib import ROOT, CONTENT_DIR
+from sync_lib import (ROOT, CONTENT_DIR, WHITELIST_FILE, parse_title,
+                      clean_word, is_noise)
 
 KEYWORDS_MD = ROOT / "keywords.md"
-WHITELIST = ROOT / "data" / "keywords.txt"
 
-COSER_RE = re.compile(r"^Coser@\s*(\S+)((?:(?:\s*\([^)]*\))|(?:\s*（[^）]*）))*)\s*(.*)$")
 TITLE_RE = re.compile(r'^title: "(.*)"$', re.M)
 TAGS_BLOCK_RE = re.compile(r'^tags:$((?:\n  - .*)*)', re.M)
 MODELS_BLOCK_RE = re.compile(r'^models:$((?:\n  - .*)+)', re.M)
 CATS_BLOCK_RE = re.compile(r'^categories:$((?:\n  - .*)+)', re.M)
-
-STRIP_CHARS = "()[]{}【】「」『』“”‘’<>,.;:!?/\\|-–—_=+*&~^%$#@`\"'"
-NOISE_RE = re.compile(
-    r"^(?:(?:\d+)?[pP]|part|parts|vol\.?\d*|no\.?\d*|set|套图|图集|全集|合集|P|\d+)$")
-
-
-def clean_word(w):
-    return w.strip(STRIP_CHARS).strip()
-
-
-def is_noise(w):
-    if not w:
-        return True
-    if NOISE_RE.match(w):
-        return True
-    if re.fullmatch(r"[–—\-&+=/\\|.,:;!?@#\$%\^_\*~<>\{\}\[\]]+", w):
-        return True
-    if re.fullmatch(r"\d{1,4}", w):  # 纯数字/年份
-        return True
-    return False
-
-
-def parse_title(title):
-    """-> (coser_name|None, theme_words, paren_groups)"""
-    t = title.strip()
-    # 剥离前缀: "[Fantia] " / "Fantia " / "Cosplay " 等
-    while True:
-        m = re.match(r"^\[[^\]]*\]\s+", t)
-        if not m:
-            m = re.match(r"^(?:Fantia|Cosplay|cos)\s+", t, re.I)
-        if not m:
-            break
-        t = t[m.end():]
-    t = re.sub(r"^Cos(?:er|play)@", "Coser@", t, count=1, flags=re.I)
-    m = COSER_RE.match(t)
-    if not m:
-        return None, [], []
-    name = m.group(1)
-    name_aliases = m.group(2) or ""
-    theme = m.group(3) or ""
-
-    paren_groups = []
-    for seg in (name_aliases, theme):
-        paren_groups += re.findall(r"\(([^)]*)\)|（([^）]*)）", seg)
-    paren_groups = [a or b for a, b in paren_groups]
-    paren_groups = [g.strip() for g in paren_groups
-                    if g and g.strip() and not is_noise(clean_word(g))]
-
-    theme_no_paren = re.sub(r"\([^)]*\)|（[^）]*）", " ", theme)
-    words = [w for w in (clean_word(x) for x in theme_no_paren.split())
-             if not is_noise(w)]
-    return name, words, paren_groups
 
 
 def get_tags(text):
@@ -144,10 +91,10 @@ def run_extract():
 
 
 def load_whitelist():
-    if not WHITELIST.exists():
-        sys.exit(f"whitelist not found: {WHITELIST}")
+    if not WHITELIST_FILE.exists():
+        sys.exit(f"whitelist not found: {WHITELIST_FILE}")
     return {l.split(" (")[0].strip()
-            for l in WHITELIST.read_text(encoding="utf-8").splitlines()
+            for l in WHITELIST_FILE.read_text(encoding="utf-8").splitlines()
             if l.strip() and not l.startswith("#")}
 
 

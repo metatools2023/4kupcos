@@ -11,6 +11,9 @@ models:
   - "二佐Nisa"
 tags:
   - "二佐Nisa"
+  - "一之濑明日奈"
+  - "蔚蓝档案"
+
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOURy1udInBALIbGGfZ2oFvB9bjfmusu1PE_pC7SxoLLtVW9vV2ojvrcuNhXqWRWAhprbCRxNN_TgtnTfpeLOZPcB7snwbuBOIiyg86z8k4TG6lpFySw3z2AtjLg6aJUlN2h7WQl7hc3Fpp2GOd8mtyNPbV4ZQKqZmrtbG1YzSmS-riEtmfJsadVtb1nNh/h1000-e7/Cosplayer-Second-Assistant-Nisa-Azure-Files-Asuna-Ichinomo-student-uniform-23-4kUp-001.webp"
 ---

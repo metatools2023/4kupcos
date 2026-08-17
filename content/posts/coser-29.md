@@ -11,6 +11,8 @@ models:
   - "半半子"
 tags:
   - "半半子"
+  - "竞泳"
+
 photos: 36
 image: "https://lh5.ggpht.com/-Pb_dxXH5Sro/ZAPNsoPYglI/AAAAAAAABGg/H7-cLW24fSIXJrPII06dCWtYqzsyxiALQCNcBGAsYHQ/h1000-e7/Coser-36-4kUp-001.webp"
 ---

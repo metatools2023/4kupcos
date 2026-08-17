@@ -11,6 +11,8 @@ models:
   - "布丁大法 (Pudding Dafa)"
 tags:
   - "布丁大法"
+  - "Pudding Dafa"
+
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIZFMF9a9rESSkIZe6tfsS0p9YaKfNTu_QxdMA3m5v0kxrpe-FVbRwdUubnscd1UzdgT_RIkM2-RKoPnNtXZuSyyIcAl1d3iSAborfCDx45bTdWsDcIK6Ks4v5bxB79dRijo003oW-6C5eX7PyQAvrM1ddNb-GyusrU8mBAhhiecvel9JXnGSPqUJruTY/h1000-e7/Cosplayer-Pudding-method-Dafa-Black-suspenders-23-4kUp-001.webp"
 ---

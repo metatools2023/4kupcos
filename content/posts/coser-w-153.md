@@ -11,6 +11,8 @@ models:
   - "小容仔咕咕咕w"
 tags:
   - "小容仔咕咕咕w"
+  - "蔚蓝档案"
+
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgD01IwqQvr6Dzvu8uRRarHW-33gFn2QpzuzPL0ZqA5QIENp1teVGMkVjMLyYWdsMWb1PBddSLVP-BJAEdGIFPMS2iA08nDEyS2GBgRD7PqSE9Ghap2TyI5I0ggpPAAa4ebi1sbD2xGeQ-mpnuDZ-S6J0znYbJFC_ZCm2fS4tjVRJUtfAQmftIun16aTx9J/h1000-e7/Cosplayer-Little-Rongzi-gurgling-w-Azure-Files-Shun-Sunohara-35-4kUp-001.webp"
 ---

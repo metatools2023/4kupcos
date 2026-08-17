@@ -11,6 +11,9 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Frieren"
+  - "Sally Dorasnow"
+
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisBWDFmzeXtIgN36xXifabrQxZswCL_n8sHIqKsm1PWb59W5hLFUKxmJFCtj82y0KYoi12bUBFfrvZN0LYo1Dhi6Sc7uGa79nm9eYrEB7HQrp8aqC454f0NAf_e1hpc5630UbHGdxVBwSo_NUQd_jbAPFw9gj6C_q8XPheM_R6vt6D0Pci5_AV1_xRyy0/h1000-e7/Coser-Sally-Sally-Dorasnow-Frieren-56-4kUp-001.webp"
 ---

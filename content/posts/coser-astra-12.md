@@ -11,6 +11,10 @@ models:
   - "雪晴Astra"
 tags:
   - "雪晴Astra"
+  - "旗袍"
+  - "明日方舟"
+  - "雪晴嘟嘟"
+
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixl7HuCewsh-_m3lp6rXthRzm1ucn6e4VReHIU30XC_22WhMAGF9j-gGvfgPCsy8v-JExMYeTOetpQnmsh_hvZB9VERJ9O7V-hC7gn4MprHeZ23OmAZhmyR97EI6vU2OC_pfwCoyC_E2b-QpkOGAV1A92uMbHwCtNV1wTEKMZYhs6rNbfACARqn6_8WBjw/h1000-e7/Coser-Yuki-Astra--18-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Azami"
 tags:
   - "Azami"
+  - "甘雨"
+
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcFHRS_Uy65h2fUYD4blSedDOR1XCc9w0SNmGBlcaw3VOu16PpqlxK2EpWLJ4vTvDFstm9J7cP_tML1tI4F6OVRaaHUjhKG1U5iRlbXNw4Bo5JrGmdx7HWQUs_cDFALd8IoMs9RFYaMb6Mizb8if-ao1gutODCVbKdR1s2gudrjrIRpMqQ4fivpczfQSC7/h1000-e7/Coser-Azami-23-4kUp-001.webp"
 ---

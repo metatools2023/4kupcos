@@ -11,6 +11,8 @@ models:
   - "七月喵子 (qiyuemiaozi)"
 tags:
   - "七月喵子"
+  - "qiyuemiaozi"
+
 photos: 34
 image: "https://lh5.ggpht.com/-BsibqgDB8i4/Y8sUCVgCPKI/AAAAAAAAEZ4/RBfd4PANxycUXlYYUULfr8gXdRaaxmblwCNcBGAsYHQ/h1000-e7/Coser-qiyuemiaozi-No.010-4kUp-001.webp"
 ---

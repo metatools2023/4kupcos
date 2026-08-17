@@ -11,6 +11,8 @@ models:
   - "けん研"
 tags:
   - "けん研"
+  - "けんけん"
+
 photos: 163
 image: "https://lh5.ggpht.com/-WQTmnPUWXso/ZV01u_aHWWI/AAAAAAAA95U/xLmAnKzEXXIwIp6wkX8WUG-AZcei6kYZgCNcBGAsYHQ/h1000-e7/Coser-kenken-Fantia-Oct-2023-4kUp-001.webp"
 ---

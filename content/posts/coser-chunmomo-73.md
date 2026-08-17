@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcVTpktnKNI6sEr4QWpfiRRh26pfriE9Z-onwaEMYsYLpb47CjsyNa8prNMeFhv7slmX-8CzM01fsuG0shq2FrZurvLWKBuNsbtXmmK3jMuHo3PpmaYLmglp_zS5CQWwU7kYGf9cgd7NmYq7owGDNJWwrlkC89OEk9bKntUCO8qm96ak0QBIVdaS7u3wg/h1000-e7/Coser-Yuki-Astra-24-69-4kUp-001.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "幼愛Youmeko"
 tags:
   - "幼愛Youmeko"
+  - "埃吉尔"
+  - "碧蓝航线"
+
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8DTQ4xuBL2LtbpdGxWa-7oJFB8HGUe-XPhIKXB4BW4SnJe2olRvkdj8T7Ib9ba_mabhXx7wpyXnGJ7hhOiscONywTlO7yvG8uN8Kah2w4Iu1JuNiBYekVeeLYwQYkqeAHaNq_2uFBLUGRZO8nKYnF-Hrf1sQ95kYCusQLdlM0NElSgEfKqFNBNOYlNV_B/h1000-e7/Cosplay-Youmeko-Azur-Blue-Route-Egil-17-4kUp-001.webp"
 ---

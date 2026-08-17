@@ -11,6 +11,8 @@ models:
   - "UmekoJ"
 tags:
   - "UmekoJ"
+  - "2B"
+
 photos: 63
 image: "https://lh5.ggpht.com/-lORjbmF7Boc/Zhqt2O8WKmI/AAAAAAAALG0/Q28GZ2ZsW2gXxn_hFio8R1rX2Ls6OwGhgCNcBGAsYHQ/h1000-e7/Coser-UmekoJ-NieR-2B-4kUp-001.webp"
 ---

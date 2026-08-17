@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpbPwMUtdvX2XXnvd4o5p8YN274Xtrq7N6TJ7Rbgq7IaQfQC8pC0RORoMwsgDxeMQv-lVMPZrO6IFb1POrfeYk2Qe9_8enpt91wneyQbHOsrMBEo99yCS1XxaHDWUNzA6gPrYmP5-60pocquBN-qy_zH-eyvpWntjjQ44KOI0ZDru00JLaE3L5EL_yaLg/h1000-e7/Coser-Sally-Sally-Dorasnow-Ruby-Maid-22-4kUp-003.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+  - "Viper"
+
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmPpFM3T8KBFP1-Nz235PxbGPwvvXQk6Q6kiIwgoFM6fSRF6JT73UingAxWaILMObfzatQ5VBF5xCDFm-ar6k8-ruzSgHJgDo09OPW86fMfkpi6IfKVOW1_-aZJLQI5pkGJyXwCys7iC-SXtF2w8QqjvJCWYJjIaAxkQbBn6a80Wn7sXrm_iA7BjvTbMQ/h1000-e7/Coser-Sally-Sally-Dorasnow-Viper-39-4kUp-001.webp"
 ---

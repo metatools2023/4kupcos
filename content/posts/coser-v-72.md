@@ -11,6 +11,8 @@ models:
   - "封疆疆v"
 tags:
   - "封疆疆v"
+  - "原神"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZxYc6resu6htwgsrxqc59uelLqWNCFnyvnvKQW7frgn7Hcf92icfQ5vVZ78EK38K2nZQyySGKDI4QR1ooo-UkWKN7mF19Z3zU2cauo4Sig3qYsoMosnijAHY7ijsUJVBjHuCLP2pLBP3O31O6sjGFhQk7WMYWrkKWLgvv5BTKS_A_fzvVwsU7qY6a2Ic/h1000-e7/Cosplayer-Fengjiang-v-Genshin-Shen-He-fans-black-wedding-dress-20-4kUp-002.webp"
 ---

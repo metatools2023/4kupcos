@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Tifa"
+
 photos: 63
 image: "https://lh5.ggpht.com/-opETIQicbeQ/Y8iCDSiDQNI/AAAAAAAACho/k-81nDPKd4cpHNZU37TGhS1OUpTXsRgXQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Tifa-Lockhart-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "上杉绘梨落"
 tags:
   - "上杉绘梨落"
+  - "原神"
+
 photos: 89
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGErZ8Jryd6ttowOUYZsxzYQR4q6rkscruOzDSUTu0Og31rSRf_GiPNUJ9Yg_nTGYVua-1QZlquEd5ESvEVpyotkUSOj-2Qtpx0y8g0s8D4Kx0V1qD56fv51msfDpc3Oi92GHvdxWuGLVPTZSC1d2nBC9PTYtLZ4VILlt8cHEGP5uLFGtNCDKAfOeeVUk/h1000-e7/Cosplayer-Pear-Uesugi-Genshin-Kirk-89-4kUp-003.webp"
 ---

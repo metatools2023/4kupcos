@@ -11,6 +11,8 @@ models:
   - "けん研"
 tags:
   - "けん研"
+  - "けんけん"
+
 photos: 170
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC207XH8SXzhQlZbB8hI3LLUPxcFLQZ38cxlJGqeC6tw-SzdCmZ8ejbrw3Yhe1mriuH6XomUNZ9XuZURWLyN-UTPyprsJQ5O9MCMFVX36Q-QNk1fmBFGdVoJkyraYO9gOg9CKYZzmcEaPTz8WOZioqKisaZnfCXvYb8NmgG5tWtPmQJVVc1CPPZQ2RTgw/h1000-e7/Coser-kenken-C104-Honey-DL-170-4kUp-009.webp"
 ---

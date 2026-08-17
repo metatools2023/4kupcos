@@ -11,6 +11,8 @@ models:
   - "洛璃LoLiSAMA"
 tags:
   - "洛璃LoLiSAMA"
+  - "碧蓝航线"
+
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEib7Z-ObHBX4JTpOk47NLoxISdscwGp31zLHGi2JwfR9975eQMcZRqzZ10sPwxbsm_1pv6xgXCiWXLtGx8NG5Px6SWJStY8w-QNnhS5LagvG7Prix3eNqpRKazvHxhx1x_HUUZymXEZwM5adsdmPQ2k2s_BbkGROIAL79mrfqzL-yZ7hs8DuKzY6hTA9sI/h1000-e7/Cosplayer-Luo-Li-LoLiSAMA-azur-lane-Atago-bunny-girl-36-4kUp-001.webp"
 ---

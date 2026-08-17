@@ -11,6 +11,8 @@ models:
   - "Ely_eee (ElyEE子)"
 tags:
   - "Ely_eee"
+  - "ElyEE子"
+
 photos: 40
 image: "https://lh5.ggpht.com/-3ayESrF0dTI/ZdfCcPibosI/AAAAAAAAnwM/KWcg4JyQKUgMpr-lyQImpXP_dn4p2q6YgCNcBGAsYHQ/h1000-e7/Coser-Ely-eee-ElyEE-Nazuna-Bunny-and-Night-4kUp-001.webp"
 ---

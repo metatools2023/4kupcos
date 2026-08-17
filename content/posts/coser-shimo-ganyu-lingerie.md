@@ -11,6 +11,8 @@ models:
   - "霜月shimo"
 tags:
   - "霜月shimo"
+  - "Ganyu"
+
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiC89BSxvMVUSYU8eV0eaNZa4_TiYU6S73Clv2OZzkO1Kvvj9EtqQQ4kb7CCVGMJLxpgCjtqjIg7Ykol7QmdkK2hl266dgAf7cLLvjvWvtvkjup1yRkmk42rIPIPKlHPw8PrOXxZyFTfo3MBfvnckxP5cA79TVrXPJQznOuI4km1Kjzvvt0bQJ89cYCkQ/h1000-e7/Cosplayer-Shimotsuki-shimo-Ganyu-lingerie-15-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "碧蓝航线"
+
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUE_i35LJdHQHUd4sP0V1zROYIbscXrtCMzmvwu1HXRERkdseF6TZe-s9DS2qEFK_CccV3853wl2veDbuqzbMhXQV7IW7jsKmC0S-3kUQ-EY4z-c7htCZScOoePehz0PZxiDFOlK3CKMcrsOQU-7Ot19yU_zFO4ojfdzxsjwEqy0nzls6w_-YZXYpN3w/h1000-e7/Cosplay-Yukina-JK-Kashima-san-Part-3-50-4kUp-001.webp"
 ---

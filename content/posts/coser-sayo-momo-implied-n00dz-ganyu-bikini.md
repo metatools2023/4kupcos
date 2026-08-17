@@ -11,6 +11,8 @@ models:
   - "Sayo Momo"
 tags:
   - "Sayo"
+  - "Ganyu"
+
 photos: 68
 image: "https://lh5.ggpht.com/-bE6S2QwitYA/ZPkJuYz4PdI/AAAAAAAAF48/oAsL1hi0qnwyUsJTH0PbiLZ4sRXR1mhJwCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Implied-n00dz-Ganyu-Bikini-4kUp-001.webp"
 ---

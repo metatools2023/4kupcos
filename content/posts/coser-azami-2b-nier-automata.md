@@ -11,6 +11,8 @@ models:
   - "Azami"
 tags:
   - "Azami"
+  - "2B"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg4AwHJdLhH-QaIQN2Sn3MAkWJlJRV7Oc6IN_K1BAeabgcwF-KqQg8mDNbwGhSOxZEnb_fe6LIPczQAfrGLWiAnMdmtwXL71qvWCQeE3vHYXgWFH904bpSx-JEgqNT1rhwBkLLTn3dBZY2WmoWO0klEDbMlzbiG383cjmxjua5xRS2n1JogE9Ah_hAIC6r/h1000-e7/Coser-Azami-2B-NieR-Automata-30-4kUp-001.webp"
 ---

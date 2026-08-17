@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9ZR6W4cYD4ToOO9WjeB8JqpARNojUiCvV3YmuuqzdBHUdhWpIEa3RDIAulM-xuOZKfNsUu7KxF1uN4mvHqL2if5zWiFb-J6dRj2hdVrE0QbyXs-eridRN3m2VT7NZUZDNlHCtS5QAP21ascKqNtu3jBqqNjttA4v8dIm25LcJmgqZKGxZ34DHmi8Upg/h1000-e7/Cosplay-Sally-Dorasnow-Utena-51-4kUp-001.webp"
 ---

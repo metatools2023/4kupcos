@@ -11,6 +11,8 @@ models:
   - "星黛鹿鹿"
 tags:
   - "星黛鹿鹿"
+  - "竞泳"
+
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIzyrzZ55rRkeNBDIXnIy-H2krmqtxy7xhXGHpEfRZNyOPM4wmJBG-n2DTY_JoFUzfY35OkW_ccA8PD3KYu-nb3-K3Fk_zUvTbgM7uVntuv4upwTts_fhck52AsWXA6b82Rzpsn8eG2VoqU7g4feBTLrjzJTIji4ITD6ao8q4z3QeyHjSkGgYEQd9rfKwk/h1000-e7/Cosplay-Star-Deer-Daily-Manta-Fish-Silver-Swimming-39-4kUp-001.webp"
 ---

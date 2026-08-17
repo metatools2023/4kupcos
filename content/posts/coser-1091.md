@@ -11,6 +11,9 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "柴郡"
+  - "碧蓝航线"
+
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxSY7pJLGceWcRGXa9LM0C0kmGxfzHcZsZGuldnk4nxRolwyP1J4T7jPu8nSI71x9i8_PAN7GT-uFG5nBz6oa2RUJ6ImycCYlPq67lryiC2SNXnzqVMa-lRDp0pk4vZAnw4JgyFVU57_X6rw0JlcKERhRe5co4mZtFQQEbgNHL2akH72EeG3ORGeJra4eY/h1000-e7/Coser-Yu-yu-54-4kUp-001.webp"
 ---

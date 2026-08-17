@@ -11,6 +11,8 @@ models:
   - "Sally多啦雪"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj93NREP69H2mxXNOyj5g_m2nPPOEVMK3Ks6g-LebKWFNvzX0sOu_GV3of3v9ja_L7s26OWq34qDOXt1T2CcD__g1vnc1TKNr6hpJ3KGzdc0h11I9LlmL6yFRMAEeW9pcB-jYvUQkAJVR-HFbVLeN410W_lEATnt2tf6pIz6YeuBuUj_H7dfnbjW6OO-Gz0/h1000-e7/Coser-Sally-Sally-Dorasnow-Clay-23-4kUp-001.webp"
 ---

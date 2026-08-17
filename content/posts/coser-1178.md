@@ -11,6 +11,8 @@ models:
   - "宮本桜"
 tags:
   - "宮本桜"
+  - "蔚蓝档案"
+
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhCw_Mkb7iNe1g_2OF2oYEyPAar0Url380yetfPFADMv_36pzLlnY_166c075sYD6BD4UlQeWkSBBEqfrNmaGwDso8SCIJXPCxm7qmgx5TcHCYgWWasCdrmZnQhLz_g1e74Nh8ixsm53FAI7nQXh01_LHH6MZYb3KAKg2M-fvuyNJDaO6v_H5WDy5V52M/h1000-e7/Cosplay-Miyamoto-Sakura-Azure-Archives-Longhua-Feisaki-42-4kUp-001.webp"
 ---

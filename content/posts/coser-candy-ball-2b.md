@@ -11,6 +11,8 @@ models:
   - "Candy_Ball"
 tags:
   - "Candy_Ball"
+  - "2B"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMQod3xUbj1WNjT2TZABflQRN6QjrfulWbwZUqrce92HeOOMDH26oAJoPLMKOcz9plb6wygab0DQIF___XTnm6t-PARghEb07kVnODUZq7wutdmO3WalA6QiaJImdliPIDDjrlkhEHJQwMz2vkVpVXy9_wHjUiWyGeFTOoL1YBktoKUsOik374V1UmQYo/h1000-e7/Coser-Candy-Ball-2B-20-4kUp-001.webp"
 ---

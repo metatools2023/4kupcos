@@ -11,6 +11,8 @@ models:
   - "前羽_rr"
 tags:
   - "前羽_rr"
+  - "碧蓝航线"
+
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq9RG8R2nwVu4YvtgqTi33GkuwOnFVZbdMsunScpT-5_r7jX_HhSyZFyq_zILpmxQQWd3-Zlhdg3TYYlcECNXeNzQE1iwc6q4T3MJmZ4wnarP-j-i8VHH5f6l8B5Vb5FyJju-_kMdKfvTidaZwGG64lOyWKzI1lIKwQaS9VQP8nLg0aqX_0hsqsyzbbwY/h1000-e7/Coser-Qian-yu-rr-50-4kUp-003.webp"
 ---

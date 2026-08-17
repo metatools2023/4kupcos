@@ -11,6 +11,9 @@ models:
   - "猫大人"
 tags:
   - "猫大人"
+  - "碧蓝航线"
+  - "花嫁"
+
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0IO-ol8Ysb-Lqp-eL1icSCOaeuEqUIaPk-OJ2sQhVkpfqt8MihNaOs1dN6xFWSNZUBoWWot0_hrildaUg10NVWu38WD0EXYGzg8WvY9A9SagOJOzIs-hTZ1oL-gxr4RQDt9oVBO2_ujnYnwc866zvlevF9C8XXrl6m7l1fa1D7EeVz8iFixhnRPcoNtO8/h1000-e7/Cosplayer-cat-adult-azur-lane-unicorn-bride-22-4kUp-001.webp"
 ---

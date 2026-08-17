@@ -11,6 +11,8 @@ models:
   - "Candy_Ball"
 tags:
   - "Candy_Ball"
+  - "2B"
+
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6pHzUpwFpw5PMEmsOFU9e0MXXckCfzOka4k_QcEoVKoxzZB2C_VRDBylni6l69g3zsPKSp-RR3duzS4i-Sa81WUjOH4cQynSoyarLKfrJnXjU0X5aq9BQ_iP6vO8cpJfpz5QK_K_3FOHLHW7IgnHk_WFxkPKWbWNxo2JrnctsztyuBC87L_SLZe86cAQ/h1000-e7/Coser-Candy-Ball-Bunny-2B-25-4kUp-002.webp"
 ---

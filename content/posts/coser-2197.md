@@ -11,6 +11,10 @@ models:
   - "蜜汁猫裘"
 tags:
   - "蜜汁猫裘"
+  - "柴郡"
+  - "碧蓝航线"
+  - "花嫁"
+
 photos: 95
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBuyDyvfT_4B6ueqyedom09wVqWgw7revos5DWXfiqx4ddQT0PozV1BqgsmC8SMPoeOd8AwU4sOEzBLQLJAMU0ociCh4sUhCPMa-YCuS4NQIJ2QxAU59sUekKQa3DY-57CL1EdgPd1q7nj7f_M08vuF9NbcfxON6gE6CSQNL2zHUQ0z_9G3F9z08CBnA0/h1000-e7/Cosplayer-honey-cat-fur-azur-lane-Cheshire-bride-95-4kUp-001.webp"
 ---

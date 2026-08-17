@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Viper"
+
 photos: 47
 image: "https://lh5.ggpht.com/-XKqsGNOvgLo/ZYNZ60LMrtI/AAAAAAABjI4/FSO0rUfP3a4MzhFsI_9tg2L_8gyaDvM9QCNcBGAsYHQ/h1000-e7/Coser-Byoru-Viper-Valorant-4kUp-001.webp"
 ---

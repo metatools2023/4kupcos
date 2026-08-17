@@ -11,6 +11,8 @@ models:
   - "Hokunaimeko (北乃芽子)"
 tags:
   - "Hokunaimeko"
+  - "北乃芽子"
+
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf8gJaEphipG_bEIkm6CNxR1Us2mx7cpM8HZESrpU3mJUWBLE54wYMYNQ5jRGjityFO3CtVwBzaXyB4GA5orh1thGbP0rKme0hrGfb0ojqdrzZHEL-UBiiO-eAeYql1jF1zyVLTFDlhyphenhyphenVx0ttxS3t8tsRhd1aOgIjoeiO60EjxPzKs2iD2UE2VxdT3rkY/h1000-e7/Coser-Hokunaimeko-White-Magic-42-4kUp-002.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "瓜希酱"
 tags:
   - "瓜希酱"
+  - "恰巴耶夫"
+  - "碧蓝航线"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYpVtYpYVJDYwCTnYIWdjGOnEIHJTmgXkZUjkw43S0bDvSEvKpiG0zK7pvhbEm89POEN_HmTZJovtBeMmQbijhlXls3jOVWSVNsRQV8HwHz6uyPirYJwqlwZK8AHzRDNpeoMPNwkH57yBHGmwSEuEItdom3C3BpgVmVd9iUpSdGx5UKHf0Le9XTdDkzdG8/h1000-e7/Cosplay-Guashi-Azur-Blue-Route-Chabayev-Melody-of-the-White-Cavalry-20-4kUp-001.webp"
 ---

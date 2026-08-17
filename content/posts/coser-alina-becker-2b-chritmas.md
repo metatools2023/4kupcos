@@ -11,6 +11,8 @@ models:
   - "Alina"
 tags:
   - "Alina"
+  - "2B"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0p_O2O6a9Y0KI2M2dUm3rOf6XhEIpBUFtzjG78Kg0f7_cuV4AXx0r0LtknMuzNGA15mM_xYWG18vJxm224Hat2dsw2RYtrXtVpQN2HwjydFDiKdzoTwPw1_G1xKqbP_332QOE1BUFFuMVxS4NoKISMsyYEiVZbRy4G-gtx-QtBXz9vYb4VNo3QwX3Y_HP/h1000-e7/Cosplayer-Alina-Becker-2B-Chritmas-30-4kUp-001.webp"
 ---

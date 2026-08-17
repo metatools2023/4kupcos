@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 37
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL1XXMSMtoKEjnm4as0tvvm4nF8srZ01DHsjCs7-ELJCbKorLsS46ZotUjCp1mxa8814T9mWIa19X6Qc7EjXQnx_VrWDdbxRRvqj5mGpDHld4YpXms9BNc4oYPco7U2LqddJgjk4ttqZeQQwy2j7w_xO9ALxvEoG7SyDl9zoxSksVVeAeDKTNyFnKlEe4/h1000-e7/Coser-Sally-Sally-Dorasnow-Friedrich-der-Grosse-37-4kUp-002.webp"
 ---

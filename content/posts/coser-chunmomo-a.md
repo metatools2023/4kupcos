@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 150
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh33b-S5Hgde3QayheBPtZ2DuidO-jVPq1uHwk4bi4l9hNpdaahwnt_J-W7D-ZoepCxiewTv2wZ7HeW4bzVcDvv2Gpg8evyoG18zQYJVaY-Zv1ijvaU-Z6uHHrTP-EhcgcI9-Cgsfau1JnfEdFQokFI0hKF9aOx562LG30r6jCgpprtLrMwlQPA7jX0XoqD/h1000-e7/Cosplay-chunmomo-Huang-Tui-Bloggers-Secret-A-150-4kUp-011.webp"
 ---

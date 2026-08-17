@@ -11,6 +11,8 @@ models:
   - "けん研 (けんけん)"
 tags:
   - "けん研"
+  - "けんけん"
+
 photos: 67
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQsvzpLzsvMJ_XSHXXGozuP-1q8owbH9erK5VtX3qfkdw7KyN4j-PaTjDT-e_9i1CuA_yWXmyT2APcvsq1eRFtdCmDf9SXJ560cP60_vOgDAyMj8yd4kgD7clD6VdSxwuVj-mbY9qGaODMuAI8f2Ig01mm7Et-jGJSbyqPv9XtIJkYK3XMogqyJZMYFPdO/h1000-e7/Cosplayer-Kenken-Silver-Photobook-67-4kUp-004.webp"
 ---

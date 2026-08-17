@@ -11,6 +11,8 @@ models:
   - "无影喵喵Ghost"
 tags:
   - "无影喵喵Ghost"
+  - "妃咲"
+
 photos: 85
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwMUW6PMV2PR3r4MfjSmtQXWhA3ZGHygiqqrBmgm8iyVXVIawsNuOzhgOiqE3UDUqWHlfjQc2qjkhofSu_6Jn9nJPg9tc_APlG5UY-8YrmF5pB8iBl4wdm7mr1NoQhgkCSXKZm2q3W4trQcoYbutJMKPhhF92xW_bevzY9ZTJl8rznUTO5FVcIFeK0AzGq/h1000-e7/Coser-Shadowless-Meow-Ghost-Himesaki-85-4kUp-001.webp"
 ---

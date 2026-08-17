@@ -11,6 +11,8 @@ models:
   - "魅瞳Meroko"
 tags:
   - "魅瞳Meroko"
+  - "碧蓝航线"
+
 photos: 53
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-10cookj20cE5lVX3o8LxvOZWUXwOjgIdOwkKBffO46rtAR8GpklZ9SgD4bnsW_FMEgKFvAZFEKFKLaxslwlTFyYP938zyLSvrYk8sA8FazdBHtTvL9gHLDiyksVoZOyV_kOwV2-NQ1vVtZVFqLcQx73A8v-8E_uzCM_lLsvTg7mz8FKJjnbsbeJuVDo5/h1000-e7/Coser-Rongrongzi-53-4kUp-003.webp"
 ---

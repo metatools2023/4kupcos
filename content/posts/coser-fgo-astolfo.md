@@ -11,6 +11,8 @@ models:
   - "习呆呆"
 tags:
   - "习呆呆"
+  - "FGO"
+
 photos: 47
 image: "https://lh5.ggpht.com/-IvQOzd__Fd8/ZQONGgwEXSI/AAAAAAAANpc/2Has1D1keaYv4LOGRHuOrLlRcT8iL4a_wCNcBGAsYHQ/h1000-e7/Coser-Misa-FGO-Astolfo-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "五更百鬼"
 tags:
   - "五更百鬼"
+  - "碧蓝航线"
+
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAcE4BdPOwcpqYL3kSB-g1AkM_OoGYYKUuYmO7cqpEHoBwoLxFaWKCowy0qbPdZMk4-xSbGB37s4JHy9lu_17YXGoz36MCZUsY21lT8Z_C_HAT14a14DJhj4MdwOxnKQjokvE_0pAfnO_kdq2LeLgYmkZebHfEezPzGZXTiWPUWwxJ225x4P30JwGoDc4/h1000-e7/Cosplayer-Five-more-ghosts-azur-lane-Liangbo-12-4kUp-001.webp"
 ---

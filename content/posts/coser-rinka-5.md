@@ -11,6 +11,8 @@ models:
   - "沖田凜花Rinka"
 tags:
   - "沖田凜花Rinka"
+  - "雷电将军"
+
 photos: 30
 image: "https://lh5.ggpht.com/-C7SlI1HweK4/ZNFmpvANs9I/AAAAAAAAKPo/3tVQO7qroEYsDe0L8KiWn_CYXxM0pg3AQCNcBGAsYHQ/h1000-e7/Coser-Rinka-4kUp-001.webp"
 ---

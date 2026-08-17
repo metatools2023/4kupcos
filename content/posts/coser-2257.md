@@ -11,6 +11,8 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "绝区零"
+
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjarhNK5wp5R3qNLkTQbeXvnboIBFtuQSzQ1CfS2Dttf2cKudyCE-eFNV2SLxYzi4Kgl3EDvPd01SNHQG68kw-9hxfYZUYQFm8DPKJvxZFZWiGRwZrZCWrLFNbZxmFrpfougCzzz_vLylQd62DLZuJ7Q7xam7TMUIMSxhO6yfER3Uu6Sd1Tb7QOkm-6vGO2/h1000-e7/Cosplayer-Island-fish-absolute-zero-Yixuan-ink-shadow-42-4kUp-002.webp"
 ---

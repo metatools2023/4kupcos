@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 116
 image: "https://lh5.ggpht.com/-NGll-zNiB6Q/Y-lfxZrwwhI/AAAAAAAAJ6I/0qxrnUQEyAAo4UZgW0auXIbcENFWM0_YwCNcBGAsYHQ/h1000-e7/Coser-chunmomo-Wretched-Boat-4kUp-001.webp"
 ---

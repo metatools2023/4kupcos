@@ -11,6 +11,8 @@ models:
   - "水淼aqua"
 tags:
   - "水淼Aqua"
+  - "鸣潮"
+
 photos: 72
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg11AN2SEstGi1PkVjHOaO6G4BnwAKKGA3jqaz0EsDjtLBJ0emRYkpSS9zJQKy1yADWncvJ00qODpfzvBcPwSGPVQvsAJARz-kRIz1KPi2G-tDvZGF_1Xxh3F_4i2BTpBCfBC6fvpijQicbavQ_f12MLEMjq9NfaR3ki_nZfvwNXgXWVJj0cKnJ9MUvun2I/h1000-e7/Cosplayer-shuimiao-Aqua-Ming-Chao-Yuno-72-4kUp-229.webp"
 ---

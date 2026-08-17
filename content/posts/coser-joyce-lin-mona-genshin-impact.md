@@ -11,6 +11,8 @@ models:
   - "Joyce"
 tags:
   - "Joyce"
+  - "Genshin"
+
 photos: 34
 image: "https://lh5.ggpht.com/-Hcd9GXuMDcs/ZSccUEiUuXI/AAAAAAAAKbo/ewnDVxBlJLQAfis74xkBlE5TKFCNrz3nQCNcBGAsYHQ/h1000-e7/Coser-Joyce-Lin-Mona-Genshin-Impact-4kUp-001.webp"
 ---

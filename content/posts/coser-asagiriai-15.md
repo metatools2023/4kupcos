@@ -11,6 +11,9 @@ models:
   - "Asagiriai (愛ちゃん)"
 tags:
   - "Asagiriai"
+  - "小恶魔"
+  - "愛ちゃん"
+
 photos: 40
 image: "https://lh5.ggpht.com/-zpHuG0wlo7U/ZXozEdj1_yI/AAAAAAABZvg/IS89RrcLseweGZU1SYAuI4PlZTUzk9chgCNcBGAsYHQ/h1000-e7/Coser-Asagiriai-4kUp-001.webp"
 ---

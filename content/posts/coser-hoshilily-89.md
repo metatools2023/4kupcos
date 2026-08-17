@@ -11,6 +11,9 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "柴郡"
+  - "碧蓝航线"
+
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmM_v0XebRw7GnLzxHDuoJ5AaSNTHYo6zaWd5uwl8Hs50KFKOf9HVbVRIOF1yTkJLBy2G7LRWtu-LAgOigeyB0YA04tqmqIRPTfDmbDytL4_VtD18glbZQQriemynnLu5IlCsfVEj-nT1paYX-9RulP4dpC9eilofFs3V-jh5UGaBmZzzXO-EJo4XvwB1d/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-azur-lane-Cheshire-43-4kUp-002.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Tifa"
+
 photos: 47
 image: "https://lh5.ggpht.com/-xlo0HjZxel8/YtsTE69zj4I/AAAAAAAAW-M/yOMXu6AKHwclBO9MYPkibrJ7z5HpofvEQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Tifa-Bunny-4kUp-001.jpg"
 ---

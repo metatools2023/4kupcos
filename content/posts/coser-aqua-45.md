@@ -11,6 +11,8 @@ models:
   - "水淼aqua"
 tags:
   - "水淼Aqua"
+  - "原神"
+
 photos: 62
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA1PqYZxyjJDEtul36tHZmrSUCJS0lXKCuQS06WStYiEJDbLGh-CYckbyWm6beVKb4SYkj6_fiqpnZagSuGc8SBmq0huFdadjo1UzdOtNlHqPB7N3AYSCt8yAnq6Lkjr91d0Iv6wpYdenGUd7dLbIc8yX5tz9klXMmL7JuV8VC4cK1OSQ8wLF9VWvRPCY/h1000-e7/Cosplay-Shui-Miao-Aqua-Genshin-Impact-ma-vuika-Mavica-62-4kUp-001.webp"
 ---

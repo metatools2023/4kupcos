@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjfOY93PIVqi76RUWMKXx_xEO0Ic3XwIEvXoJP9DYF5WfhQ9EsDePFLb65kVBfZ649A4GU9PND7sAxlkHtizfxprvyKBml805G4XZG_w9VIg8XN4Kdjppnj55kU4yWlaAiEchCxOmbjcjzl4c6ZzR_G3NwZ6JrTAd1ShIHQ8bdo7c0z3Z0TCHhYJ5vJBZq/h1000-e7/Cosplayer-Stupid-Momo-chunmomo-Positive-22-4kUp-001.webp"
 ---

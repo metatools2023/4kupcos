@@ -11,6 +11,8 @@ models:
   - "Tiny Asa"
 tags:
   - "Tiny"
+  - "Frieren"
+
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzwKJUEvxUwHE6bjhYqkumSVakv87w9BJt44kXxAkSR_6HH85iomE5CO6y-mK9vgLc2bFFA_CpPt90wS2TUsnP0t1uOsEJMKSgABzPdjuTwFrHWU5XCOB5iwdFd9Qkn8P7m8EJmQfUe0VNb3U3J_mQqWQCVysPRSlr985dsPkFiwzIcSsxxlWiRfGKRJmO/h1000-e7/Coser-Tiny-Asa-Frieren-30-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "小仓千代w"
 tags:
   - "小仓千代w"
+  - "碧蓝航线"
+
 photos: 25
 image: "https://lh5.ggpht.com/-pXGyVPRO45I/ZYeRX_bxlsI/AAAAAAABoYQ/ZpjeKTijvrsYCCEQjxHHXRwlydXI0nUCgCNcBGAsYHQ/h1000-e7/Coser-w-4kUp-001.webp"
 ---

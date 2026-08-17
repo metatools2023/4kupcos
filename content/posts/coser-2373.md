@@ -11,6 +11,8 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "碧蓝航线"
+
 photos: 52
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZJrDME6dWf3E6ef340NUXjoy_kZkHIspT8rvhvYISoIDpL9iKVs7a8PQ1SpPkP19QUiRJ0W2O1KvY-tBfoXwRfrFQ6JLyIbCaGCOZY_M79yZ8lYi4yIV1WiI-_hbgT80bK7GPLdwjwmCQ8KLQezS1SR0TU9w-smprILyA3VedK9agTsymikTvUJMDHFol/h1000-e7/Cosplayer-Island-fish-azur-lane-Awesome-fan-dress-52-4kUp-002.webp"
 ---

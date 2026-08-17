@@ -11,6 +11,8 @@ models:
   - "白银81"
 tags:
   - "白银81"
+  - "自撮り"
+
 photos: 77
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiglvQLAwFU0223G5ACL6blA07Ng9kSAXytmWzcsyGoYXhz4n102M1lPipSbZiyXx4_ADilcdw7BHvYRqrtszdnw4w3PYq6y7RFobtDoaacuVnCCQkoCttlpILufy-4ENllSEFzTe8YQ9MkYouaYJKQeW63ThlICV8mawpBIYHrFvp-U6BZueYQ83-gXLc/h1000-e7/Cosplay-Shirogane-81-Zizuo-Vol.97-77-4kUp-002.webp"
 ---

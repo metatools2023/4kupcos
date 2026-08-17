@@ -11,6 +11,8 @@ models:
   - "樱落酱w"
 tags:
   - "樱落酱w"
+  - "碧蓝航线"
+
 photos: 32
 image: "https://lh5.ggpht.com/-Qc-bkMphsPU/ZpBlRQbi4UI/AAAAAAAATgM/kJLDRzVb_hAY6Mq26TkAkRl8CIXWMEH9gCNcBGAsYHQ/h1000-e7/Coser-ying-luo-jiang-w-32-4kUp-001.webp"
 ---

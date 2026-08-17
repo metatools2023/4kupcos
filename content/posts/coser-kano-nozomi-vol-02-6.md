@@ -11,6 +11,8 @@ models:
   - "Kano Nozomi (鹿野希)"
 tags:
   - "Kano"
+  - "鹿野希"
+
 photos: 181
 image: "https://lh5.ggpht.com/-XG4YRl6_sog/Ysibr_j6-1I/AAAAAAAAH3Y/3AEzkVcdBukGdWoVSDdVBhE5QVBM8QwYQCNcBGAsYHQ/h1000-e7/Coser-Kano-Nozomi-02-4kUp-001.jpg"
 ---

@@ -11,6 +11,8 @@ models:
   - "日奈娇"
 tags:
   - "日奈娇"
+  - "原神"
+
 photos: 22
 image: "https://lh5.ggpht.com/-hkcegGl9Yyw/ZobIkT2p7dI/AAAAAAAAMek/dmavTSPEuLsEfNxA6eF0FLWFQPCKAtS-ACNcBGAsYHQ/h1000-e7/Coser-Ri-nai-jiao-22-4kUp-001.webp"
 ---

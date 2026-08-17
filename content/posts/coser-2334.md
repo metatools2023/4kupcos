@@ -11,6 +11,8 @@ models:
   - "矢量鱼"
 tags:
   - "矢量鱼"
+  - "蔚蓝档案"
+
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYtL75b4wLypDs0q_05EYmMd7ZvE8yV8K1LCQZl115OU1xeOEcnbzY-_mr6pozIFMQKwyGnvbzFHiWD5o75e4Y78_5m_tos8g8glJ6mV6iRvOILm1Du3zJQW1vYo0Vi_ZVJvwHgIxw384v2JtivoDGjnjwmdc8IyqnGRxuMyxVFjVDsE-YnNgiUVih32MI/h1000-e7/Cosplayer-vector-fish-Azure-Files-Shimiko-34-4kUp-004.webp"
 ---

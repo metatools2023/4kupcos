@@ -11,6 +11,8 @@ models:
   - "布丁大法 (Pudding Dafa)"
 tags:
   - "布丁大法"
+  - "Pudding Dafa"
+
 photos: 67
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM2OEXrzhrQDJZZ7jPyUEtSubcjG6zLxO2IFcbdjtlFpInerJvd7fOAwTjpJESJ38kKF6UGwPUGbrCCwi5DjNAZu9sQi21e1ZcfzUVHF9_JNrXZD63nLWBdwNtwUCU_hFOnAwbGF9BsvOqubXLfUSdTwhyphenhyphenjQaadGbs0VVCjgu1fxsgMxoewzEm0HVFFE1w/h1000-e7/Cosplay-Pudding-Dafa-The-Floral-Marriage-73-4kUp-001.webp"
 ---

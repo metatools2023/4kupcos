@@ -11,6 +11,8 @@ models:
   - "小空sora"
 tags:
   - "小空sora"
+  - "碧蓝航线"
+
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_cvKphuvt6QNS1XN0rtqcsn51hcjNmboSL2yaNLZhXKb2faHvBG_4MLYYqblj-K4Wb4vqwXdyBpuNDYkysfVThx6ZsLwkBrPzJiRlRKygMqdNzOmVEt1Nu5BlzaPXzSVUKE3x3yroNCiB3CKtYxFQHe0M3fu_jpFjaq1pMgoydUPG3IdUOYA6MnpvFi0w/h1000-e7/Cosplayer-Xiao-Kong-sora-azur-lane-Bison-cow-19-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "蔚蓝档案"
+
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr9fViMxtk9mRbadjV8Kml5rCRx35DpKkv0lAP2ZJHvG7L4lVxQrDEEP0Hhd3spXGt2U8I-hQ5ergDq06x0KNlGA8K8WvIOv6GqwdobtGlgEERRc8LjiV_OPjgDWKsgQxm4PTD8nOWSSDU9Q-JM4ZGNRlfQvR6ijE7BsyjglwSPZNkTFIUwH4a61_6XMl1/h1000-e7/Cosplayer-Island-fish-Azure-Files-Feisaki-fan-nurse-50-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "鹿八岁"
 tags:
   - "鹿八岁"
+  - "自拍"
+
 photos: 16
 image: "https://lh5.ggpht.com/-xLzZhk1GJ30/ZSSDrlUdj6I/AAAAAAAAIxA/z9yatnzK-80llbZHi8Efkl1BybdupxCzwCNcBGAsYHQ/h1000-e7/Coser-lubasui-4kUp-001.webp"
 ---

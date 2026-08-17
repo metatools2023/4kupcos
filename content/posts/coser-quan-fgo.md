@@ -11,6 +11,8 @@ models:
   - "Quan冉有点饿"
 tags:
   - "Quan冉有点饿"
+  - "FGO"
+
 photos: 62
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvPe1ulLwdBGTqUq12-L7ePiGI69_h1Ch5TFDAvyNI6ZbIr5ZGahUf-2ntCkJW8O2uAafD8bVHbgLLEbSpOTlRkL6U7sn-XNhs51AOp9nycMR36WSiHSnn0foxZ7Ezbpy6FvNZSWC302JT1nRIH4-OJBBMVsyWi-_LenCDX1-xOotVHk4hhyphenhyphenSrqTQO6dCz/h1000-e7/Coser-Quan-FGO-62-4kUp-004.webp"
 ---

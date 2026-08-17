@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Kafka"
+
 photos: 98
 image: "https://lh5.ggpht.com/-3V6_o-7V-lY/ZaWzvsc9f4I/AAAAAAAAOEU/vgM2FtwqVSAG1MH5lLUMowFvJHFFSmqmgCNcBGAsYHQ/h1000-e7/Coser-Byoru-Kafka-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "清水凪"
 tags:
   - "清水凪"
+  - "圣诞"
+
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1viaOM9cEghpeAL3rWh1xvSKTjNjYCt6p1-ziOGDRXFgFv2qE40VseYhu_-OQ_zkMyyHTMlrjAYdbqGziJzlTOthx109eYwMMr8o8IVSHs8oToPzAOsEDfqbusUY7gN8LwXDyIiLgyo8uMRgVQz9lSg4k5PL_Y4PcEXNR_nBnYo22kBTeWjFwvhuQYlVZ/h1000-e7/Cosplayer-Shimizu-Nagi-Christmas-day-and-night-47-4kUp-012.webp"
 ---

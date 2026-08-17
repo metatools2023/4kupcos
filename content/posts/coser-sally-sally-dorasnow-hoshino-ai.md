@@ -11,6 +11,9 @@ models:
   - "Sally多啦雪"
 tags:
   - "Sally多啦雪"
+  - "Hoshino"
+  - "Sally Dorasnow"
+
 photos: 66
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjhuGwz0zEdsdniRRModrgKFUuukajbvu1WxCb9rhu9EoHfSeYJB4hYgxn4HXkCqhNzSd3L9Kv1LpshAzcEFmzav3pnhmnYbjwA0-vMemr7lAJiPzWSHBhVG_eWXJXwwPF4_QRFWOHeWr10J6Ga9wP5yqQZPybrfJJ1Xs8gY7WXkz0fJmR1KJ4ZFqdxeM/h1000-e7/Coser-Sally-Sally-Dorasnow-Hoshino-Ai-66-4kUp-017.webp"
 ---

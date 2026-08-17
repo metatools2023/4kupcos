@@ -11,6 +11,8 @@ models:
   - "Rizuna"
 tags:
   - "Rizuna"
+  - "Hololive"
+
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdcVKRNTi3_9fbUvdNBTy4l2EwLpSx4hVGCYgvtYO03wiYjrDqYjHzTfwIuocR-yVW-sw_gxX2P4r6zMwruq3g5qPAbySavO3h6jliz2VacaBuucvAMWxgV94K-3EWff2k3rbFp_AeVDfd34yiAUqgcmpmVCNDjZmYlFZ54qSHDEtEHCMSv60LZkNJXkE/h1000-e7/Rizoute-Cosplay-Hoshou-Marine-Hololive-13-4kUp-001.webp"
 ---

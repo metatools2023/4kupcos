@@ -11,6 +11,8 @@ models:
   - "是一只熊仔吗"
 tags:
   - "是一只熊仔吗"
+  - "Nikke胜利女神"
+
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRnDj1Qoh68s2l9_gkfL12-1ERKq2Q3gLDxu-Irkd7xGN8c0gugFXNuk0fNGSVkgKAoTvfc7STSBJAyoFHZPjRACHXM0aDJpiKYz6CKYEnSI89_zGxJOyw83Gy1aVIvaMrIwsr8a6W98Gi5Gcvt1DHLhkuJzLAn5QAtmBno1QA1Kl3kxJ7lWW3dINGYg_9/h1000-e7/Cosplayer-I-s-i-t-a-b-e-r-c-u-Nikke-goddess-of-victory-emma-christmas-36-4kUp-001.webp"
 ---

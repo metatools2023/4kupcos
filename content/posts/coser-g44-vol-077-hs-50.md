@@ -11,6 +11,8 @@ models:
   - "g44不会受伤"
 tags:
   - "G44不会受伤"
+  - "少女前线"
+
 photos: 40
 image: "https://lh5.ggpht.com/-FDPxjPPUpS4/Y-bGOEFftMI/AAAAAAAAID0/B_3jY3qLGjM-7SOlXMDI_GTqi95AIN5vwCNcBGAsYHQ/h1000-e7/Coser-G44-Vol.077-HS-50-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "lunananya"
 tags:
   - "lunananya"
+  - "蔚蓝档案"
+
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI6-rZNUWFV7m_lXVQTtlCjBaIe28J5eLvdazFNFFBnlXFlhOJzY4SdIbdSTl65RgCYmEGPFPqeg8Iwl0gCFF3ljoHb1qIdYzk3e7_074URnpLI0gjm9Y8ee4FSiBlwFRZq85lbV_HVbSIyHZlWwZ0LbHycVY5rdKIcVixQMYHz3YuIQ5u8M699ZtHsdSc/h1000-e7/Cosplay-lunananya-Blue-Archives-Tong-Teng-Nagisa-22-4kUp-001.webp"
 ---

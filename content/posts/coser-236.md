@@ -11,6 +11,9 @@ models:
   - "习呆呆"
 tags:
   - "习呆呆"
+  - "原神"
+  - "雷电将军"
+
 photos: 27
 image: "https://lh5.ggpht.com/-P5YQWOTlCtQ/ZPvDMHznNZI/AAAAAAAAIBI/6CCI6q9YfAQrN7YoC9z3sTX5sOV6j9YOACNcBGAsYHQ/h1000-e7/Coser-Misa-4kUp-002.webp"
 ---

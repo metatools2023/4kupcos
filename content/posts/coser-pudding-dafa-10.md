@@ -11,6 +11,8 @@ models:
   - "布丁大法 (Pudding Dafa)"
 tags:
   - "布丁大法"
+  - "Pudding Dafa"
+
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisEQvAvoZaqsPtX-mVax8SLQXVbKLW3u-Qim8ZzXZ6NHlUz-NmnGSon4JiZ59wOZp5NNb1BI78KxUbcuQhC0gOK7qnE8E_IrlQmD5dXuPkkQMB5znK3_AFeS_xILiUOADL8i8ZpVg0FmJBQ3TF43ojZkyUTJdZ1tw0X7ffMtI2OcUdljXgET-UedDAxLUy/h1000-e7/Cosplayer-Pudding-method-Dafa-Big-peach-18-4kUp-001.webp"
 ---

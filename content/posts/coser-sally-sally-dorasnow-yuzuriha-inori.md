@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5pBzNm6PFZhq3dO5o0fYqoc2wqJ2oWRAG6KTcvXTVrgXLwTIc8_6-Pcu7q5fokGGKNglLL4OBLQL6EXoLvo8E3emGnv5TEQVwOZtuv0TEiFAH1yF55BxP1K8Ah3OmJM7UEn9GY9ZUzgDgt8zHjBkPXADDNHqhiJkKh1a4zUJnMAPIBZDnJjxMWBTGpG0/h1000-e7/Coser-Sally-Sally-Dorasnow-Yuzuriha-Inori-34-4kUp-001.webp"
 ---

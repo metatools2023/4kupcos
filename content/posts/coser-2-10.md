@@ -11,6 +11,8 @@ models:
   - "雯妹不讲道理"
 tags:
   - "雯妹不讲道理"
+  - "蔚蓝档案"
+
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9ZN97Xd0g6Yr2AQT4WCaY1VejQF39fDsVwfOWi8yeZi7I-wOIU1LEIbjiaHTTbe0ddzGQNAawyoIsAZAoAjQu61bJiswqBnWAjtg3vrJerI4bFdtAmA4QLI2gypTKz2X97faCxLWdvK3keoifSiYwrlaMM7JOv6-WyUUGh5fUhtn9tlAjsP217WtbmMs/h1000-e7/Coser-Wen-mei-bu-jiang-dao-li-2-48-4kUp-003.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "ZinieQ"
 tags:
   - "ZinieQ"
+  - "Ganyu"
+
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxBlOewEqJIX8i6HNfsMtQj9pRfuvGKS9x-atM0JHnC0KhpJYKXa7h25NGQwfEZkr1lXbcPgvtmvpxyq9njMBp9Dp0s0qJQLsCHRd8Vb8OMZg5ZUr8nqu1ylqLs6JXSQM49deCuRqzvr-B2TjCZcmfUrGNjFQSzPDtRXAvA05BHz587cG1OS3-VGfnfg/h1000-e7/Cosplay-ZinieQ-Ganyu-Jiangshi-39-4kUp-002.webp"
 ---

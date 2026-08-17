@@ -11,6 +11,8 @@ models:
   - "二佐Nisa"
 tags:
   - "二佐Nisa"
+  - "碧蓝航线"
+
 photos: 108
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXG9q8uoKjz0AO0EcLy_j3eaKYuZzszyl4w9NLn_lyNyInl0VOJiq4Xlr98XgfH96XoP549up-uV16IXx2oXR_z4SCsnb4bDUQ0wNf6mICXGNs7KxVuUwBAn3SODbe0_UwgQoWP4iMNW9Dk_WSSPfkCS2JtUCwZS7WxP4oJb7iAj1Qo6NpDmeTGwNSN-w/h1000-e7/Cosplay-Nisa-Azur-Blue-Route-Big-Phoenix-Bunny-Girl-108-4kUp-001.webp"
 ---

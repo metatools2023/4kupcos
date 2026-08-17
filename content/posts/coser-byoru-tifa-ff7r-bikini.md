@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Tifa"
+
 photos: 65
 image: "https://lh5.ggpht.com/-x8HAyfeb-Y0/Zhqtm8sWPbI/AAAAAAAALAw/1902jPID4kk9tsKakjwfxDag2gbtrgqBwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Tifa-FF7r-Bikini-4kUp-001.webp"
 ---

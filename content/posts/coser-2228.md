@@ -11,6 +11,8 @@ models:
   - "神楽坂真冬"
 tags:
   - "神楽坂真冬"
+  - "原神"
+
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSfqA8PxdkT2mxKkQpaurCLypHxcy3EZwEv1sQ4TwJpqVmSwDmmYM5fWzGfK_vExotF77i5lRaHy59nDZUO-FioS5pcoThEH627tjL4tSuC715RGDgqKkNEdO4z4bEOyxkQfLkCRyHkkH668G__QxazHuBX016IBbM3dJAsmCKpOiwAUkHAs1zaMq3UBcU/h1000-e7/Cosplayer-Kagurazaka-Midwinter-Genshin-Sweet-rain-comes-21-4kUp-001.webp"
 ---

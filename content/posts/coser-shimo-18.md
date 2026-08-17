@@ -11,6 +11,10 @@ models:
   - "霜月shimo"
 tags:
   - "霜月shimo"
+  - "兔女郎"
+  - "蔚蓝档案"
+  - "飞鸟马时"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbqD4QGd2dKqQxjwJhR4TmQEFtInADLd23x297ceky5AHP5G78VJEK-eHCECeipvZJwQg7KFerSN2Ce48JjnGYpPu6DwDSeVTz4R05MFjXmBjKrTs5gc00xt48TK3FhF_EwYfYEHPP20h04fqfQjQAmY71E-y-tIsihrF_b6eeOs3ix-pISpGUhjpEi-0/h1000-e7/Coser-shimo-20-4kUp-001.webp"
 ---

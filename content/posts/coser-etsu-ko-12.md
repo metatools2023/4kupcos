@@ -11,6 +11,9 @@ models:
   - "纸悦Etsu_ko"
 tags:
   - "纸悦Etsu_ko"
+  - "明日方舟"
+  - "泳装"
+
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKs0BfqAZjmKwo4qRbRjm-f08HcZxID7SzK5tA6G5fUoEnmvvEukx5gHc3W-WuNFw463ocPtIXEMu58e4hDa6NQL44l3hixJK35YmgxYlubR9iw1kDmYjfngIPGc1D3s4OWerirBXRg9lehy5Wc16nVQBZwnd61-bkaUrS0ER8PNH2v-0bzRpalHIhMNuO/h1000-e7/Cosplayer-Zhiyue-Etsu-ko-Arknights-Shirter-swimsuit-34-4kUp-001.webp"
 ---

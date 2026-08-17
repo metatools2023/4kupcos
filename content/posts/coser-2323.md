@@ -11,6 +11,8 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "碧蓝航线"
+
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5mJG2HxsVSIWtymErbfeZjUivLICb-U6nmZ7FRE58hBFn9nigtuV5qtONF_ANwPVCvkNbOSVIHAt8EkQvEY_wV9w_65DEcCeJPrJyKdL9xFh5zK8jnc8uYnRr4TrrO6fRVPPN6T0VdYTlOHDxGolXXbemiIcuKhufyRNyws677hlsQRs3xfSlDHlwm-gI/h1000-e7/Cosplayer-Island-fish-azur-lane-Nakhimov-admiral-39-4kUp-001.webp"
 ---

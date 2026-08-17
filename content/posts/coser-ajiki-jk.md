@@ -11,6 +11,9 @@ models:
   - "安食Ajiki"
 tags:
   - "安食Ajiki"
+  - "大凤"
+  - "碧蓝航线"
+
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOtM07uS7jF6itJWyzZCZHEZ-FQ8gL7245z3_NuBMKecPaUZhPSKZlIuYtk_TpV9sur5pMSmNS_G0gB-G7YkJxvW9kP9ICvdprJTZjLWIIrUFa2anzwu8pHvo2fDke3Y6cg6If36EhDVe4GpicDGbX4-eLnVdP4WkhrzakyH0DPTfylpP-ZrW6xFrjrw3X/h1000-e7/Cosplay-Anshi-Ajiki-Azur-Blue-Route-Dafeng-JK-40-4kUp-001.webp"
 ---

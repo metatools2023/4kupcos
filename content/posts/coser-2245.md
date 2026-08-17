@@ -11,6 +11,8 @@ models:
   - "西园寺南歌"
 tags:
   - "西园寺南歌"
+  - "圣诞"
+
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXmIZOcwsLDcSKkT-38eNBabBhazfH3VCpIT_Jed8HkGZCLJnXEh2C8JHWt2gUtSdXHVgBDyBeRcnvjVNnHFtugQfBMapSJwCXUATxvc4KvNLvIy1CwR_NlzVt-Sytd9R-knqbuFcAPV55GtlrNuo4ujV_2A0g7n_w0p-IlomZBSChpocFdJBZhGg_T98c/h1000-e7/Cosplayer-Saionji-Nange-Mataro-Christmas-39-4kUp-002.webp"
 ---

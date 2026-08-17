@@ -11,6 +11,8 @@ models:
   - "半半子"
 tags:
   - "半半子"
+  - "蔚蓝档案"
+
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0R9Faxa45t9wf_lqgWLVZ3Xt_a2SO140U7OI0u_1de8POvv67R5ZkWCHGLlynk4AUPJypws2J3t8aeUaOZsGe86jbYIeTkKJTGU3WcgdFUHqT17Q1Ay3SKC8TwdhJGo7ybKi2xOtsY1glRYqyPUrFjNjbmF3QpD3eQJKvLMhHpq0cguerN7RIEP4XnaA/h1000-e7/Cosplayer-Half-son-Blue-Archive-Tiaoyue-Liyin-bunny-girl-49-4kUp-017.webp"
 ---

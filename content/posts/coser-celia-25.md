@@ -11,6 +11,8 @@ models:
   - "切切Celia"
 tags:
   - "切切Celia"
+  - "碧蓝航线"
+
 photos: 15
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYJ2wcz-mncB9b_mxxzBrLlOzcoKvx2kVGnSIa2rOGxb2eWyiFitH6DjAh5YExaR_LTNgpFwwsTomiZ1J3jQZ9cxfKreUmuJKPJp85QukiJSiKPX4TxMh5p-0WA9_KEzC7VntbuCjmEz0hvJ47Sd1NY0tORw7vw9NS7id5ZwzFHpDEL2lqu8bv4Wex9jEG/h1000-e7/Cosplayer-cut-Celia-azur-lane-Shinano-bunny-girl-selfie-15-4kUp-001.webp"
 ---

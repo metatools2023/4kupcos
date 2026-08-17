@@ -11,6 +11,8 @@ models:
   - "狐玖玖"
 tags:
   - "狐玖玖"
+  - "碧蓝航线"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwi6fpR2oz2xdo40KHpvASSGLP8qkgFaeDGbX__gUDQZ74X7bN6wDvXH1IoK84xrQUVoB1uBqV7g9AqqEf39H_2ATgU0QDIfpb7HEZiY6BdEuqMRjecaRa-XdOr4NHTjlVdaqfPoPkkf63iS9sGYz82l3oQDNy17MRO-jFZjc32sXyT0EvVCT7ZJoXjLWo/h1000-e7/Coser-Hu-jiu-jiu-JK-20-4kUp-001.webp"
 ---

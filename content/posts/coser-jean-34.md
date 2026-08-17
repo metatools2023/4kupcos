@@ -11,6 +11,8 @@ models:
   - "九曲Jean"
 tags:
   - "九曲Jean"
+  - "镇海"
+
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk900lpxB9BKY7RpmAWCiKyFLZTzaDwLB-iayytfRhBStcyR0hRfxpvI8WBcvZclD5Jp4YmZPmbqdfPhkccJtYIxHGlg2ogD1KE42ddOlrwPTHd_jF0ysbRSGf49DDvj5Cxura0xuy-fwxj1rDfacZDVwMJgVclpFsPdvy6HWoOcqlY532iWMMcrxNpyZB/h1000-e7/Coser-Jean-40-4kUp-001.webp"
 ---

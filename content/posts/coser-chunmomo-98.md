@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghTqr4PEKtrZjEIcAcKeVmvPalZealUtV6wlLyTVjsjOiYQL-WGejmkwZ7IkH538BNHGtmm5wd_lNFYOSGhSl3cf7T9N0fvY9bFe4bxtjGCzzeOqwfZshJtHBYmtTly2RZLO9YcDMKLzpg0E3N_uRXwU9tLc4gDdgL6Dk7HmIRFwiyuwCOTX7dgeclNT6N/h1000-e7/Cosplayer-Stupid-Momo-chunmomo-peach-27-4kUp-001.webp"
 ---

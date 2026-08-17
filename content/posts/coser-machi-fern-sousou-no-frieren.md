@@ -11,6 +11,8 @@ models:
   - "Machi馬吉"
 tags:
   - "Machi馬吉"
+  - "Frieren"
+
 photos: 59
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhijjiFJ_OcG9y5ZExnMsudqghENiUkcHm4eR-tyIrqzr3GZsPql88jz3a1icI9sF9ejerMZyGNgKKYfG16FksEhHbVzDajQO_Svl9ClnCG5x6lYsWpg2EqmH4865MmT9e-WW7F9xal6uII5PngVZtUHA4QKODgbgIYe2tc9Yius5zM525LTbhKVvpvXak/h1000-e7/Coser-Machin-Fern-Switch-No-Frieren-59-4kUp-0001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Maria"
 tags:
   - "Maria"
+  - "Marie"
+
 photos: 14
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQY3_U5CoFdNeJ72Nvod-adfqRdU-uxJd0ot2z4sHgl6X9UvCkXFBFXAF4FeOtpTKyWv2e5o3a-MG5Wc9sSOSMERQqCsKHgDvhefLTAw-HjDi8t364W0QxgdvlHj7W_LXruRT6VLYyyBTuZu79SRqqgNUhQ-wmCMsoF4Ld5ru9wcVrL3WJV4G3-fvKuUdt/h1000-e7/Cosplayer-Maria-Desu-Marie-Rose-14-4kUp-001.webp"
 ---

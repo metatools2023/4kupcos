@@ -11,6 +11,8 @@ models:
   - "前羽_rr"
 tags:
   - "前羽_rr"
+  - "碧蓝航线"
+
 photos: 17
 image: "https://lh5.ggpht.com/-MMW5E4QI_6Q/ZVVB8VRQe3I/AAAAAAAA2t8/e7bA32NJg_oYvNQiwpK1e1KK7Ve0Ayn7ACNcBGAsYHQ/h1000-e7/Coser-rr-4kUp-001.webp"
 ---

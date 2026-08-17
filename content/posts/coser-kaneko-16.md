@@ -11,6 +11,8 @@ models:
   - "KANEKO_咔喵"
 tags:
   - "KANEKO_咔喵"
+  - "碧蓝航线"
+
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0EyaqctXaA0FGo3VqUKaX4u_VEhx7kwDHwPD3eqKtvoI_Pxfqg-jCqJP3P6RIGj1DuQFZBWVzm9UvmsDOa87i8NbrPOcwVAoV7LJfMW0zlak5uPFp7-vLQx4T6qC_yw-KXheKaO03rqpoXgNWcmJC02vTe03q3SLFlQTQIMruzNfT0D_JxCoC1vUgSQAm/h1000-e7/Coser-KANEKO-48-4kUp-003.webp"
 ---

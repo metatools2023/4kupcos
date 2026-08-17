@@ -11,6 +11,9 @@ models:
   - "魅瞳Meroko"
 tags:
   - "魅瞳Meroko"
+  - "可畏"
+  - "碧蓝航线"
+
 photos: 26
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZg0V63MoIsb41NdPLy24rrzeQ1_5Smme73jfQLdZzluD52yRh78iH5AsFKI9dF4lu9sRHKVRkevhpeieCMyRyV-ZJTWFXc9Te08C1Ec-SR420iYvw3cUEQXCl4069X9Kvk3mqqu3E3E9XOx5lDlIEXfPEdrZ38PHU3w3PFojXngPcSqbolzovdIkqOmvN/h1000-e7/Coser-Meroko-26-4kUp-001.webp"
 ---

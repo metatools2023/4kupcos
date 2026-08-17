@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 10
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEIJc_rWkAfGVczQZ9IxmbF-WNmjEwZtCheKqwugG1_X3AXNOnaJVUpE4Bm3Uen_cra_7Q4Uh6GUQtdKBaxOG6FIkD8M1YGFbirAuGO2HPOPDtM_F1FAxTK9pZaGSPBV8H_ueHxlbIW0TX5-zvo4mOSHgR9U-3892DoOELkiapptJe-2R6Pya_Z-3Mo9CL/h1000-e7/Cosplayer-Stupid-Momo-chunmomo-dark-night-10-4kUp-001.webp"
 ---

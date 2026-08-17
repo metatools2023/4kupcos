@@ -11,6 +11,8 @@ models:
   - "Ely_eee (ElyEE子)"
 tags:
   - "Ely_eee"
+  - "ElyEE子"
+
 photos: 24
 image: "https://lh5.ggpht.com/-Y6kEMG7M1Xg/ZW00lzd9s8I/AAAAAAABMDc/QRoPxRLrCNw6n_k5NMdUBG46_qhpCqw8QCNcBGAsYHQ/h1000-e7/Coser-Ely-eee-ElyEE-4kUp-001.webp"
 ---

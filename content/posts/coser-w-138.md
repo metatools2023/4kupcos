@@ -11,6 +11,10 @@ models:
   - "是三不是世w"
 tags:
   - "是三不是世w"
+  - "可畏"
+  - "巫女"
+  - "碧蓝航线"
+
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL8cjEj-zIinGUUZ5OCThRPejAu5KHL27dTEMnaSzzsl6xQrSTbMnhiMsANbInhws6R72tbQaY3_IxtyPHOKOAGFuG_7p1JLEjNNPrJOrM2rGfeQ_LMzufX-UtpqHorsw5TLtqkcgLP0j-JT9cTLiGMhB9If8eZN3e9De-82mu9K3C9lBo7aGI9kcNvw/h1000-e7/Cosplay-is-the-Three-Not-World-Azur-Blue-Route-Awesome-Witch-21-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifxtiiIoaYRz65AtDh8pnlV9Qn2amex2x-XtKYwtYoOK1OTtVk0AACxprvOwNkfD7H2RVkhJS8CKgZQ57VLp2Hw-2rTnwBhX_FRi0WomiXXrFEr4WOyb2rTPqPoNm8MR7RZTWIG3XK3RDNivtdj900qmPefkCV-yY-Ku0Fcfpx-r3KP2QqyFUdD_ldymm0/h1000-e7/Coser-Sally-Duolaxue-Dorasnow-Mitsuri-Kanroji-Onsen-32-4kUp-001.webp"
 ---

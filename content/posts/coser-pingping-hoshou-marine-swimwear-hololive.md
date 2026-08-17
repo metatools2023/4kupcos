@@ -11,6 +11,8 @@ models:
   - "PingPing"
 tags:
   - "PingPing"
+  - "Hololive"
+
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_j7N90Nnxcj4ePmm9rvgLQa5kRi9D836rNEmU664lYsjB01rv3tq-ClLkfDyroHBcXibvY8NXGRkoajeevVjvut1u2Dpm6inhgpXaevN-Gm3AT6SeQ52EtvWbPtLdcIrdwRPyfPwpPGWVI0IJC9KvsGrk_uYPjIO_Qd7i4p_qrhlUImHrW4DcsOe5TNiS/h1000-e7/Coser-PingPing-Hoshou-Marine-Swimwear-Hololive-27-4kUp-001.webp"
 ---

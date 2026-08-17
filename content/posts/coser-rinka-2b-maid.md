@@ -11,6 +11,8 @@ models:
   - "沖田凜花Rinka"
 tags:
   - "沖田凜花Rinka"
+  - "2B"
+
 photos: 30
 image: "https://lh5.ggpht.com/-Kt-5we-VizQ/ZV51aIGsiKI/AAAAAAAA_MA/zwPf3prMsW8B11vLCSmq-yBiUxoXM6zdgCNcBGAsYHQ/h1000-e7/Coser-Rinka-2B-Maid-4kUp-001.webp"
 ---

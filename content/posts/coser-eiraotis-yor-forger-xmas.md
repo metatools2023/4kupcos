@@ -11,6 +11,9 @@ models:
   - "Eiraotis"
 tags:
   - "Eiraotis"
+  - "Forger"
+  - "Yor"
+
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWXmXa2SkLzAp96_5-6IsmnDhyphenhyphen1OmdZ-DZgUeYCgd21MYVWEdyPG5lhh1sQal4oeOMALufDyzz9YbSmgq7-tmW0GDuoxfSZhK_GQag_P9vmuor7kLt2VtEkpCGVmYRlLoorfdzKCdchrCh7abk38qRyHFldma1rORiSjl0exj2-bQ4jV8PEOCgojTcuhXY/h1000-e7/Cosplayer-Eiraotis-Yor-Forger-Xmas-29-4kUp-001.webp"
 ---

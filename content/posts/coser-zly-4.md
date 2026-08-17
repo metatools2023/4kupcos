@@ -11,6 +11,8 @@ models:
   - "走路摇zly"
 tags:
   - "走路摇zly"
+  - "鸣潮"
+
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_CFKz4kcLCYmFlPYDsxKtORHmuVdv-UqX6OsxaHuvdFMjcGgClU_IgIx9YlW4n7a8SitJH6h6QwRzAeRVBOR3TKOX7YtudPLYj45LLMvgyLDnuN2Lvhyphenhyphenfw7K487gwiXIeTcte4WfDbRlLqFuuaQA9Zy4bVMFe7nNJT9I20nXZTT7_f_YbmVJA3NJcIGgh/h1000-e7/Cosplay-Walking-Shake-Zly-Mingchao-Canterella-27-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "稚乖画册"
 tags:
   - "稚乖画册"
+  - "体操服"
+
 photos: 70
 image: "https://lh5.ggpht.com/-OGPPVwHqTB0/YloVqmmy2zI/AAAAAAAAaX4/dIxIf-9nirsgSB928okSR7UJVezDFVTWgCNcBGAsYHQ/h1000-e7/4kUp-0013-Coser-003-4kUp-001.jpg"
 ---

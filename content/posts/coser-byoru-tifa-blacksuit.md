@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Tifa"
+
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWySArC6VGj8NKJuxSjWkbXBN9jxkuO_yb2jZdWF5jblVUkdh2b03wUZrnKkFSJyiRBTiKB1rtsY8Ixf8X5GQpx9-wNuVwaDPuBj7lHYSTn0btuBP8IKKfJxzq4f7Cgx7JRYLQV2UUNCzHFPswdB6U8fKfPrTjaRww-we7guiW-wkXwAlbuCnGiS9X0d4/h1000-e7/Coser-Byoru-Tifa-Blacksuit-58-4kUp-001.webp"
 ---

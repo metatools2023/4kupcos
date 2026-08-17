@@ -11,6 +11,8 @@ models:
   - "雪晴Astra"
 tags:
   - "雪晴Astra"
+  - "雪晴嘟嘟"
+
 photos: 78
 image: "https://lh5.ggpht.com/-xWblEQHmkHc/Zig2sdFzqsI/AAAAAAAATB8/orD6iz6O9DQTumhfVa6a1LldKjZLpjxgwCNcBGAsYHQ/h1000-e7/Coser-Yuki-Astra-4kUp-001.webp"
 ---

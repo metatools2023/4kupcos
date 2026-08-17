@@ -11,6 +11,8 @@ models:
   - "Mao Jiu Jiang Sakura (猫九酱Sakura)"
 tags:
   - "Mao"
+  - "猫九酱Sakura"
+
 photos: 11
 image: "https://lh5.ggpht.com/-4F5DcehRyho/ZNbk-S7OsEI/AAAAAAAAPgg/7Z1y6VXlNWwP-NQqXC2l62iIjhKstLA6ACNcBGAsYHQ/h1000-e7/Coser-Mao-Jiu-Jiang-Sakura-Sakura-2-4kUp-001.webp"
 ---

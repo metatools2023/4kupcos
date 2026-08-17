@@ -12,6 +12,8 @@ models:
   - "ZinieQ Helm"
 tags:
   - "ZinieQ"
+  - "NIKKE"
+
 photos: 60
 image: "https://lh5.ggpht.com/-30SQpHlZ1cE/ZYoFtKZZIyI/AAAAAAABpNI/-csya_sWtu0Fo-spMjvMvrLi5x58yi0EACNcBGAsYHQ/h1000-e7/Coser-ZinieQ-Helm-x-Anis-NIKKE-Cosplay-4kUp-001.webp"
 ---

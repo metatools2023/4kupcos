@@ -11,6 +11,8 @@ models:
   - "Potato Godzilla"
 tags:
   - "Potato"
+  - "Ganyu"
+
 photos: 20
 image: "https://lh5.ggpht.com/-0JdeMLZ7Vp8/Y7dVN99HlII/AAAAAAAAFRI/IcNHYJa7H7QPK3iM62THuiF2zL10N11BACNcBGAsYHQ/h1000-e7/Coser-Potato-Godzilla-Santa-Ganyu-4kUp-001.webp"
 ---

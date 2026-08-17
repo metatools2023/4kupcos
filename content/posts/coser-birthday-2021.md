@@ -11,6 +11,8 @@ models:
   - "けん研 (けんけん)"
 tags:
   - "けん研"
+  - "けんけん"
+
 photos: 50
 image: "https://lh5.ggpht.com/-V8iaYGZco9E/ZWFAo2NUg3I/AAAAAAABBrw/JYM0FgwyQCoQ_XZfPE_cgnN7WYj8nRUxQCNcBGAsYHQ/h1000-e7/Coser-kenken-Birthday-2021-4kUp-001.webp"
 ---

@@ -11,6 +11,10 @@ models:
   - "樱落酱w"
 tags:
   - "樱落酱w"
+  - "可畏"
+  - "碧蓝航线"
+  - "礼服"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJ9F8lryDbNnzwV0cPP29fDqpmoU3Gai_lT5TGG2ZSRknpSdLeLfUT4HRYu_mdHYoyoaQot-tC2QhQOlDs78e3Ym3jiKfvrOSDZtfx5B3IeAsTCovjvzf1O0m0JYaBPJ0eSiYWojasUFJwOJ_q9N3srNCi5R1j-9vhjCROEC5sEjin-YZeMiCy5nreImE8/h1000-e7/Coser-ying-luo-jiang-w-20-4kUp-001.webp"
 ---

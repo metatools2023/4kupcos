@@ -11,6 +11,8 @@ models:
   - "三無人型"
 tags:
   - "三無人型"
+  - "碧蓝航线"
+
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrHiyvOcutXN8YpQMmRUSJ9bkRUsD99v7iQJ0DyqOeQ2x4B1ODqVOc3Z6DvLod8rDZIEI_tCjdT834iEouCrdjYxj97OXyXeqhsf3qLC8rdE6AWrZAsq7Nir3h611ZtsDMuWzyPR9_uVvPitKH5o_qSsVzZudoYmC-BB9rCk7LL92ntl6m3x4I-_kGnPCG/h1000-e7/Cosplay-Three-No-Type-Azur-Blue-Route-Cheshires-Gorgeous-Night-Dream-40-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "碧蓝航线"
+
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMUrnYditS_ApySSh3ppEM5Lr8GtC22URDISSFuZNs4g0DuQnPnvnVBXRvlZPLtyhjFAJsjTDs75b2814JCZaOuOCio4RnbiMbhyLBdGgrQA8RZN9Bb1HYdMaeyQMU5v1Ae5GMCXQSXQe2J1Kquqw5F0qyH9SihzTbuk6puknfiXAem7O3smFgyqFYPKGR/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-azur-lane-Kashino-cow-bikini-48-4kUp-002.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Irisuare(愛莉)"
 tags:
   - "Irisuare(愛莉)"
+  - "Marie"
+
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxt-IQWm0LwPCTEOw_FVNk4toS9THE9JVxvU7nQZRzx4TfZ2GtTKA9jz9QPYGitsSUZMSRwJRHw3DHn3or8hGUaXy8aXmyWApOBq_o847ah6OuLmkwWNrcPqucP3-_Rhxo8m917wHs3YwiWbpxZmn_afTIUWQiGmI72HvjaJWPkxPKCW0xqICtwsqNQQM/h1000-e7/Cosplayer-Irisuare-Airi-Marie-Rose-43-4kUp-006.webp"
 ---

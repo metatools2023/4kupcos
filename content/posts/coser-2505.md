@@ -11,6 +11,8 @@ models:
   - "喜欢爱理吗"
 tags:
   - "喜欢爱理吗"
+  - "碧蓝航线"
+
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSXsCjL4o7nYSqF9ORwlQy7Da0Mvz7Tgyz5dtapZhLM32Fd6l5tRBGfqZOEXpcnt-E1FDf0AUM82F4zX04oFjuZZAZs-b1kEfaq8J9Yi98Zp19GyMZKmYd0uz-KLkkw7GZydeyGujhJJ41T4g5kl2OgmbRI2v_RAYAX2A6YUnITnhLw5AVvQKiiCejTms/h1000-e7/Cosplayer-Do-you-like-Airi-azur-lane-Lafite-rabbit-28-4kUp-001.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "碧蓝航线"
+  - "礼服"
+
 photos: 65
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdijuNeq2inrV9XP_VK17-j6oGwoeMjxb0t21dfhyZ8fwSDW6putQ0ErOApjc865oPC5uEvzz3383J7q93jzy1kik-xjNIPvFrw5KqmjesEAXTouBvr-tzBgft86pQs9qFaSWrlV7ChdqIiB2a2uoQuDIjTLUyryZt2llpX8mZIcsp7xjn8YNvcDapGw/h1000-e7/Cosplay-Island-Fish-Azur-Blue-Route-Sky-City-Dress-65-4kUp-001.webp"
 ---

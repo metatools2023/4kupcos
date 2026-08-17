@@ -11,6 +11,8 @@ models:
   - "芝心蛋奶烧"
 tags:
   - "芝心蛋奶烧"
+  - "碧蓝航线"
+
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQUzZMqw7qnbQhpkpkdXr3LnWZ5LCM40DeIVAq2BMZon8Qm9iTkF0hV-F0frdnBEaztLS32mQWrMb7HCVDu1d8eloR4DRWzrnW4IrkzbpEAocb5jpNjsKdwcwcOzCRCVu49QHZoVU_nqaEGzdPT1WwUF2R-Hv3bdugRS0Z9fAdMKHFNT42jfCZlKIgUsYi/h1000-e7/Coser-Zhixin-egg-custard-Azur-Blue-Route-Mogador-22-4kUp-001.webp"
 ---

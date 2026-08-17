@@ -11,6 +11,8 @@ models:
   - "贞子蜜桃"
 tags:
   - "贞子蜜桃"
+  - "原神"
+
 photos: 19
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEht2-HWa3DhkXOWRSqwO04IoLouCaOSitiBrqZN5Z1ZP-k3fusXGi5kTbgGHy_KCfdQhQIeQJAcqbxFc5riJ5RHkt7Ve5r-CcEKVfmOoOYFGGS9deD4wsfODRxKrVDfDdPfhCbPLhgGO0YNTWFbdOB19qpQO_XeH1OJKo-83CWjSBePFXJtoeZcrvNj174Q/h1000-e7/Coser-Zhen-zi-mi-tao-19-4kUp-001.webp"
 ---

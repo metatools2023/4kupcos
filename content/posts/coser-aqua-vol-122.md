@@ -11,6 +11,8 @@ models:
   - "水淼aqua"
 tags:
   - "水淼Aqua"
+  - "吉他妹妹"
+
 photos: 59
 image: "https://lh5.ggpht.com/-Lrc_vW2peM4/Yw-HXq0r_cI/AAAAAAAALqk/8js8sbMf_4sBRrNM8wb5aKtvNuMewkZ7gCNcBGAsYHQ/h1000-e7/Coser-Aqua-Vol.122-4kUp-001.webp"
 ---

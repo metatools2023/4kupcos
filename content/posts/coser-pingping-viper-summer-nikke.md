@@ -11,6 +11,9 @@ models:
   - "PingPing"
 tags:
   - "PingPing"
+  - "NIKKE"
+  - "Viper"
+
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2tQQfRNi6zggMwg56S0LwzgvuK5166pJKov8uh59661cDElyMcDYgM1b3-ir2u634A9K42aQSbhAlKdmu1_Thb1zQe5-Txmsu6bIxTk1v59kMhhlS7yfm4eCv-Er6rFsFhaCYUcsJHQJW0YuPrG4Y1m4o_nr_HBP8ijDJ4VvhTjV0u4Y1A70EaqEmawM_/h1000-e7/Coser-PingPing-Viper-Summer-NIKKE-23-4kUp-001.webp"
 ---

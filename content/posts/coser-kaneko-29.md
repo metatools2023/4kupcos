@@ -11,6 +11,9 @@ models:
   - "KANEKO_咔喵"
 tags:
   - "KANEKO_咔喵"
+  - "信浓"
+  - "碧蓝航线"
+
 photos: 49
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7Wh-n-fF5pFzdYLY4NvKXoh1-a5kPvBcs-JIMAHyPYCsP3-oNX-i8CG3xR4Ai80h_DdVRdNB-oA74UKoDwAuSzIsj7cCLp3wXvw-USbormRHoBZANctoWeJx3rNSp8LJHXsCnSLjH7_OI1Tqwcdp8OSnBxFu9Y9J6aE8dq03BSYni65edAjmuQbG-18Ta/h1000-e7/Cosplay-KANEKO-Ka-Meow-Azur-Blue-Route-Shinono-Swimsuit-in-water-49-4kUp-002.webp"
 ---

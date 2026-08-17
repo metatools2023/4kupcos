@@ -11,6 +11,10 @@ models:
   - "发条少女"
 tags:
   - "发条少女"
+  - "Forger"
+  - "Yor"
+  - "迷之呆梨"
+
 photos: 58
 image: "https://lh5.ggpht.com/-6wI5vLYRqrI/ZSxl4uFZhoI/AAAAAAAAORI/599pZvCUBig2d1ebkVBC50tw3hm5RDhPQCNcBGAsYHQ/h1000-e7/Coser-FATIAO-Liii-Yor-Forger-4kUp-001.webp"
 ---

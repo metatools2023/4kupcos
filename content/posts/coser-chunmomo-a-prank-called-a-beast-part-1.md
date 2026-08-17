@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 194
 image: "https://lh5.ggpht.com/-wwRXT9eKFuE/ZLG9Aj1i3cI/AAAAAAAAT-g/Xc4lFnog9wkpfYGdn03ESzkbPK11rYkwgCNcBGAsYHQ/h1000-e7/Coser-chunmomo-chunmomo-A-Prank-Called-a-Beast-4kUp-001.webp"
 ---

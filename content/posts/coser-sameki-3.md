@@ -11,6 +11,8 @@ models:
   - "Sameki"
 tags:
   - "Sameki"
+  - "甘雨"
+
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieP920RHLGPTD0H1nmZXn_tLxbymeeg78wNzZkJSONtjbIs9Z_5ewmdgb9_tYAB0Hx_iODdxJp4NvZda6WtSMth54CQhvJclcYrjcFM7KPWJ9v42nCqa-8ajoTXsHzp-wH7DxXeYh_8z5x4gmXCorDYDGVNoyY6ZQvL9sKGjoHo9R3pv8j_y8fS2pitJM/h1000-e7/Coser-Sameki-52-4kUp-004.webp"
 ---

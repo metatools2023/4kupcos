@@ -11,6 +11,8 @@ models:
   - "半半子"
 tags:
   - "半半子"
+  - "爱宕"
+
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGC6L_Z5AIN0V8F46NfJzuxLmhAOmKoZTRz7OsvVY8viAuwOH8j5NIHhkpD5taNHnR-4r4LdWVZLz_CGFU-CVNAqxMAIozQPDTQaRSnSv2vUz31fxnaSiYvbSLb7h4yX3RPaTHLwfPUgrOWxJGfdxCwEAtV89LJt7GUgvoUAglLHMs9uc-dbGpIfzv5-BE/h1000-e7/Cosplayer-Half-half-son-Atago-Academy-Fantasy-25-4kUp-002.webp"
 ---

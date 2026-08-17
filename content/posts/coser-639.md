@@ -11,6 +11,8 @@ models:
   - "前野太太"
 tags:
   - "前野太太"
+  - "碧蓝航线"
+
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKKg4azxuqIxdN_h9GOOCuKaGpLhe_kIeCsLXOaCWnMKy5Ut9wNAZ7c2aCaChv6ZQLXMxnOAaD1vot92k3sIDgsVM6IoGMa6N9AtQUMmDKiagYxdYAypUC03pEx3Y1dFzw9vYI8McHYphKlPjotJK7AFsmhLx5LFMhhcz6XUDU_SbTu4_WaBf3OKO0Tw/h1000-e7/Cosplay-Masao-Azur-Blue-Route-Tashkent-22-4kUp-001.webp"
 ---

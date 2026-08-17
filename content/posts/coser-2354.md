@@ -11,6 +11,9 @@ models:
   - "西园寺南歌"
 tags:
   - "西园寺南歌"
+  - "妃咲"
+  - "蔚蓝档案"
+
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2SXN9sPIZfLGxNMrsQyCYXE39LvjJjhCcy3ncC1PDW63YgT2w6zEKpZ1stHypQUXKmBojLlFqhRxqRXrn-yv7D08QouW7QlwjuHfrmHmbL3KuyfPk-RUa-LzKttQ8KD33DnH_UmNsGkg5hNFdK74XeQF9WBs-0W_QuvpZLRwJwYMb2YwwRrgMSzlqNESa/h1000-e7/Cosplayer-Saionji-Nange-Azure-Files-Kisaki-34-4kUp-003.webp"
 ---

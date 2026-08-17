@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 49
 image: "https://lh5.ggpht.com/-nmVxSqxjtQs/YkuQWC_6Z0I/AAAAAAAAXHE/IDAZkYoY0rc_cvSIBvumxY4kwRUgO2r4QCNcBGAsYHQ/h1000-e7/220207-Coser-Sally-Sally-Dorasnow-ReZeroRem-White-Kitty-4kUp-001.jpg"
 ---

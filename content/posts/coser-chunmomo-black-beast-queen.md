@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 127
 image: "https://lh5.ggpht.com/-BXimlcteTAg/ZLr6CNpTAdI/AAAAAAAAbg4/3ZhCZgQgyyg-UPak2n2M5D_Nz7J4mfm6ACNcBGAsYHQ/h1000-e7/Coser-chunmomo-chunmomo-Black-Beast-Queen-4kUp-001.webp"
 ---

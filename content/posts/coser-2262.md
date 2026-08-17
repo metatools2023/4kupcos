@@ -11,6 +11,9 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "爱宕"
+  - "碧蓝航线"
+
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBCSJSZr1iH6mhe3fIAMmlh3RUTh8lX8x47s9GMnr2cmKJ4567sql2VU9danZsrdE1vi0sOXI25HlzRQcKX5QEbpDHRYeKmN-u6vpjIXXxF5PB0Jw3wgKdbCbERajP6Q5QakYt4EckiS8BAK_5waFs7FrtLiSGy47XCYcJA6f-RS_F4ZMCsprHW0TFRk1I/h1000-e7/Cosplayer-Island-fish-azur-lane-Atago-werewolf-43-4kUp-001.webp"
 ---

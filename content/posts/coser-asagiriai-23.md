@@ -11,6 +11,9 @@ models:
   - "Asagiriai (愛ちゃん)"
 tags:
   - "Asagiriai"
+  - "愛ちゃん"
+  - "玛修"
+
 photos: 30
 image: "https://lh5.ggpht.com/-YowF9foCxJU/ZYS7UJAPNbI/AAAAAAABkzA/LWd_2ZX0tPso1cw_6Jxhwdk_LggW2uctgCNcBGAsYHQ/h1000-e7/Coser-Asagiriai-4kUp-001.webp"
 ---

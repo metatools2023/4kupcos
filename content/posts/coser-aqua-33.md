@@ -11,6 +11,8 @@ models:
   - "水淼aqua"
 tags:
   - "水淼Aqua"
+  - "原神"
+
 photos: 69
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrdHfpBo1d1wCCFQgROX-GtCn4HI3r1mZKnnv4BMnGdtB9OOeMo_1vkWftRAcOaCuEu8yvsVqZ2XCS-NFJvEToax2AWx_G4u4ReX6JRdpf3ePfWTkMcoaAXwLfxWA7CKmv2a8CFqfY_ry2utCNBxT3MwT3IGHArmj8WYwvz55oQahUxD-YnEVjsihThPg/h1000-e7/Coser-Aqua-69-4kUp-001.webp"
 ---

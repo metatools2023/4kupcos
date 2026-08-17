@@ -11,6 +11,8 @@ models:
   - "瓜希酱"
 tags:
   - "瓜希酱"
+  - "明日方舟"
+
 photos: 25
 image: "https://lh5.ggpht.com/-ig9vT8SQtv4/ZbwNPughtuI/AAAAAAAAfDM/uKkaEtZhkvscwsWG0EI438bp8yNJllWAgCNcBGAsYHQ/h1000-e7/Coser-Platinum-4kUp-001.webp"
 ---

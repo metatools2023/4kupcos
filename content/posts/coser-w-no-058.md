@@ -11,6 +11,8 @@ models:
   - "小仓千代w"
 tags:
   - "小仓千代w"
+  - "大凤旗袍"
+
 photos: 30
 image: "https://lh5.ggpht.com/-Ptvl0FC697o/ZTWlZs-DgtI/AAAAAAAAVxg/dpICkmTOqDErNIgeGuzSNWl1WsTVV3XnACNcBGAsYHQ/h1000-e7/Coser-w-No.058-4kUp-001.webp"
 ---

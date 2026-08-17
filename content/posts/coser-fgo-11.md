@@ -11,6 +11,8 @@ models:
   - "亚马逊鲶鱼"
 tags:
   - "亚马逊鲶鱼"
+  - "FGO"
+
 photos: 10
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhi4SfsGGFOORBeKCEcccmvxig7Wh4WznP3CRGRN6WSQ404I96Z-Pz4af0v0ihthap5zNdEZSXnkCwRm0tlgeKyyypsJa8M0Q0i6yL6hs2lDJxGVEgfNcsFQV1WYpARkEEQPpk3rhI7ZzZkEX7iuhyphenhyphenxNBayFgDD1t5RMfHuLt3yRlrc_d3sr1kU8CN1NnSs/h1000-e7/Cosplayer-amazon-catfish-FGO-Tamamozen-cheongsam-10-4kUp-001.webp"
 ---

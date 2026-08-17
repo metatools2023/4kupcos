@@ -11,6 +11,8 @@ models:
   - "日奈娇"
 tags:
   - "日奈娇"
+  - "碧蓝航线"
+
 photos: 25
 image: "https://lh5.ggpht.com/-p3le6MTWF5U/ZkfYGqeJFWI/AAAAAAAAnYo/zdVrYx9IDOkElgAJT4o9y_eVuImE8ePqgCNcBGAsYHQ/h1000-e7/Coser-Ri-nai-jiao-4kUp-001.webp"
 ---

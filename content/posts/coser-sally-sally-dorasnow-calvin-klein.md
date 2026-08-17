@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 54
 image: "https://lh5.ggpht.com/-mHq6h0Id360/Y6yiMytLCNI/AAAAAAAAKfQ/b_aRAKWM9xoutRSRtM0vw_rSp3y0dox6wCNcBGAsYHQ/h1000-e7/Coser-Sally-Sally-Dorasnow-Calvin-Klein-4kUp-001.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "矢量鱼"
 tags:
   - "矢量鱼"
+  - "兔女郎"
+  - "妃咲"
+
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTxnocXX-89TLCmgWOv0x_LDXN5Gj5RAdbDKae6QOtWu1rmGKLRgCpeo3tPNr-qxVMsKa-UGU5cOo2OhADcQlmNZj6l0cO1zhueHrOMmaqtxZFOJmyIcuy5sVsfGnbfSFzBPUcGivcGKmrkcV7WmWzwrZcwAEAsoypqE9XVZWlp4jZHIZ0J1diMiQxcYIw/h1000-e7/Cosplayer-vector-fish-Kisaki-bunny-girl-24-4kUp-001.webp"
 ---

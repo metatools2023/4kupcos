@@ -11,6 +11,8 @@ models:
   - "布丁大法 (Pudding Dafa)"
 tags:
   - "布丁大法"
+  - "Pudding Dafa"
+
 photos: 107
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheKLYVKs7LAZI-QE3f0_7bZ6l9j-WFv7TEthffX4YQAJhrn4ibeO9UEuIMjO_gWOuWfTxrv5L9C96u9Ojovk8Fb7I_5FMjbqWYA1L2f5VpKOra3XmL-NEWjd_EDn2FnNkzYs4zis6Tpe8rIIus4pZ6bmnSTqpJEKx5jpQ8NnTd0Tx6RYm1Vxpwgrph8X6l/h1000-e7/Cosplay-Pudding-Dafa-Princess-Snake-Girl-114-4kUp-005.webp"
 ---

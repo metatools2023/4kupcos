@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 47
 image: "https://lh5.ggpht.com/-mPjG0q-NjTg/YzHa1qB4aaI/AAAAAAAAQ90/u4yy_Y7j_3wZ7toqvCdOcxHuaH-ydq3lgCNcBGAsYHQ/h1000-e7/Coser-Sally-Sally-Dorasnow-Roxy-Mirgurdia-4kUp-001.webp"
 ---

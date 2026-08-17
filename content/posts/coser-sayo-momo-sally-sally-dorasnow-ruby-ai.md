@@ -12,6 +12,8 @@ models:
   - "Sayo Momo"
 tags:
   - "Sayo"
+  - "Sally Dorasnow"
+
 photos: 36
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixH9DVt0OSw8FPYyO0Bn4HNEN6zEtn9bKLtqs0Q6DAdsjeJ_7zpPO7jiPjDpCCtApbVXkjYctd6gbUbsaxaoWeuPNNxCYrL6LrpKyLbg0R_FXW6AQN_4t55uVyoJc3GxSVHxrL1o0qifCCctlQObPyWhYwgKlHEM_yoeeNGOZskR9C5W45qFyS3xHsjhE/h1000-e7/Coser-Sayo-Momo-and-Sally-Sally-Dorasnow-Ruby-and-Ai-36-4kUp-012.webp"
 ---

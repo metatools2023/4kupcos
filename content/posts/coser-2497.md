@@ -11,6 +11,8 @@ models:
   - "大大卷卷小卷"
 tags:
   - "大大卷卷小卷"
+  - "礼服"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiy_xu-gS6oQf3TgFNeBZjru0SvU8w_Sgs4c-BECR7sm6xt_yYoNAc4ghjxzeUO1CNH9WDtu1yJOCacsfvRk396LntEAU7jCuxAbxizIvQWvw-9bC6R3OG7a_jF0s49tB7wKucXchA3F6Dtt509m3B_MuczjW_K9z726dJsCvK6knG1Tghq7rfWFIEMHHY/h1000-e7/Cosplayer-Cien-eh-azur-lane-Awesome-30-4kUp-001.webp"
 ---

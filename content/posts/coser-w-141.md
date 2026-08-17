@@ -11,6 +11,8 @@ models:
   - "流年不停_w"
 tags:
   - "流年不停_w"
+  - "碧蓝航线"
+
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqtfiziEeHR_8gXRc0su-TXDDf2DepxK59pOf5et1qdt-mKKWKYfdVPNRrLzq4dHtsyEV-PVtLR_Bc_IAArntrW4ipShy96QuJE4aOAdCUOhGvd84koIhZkCI58yJbHfuuEVgyqGU1fcgQgt6MaRHgBMCFZNtKqz8RHt2eOOIqD3_1Bd4qZ-mIuCYmmA/h1000-e7/Cosplay-The-years-are-constantly-passing-w-Azur-Blue-Route-Hermin-32-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "Mashu"
+
 photos: 48
 image: "https://lh5.ggpht.com/-RO06hD6U7sk/ZacDYWMK90I/AAAAAAAAPoQ/muqd0Z_P8hs87OPz6f-csxNTIifkv9S4gCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.075-Mashu-Dancer-4kUp-001.webp"
 ---

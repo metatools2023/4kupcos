@@ -11,6 +11,8 @@ models:
   - "ZinieQ"
 tags:
   - "ZinieQ"
+  - "Mashu"
+
 photos: 35
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifGiS-t8_9wSs5KeylY9ObNXa6ImSIEJpDE3RZZrEBnhuEsO9OIOmZPFs0-StCP1NoX3tynm3yPk8U2S82MnT4wnlKSZQLt02nuH13NjoifxTyWI5Jn7kINk7t24jCtTqm5qkFh092aOQMdgiQq3ZUnG7BrPT6ckETGo90d3kbp9YINCXQkiYpLVQLJSE/h1000-e7/Coser-ZinieQ-Mashu-38-4kUp-001.webp"
 ---

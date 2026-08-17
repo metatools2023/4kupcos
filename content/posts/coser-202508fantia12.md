@@ -11,6 +11,8 @@ models:
   - "发条少女 (迷之呆梨)"
 tags:
   - "发条少女"
+  - "迷之呆梨"
+
 photos: 127
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHAoewKEGV7Uyo5TQPtvifuFKHnygbwksYptXH5k9qiyhOvp7YMuwSW2rusJX3bm2i0w6NS9ekIAIZKUKsvLkNjelTFGE7pzpYAOeC8OuYyC54NwqA-Wl8tHTGQbo8MhvTVKpS0wo8B0r1oSteF6g9234vrfVGuLQwETSgaoHS_Kx6SEnKzFDmvlr1w/h1000-e7/Cosplay-Clockwork-Girl-The-mysterious-pear-2025-Year-08-moon-Fantia-Member-subscription-collection-12-s-e-t-128-4kUp-001.webp"
 ---

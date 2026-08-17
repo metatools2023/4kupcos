@@ -11,6 +11,10 @@ models:
   - "三無人型"
 tags:
   - "三無人型"
+  - "泳装"
+  - "爱宕"
+  - "碧蓝航线"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEii1GJ5A_t24qzbBlNb-X1Dne2AxZJr87Tl9HPZMF4zIHIQ5IcHHVCW5YysAc9STxHnFta4EmYlTotDDaDHaVWUpgBTwz5o4vnak8oL4Zv25yFFcK1AWfhpELp5Cbytq8LVtpxz0kFcNES5HJX-maRAfWNFHD9E92yVWEFmigVDm9KXZpPlnFZMl30YfAw/h1000-e7/Cosplayer-San-Wu-Ren-Xing-azur-lane-Atago-swimsuit-30-4kUp-001.webp"
 ---

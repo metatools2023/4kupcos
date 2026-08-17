@@ -11,6 +11,8 @@ models:
   - "Arty亞緹"
 tags:
   - "Arty亞緹"
+  - "Yor"
+
 photos: 54
 image: "https://lh5.ggpht.com/-nyGL-K1SZ-g/ZW-fMX8muwI/AAAAAAABOaA/8ct_Gs-qmvIGR3WzrFIrmAvzz_9KVEILACNcBGAsYHQ/h1000-e7/Coser-Arty-Yor-4kUp-001.webp"
 ---

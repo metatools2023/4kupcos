@@ -11,6 +11,8 @@ models:
   - "小空sora"
 tags:
   - "小空sora"
+  - "胜利女神"
+
 photos: 12
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6_OjikwfIwRR7c6c8WQBTHNnsX951LDy14yPe6dNyYCCre8QGyRLZybTyD96mBgzPnfxOxs1nnfnZBdntbgvVm_8F4GpV-48pWzYmEh1GRl6NcLbxqhtiKWuLsXmFiswbmgfIWWg83-VEmDPwdyiWVU_dV6jVPxDGDeehm7tcqoSpoDGiz61Y8juMdVw/h1000-e7/Cosplayer-Xiao-Kong-sora-goddess-of-victory-Nikki-Mihara-12-4kUp-001.webp"
 ---

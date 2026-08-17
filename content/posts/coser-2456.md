@@ -11,6 +11,8 @@ models:
   - "矢量鱼"
 tags:
   - "矢量鱼"
+  - "蔚蓝档案"
+
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhttw8aUzIiRtkkrMvOsfDP-t6hE72pAaUzUn6ZcgG7GkU5BRSEOlPvKJ-bYerTwyeSTo3AU6tIK_T5zeaYPsGk_0uskE_81aoZFATT9TpDSI-oQHRpFC6u7pNz5NiATQ3go_stP-jXMp53vC0A0xP20rfgrisrCEkwDgR4eJv-YJt7hJJhPyKNBjfsMsuX/h1000-e7/Cosplayer-vector-fish-Blue-Archive-Idol-Mary-27-4kUp-003.webp"
 ---

@@ -11,6 +11,10 @@ models:
   - "雪晴Astra"
 tags:
   - "雪晴Astra"
+  - "大凤"
+  - "碧蓝航线"
+  - "风纪委员"
+
 photos: 80
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKivAM39VVWPWoZ7BP675FT530-JUSmV8WJEmcC8H2zdztA1G3WKG-5zYRTgmLnF0iqch87u3mC17Y_I9Nm_2QBiZPQ24lH2ahlw2_d6w1venKyEthW_ZeO6YXIqQv5bvKFzCJdsYPu12SBnIsFhhdltmbK1KMN4bSPXr3lGAW6QMtE77o1HFmlDZ-iM4/h1000-e7/Coser-Yuki-Astra-80-4kUp-001.webp"
 ---

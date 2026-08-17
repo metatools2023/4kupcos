@@ -11,6 +11,8 @@ models:
   - "阿包也是兔娘"
 tags:
   - "阿包也是兔娘"
+  - "原神"
+
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJf3Wwtwh9drb4w2O56CvALiVvttvauRgIb8Lqbx6yH8LyQBK-ntfROUS9CP_ZorjJRrAUR959XTho8nSxuRn9Ndtat3de30hQOUHum0fn_pvM_64SlCDAEuQkKIKP9dlKQYrM1HzPCM8NY2lMkakEewsLzKPpXwn-1thioMl7OpdVpdgloeDVeAXxodX8/h1000-e7/Coser-A-bao-ye-shi-tu-niang-42-4kUp-001.webp"
 ---

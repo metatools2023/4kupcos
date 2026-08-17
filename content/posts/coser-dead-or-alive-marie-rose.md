@@ -11,6 +11,8 @@ models:
   - "小樱"
 tags:
   - "小樱"
+  - "Marie"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIA06XlEb0mO_IE9STWs_5Dj1IOdn46asHRymL0oOFZkTRR4Y0jHIRnwM2xR1YlraiKm6saJFyXXhUs2ZRA-NV_Tryg_czb1OY1qk92LDDGGRCOVCECvY_tNeHZfvAcSgJUmU_JnawQMBRtKp117cBaB4UFLNKs9ecRYzy_GARQXEAy6b2kE8rD9ub584Z/h1000-e7/Coser-Xiao-ying-Dead-or-Alive-Marie-Rose-20-4kUp-001.webp"
 ---

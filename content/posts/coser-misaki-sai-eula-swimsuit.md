@@ -11,6 +11,8 @@ models:
   - "Misaki Sai"
 tags:
   - "Misaki"
+  - "Eula"
+
 photos: 18
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFEQuFIXJlQ1oaNPhB7K-RNAL-mX2f9mtWlR9pjoVIpO0deVHHgDlZvCFKj0vf-w0KL745N8oSXhZTOcV4JYx6XYWmk8TPQhtbzNgvuEAJ1ib5nV8kNxH6q-GW8CDlPcM9ylKvd54BrcJWN7r06ywn3rbf3Wh7Y9557efJHI5IJvzRMZ-o7U5wigLLH04/h1000-e7/Cosplay-Misaki-Sai-Eula-Swimsuit-18-4kUp-001.webp"
 ---

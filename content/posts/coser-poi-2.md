@@ -12,6 +12,9 @@ models:
   - "隼隼子"
 tags:
   - "刺青Poi"
+  - "兔女郎"
+  - "碧蓝航线"
+
 photos: 40
 image: "https://lh5.ggpht.com/-jhJx6-OnkyY/ZlT73Fp3hdI/AAAAAAAArf4/ohhvnzHGPDMbr6iLvpAsOXma5UNt3FIegCNcBGAsYHQ/h1000-e7/Tattoo-Poi-Hayabusako-Azur-Lan-40-4kup-001.webp"
 ---

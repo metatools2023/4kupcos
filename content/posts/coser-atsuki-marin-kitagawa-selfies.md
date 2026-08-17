@@ -11,6 +11,8 @@ models:
   - "Atsuki (あつき)"
 tags:
   - "Atsuki"
+  - "あつき"
+
 photos: 106
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGS-jqNbnSepMK0fs7xn_bt4gVQ5ZbMEYvFE0zsMELKSb3jPSkWhqVyW3-i1J1z5Hcz_8ybY-G_DnOxxnxRH0u6_4RmbZhMHfVx3v81vZKMmgmvMVcnn3OHSmlwwDgwIl9iKdjPRxhBngguuNgp8W105_xKng5Ir1XxqRwl1z2uIAGyV0SpwBUDnm4rGZ2/h1000-e7/Coser-Atsuki-Marin-Kitagawa-Selfies-106-4kUp-005.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "雪晴Astra"
 tags:
   - "雪晴Astra"
+  - "八重神子"
+  - "原神"
+
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7fwUR0BYf87U3leOeux0ye5B4eXNzTqf6DS3J1fGFvppwBTDnGI4RVbXzyz_2dAHpxJbs0k093qhzJL_x6CcReXzcmv2D8MtjDlGL8iEYZcvw56B_nqdJu_2oyMBZRrmXOhUC8DRi3C3xhgq5B8nClHLUKDHQdqzs2FGSl5OEZnub2iy9GcDIhDh5BeyR/h1000-e7/Cosplayer-Xue-Qing-Astra-Genshin-Yae-Miko-29-4kUp-001.webp"
 ---

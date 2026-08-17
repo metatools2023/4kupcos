@@ -11,6 +11,8 @@ models:
   - "UmekoJ"
 tags:
   - "UmekoJ"
+  - "原神"
+
 photos: 96
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYYWXCJ-fOjJsWpQI7soo4VCGx9zz_d3Eg6H_e_tvVPZzw4_ayAdJoYArNhDST4uzmmgXuJX-U1NLbqNPAP8p4XF4Br6PJVEqloMmfjMDZ3_f931nNybz62tFS-xpOntUdHIeAghBHthKAO_OYR9qcUxY4cSx9BYtSmmIHZVQFCnXfnbUSXbB4eoXyL_F8/h1000-e7/Coser-UmekoJ-103-4kUp-004.webp"
 ---

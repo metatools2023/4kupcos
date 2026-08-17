@@ -11,6 +11,8 @@ models:
   - "半半子"
 tags:
   - "半半子"
+  - "碧蓝航线"
+
 photos: 38
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqj-BhKRokPpESWtuFEAWwBMH9-kmqUFMnwlZFhlIvwgsjdEVOyrvgjSiniAkpn5L_iqHmK6Zt8RYvew_zzBLIECQ3RIgXYSgzL3dedswOXqrGRDnIMEhmiAMiA1Td7yTB4nOrwCzrsg58h1hhbEjaydfGKYWkC3V4PztO9IPsFvJSCQZ1JQK-5hqxAW5m/h1000-e7/Cosplayer-Half-half-son-azur-lane-Nakhimov-38-4kUp-001.webp"
 ---

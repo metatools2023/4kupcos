@@ -11,6 +11,9 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "NIKKE"
+  - "Nero"
+
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEherTovfe8WcO56-hajwfdOgvSyqjniPUuhu9uindHGr6S7a3xSlGtgwFCsmbxR7fEArCtkspYU1a_NxXxupjRgd8XfjdyBpOonYtwDzWd6MZqT-5aiyFBNtC0w5qFyjb8ivTxaTPlEZPvdgynl63U6nk0zpXz-3mnxtoyW0uUw2vSYlXFNWb3yXdTt0vJ5/h1000-e7/Coser-KuukoW-No.159-Nero-2-NIKKE-42-4kUp-002.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "Choi Ji Yun"
 tags:
   - "Choi"
+  - "Forger"
+  - "Yor"
+
 photos: 56
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUvM5NpBidzjuqrVD-Gk05x6c1PdIOLJdY0uV1bZ-x-dGG-mQRjzlTPaIp9O4dv3KpC3g7-sYBGt92wEphQi3YHuVZc22AgoRRfrtDE00U5EKRNnmXMfBhwhj7wlghLyg_bzMcH4SdoHTnSt8nRZc4s5K4QO12UPo1BJUudeI5HoIsZ74wgEEnOd7FTaSm/h1000-e7/Cosplayer-Choi-Ji-Yun-Yor-Forger-56-4kUp-006.webp"
 ---

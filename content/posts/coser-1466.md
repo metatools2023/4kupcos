@@ -11,6 +11,8 @@ models:
   - "半半子"
 tags:
   - "半半子"
+  - "碧蓝航线"
+
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMFmqkZy3f6BGTC2fPQ1JEmLWYYxzB1sqN-ww2dFaQElrWJzNUWPZDpMZCNbfyvt6snwfdufuo3M9QhmChQ7fHpHZK6R-iTuXEVPh_xRqX26ODsh3vYAAr2P8TkHjrYfip6O5gMSit45fNsWvV936z6bRpegOw7KzZM1LSSLypG3RkyN2dgGEQ1SCho8o/h1000-e7/Coser-Ban-ban-zi-50-4kUp-001.webp"
 ---

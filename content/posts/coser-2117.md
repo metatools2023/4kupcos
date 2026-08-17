@@ -11,6 +11,8 @@ models:
   - "半半子"
 tags:
   - "半半子"
+  - "碧蓝档案"
+
 photos: 60
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaosME8EzXxt0HU2SpU9dyjgerpvVfK07iDbi3LOXo8Uo-vW8qw2p3OM_BqLrCFdcfkSnVhHmZ_mdjFVYUlhE6WgbC-uIK0Fm3MyU2-Ya5BKS6IWLjxSwpnlVWAuXIPS3WF8CFKV_rQjZxuW1MYsI1423I0B1vTicfLsxWRkrcCgzmx5mVyLE5pC71oTbB/h1000-e7/Cosplay-Half-Son-Blue-Archives-Tu-Yueliyin-60-4kUp-007.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 107
 image: "https://lh5.ggpht.com/-1QNB3jbS_nA/Y7tAR966oMI/AAAAAAAAIfQ/K-lAXoT94S80iafSoktFVP5H-O5b1ujBACNcBGAsYHQ/h1000-e7/Coser-chunmomo-Baseball-Girl-4kUp-001.webp"
 ---

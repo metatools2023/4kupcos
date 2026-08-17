@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Genshin"
+
 photos: 58
 image: "https://lh5.ggpht.com/-BjzBV319Z6Y/Zmt0Y3SZXQI/AAAAAAAA47g/cyaciwV43k0ti5-VdYsf4ScmMu9a-2BcwCNcBGAsYHQ/h1000-e7/Coser-Byoru-Navia-Genshin-Impact-58-4kUp-002.webp"
 ---

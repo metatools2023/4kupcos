@@ -11,6 +11,10 @@ models:
   - "雪晴Astra"
 tags:
   - "雪晴Astra"
+  - "体操服"
+  - "大凤"
+  - "碧蓝航线"
+
 photos: 55
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-o9LSt3_G9QMeMp6UbrzBGtmQLt3lvvQtGazEQCBAT5iw6NozY4tb_lUd6JhrrEyl-euaqxQfpsTu6RQD-kPaGgLPtUNadzGrmfQ2x5yNHQrZhn1ZfNuC6BB138hbhblMj17MAA_ztigw6UpxzEM3SwEa7VEgTeq_KphEzFIfGBYNMUfRZojq8SWT1wi6/h1000-e7/Coser-Yuki-Astra-55-4kUp-001.webp"
 ---

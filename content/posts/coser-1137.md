@@ -11,6 +11,8 @@ models:
   - "麻花麻花酱"
 tags:
   - "麻花麻花酱"
+  - "碧蓝航线"
+
 photos: 31
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1ZBGpfvCYjAfJruqAZZwOZ6Gov10uMKKwySxn35iogcN8xC-OAUCNjyjJFkEfHuRT6KeuCX9-tVVNKiafatWa_k9eNLk_5tXf90o59Nxr9o8M7O6PL1Ffe5qn0ppQq85CK89spN5z5u1nz4z7dalIcRLiQyQaU7349a1aJzFL0Sb_-h9-Egb5cRI-7Ds/h1000-e7/Coser-Mahua-Mahua-Jiang-31-4kUp-001.webp"
 ---

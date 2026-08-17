@@ -11,6 +11,8 @@ models:
   - "Candy_Ball"
 tags:
   - "Candy_Ball"
+  - "Marie"
+
 photos: 87
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQuDdERvwi6zQKmBvD-ymy9hBCOvLNIbGwXtEZ4lhwkok9ws5bMwUpX9smqAVzvKaM2vfI53NmXmHnltA-ZEaD_jmz1IcbBX_8pTSMVBq9zLSxc0qJzR4Dt8kL6PrymGFEEnlGWrPzrWfVsrT0c_ejmemjfBqsXLz8aTfqJDpKdpd_fCsWoscTbqbdqA/h1000-e7/Cosplay-Candy-Ball-Marie-Rose-87-4kUp-006.webp"
 ---

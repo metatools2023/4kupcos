@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Nero"
+
 photos: 56
 image: "https://lh5.ggpht.com/-b4KZlxkr0ds/Yu-YTNy0wmI/AAAAAAAAlWE/fX-8wBRnDFU1mUZCeRoIZBcQ7U56MHKlQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Nero-Swimsuit-4kUp-001.webp"
 ---

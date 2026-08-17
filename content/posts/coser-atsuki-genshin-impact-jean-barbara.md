@@ -11,6 +11,9 @@ models:
   - "Atsuki (あつき)"
 tags:
   - "Atsuki"
+  - "Genshin"
+  - "あつき"
+
 photos: 478
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiNfe4AL7Wfj34RqmPuc45wPm6vYuAti7Q-qvl3AH8pv8cgp3YTd-RWuop5BiJTeX57BOsBgXvOXQGbMg4uq36kzkk8ZZOc_h26EnLD0OkAH2CRWq90CrZYJ2OHu4YpCIhONBdV7-OPSyOTD0PkQZWUDNrRvgs_jFtTOJRav4DCJpT3TUcvuUar4kh0_Fa/h1000-e7/Coser-Atsuki-Genshin-Impact-Jean-and-Barbara-481-4kUp-005.webp"
 ---

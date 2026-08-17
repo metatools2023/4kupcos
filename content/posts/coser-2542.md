@@ -11,6 +11,8 @@ models:
   - "一色雨"
 tags:
   - "一色雨"
+  - "碧蓝航线"
+
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgaqu2rx6nrmnr5HgAaFLDiRXrxiqlrDewx26VMv_l5Zw5Us1nkUelfJ8ocV5b4BWom7o0IOP34vXyezd1JP0LPNMQq621JmdPskANUi7gHwN2uxTzVKcwkwLK9PokgOdaNO4yFUtWTKMyxEuQ1f1MJvF6M3TfNxwE2uuMkDGBYv6-EKtHNPmPP1CDNwo/h1000-e7/Cosplayer-One-color-rain-azur-lane-brest-39-4kUp-050.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Nyako喵子"
 tags:
   - "Nyako喵子"
+  - "蔚蓝档案"
+
 photos: 79
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9neAHG0iplPL7a2fXPeozRlvvS1DDVaxC3HDQOGOiQHZ68kwl2CaxSvAhCdOE7aAepM5eXDrOKozrwxnyLZuS9XX2cPucy4ZIiwL5pHS95aAnnL4Jw_IWob6psrkeKdZuhTyqlJDIp4Le17YZHs_w4BKR52u5WW6fDi6Cb_TFxfXDXksCAoD6-iOhXcWY/h1000-e7/Cosplayer-Nyako-Miao-Zi-electronic-version-57-Blue-Archive-Asuna-Ichinomo-3-79-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "鸣潮"
+
 photos: 28
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRJwIfgtxzZYepRpLRX5I6oPMCzXrpFcHgXiofrgVftTYlFmf68DLqBp0XqnXClI0q6nHHrqITnbZEq3-466U3aCGb-G-m2H_gf6Sce6Ofr7YzLHZAPSkBaVQgu60MllaqWn64P8vRfJi2yXiXB7p0VI-1SpknVSEaHGl0oUy3Ee3jWTFzB7bWQUWKb7kp/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-Ming-Chao-Katisya-28-4kUp-001.webp"
 ---

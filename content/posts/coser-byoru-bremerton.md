@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "碧蓝航线"
+
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWGuuMvRxc1qDnzuwcRQzGh1j8zSymc90M9Md421tfYTdVRWkPUOCl2t9uG3Xg-bqRcKdDh9iBrpaBOhVwV85LcWkxVWy6e6s3gIke1qW9JyiUVI2BkctdP9SrXDKtHyBcS8VEN_6jJ8PphM-8gPY2kCOti5IEiWytR-9TYSdLh3I8idakGETIQ13IhQk8/h1000-e7/Coser-Byoru-Bremerton-46-4kUp-005.webp"
 ---

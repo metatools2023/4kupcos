@@ -11,6 +11,8 @@ models:
   - "Pyon"
 tags:
   - "Pyon"
+  - "2B"
+
 photos: 98
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyQttMC3Iy5f_oljZ0ODaWvANHFO2l67gVL1DM6RJSMWJcolSDqBqhCh6ifOyYGtYGHr5x8ylVwIJ_x-eK3TRC4gmWCDqbQ47dEcjwuERNSuBaT4gVcPKlRAXNaK2-LwEg7sUaQ-JHsHo9EhOxgmdOiQza6s0R5GrYtqnzVFZ_Tee5Ks_3tX4KB4gRij0/h1000-e7/Cosplayer-Pyon-2B-98-4kUp-005.webp"
 ---

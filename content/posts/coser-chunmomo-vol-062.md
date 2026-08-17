@@ -11,6 +11,9 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+  - "碧蓝航线"
+
 photos: 40
 image: "https://lh5.ggpht.com/-tnzLuxBsVw0/YyT0QGKPi1I/AAAAAAAAIlM/yhm876fp9GM-aYrZD27HkVWCFi9OT20aQCNcBGAsYHQ/h1000-e7/Coser-chunmomo-Vol.062-4kUp-001.jpg"
 ---

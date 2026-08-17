@@ -10,6 +10,8 @@ models:
   - "前野太太"
 tags:
   - "前野太太"
+  - "碧蓝航线"
+
 photos: 41
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiThxrChtAj73STSf6FuEaJU8HD2gGEu2_GWA1MZg5arLs_jttxTzu5ZdLj5LwgXwrQjAaO59dlDihXWwnPI0ssvwLNovVkdBqiFZdxjqMvIoSCQwIm-u3BmuhYmz87C6mnefmRA8gvWm-PaBLfD2H8SIhOE6DkRL0r6HvQfi6evNOzYjxsJxyyY3of0w/h1000-e7/Cosplay-Maeno-Azur-Blue-Route-Chilshaji-41-4kUp-002.webp"
 ---

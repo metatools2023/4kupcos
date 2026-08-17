@@ -11,6 +11,8 @@ models:
   - "九言"
 tags:
   - "九言"
+  - "甘雨"
+
 photos: 33
 image: "https://lh5.ggpht.com/-k67JPy-FpxE/Za2cDRQaE7I/AAAAAAAAVRk/zdlMMDax_0wAtBeLZYBna2mXENpn2f8hgCNcBGAsYHQ/h1000-e7/Coser-39-4kUp-001.webp"
 ---

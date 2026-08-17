@@ -11,6 +11,8 @@ models:
   - "蜜汁猫裘"
 tags:
   - "蜜汁猫裘"
+  - "原神"
+
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgk7t90QY3YFkH8cIYgDLApRssxY1vN_coIHL9k0_-n3wJoI4JJWC9Flkh3d7SnFihHGM4P0Ah-P0ICqB8H6EdNzAu9heiYr7vdyxVlw3BF5BR1kblkaxAguPrBXs_WO8oCKx_xHrrclIhAP0IrKyAkw-DwSRWin2K286hJTUhgns8mnJuKQXIOdUGK2nA-/h1000-e7/Coser-Mi-zhi-mao-qiu-21-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "是三不是世w"
 tags:
   - "是三不是世w"
+  - "明日方舟"
+
 photos: 27
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha6nb7iaZHcZM3-KhJymqrzshrPk-XMMi2pW7OlOfgsPmUczDPNOQPN2vKtgQgkPPGcaOBCUripkwSGHVXmFiMarkOQ6U_yYdTKXuPevx7b6YgT3ayYwoZFgyasHvh7uvAgS_v_CZNNeaW6IZRRp7GRSPRccopDcgfTdOa-zM7UmfE7RT54MFpozaf0QFj/h1000-e7/Cosplayer-I-s-i-t-h-r-e-y-a-o-n-w-Arknights-W-ballet-27-4kUp-001.webp"
 ---

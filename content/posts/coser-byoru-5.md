@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "胜利女神"
+
 photos: 70
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvYN1OBbM4LyTMUjL8b6hk7li8x6PhYQBq_t2KoqWDCoENt1KBlA6cldfLcZQopP241EkJJtHKf1fJwmPXrazvZV-VnZqoMJePgoP4hfzYn6q0c0NawCMsZxTWIzVngPKd6kYzsEfIa9oH2si1Wg0q-CaWKgSzy5VvJrnsple9-01Kg-E_-0BcbZhjPtc/h1000-e7/Coser-Byoru-99-4kUp-001.webp"
 ---

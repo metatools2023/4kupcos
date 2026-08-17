@@ -11,6 +11,9 @@ models:
   - "小空sora"
 tags:
   - "小空sora"
+  - "碧蓝档案"
+  - "飞鸟马时"
+
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvb0C9Q8w3O1P2_AygG1Qu4RdXulbXBgfdGx-V7KNcNv09Pk_3zQPql1pF7Jt0pyRQTaaGokd5Uv7w7g4R_1n5NrIdZ7VnKmFqqNiXMA0FdeuIYVB0A0NBmBRKRfSN6RUtoITAbJvY3FJTRejELwWtqw24wox0s-xk6RIokrFjVL-if7WarN-GU32A_THd/h1000-e7/Coser-Xiao-kong-sora-26-4kUp-001.webp"
 ---

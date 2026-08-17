@@ -11,6 +11,8 @@ models:
   - "g44不会受伤"
 tags:
   - "G44不会受伤"
+  - "碧蓝航线"
+
 photos: 39
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhELfSNdtHP99Yt3jWcCW8TIqDxi2e9xeiZiEfZEiv8updUGpgbJqOMEKBcH8jFBD75jCvitJudDFu8jg1QAV45Dl3Wpo-TGCpDO7zHC6QdNkbsGICSkvoNMn4crqOiSLG7lOofM-euKkkOHmEF8S23vr6JrCOU7tmhXJUFUofMQC8W_qwxi8-GReF8IOQ/h1000-e7/Cosplay-G44-wont-get-hurt-Azur-Blue-Halford-39-4kUp-006.webp"
 ---

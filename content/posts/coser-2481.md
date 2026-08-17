@@ -11,6 +11,8 @@ models:
   - "是一只熊仔吗"
 tags:
   - "是一只熊仔吗"
+  - "碧蓝航线"
+
 photos: 32
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWjdU3gkmgoBV5Pc72vkNofqSEBpN1vK2wJ07DzGxGmcwm48vtu1RQ9KpiANsQs8P4fiEMsiYFLbXcJd31lTOdNkhfRJpScXs3fH5u0BpEyTEfAly61SuJgs2Tw6rO2HpJH1uCWku7e4jmfyMnET0ZrvbvBrXvr_BvJx76CUA-CeFwE31Bww0G-W5LnlE/h1000-e7/Cosplayer-Is-it-a-little-bear-azur-lane-Pearl-Fallen-Angel-in-the-Magic-Castle-32-4kUp-001.webp"
 ---

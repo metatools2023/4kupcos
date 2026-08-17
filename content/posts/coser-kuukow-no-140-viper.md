@@ -11,6 +11,8 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "Viper"
+
 photos: 24
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpG3X3BWOM3RzVYt696M7XYlr5lXPyxSnfRlGGrtZoi6BU6r-w9w9GEUx5hFfQHP_jrUnLflxl0RYGnjtDNCmvYAzHo8N0XzYF3GH-sPcFxIhMrOwytjIZUoZgezseHUWusv6Y5Ay9-vQYdgggn7dTrbXbP1ZtuOGun22a5FZzri4X-lmGBdqMZDZSZxc/h1000-e7/Coser-KuukoW-No.140-Viper-24-4kUp-001.webp"
 ---

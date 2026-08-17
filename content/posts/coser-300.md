@@ -11,6 +11,8 @@ models:
   - "发条少女 (迷之呆梨)"
 tags:
   - "发条少女"
+  - "迷之呆梨"
+
 photos: 25
 image: "https://lh5.ggpht.com/-Yj8EEc1wQAg/ZULKY56zQ3I/AAAAAAAAfrg/3ymPB39bxuUbWvd5KlIpCjonvHYh3daGgCNcBGAsYHQ/h1000-e7/Coser-FATIAO-Liii-4kUp-001.webp"
 ---

@@ -11,6 +11,9 @@ models:
   - "宫本桜"
 tags:
   - "宫本桜"
+  - "信浓"
+  - "碧蓝航线"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikZEAQ9pMhGfxjls0LT2qr5L-oEJRmDYHQSNPGKJQtqbzLtAimJWe9aY_nF_MueH0NlJT6yd3tbRFiNEeVq6Ci5pGxNk6z0kSXQzWwbbulbKjXnNg9EOU5o799IgQHVZMjh9t9s1aS7-cPoGHRl_xzIfomY6RPFcOsYP7wlBQc7QNeytr0-baN3c1lWLM/h1000-e7/Cosplayer-Sakura-Miyamoto-azur-lane-Shinano-20-4kUp-105.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "布丁大法 (Pudding Dafa)"
 tags:
   - "布丁大法"
+  - "Pudding Dafa"
+
 photos: 17
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisVrknfHBEBzKLBgn6y6TnoJ-h4lFikqNAZlwtX6Q34WysZYXLZQFfoBaEf13Pb5XMdzQNE-Qd2wV2Ujm1vSAs8FBmihwgZhXa7iJNJFOi8qcE84f60Zx2J1iLsn90DuBeT8583LpnbtUqBSudAzdv2l_19MVeK2-d-a76QzqHsqIn2YLGRfs03c_PgaWn/h1000-e7/Cosplay-Pudding-Dafa-Yishi-Tian-Super-Big-Butt-19-4kUp-001.webp"
 ---

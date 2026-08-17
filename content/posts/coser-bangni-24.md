@@ -11,6 +11,8 @@ models:
   - "Bangni邦尼"
 tags:
   - "Bangni邦尼"
+  - "自拍"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxCtxv1r7G6t4SadJbxoxb4x6Wxlc5W4tIuP_08byzxvbJ906TVS4fPYPbi96NMzQDsfb2wSk7kt1ffcZNfwSAKuLiwmEYkiEkS2crTS6tOkLl-3bcQJqNzcv9lBFxQTWfaAk1ttv3Q9xLeunqPSXJYaywMSyjn6gt5OD2z7lgabODWUJzhG9ClNJo_pw/h1000-e7/Cosplay-Bangni-Halloween-Bikini-Selfie-26-4kUp-001.webp"
 ---

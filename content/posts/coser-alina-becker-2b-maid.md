@@ -11,6 +11,8 @@ models:
   - "Alina"
 tags:
   - "Alina"
+  - "2B"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_WY56sVxtNxDJSF9rX346pmjUVtiai1seV-7wpYcv_IWTWfbHlJKJxy6vYqPJrUzofYL5jqppLbbgmjULYHYVeV80EZBb9JXMBXfWCfZoNU2IO5kHnwELjSGvwJ2FDHzhHs6nsIGom2HYAyzkfRBE1IKkEIrj-fIGbm7P88YSbEndqLtIcZZvCovgFGY-/h1000-e7/Cosplayer-Alina-Becker-2B-Maid-30-4kUp-002.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "小仓千代w"
 tags:
   - "小仓千代w"
+  - "2B"
+
 photos: 20
 image: "https://lh5.ggpht.com/-ZhveOFSHkJY/ZTw2xrIOm7I/AAAAAAAAaos/laS_LXDfwCUXw-JhjGfjlrMsKRaurEwgQCNcBGAsYHQ/h1000-e7/Coser-w-No.063-2B-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "Mashu"
+
 photos: 36
 image: "https://lh5.ggpht.com/-NJq5ulyiZEY/ZTmWRB_o_KI/AAAAAAAAYWM/B6Qn-lub3W4DpTwPMk0HtKxsvMkgv0c0gCNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.093-Mashu-Kyrielight-Kigurumi-Pajama-4kUp-001.webp"
 ---

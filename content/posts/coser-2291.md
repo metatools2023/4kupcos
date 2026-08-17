@@ -11,6 +11,8 @@ models:
   - "蜜汁猫裘"
 tags:
   - "蜜汁猫裘"
+  - "碧蓝航线"
+
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvyL9zHHTvio9RhwEEz6YRUwUU-ajKdmKTe_eY0quX07V1UU1wSuWKTrQADh-FIgbMqSAS30-weunmlTSWIInijY6IRHuKxmELjc7JiG2hvfm2xDG6BVpKpd42zXCbDMRHq0FmhGgH7tweYzzhTGMXCRdU4Ha6nBJVOqo58UffyyOtpYONDH8EisHOVvBN/h1000-e7/Cosplayer-honey-cat-fur-azur-lane-St.-Louis-dress-selfie-16-4kUp-001.webp"
 ---

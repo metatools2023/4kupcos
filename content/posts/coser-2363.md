@@ -11,6 +11,8 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "碧蓝航线"
+
 photos: 47
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjB7S3YH2foDgGlDAB493C-xzdR4rF5eNAl-if_sqa5YFireOLMEv6M5jHF0s24eCZI4LDG31rw-aq3M-7IxqM-L45iVOjmhJle81shxGjJKsAcap42CfqQU5u-pt6am5uUoRMm9WwqiROSE6J6MVwAFEWXWWrHL6rDzthlwSENLQ7HsPXlXfst8EiA6n0c/h1000-e7/Cosplayer-Island-fish-azur-lane-mountains-praying-witch-rabbit-47-4kUp-012.webp"
 ---

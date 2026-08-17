@@ -11,6 +11,9 @@ models:
   - "Atsuki (あつき)"
 tags:
   - "Atsuki"
+  - "Genshin"
+  - "あつき"
+
 photos: 402
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEid1Ns_7tIuW_enc6AnSwfwuMBvA3tT1fTZMJAtYwRE17fOKsQRaR9XueTw_auULJqR_VzK79M1nqU6sf32WLjPJ0PSMVklcBGbS5VvwlPhyphenhyphenLOAE6cT6MEuHp5TuzsTh_MRh5jQ-udoLYBDo7oEGKs3rtzVugXy7eCYn07688X-7ej2r3VlwUEI0vsxl65D/h1000-e7/Coser-Atsuki-Genshin-Impact-Yae-Miko-and-Kujou-Sara-403-4kUp-015.webp"
 ---

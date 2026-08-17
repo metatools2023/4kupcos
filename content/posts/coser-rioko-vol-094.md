@@ -11,6 +11,9 @@ models:
   - "rioko凉凉子"
 tags:
   - "rioko凉凉子"
+  - "自拍"
+  - "镇海"
+
 photos: 20
 image: "https://lh5.ggpht.com/-h6sa71u1UAY/Yqpb3hdzdBI/AAAAAAAAIFQ/FQLB3DSVrcY82i7VSSinwqBRPiRBucLvwCNcBGAsYHQ/h1000-e7/Coser-rioko-094-4kUp-001.jpg"
 ---

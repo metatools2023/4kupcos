@@ -11,6 +11,8 @@ models:
   - "Pyon"
 tags:
   - "Pyon"
+  - "NIKKE"
+
 photos: 60
 image: "https://lh5.ggpht.com/-L9mQLZ0zOfA/Zko06Qt8vPI/AAAAAAAAoL0/YNf3l4T-psgiGKwn59uyRD2HOAUXLUVBgCNcBGAsYHQ/h1000-e7/Coser-Pyon-Soda-NIKKE-4kUp-001.webp"
 ---

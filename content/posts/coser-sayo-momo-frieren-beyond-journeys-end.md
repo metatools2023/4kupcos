@@ -11,6 +11,8 @@ models:
   - "Sayo Momo"
 tags:
   - "Sayo"
+  - "Frieren"
+
 photos: 37
 image: "https://lh5.ggpht.com/-uM74wr8-Ch0/ZfsNhB9laGI/AAAAAAAA9gs/ITi-KCeuE88XU4879vpwkzPBcLrcNrSdACNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Frieren-Beyond-Journeys-End-4kUp-001.webp"
 ---

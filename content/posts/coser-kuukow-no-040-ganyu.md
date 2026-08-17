@@ -11,6 +11,8 @@ models:
   - "KuukoW"
 tags:
   - "KuukoW"
+  - "Ganyu"
+
 photos: 27
 image: "https://lh5.ggpht.com/-WPq4w5XV9rs/ZMLztHvbf_I/AAAAAAAAhJ4/VPg4cpjiSwQ85bF6xGdpK3Ye2huBY-_QACNcBGAsYHQ/h1000-e7/Coser-KuukoW-No.040-Ganyu-4kUp-001.webp"
 ---

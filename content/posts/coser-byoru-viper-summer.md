@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "Viper"
+
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHL-MQZWyGqm5HIsNO5DE6rhKdVL6qLv4EjT1AIlAS8CRXWkHgDSb3kijSzuFX7yh_SvCsgFN-Nrfckj8kGWzbDqarinYwNHF09rnruznXOp28pBFy0L5fvKH3ody37Y9sUXPa0I0cmVD1EP6W7IonfDP3gZMjUy-OMa__OtQwt1iuii7DEQPeYkch-ns/h1000-e7/Coser-Byoru-Viper-Summer-57-4kUp-001.webp"
 ---

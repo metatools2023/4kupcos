@@ -11,6 +11,8 @@ models:
   - "沖田凜花Rinka"
 tags:
   - "沖田凜花Rinka"
+  - "蕾姆"
+
 photos: 32
 image: "https://lh5.ggpht.com/--jhFDGJ-ulg/ZMLz_SqBq_I/AAAAAAAAhN4/iet-dNhLkSMQhGNPN2wigO2ltHx-PjZtACNcBGAsYHQ/h1000-e7/Coser-Rinka-4kUp-001.webp"
 ---

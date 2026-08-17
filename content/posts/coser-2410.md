@@ -11,6 +11,8 @@ models:
   - "是一只熊仔吗"
 tags:
   - "是一只熊仔吗"
+  - "蔚蓝档案"
+
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKADI2WtkdeAeC-5QXVynM4G9JdYNIuu8uWjNoLWl5PxubFJfPgfvFoRzFrY01xPOVzAGhrxnLvNqjBFEIPbPkcsZsmxx7l4EvBaxGOsArA2kK2q2LzRWJf9L0rWlE9TtG6nIZc4el80hIUxhH_Tn7KGQK-3SyE_LTjH7gK5Jr76z0HP0Kx753vjitU9Kh/h1000-e7/Cosplayer-Is-it-a-little-bear-Azure-Files-Shimiko-Endo-Evil-female-cadre-29-4kUp-106.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "面饼仙儿"
 tags:
   - "面饼仙儿"
+  - "碧蓝航线"
+
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj97gfBdYC0fmOHqzfLv1FJf4rvp8m_4A9bDGxOeR4TskTuouzPPm2dlHcqWrZE-fk69jyVHIky_7GEEiri4Cc9vOwiz45gB5u6IOnlJ8GEDqH82ZNhb3EvySvMK0HRETBQX2FQTf2967yfSrE6oYeas2JiZc9Uav6hI0sIqHOEDqV4OQfUyEx5WnvXbhU/h1000-e7/Coser-Mian-bing-xian-er-21-4kUp-009.webp"
 ---

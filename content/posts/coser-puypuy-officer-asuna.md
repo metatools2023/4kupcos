@@ -11,6 +11,8 @@ models:
   - "PuyPuy"
 tags:
   - "PuyPuy"
+  - "Asuna"
+
 photos: 133
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfPhLjrwSwNP5PEFQV7jCOUSDgxUIfRcyQf2HpcSLGQUfSfRS9mA0heZ38zDedVXZn7I7ANBEiEtO8415Wtj9Z2Rv0xPwGvR_EdlWETngQ4YIoFE0QYZVY3Z6mUkiQ3dcBcKdj0hf8-V9b96bu9KzsXfIBXFcWtZTB7vd4nA9narF0lUwH2xdy-erj4O0S/h1000-e7/Cos-Puy-Officer-Anase-133-4kUp-001.webp"
 ---

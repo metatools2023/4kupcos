@@ -10,6 +10,8 @@ models:
   - "亚马逊鲶鱼"
 tags:
   - "亚马逊鲶鱼"
+  - "旗袍"
+
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6Nl-sIYQa9veCy5qNIR-Y2oAxItYte0RB3xb1A0R8EixkUkpng8veW4e2zdfvzonCY3eDDH8kWum2irEtamvZI30n9Nkz2JSP9B3mF-H3wmTTPE_1f23yntiYmoZXOGd2DfEjEWnFQAti4xW9qUMbCQcbdgtaP_5vlKx_ebqEY0X8ylGr8WakKZGsUA/h1000-e7/Cosplay-Amazon-Catfish-Tokizaki-Kurosan-Cheongsam-25-4kUp-001.webp"
 ---

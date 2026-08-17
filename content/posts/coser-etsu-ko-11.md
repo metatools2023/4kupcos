@@ -11,6 +11,8 @@ models:
   - "纸悦Etsu_ko"
 tags:
   - "纸悦Etsu_ko"
+  - "蔚蓝档案"
+
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9jEeKjTp4-CrTZ1GYq6SS0Ubw0EXbL0NF1iBcSErMdiMRB-MH4fW8vWe-HCGY07wTaWRg_sAvt5DrS66zC435i9dacnftk260_qDaKwuwGN-eS3KKMsNnbbKJ6u8TpLz7QXQXuYs5fcdVVmSE7U4rCpkwuFyGGS8spg78JwnSPzR9RRYVAStM7Y1_-tlP/h1000-e7/Cosplayer-Zhiyue-Etsu-ko-Azure-Files-Anzuyama-Washa-34-4kUp-001.webp"
 ---

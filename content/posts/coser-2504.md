@@ -11,6 +11,8 @@ models:
   - "阿半今天很开心"
 tags:
   - "阿半今天很开心"
+  - "碧蓝航线"
+
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgftUhUrUTaydT_hra-E8DG-JLEfdrf06hylbw9B5AXcbQLCU4Po-VOYoIwlrhSQVc5MwvGqdWv-Cm-g5-a8nabEwks9z5NoCVVJecKCWAqxuXf1aLuDSPYtMHKa3jhYdkaxJwPRv1A1EwxJY9MUErr5Fl4ruA7IHlM5l9RPflqwikX6mvndjp3UZ3sX58/h1000-e7/Cosplayer-lunananya-Blue-Archive-Ajigu-Rifumei-Swimwear-23-4kUp-007.webp"
 ---

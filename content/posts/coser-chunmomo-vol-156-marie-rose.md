@@ -11,6 +11,10 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "Marie"
+  - "chunmomo"
+  - "沫沫真爱版"
+
 photos: 26
 image: "https://lh5.ggpht.com/-H1ctVq4zwe0/ZOAczBH34-I/AAAAAAAAUjo/HykGoc31Bok48doI6gyMWiwSd5qPfpBBACNcBGAsYHQ/h1000-e7/Coser-chunmomo-chunmomo-Vol.156-Marie-Rose-4kUp-001.webp"
 ---

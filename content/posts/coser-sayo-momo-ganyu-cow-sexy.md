@@ -11,6 +11,8 @@ models:
   - "Sayo Momo"
 tags:
   - "Sayo"
+  - "Ganyu"
+
 photos: 51
 image: "https://lh5.ggpht.com/-jbr1W4GJRxQ/ZfR0rZ2TSHI/AAAAAAAA5e4/lhAGUKGqBawhaUmz3AGwZVP0IDqgFvxWwCNcBGAsYHQ/h1000-e7/Coser-Sayo-Momo-Ganyu-Cow-Sexy-4kUp-001.webp"
 ---

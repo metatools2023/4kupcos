@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 43
 image: "https://lh5.ggpht.com/-F_fSR8v3qu0/Yy4JSQw8ZnI/AAAAAAAAOXo/6XYpKOGgOeozJQhLwHF0ArHNkHfWw34GACNcBGAsYHQ/h1000-e7/Coser-Sally-Sally-Dorasnow-Airi-Gotou-4kUp-001.jpg"
 ---

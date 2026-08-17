@@ -11,6 +11,8 @@ models:
   - "けん研 (けんけん)"
 tags:
   - "けん研"
+  - "けんけん"
+
 photos: 202
 image: "https://lh5.ggpht.com/-kRyMqDPuQFw/ZVqO1w0OTmI/AAAAAAAA6rk/xK-ojcx5WAw-UeGmkxZCHOPADTtRqy1lwCNcBGAsYHQ/h1000-e7/Coser-kenken-Sweet-Room-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "兔胖胖"
 tags:
   - "兔胖胖"
+  - "恰巴耶夫"
+
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiv-_Ud9SkGlU3zzNyFjoRHpcEYhTLZNPwhCFKCoR4deA5zmlG9tzPoBrcsCk4Fy392ZNGsnZtzBcQuhwKuZJRK09ru8ifhcgGo7aCzG_nuKZXsE-uplwVhQTlCT5_X3jZ1FT8NXybbtuaDHHX3xTHzPh4OaqTmRnNsjKVtbaW2BgEg6jgw7ZfOQj5jp1Q/h1000-e7/Coser-Tu-pan-pan-40-4kUp-001.webp"
 ---

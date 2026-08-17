@@ -11,6 +11,8 @@ models:
   - "疯猫ss"
 tags:
   - "疯猫ss"
+  - "明日方舟"
+
 photos: 16
 image: "https://lh5.ggpht.com/-FdcRdetQ1es/ZiA0s1qO03I/AAAAAAAAPxk/xQYbQp_ZfvoQx-vaze-0JCB3wdSMr8T7QCNcBGAsYHQ/h1000-e7/Coser-ss-W-4kUp-001.webp"
 ---

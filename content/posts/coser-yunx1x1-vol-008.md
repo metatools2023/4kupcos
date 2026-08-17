@@ -11,6 +11,8 @@ models:
   - "云溪溪 (yunx1x1)"
 tags:
   - "云溪溪"
+  - "Yunx1x1"
+
 photos: 50
 image: "https://lh5.ggpht.com/-397TIgtDTQ4/YplEPgfyVTI/AAAAAAAAOW0/PvECFK2P69oZRIeEl-tDGlOF6N0LDxx_QCNcBGAsYHQ/h1000-e7/Coser-Yunx1x1-2-008-4kUp-001.jpg"
 ---

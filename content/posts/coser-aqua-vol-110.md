@@ -11,6 +11,8 @@ models:
   - "水淼aqua"
 tags:
   - "水淼aqua"
+  - "雷电将军"
+
 photos: 130
 image: "https://lh5.ggpht.com/-GO3zFS6OZEM/YkktZo5yk4I/AAAAAAAALXY/GRsmXQwt7-knpUnOsJJTbufeL-_ijCMJwCNcBGAsYHQ/h1000-e7/220315-Coser-aqua-110-4kUp-001.jpg"
 ---

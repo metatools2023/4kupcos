@@ -11,6 +11,8 @@ models:
   - "柒柒要乖哦"
 tags:
   - "柒柒要乖哦"
+  - "蔚蓝档案"
+
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuEmyNgNi3kFanY2K59gvVCLB8bzW1ZZe1-6S4z7isElYnGgISwHYRW30dUBuBF-DGvKi_QAe1F3mIeSH3q1KsMWQKd5wNSwMapxg6lB6GoXGdXD3CpeWO5U-UQs8YWiNxUI9jJanolvK0tBGykI7zxzlwXWSv-Cdmu9uEUZYovDoc14X57eJk9xId5Hz5/h1000-e7/Cosplayer-Qiqi-be-good-Azure-Files-Hizakibara-skin-42-4kUp-010.webp"
 ---

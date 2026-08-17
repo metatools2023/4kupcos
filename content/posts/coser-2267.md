@@ -11,6 +11,10 @@ models:
   - "屿鱼"
 tags:
   - "屿鱼"
+  - "卡芙卡"
+  - "崩坏"
+  - "星穹铁道"
+
 photos: 48
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfHrVKUWBtjDRaOt4kh9ZCLSvW4X_wFnbJDoaLjy7GzX9CDfWr4DyeBMK5Zbfxbpvm3_2tIux-_U5XZXHyb394OgqG1qqb_69cPllz5TqztZLKasRof0Vo6CR2X_MurMb3CLXGiYgBxX4cYg2L1Y3DUO5ByElBaYXpPdsWuDhBGPljA6F3tTL4CrLa0awV/h1000-e7/Cosplayer-Island-fish-Collapse-Star-Dome-Railway-Kafka-The-night-of-the-bound-moon-48-4kUp-234.webp"
 ---

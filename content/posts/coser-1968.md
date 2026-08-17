@@ -11,6 +11,8 @@ models:
   - "阿半今天很开心"
 tags:
   - "阿半今天很开心"
+  - "原神"
+
 photos: 42
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8zICE9aE05KHYR4uJKW9Botwsd98YYk8L23KSJ9aH2u-Cmbw0QT0lSsqTSXKyfasp5HgBdohjI1lGY6w-7XibEoFcbEHSWIzACd7oYXBH5lTW4BvB2_JpxGBAFd9j3JR8XtIfpwh722XXIm7Rg_zNSxYZDB1MHoxNdLz7wQ6vCawewzSc5THeaIg3_w0/h1000-e7/Coser-a-ban-jintian-hen-kaixin-42-4kUp-001.webp"
 ---

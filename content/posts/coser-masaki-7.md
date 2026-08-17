@@ -11,6 +11,9 @@ models:
   - "masaki雅祈"
 tags:
   - "masaki雅祈"
+  - "爱宕"
+  - "碧蓝航线"
+
 photos: 29
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1-Tn1ww7r7XxuEch3UDAHoDEEB5gnCJJ1r8mGhMxUtBGirbx19HU7_0CyMQtw0Zbw_6uLuN8BKs8P-CtAGksNnkhtu-fu-mIxMn3Bx96tTCzbia1aE7bQx4zCsjDudriOnVDx_RViX-rJx6kmAD6gbOCPqJjFPBU7YLpIxWVIMRBoVEulQwNi3wicrg/h1000-e7/Coser@masaki-ya-qi-bi-lan-hang-xian-ai-dang-29-4kUp-01.webp"
 ---

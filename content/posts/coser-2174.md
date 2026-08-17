@@ -11,6 +11,10 @@ models:
   - "阿雪雪"
 tags:
   - "阿雪雪"
+  - "旗袍"
+  - "碧蓝航线"
+  - "逸仙"
+
 photos: 92
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4NjkGfckIIXhlv8u_8FwJZgx05Bgca_heoX2HOlaCuSPUX4fGoWKwxDPzTc5P5o9TIzTsGLk9qQF2UXxCcfneDEh6XsQgvPmW0ZUr0PUNkmKK3MtUlAMBbsHTnUnSy91bhnVUkiPdzr3K-x1_3dr7XJvsP8KDe-yiUyZq8iK2zno9V82M5MC-adCaOVdn/h1000-e7/Cosplay-A-Xuexue-Azure-Route-Yixian-Cheongsam-1725-4kUp-004.webp"
 ---

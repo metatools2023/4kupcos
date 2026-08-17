@@ -11,6 +11,9 @@ models:
   - "Zyra秋"
 tags:
   - "Zyra秋"
+  - "埃吉尔"
+  - "碧蓝航线"
+
 photos: 43
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg27r3fh0_h-x37r5XqpDw7uq_D_VbojLPVY7JFHYoyLvvvOa0d5_s6g-i5-aHdkyQlqFWKgF8cZevV2OYtlZuBaYPBL3Xa2zHrqOYSCSaosnPMpQihfZNxMYrZJ4jjxLUWEqqCsetYPMO1W1sxip6eVMgXxgagB5dpkTlEYsw5ysaoK0iwjqh70Q3AWHE/h1000-e7/Cosplayer-Zyra-autumn-azur-lane-Egil-43-4kUp-002.webp"
 ---

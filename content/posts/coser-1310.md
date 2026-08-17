@@ -11,6 +11,8 @@ models:
   - "一色雨"
 tags:
   - "一色雨"
+  - "巫女"
+
 photos: 25
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCWu9kdomasRy2oXPNEhlqNkk5hFFfsIPFZDDUepLJsI2ufBb1RPm9tQJCMthkpy6YuBf_OIf_gbhKkkCowtfftzFOYrV9muDk-fPYek3OSPX88_-dQtoQGB9baznmqDxlBYcVqOPQySxa5QMUevCsaZRi0fV4deaRbUE6oQZb96mPki3WNlFJAAikfGBr/h1000-e7/Cosplayer-One-color-rain-shrine-maiden-25-4kUp-004.webp"
 ---

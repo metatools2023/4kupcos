@@ -11,6 +11,9 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "可畏"
+  - "碧蓝航线"
+
 photos: 69
 image: "https://lh5.ggpht.com/-IPBYDSHVJjo/ZJdxBIam3mI/AAAAAAAAXNg/peFqlBvj8B8VxRR2roXsevp7pwt9h24egCNcBGAsYHQ/h1000-e7/Coser-Hoshilily-4kUp-001.webp"
 ---

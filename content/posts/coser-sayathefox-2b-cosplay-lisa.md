@@ -11,6 +11,8 @@ models:
   - "Sayathefox"
 tags:
   - "Sayathefox"
+  - "2B"
+
 photos: 16
 image: "https://lh5.ggpht.com/-9SwhQgjeH7M/ZKnx8lV513I/AAAAAAAAM1I/te0xYPk39XoC8cpp8SjLX8dzHTQjzmVQACNcBGAsYHQ/h1000-e7/Coser-Sayathefox-2B-Cosplay-Lisa-4kUp-001.webp"
 ---

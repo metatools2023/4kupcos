@@ -11,6 +11,9 @@ models:
   - "仙女月"
 tags:
   - "仙女月"
+  - "原神"
+  - "甘雨"
+
 photos: 34
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJZ6P7f3cztyAMjJoFFSObmuyWqxOSP186s_joQPyKOlVlgfdiIAwcV5TkEQAuRn823rDPUIfqQx_GaV91V765-zV22ECkbFSFqgZD9e6GInpwATFGuNSNDJYCyqhb9QhGDBwIoizxmu0L0y85bVISiOm1TmQ2p0paPPqaSNT5mj04039HFmOyzU799w/h1000-e7/Cosplay-Star-Deer-Nero-Maid-34-4kUp-001.webp"
 ---

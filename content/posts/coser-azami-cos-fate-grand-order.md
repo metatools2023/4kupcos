@@ -11,6 +11,9 @@ models:
   - "Azami"
 tags:
   - "Azami"
+  - "Fate Grand Order"
+  - "玛修"
+
 photos: 16
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbiamCUx5UzdfTlbUBw915xs8DtpkbF1QOp6QYufYf0OkxuDpfE_74J30pMg9yWn_iPShqQ0s8cez2-zpmO8hTwpbiCL68OECS-d3xI8YUmxqRZlKsiJp-lYRubjfF7kcieR7O1byYk0GOcW9KcWmaWdAejoqMa87mFOSvPzKJnwvIbY-SbqY4QjJ7p18/h1000-e7/Coser-Azami-Cos-Fate-Grand-Order-16-4kUp-001.webp"
 ---

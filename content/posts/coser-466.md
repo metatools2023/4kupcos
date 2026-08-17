@@ -11,6 +11,8 @@ models:
   - "清水由乃"
 tags:
   - "清水由乃"
+  - "碧蓝航线"
+
 photos: 51
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqZu8h3Xkcl7z-3XCwr1JEUHET3-7K_aYTCZR8YL1SotqPE57ZdkLNw3S0QogjEn-OabGr76h79Hp6lV-y7svk2ioLSb_mAUXAvs1Xqy3A-wu4yP81XmVPv8Op-KacsCGa5ztgv2uEHATr6tLVrfG4wfquU6a4EkOu5NCMlHQCPp6Z40OWRIBJcbblmw/h1000-e7/Cosplay-Shimizu-Yuno-Azur-Blue-Route-Musashi-Wisteria-Flower-51-4kUp-002.webp"
 ---

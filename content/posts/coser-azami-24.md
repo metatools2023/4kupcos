@@ -11,6 +11,8 @@ models:
   - "Azami"
 tags:
   - "Azami"
+  - "碧蓝航线"
+
 photos: 21
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCenfEVX-XhfCVuWFCYRqF-sjrad37nQjvEsIs3bK5xkW1ONMZjupfnc_DQB9eDAOpenZ8Dgyyv4Mmcw9L6LwUx1J0WwJNwGkpTzTjTkYQpmOALCjQgVU8lm0OGnXnR_gX8utGiZfr8U9eSJAusrcUIMeAGXUjbwQncOHtQl5VGcNIFUdG1ra74XZGqxnh/h1000-e7/Coser-Azami-21-4kUp-001.webp"
 ---

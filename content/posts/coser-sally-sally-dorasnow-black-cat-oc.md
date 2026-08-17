@@ -11,6 +11,8 @@ models:
   - "sally多啦雪 (sally dorasnow)"
 tags:
   - "Sally多啦雪"
+  - "Sally Dorasnow"
+
 photos: 29
 image: "https://lh5.ggpht.com/-qnXxwWVmS4c/ZF-7kCglCtI/AAAAAAAAEKs/5vhiVq12Cms7q7inuMmTW0VyzcY8sRl-gCNcBGAsYHQ/h1000-e7/Coser-Sally-Sally-Dorasnow-Black-Cat-OC-4kUp-001.webp"
 ---

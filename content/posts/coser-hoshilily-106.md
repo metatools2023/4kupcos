@@ -11,6 +11,8 @@ models:
   - "星之迟迟Hoshilily"
 tags:
   - "星之迟迟Hoshilily"
+  - "碧蓝航线"
+
 photos: 40
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB_sfY8MHCrFxSDOHvk52CewhN3p05lTF-qHLIT6zAfDq35HPBVA4aLcO1Z4HXG2NRlMS3f7I04LQEC3_9c1B7lIsXo0doVwGLGtk2t7jHM1z7ZW-VK5NESr6xOYAZAdoHhDCZHVHCrMxULEM_RvoQVeBAnfTr1JnoOnfGUYgvh6u9oQG4Twb5cfwpS8M-/h1000-e7/Cosplayer-The-star-is-late-Hoshilily-azur-lane-Zhenhai-Reform-40-4kUp-004.webp"
 ---

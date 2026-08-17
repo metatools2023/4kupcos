@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 147
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGOkKp8fKqqCJ-yiGp40UmhqmkdrhtUsru0GpOPIgKW6fMKWVnHqxgrQrdU8fyTlfeucZWHpd_d7cl6b5n0WF3vVFlF1EJhdHeDqFer4oXs2E5I01P9TiMKFoC9n2OFIt8DB5oxCeRTPzliYb0K1gZUjXCn734D9LqBf8CcXWZDCgaqlx-4_5-m8uOe3g9/h1000-e7/Cosplay-chunmomo-Monastery-147-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Atsuki (あつき)"
 tags:
   - "Atsuki"
+  - "あつき"
+
 photos: 315
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNnwqvVdbO35a4hvFutQ842ObicmxMax1NPYZlpIfpzb3TjQgZ50awsUwzQvPyg_hohlTUQPPYdisu09p2MjarWRGmSlzi15khtj7F3ML-pW4ef1_9C_gWAKSTWWZOSAwrPnsnJf2U88-Rvdp5JKWxRZyXM3CG7JRv_t5uWorJbwcUmqETyoSdyq5EDF0K/h1000-e7/Coser-Atsuki-Hyou-Genshin-Impact-316-4kUp-011.webp"
 ---

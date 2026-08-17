@@ -11,6 +11,8 @@ models:
   - "不呆猫"
 tags:
   - "不呆猫"
+  - "吉他妹妹"
+
 photos: 39
 image: "https://lh5.ggpht.com/-muClpR0KVnY/ZJiqKg5eHeI/AAAAAAAAYHs/NE2dq-ZcH9sSTfHbFkfcCtfi2BH-maquwCNcBGAsYHQ/h1000-e7/Coser-42-4kUp-001.webp"
 ---

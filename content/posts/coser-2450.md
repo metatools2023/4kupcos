@@ -11,6 +11,9 @@ models:
   - "焖焖碳"
 tags:
   - "焖焖碳"
+  - "泳装"
+  - "碧蓝航线"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRLbskKQYfEeduHA8v4tN3hMrJePicaz13cSvQXCTLs5kMEUcsf9laPrZuZNWka6uNBzrDYLkCSKCqYw-JXgH-C-goMLGAGhVxOA90VsWpvi0LAeMSKNw9CRNf9Smori7OG-R31C1NCT7_Reb_2GrrEkUolEHSDnBX5gdVBoGgEuT6ZRNAzmGPKAknbafQ/h1000-e7/Cosplayer-Braised-carbon-azur-lane-anchorage-swimsuit-20-4kUp-001.webp"
 ---

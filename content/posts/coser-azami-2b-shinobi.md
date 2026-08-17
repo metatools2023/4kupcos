@@ -11,6 +11,8 @@ models:
   - "Azami"
 tags:
   - "Azami"
+  - "2B"
+
 photos: 20
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu73sqWeRh26-BEYuvTAKMu52VRpDlVUIKtLspsnT1EK-d6VJn-hVux2IeeA08GAS5GSSK4f6lp0pcdUYuRLTmrxIiTkSQ_6y-o9HfxOys7vxnh_XhXFeN_Uxhq_ujIfXBHXj74LHRKdRRVbHMQ8Djfy948dWlwtuVdHkedDscxziU5TZzgBfUXtJHJ4K1/h1000-e7/Coser-Azami-2B-Shinobi-20-4kUp-001.webp"
 ---

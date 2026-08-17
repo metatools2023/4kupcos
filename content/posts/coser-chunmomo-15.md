@@ -11,6 +11,8 @@ models:
   - "蠢沫沫 (chunmomo)"
 tags:
   - "蠢沫沫"
+  - "chunmomo"
+
 photos: 134
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhWxI9zWw4LhIcyjP_M6GvqAqAgPvRNd6oiaUa9LrHUgwOOgMsXtQEbIWPwSPk7hEHqZpFf9ugO17gueRTQYlGMY-SI-2Gu_gTrPZsifjdnUvXF0QbgN5G4eXXZvj4EhATUdOXpjTGguSHCK_m1jLXPiWQWp62jX6R8L5cZa_KilnOlf0ycmZtroe0iSle/h1000-e7/Cosplay-chunmomo-June-selfie-collection-136-4kUp-005.jpg"
 ---

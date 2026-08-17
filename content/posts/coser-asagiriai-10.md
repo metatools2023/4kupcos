@@ -11,6 +11,9 @@ models:
   - "Asagiriai (愛ちゃん)"
 tags:
   - "Asagiriai"
+  - "愛ちゃん"
+  - "风纪委员"
+
 photos: 40
 image: "https://lh5.ggpht.com/-_l_9gk6ENLM/ZXI9FznJ4pI/AAAAAAABSeY/rSEzx1_2Jd8wSgrQeBr0AYW4j4HUTTLSgCNcBGAsYHQ/h1000-e7/Coser-Asagiriai-4kUp-001.webp"
 ---

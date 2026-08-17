@@ -11,6 +11,8 @@ models:
   - "面饼仙儿"
 tags:
   - "面饼仙儿"
+  - "逸仙"
+
 photos: 40
 image: "https://lh5.ggpht.com/-x5hOYb49u6I/ZRG0abiJ9uI/AAAAAAAAYIc/Em1l9sicG-AGXz40VDP1AGFehviie35uQCNcBGAsYHQ/h1000-e7/Coser-No.077-4kUp-001.webp"
 ---

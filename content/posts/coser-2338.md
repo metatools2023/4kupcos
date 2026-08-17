@@ -11,6 +11,8 @@ models:
   - "双木扶苏"
 tags:
   - "双木扶苏"
+  - "明日方舟"
+
 photos: 54
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtNc5ImwmkiGL4ZOJ02MwjzaLzCGF-FfcD3JJkPs-TtkR0WqGQXxsOM-AFJfZ0vsVnkODheh9flrRGzc0s8kfIcsJScf5Oz_fJ7X7iEi863VNtl6jTea5d-r0XoUJuC4M5M-zpO1rzlI472NcVPI1PrF78oovwus1D1CDtYlNdxIn1U-JdTsqViffiDsid/h1000-e7/Cosplayer-Shuangmu-Fusu-Arknights-Shirter-Dede-Club-Tactical-Style-54-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "PingPing"
 tags:
   - "PingPing"
+  - "Fate Grand Order"
+
 photos: 30
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3o0Ipqh_0_ULCabcYMB3CoRn4hgn2tBzWKtwjjSADkFOntWw8chKet_DNdN-ZUW4tuhhGulglGuThUuURe9-zK0DwpNtSoj5EbLx0-HJjqNcDo8SfCIkRvEhyyrDn_vIcidPIMVPZ0UGMWtOGt1hmxgToctcAdmS_TmkdRRZ4xqEC9hUHxUbGVbqulC_W/h1000-e7/Coser-PingPing-Kiara-Sesshouin-Gtunver-ver-Fate-Grand-Order-30-4kUp-001.webp"
 ---

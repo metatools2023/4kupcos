@@ -11,6 +11,8 @@ models:
   - "沖田凜花Rinka"
 tags:
   - "沖田凜花Rinka"
+  - "旗袍"
+
 photos: 23
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBxRMJpAJ131EzIdLbyet6hTmWomqi-T3WoOQ95TfBHOiIYdi49VmiT0DlFCTsF55i0_axUWBKfp-UnhsnDXlZXEdFkm8lXi4YJnHYRusbvkNC2zwxlCz-lvlwMOQiGpTpg6EidXN0H4iNyxQp44prN4TvL5L-Gs4e4XEc6mrZ5kLhhX39BbsGkJe7mkDr/h1000-e7/Cosplayer-Chong-Tian-Lin-Hua-Rinka-Kasugano-Yuu-cheongsam-23-4kUp-001.webp"
 ---

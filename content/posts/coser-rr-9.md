@@ -11,6 +11,8 @@ models:
   - "前羽_rr"
 tags:
   - "前羽_rr"
+  - "碧蓝档案"
+
 photos: 33
 image: "https://lh5.ggpht.com/--gxNI4z3R4Y/ZWFA573LBYI/AAAAAAABBu0/Rin5NJiepPQRRZLkAvtI26sx9bMWaZ8YgCNcBGAsYHQ/h1000-e7/Coser-rr-4kUp-001.webp"
 ---

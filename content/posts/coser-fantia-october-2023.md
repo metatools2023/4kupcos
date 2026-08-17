@@ -11,6 +11,8 @@ models:
   - "发条少女 (迷之呆梨) (Fantia)"
 tags:
   - "发条少女"
+  - "迷之呆梨"
+
 photos: 109
 image: "https://lh5.ggpht.com/-NnnuN52_0jQ/ZVlNPDscnuI/AAAAAAAA5C8/e7vkzN8XyIsoU546oCaKrj6k3Eekxzx6wCNcBGAsYHQ/h1000-e7/Coser-FATIAO-Liii-Fantia-October-2023-4kUp-001.webp"
 ---

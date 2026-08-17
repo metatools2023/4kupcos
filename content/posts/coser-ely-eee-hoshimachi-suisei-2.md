@@ -11,6 +11,8 @@ models:
   - "Ely_eee (ElyEE子)"
 tags:
   - "Ely_eee"
+  - "ElyEE子"
+
 photos: 23
 image: "https://lh5.ggpht.com/-G2JGSqvIuhw/ZbWaNsqnQHI/AAAAAAAAa34/lfFsoUGmFgwyw3gGx4qYgKMQlLmiqMwDgCNcBGAsYHQ/h1000-e7/Coser-Ely-eee-ElyEE-Hoshimachi-Suisei-2-4kUp-001.webp"
 ---

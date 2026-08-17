@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "绝区零"
+
 photos: 57
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkjyt6koaGROT2djij8KEnybCM1y_2cH2pi7qbdcHM3R39wWj08x9YdBslHo8ZINIzeiDlae7Gg3jJRhNdClTt3zXJU6B8zL9rLRdMdNPuC33_-KAnoX0UvJxEmk1pXQ_YExzbpkp0-jASq3EadoZcvk0QxL_iwOQQgQWjuQvkKeuZJCLSG2f9MOTCTko/h1000-e7/Coser-Byoru-Burnice-72-4kUp-002.webp"
 ---

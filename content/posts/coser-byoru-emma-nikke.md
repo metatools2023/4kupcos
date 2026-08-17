@@ -11,6 +11,8 @@ models:
   - "Byoru"
 tags:
   - "Byoru"
+  - "NIKKE"
+
 photos: 46
 image: "https://lh5.ggpht.com/-j2DzIG7r4rE/Y7dU0nKoWkI/AAAAAAAAFKo/TwiClXgjGy8OG_digBRvWhLMN5VBKrdqQCNcBGAsYHQ/h1000-e7/Coser-Byoru-Emma-NIKKE-4kUp-001.webp"
 ---

@@ -11,6 +11,8 @@ models:
   - "Atsuki (あつき)"
 tags:
   - "Atsuki"
+  - "あつき"
+
 photos: 394
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5yBPLhfkmh1_eInPp_Q_qOcHZ5aXYIWZMAl0UWg8y-2-VaPqpxQKIKvH4YyQCMHcM1iB34dO4yOMA3aXpOLpnjRfdqeoIKnVP_qL6tYwqAAyOnlh0QOFsYcJLwx3oXAlDDVyMSF3Z5Lr0JBjp8Tz6yfsGimEDG153ecypdc3CNO4bzOq-JH4fejBaq7PH/h1000-e7/Coser-Atsuki-KanColle-Murasame-Kai-2-Suite-Collection.42-395-4kUp-008.webp"
 ---

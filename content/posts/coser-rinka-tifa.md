@@ -11,6 +11,8 @@ models:
   - "沖田凜花Rinka"
 tags:
   - "沖田凜花Rinka"
+  - "Tifa"
+
 photos: 50
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6sSC0iUY0MThoTqCFFxgHS53wAIqOTN8zExNpvfeGDiDjK2AZNCQkrcn3C8Yq86QyqlPgouIQZKLGRar3TUxR3VHtrrG0s13inL4bEEAEegBix5VbhSYekk4P3Pr5j7ojo0gRG2uvIyWyZGf60AZx_gK6LYGA_BivTDhchB7qsIrpHmeUdnqGH_f1fkJm/h1000-e7/Cosplay-Chong-Tian-Lin-Hua-Rinka-Tifa-50-4kUp-003.jpg"
 ---

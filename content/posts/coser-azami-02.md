@@ -11,6 +11,8 @@ models:
   - "Azami"
 tags:
   - "Azami"
+  - "圣诞"
+
 photos: 22
 image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqrVbiNPBZ-0qDZRjyZtgpQmF_CVEAnVXIdgC4zfeQ5nnGqENo8Ik0laF0qv_1GU50qa2CpMpBjBsRzPK9_8VYLvvM2zvOjHzKl3-57LX9hnW7uJr5wVStfSPdsmPB4-5a2HPLtAQ4pXsA_oQlgkvDc4HgHOlrANJVCO2NVAQDP5oe4pPGYOD3CKeGXT0/h1000-e7/Coser-Azami-02-27-4kUp-001.webp"
 ---
