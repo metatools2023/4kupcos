@@ -31,6 +31,96 @@
     text-align: center;
 }
 
+// ---------- 归档组件：年份手风琴 + 月份细分 ----------
+.widget.archives {
+    .widget-archive--list {
+        .archives-year-details {
+            &:not(:last-of-type) {
+                border-bottom: 1.5px solid var(--card-separator-color);
+            }
+
+            summary {
+                font-size: 1.4rem;
+                padding: 18px 25px;
+                display: flex;
+                align-items: center;
+                gap: 8px;
+                cursor: pointer;
+                list-style: none;
+                user-select: none;
+
+                &::-webkit-details-marker {
+                    display: none;
+                }
+
+                span.year {
+                    flex: 1;
+                    color: var(--card-text-color-main);
+                    font-weight: bold;
+                }
+
+                span.count {
+                    color: var(--card-text-color-tertiary);
+                }
+
+                .chevron {
+                    color: var(--card-text-color-tertiary);
+                    transition: transform 0.2s ease;
+                    flex-shrink: 0;
+                }
+            }
+
+            &[open] summary .chevron {
+                transform: rotate(180deg);
+            }
+
+            .archives-month-list {
+                padding: 4px 0 12px;
+                background: var(--card-background-selected);
+
+                a {
+                    display: flex;
+                    align-items: center;
+                    font-size: 1.3rem;
+                    padding: 8px 25px 8px 34px;
+                    text-decoration: none;
+
+                    span.month {
+                        flex: 1;
+                        color: var(--card-text-color-secondary);
+                    }
+
+                    span.count {
+                        color: var(--card-text-color-tertiary);
+                    }
+
+                    &:hover span.month {
+                        color: var(--accent-color);
+                    }
+                }
+            }
+        }
+    }
+}
+
+// 归档页月份小标题
+.archives-month-group {
+    .archives-month-title {
+        font-size: 1.7rem;
+        margin: 2.4rem 0 1rem;
+
+        a {
+            color: var(--card-text-color-main);
+
+            .count {
+                color: var(--card-text-color-tertiary);
+                font-weight: normal;
+                font-size: 1.4rem;
+            }
+        }
+    }
+}
+
 // ---------- 模特卡片墙 (/categories/coser/) ----------
 .models-wall {
     background-color: transparent;

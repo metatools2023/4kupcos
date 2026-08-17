@@ -1,0 +1,54 @@
+{{- $query := first 1 (where .Context.Site.Pages "Layout" "==" "archives") -}}
+{{- $context := .Context -}}
+{{- $limit := default 5 .Params.limit -}}
+{{- if $query -}}
+    {{- $archivesPage := index $query 0 -}}
+    <section class="widget archives">
+        <div class="widget-icon">
+            {{ partial "helper/icon" "infinity" }}
+        </div>
+        <h2 class="widget-title section-title">
+            <a href="{{ $archivesPage.RelPermalink }}">
+                {{ T "widget.archives.title" }}
+            </a>
+        </h2>
+
+        {{ $pages := partial "helper/pages.html" $context.Site.Home }}
+        {{ $archives := $pages.GroupByDate "2006" }}
+        
+        <div class="widget-archive--list">
+            {{ range $index, $item := first ($limit) ($archives) }}
+                {{- $id := lower (replace $item.Key " " "-") -}}
+                {{- $months := $item.Pages.GroupByDate "2006-01" -}}
+                <details class="archives-year-details" {{ if eq $index 0 }}open{{ end }}>
+                    <summary>
+                        <span class="year">{{ $item.Key }}</span>
+                        <span class="count">{{ len $item.Pages }}</span>
+                        <svg class="chevron" xmlns="http://www.w3.org/2000/svg" width="14" height="14"
+                             viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"
+                             stroke-linecap="round" stroke-linejoin="round">
+                            <polyline points="6 9 12 15 18 9"/>
+                        </svg>
+                    </summary>
+                    <div class="archives-month-list">
+                        {{ range $months }}
+                        <a href="{{ $archivesPage.RelPermalink }}#{{ .Key }}">
+                            <span class="month">{{ strings.TrimLeft "0" (index (split .Key "-") 1) }}月</span>
+                            <span class="count">{{ len .Pages }}</span>
+                        </a>
+                        {{ end }}
+                    </div>
+                </details>
+            {{ end }}
+            {{ if gt (len $archives) $limit }}
+                <div class="archives-year">
+                    <a href="{{ $archivesPage.RelPermalink }}">
+                        <span class="year">{{ T "widget.archives.more" }}</span>
+                    </a>
+                </div>
+            {{ end }}
+        </div>
+    </section>
+{{- else -}}
+    {{- warnf "Archives page not found. Create a page with layout: archives." -}}
+{{- end -}}
