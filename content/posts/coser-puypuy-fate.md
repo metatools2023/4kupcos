@@ -1,0 +1,99 @@
+---
+title: "Coser@PuyPuy Fate 卡莲"
+date: "2025-11-15T04:59:30"
+slug: "coser-puypuy-fate"
+wp_id: 48386
+source: "https://4kup.net/coser-puypuy-fate/"
+categories:
+  - "Asian"
+  - "Coser"
+models:
+  - "PuyPuy"
+photos: 71
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTjelWJ3-r65gZ8dumAePWlAXXeo5g-0rqG6YJKpmITFqgGzMBQ1gbdbGVatwt-dRFmXo0fieRQ0o8beYSPGflRwi5XxznGuGpO3llSZ5MEVgTwMW_1wdMWhy1nfVLkg6HaWEmvAiTJzNXQXF3gFlLOzFMhY_tYGKnZHC7Xf2oqoRMvWQVFmapi8HjkNfH/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-015.webp"
+---
+
+**Album:** Coser@PuyPuy Fate 卡莲  
+**Photos:** 71
+
+{{< download "https://1024terabox.com/s/1z8gbH38JuObhqD5H86PA3Q" "Download from 1024terabox.com" >}}
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTjelWJ3-r65gZ8dumAePWlAXXeo5g-0rqG6YJKpmITFqgGzMBQ1gbdbGVatwt-dRFmXo0fieRQ0o8beYSPGflRwi5XxznGuGpO3llSZ5MEVgTwMW_1wdMWhy1nfVLkg6HaWEmvAiTJzNXQXF3gFlLOzFMhY_tYGKnZHC7Xf2oqoRMvWQVFmapi8HjkNfH/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-015.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqvHH-DJpYivIxZEy2VqMqJgQdtG9X-1cxWCLDP50KTEYtzdfmcqSOWV3zu1oW9HLrAJ2k4HvRa2Fd6_X55uRX9XQQndVCPEK7kxHj4mS75ib5V1BPjfIbXag-Fq1RJKi_HLurOLlNN-y-ZolfymOIAlHoz0gsDNP4NMdlPWWQn0eyh2TWH8FgGWiBhyIe/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-018.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrJGcGbS-jpr9hjjYlbUORrjIJjSr9wUGPTZIMqiC8CT-zSz77JsKbzgTlw9_6ZV7gzqIl9UF3TVmAyCBt2hzi5aWpquuEVJQqfsZjjcsUQCryWFNjR3U8i64UmRrSS8fXaUCYkUPzyVZgiC1OERuENPrGqlbJc06TLVXScpalfrKVS4HFdJhlHZrOt3EA/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-019.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOnLm8eyPOX2W87jJXGxh3PeKRStuNZOBsR5Hr5XdOlAHkql_abR1R42vL9tahbMvWq9KdlE7NrQk4FWPCHCW_xl9fRBju1NMkyFId7wKBvKBrMUQ-5mEWebirID0G1N3xM0fmkF_liF8utEeY1YJ9ARNWZLqsykm7TX3bja0f9otsOxGuWuOZbiPdFyFF/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-023.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWMDoELI_DpQTWRRNFtaLfhwZDM-BUoPpqAQ1VxElNHW14lYXf7Ozx4lO0yeCd4sxjlO-365GaHxKG4gV5SqtpuAdGHmRHbiFo083B_PSQVjCddh3z7wHhgtxvEooFbzoKzaDGH3onLH871n8u1iNxFboMKn7I8sc81jkBbjhCMv4X0WNstTGVkNc31wEO/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-024.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi69jgVYn1Br0A5aEzD9vplg9c4QJuZbh5pW7p0FM5v7ScG8dJGVsCBsAw0Jm0YpAreYwmpCBJUCBFLE5TJV98jrrA6czBr1rdDmn5TO-XDxXtLN_72UIeWnjZkiUIjYA1WG4BC7KAfNEkHfO30JaRUCvPP_My4Yg7rhlH2Qo-iBKZpyX_dgnuffurPFckf/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-025.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLkq-eTe1g52a1Y0NPMpZWwnOkPc0byyVXXwkkcZqyrCDL-TaHNvwIYvBH_hSKSDpGFf9pjEAIEfYryqFByJsQESJfahuIm2ANgO1SArleso29E8lk9uQkhPQoPtajODioOESvEaSvwRRlX1TSHP_wRyKAN09-BdOctnXuWVCLEOjCpNSB8mMGj92b9mRG/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-032.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXvwhKL3dc3LbKabA0bBnGlFsfop5CN7-8Y-9gHDs15UYneiTYu1DuXo28aKdkuABZGpTtOI-3_cOxcetdvkbBuy4qZjVZSn2bhuShD30hapZ_aauRMZfFhOAHOqB25u4amxpjl-IU76PFkozKW88ffjT4fXxRVScJIqhk0W2tTbNrFxV9Xirk2vceZ2YW/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-034.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilAH_hnnfe-pTZ86WU_DFMd6RehyphenhyphenRrD7Yxbu70EjL8oUtwoVn3MPZL4Kd-SUb3jm_WWpmRGuUzZ5JVhD-kpa4_SsPD6YovbMUgElO9K2MZf6kp5oqv_n4nMT-f3o92BqL-SJilf3K_Gq1wwvJ63hp8lC4QtIbOLKGIBF1rwoPhuj5JlEraihuWYj3WvL56/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-035.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3Iz8_hqI6eP3Kq1VTgBwtax-lclMvNG1kofHZsViZO3Dd_EcLqC_zC8x04aRgDhGKVKSHGwhpVSrKpbWcS1bmLQrqWz8yLEG7TJMEB-JJP8LN2eSgAIQQeWvmkJ2BwbArLI3fjEmWVaJoFTQLG04-9HZjqz0RP4-vRAudichPv1elOawFq3IM85uBr7ox/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-039.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVePPrNI9EcFhybQVN1MDMFInLnA5_FeE-xn5a_A33lqkWc9HXp77U322u8yNUAxnmDm595-gckckjbFqInvBHv1mS6s_eXygdP7BrBq9tuQhL9YC28BkK0DZkx4H-M8_0zGh2vrB8-bSg6dr3B1TeA8mTeynmCEzLZFIVRzFNzmEzSoFiy2Zna0KpLJGH/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-042.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXmM9JoJ4wkN6H9SLhWyyFd4qWnspzCbEee9K_MrtP0kft2EyuflcHO661mto-ZFqu9IGTJgYzlX0YwCtq9suicBahTMyQrAysqdT_2r3RC8aMOSzglnQoZTZjpzghwOKbHRyx2IvwTAH9zeIttpypgT_BQ6CPLcHBihtc1gHWgxXEGvbkDeFD8BG7wJj/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-051.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2R42BHbEbETjYiBtiZfdWuIldDWneWv-Uc_f-vOyX0yV03z4RK9Y0bPTpHZQoHZNwBAAefeywyFwAkwE28P3au-3rWhOxKPGBoBaCNkXbK_xJt3Hy2xeQDyZy0mAhd5L_8Ucmedy9R8q0Rsh6bRArArVor0ht8H_WYX5j-SoHvrN-63X7HduFI5Yc9oTv/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-066.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjz6yrArPQ75aFRgIhQBONgBZvpx9n4Wzyl_3WdAISmsYgea9_7VlOIppzOnOSkrvpuprr0e0Fa1EFtSYItu3MtNHXcOxYSJ74-oIG6bna-bJXl2GteVuP8bez_nOMvqXqzRg3tjG-cOlaQdciUMCO9CzRzBVy8ZU8taxrqCt_9sfEYr6QkhwiRDU1vvCv/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-067.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYEitFwZI2uUIjh_ivZOCMpkba7p3RTJR9o2wno_Wim04Dd2ObIqP04PgfNmnCPJfer31ul-ykSmb11NWkoie5JcRzyFThUpKhpU4VBaUQtKmSb3_acbeiNunqvSmC7LsoNOEzZ7P8PFqR42soi4D2AW5R8HMVqs1k7daWo84WwUob-0tdmNtTLTDC_J0-/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-070.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhr1ycsBkbvK0AqQvorPH9UnJZ2gRoD3FcSICl0wl5b9ATzhY5_rbYutkwoHGcDF6JdUSbkuaS8kOS-83n3dmyoOP7lUoIZzDiTsStIIEj6GiW_KoVrQEpXbnimFyG5YK8Vii3F3_OKTjj2rrYO6txzqLX0xWGmiSkf520e8jbt_58Fk_g-ZW1eVbrYmu4A/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-075.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJjDCnlgxuvSHW6lJ5VpW-AjLd5DZAS3i-BmDzUnujt1xnS2YGOhyphenhyphenUdy4iUZ210UpElUNuMB6lM1y8qvoayNeb_YPzq7wBdGLpBWnnP75Pt9vFG7MXJXm_e1zegin5STQe0ngZfDTzqOdtlhnCNZDrqJCWfGkiE1bXDjABaH1fdVTQGSjsFO4zHCP3HxE_/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-096.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSWGRHzbxoK9EqmSCBYalKQ3qPg8MbDx61hakPkDY0zt_TkZpWf9wpO6HwP3nquG36AMuUby3EnKRBkC_DvLJJLUSF3NRaXfxq7GV-50ZHCvsQFCTKi4Phmez4loaqtJnhgKVw7mgUhy7kKPkacdZbRzGecFfAPYdXeM_TtyTJxWpz_Tzj0KwrDF15qpsm/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-097.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnxaIXrwvWN9GkOZ3wGDPMHa7-AkJRFIk6Txwr6VaA5GeHl1eNxE-3qoGiMzHMZo52Ej1YTrl4yvMm2C20l5v9fGT9gs6-xs1ngP1YCnhhqcxFRwBcxUjPXWk6PSGDoalo2DFNu-Yac8iHG3mMny_ELD0JQMeutdZhHskkQeCC3xtdQ_Gz6fLt4X0OhZm7/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-099.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg48yMXhNjfw2D9JEG0sE4941KDMlx9uJKPXCkg4XU3hewxDXj2zehuuaRADYbEkzxVLwYxkr3exY5zHmwl4LCEEHn2tDMmiSdav7mb9FR2HJYsy7Gaa-farn9P8n5kcOUdegMCUGK1zXM-DIDR3xQWEXKebJ1rzQhyib73b-1522Y1ciUfkzb7KX36KDDN/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-100.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgP9rYmO_WLVpJj5xdhUGEsLmk4CAocVI69QUm6pNinDDexScv3njSp66z_lmOmPvLQzk2ZxU0d1iBC5oQMprJBwzS7R30p7XCwq8oi9g0sHHzpFJYhMmaKs-NqTvDQ-nfSqgvTLoGq9L0DUIE9E3BLoMEDWn9rVhmPsoCS9jZakPXQ3gRiSjoEHL89-8XU/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-103.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwi9XPAioGUa63E_AO6OabIbGd1U93ffBCI4kyrP0MXXbSmuCFDwQKNh0Lrk85vpT-WIomBi1ZaU3DGDSZs9zG8vACepHU4ffpbXAxMMXsdgzgwE-CLPTl1FWJYxYVhxqtPyajIgimYdu6bj3NHvTpwcd8vMD6IKJUg7kMqOoTzzX3C8NJScHutEdl5CJj/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-104.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnHP01p9-3kgacnrR_pi6o4fQCYHCEmfTQa7CCmBEc8JM7nw9a2VmpaVnFZhmsXMG3ESoCv8YGb_rVeb7IKUb1-dfDg8944yyu7BArrx0RKJ7cTHmluL0fZqnix2OflmpUyys-s6wIRLHVI30GuR5cW2lxD_Nwl3H39rLqDC2CdLIARYrSGinM7CPGHfEh/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-105.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiFBORueHn531gdxXwG8fzCdIR0srbHlnqj-ZuvxZw-20mFMjYkQAszb61MRIQ5bv59LhO1VxTESb1Jq6zuyhy5YW-04tE86a4Eq4V7wa8KkyXFJBh4GW-V7_sskzycRXi_YIIzw_rouW44XL3d2fnjzoVMyDwb75U4dBcFX3Vmi5hYVZKoJVSRlqvNkmt/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-106.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxgZPm6w-2TNkck1cCEL_gCzI3uotNTCFK7MMxPaf3ob45oaBKNhpaz3BhhLctqa8gaU86B8ABr7uD8HW9511lnylPEFvgXAxVjqxQ8gmjQGMCRo6-f7i6KOAcYd6vOCB7OnoQNGgImX4i1jJkw1xsbLu7HebRcnmRcnNoEk181ZpC6WZUAlbHUXpil4g0/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-107.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgC5R0xswvdaPwmp6_HVfg3TEIsVJ__aPg1rlU52JPkO20roj7zsvRGwCpccvXIa465awrGQGmxzorcyCh7HjIOm31ur-GbfLKZJI252JfECSypuExZwSO9SZKBRx4No2FKKcuhi1BSYNppZoWvMAL6QR9dJweytH1JabUWu9UP_idHc_lvplMiRFx6KgJi/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-111.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicqY7nTdYs5jf5r_mutnBZvZI57_vNcAERuyhY_Faw5JTMr6_kIZ8ioc268ntp54jYN1kxdBs_NjM6LHR-DKc1Fn3l8w7VILx8o7j8nqYYV1pYrA_BOFOdaTW-Cxxfo5gPiWO2g-TJXomJtH41EEDDly1mrqis8Ho4oP08DJ3taNUBu9v7tLLnDElaHyNb/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-112.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQhoE16-Y4CEVcEkbfgFJji372Shc2NtMnNNQOlEnAaCPIsXiiMDgxjU1uPIjWuJIRcH6jHsT2hNVB-wYS1C_YwOy6_PeMS0T04ezCmgsFHezoy0RXVZPLyw1bP5wXERmNBz0SZl0_7guDEAMYI0rvJMDorkL5hoiFUaAlPtlUCtLh1XxmgSHA47JAfcUL/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-114.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0YvWrJRH4Fs7n7CvuQkHevWurocSbuRKGF4BbDkPjoBsQTv4YR4cyRvOlSzGPxUwSpoU8Dm1HSL3Sxpd8B_6uHguPw9r3u2JPPzpIgF2XuAXj-4XpEBCIx1WyeOrq0VZD5ZTlwjtrU7vogun4vtjEW6fANeKDr1iNeKimbn0houHp4XIlUcQ4Ab7Xdpai/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-116.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh17La24UFNl23WndqAzKpoj48GW93kyQr9vQTkDnORSDlEh8Cmz5M3LwFasImIxIwKL-PWbJQnIU_P7YIVEYQhBC7kdRyYYcZp3shGBr-tmfwHNp-DPH84pbi1OOfX0Br6VVJjwBHCZQmb-VLZrbLwvDd9HeViuKz8hmQ_bEwsdLz63y02XoclGqnI13hb/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-118.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNKg8Vg2AyOwAOhogIkz7KFRXLvQ7-ey6cJc8pQexI3P9s5oB-t5zBiZPJiQLqzCXfGOzqWCocUX2URgF3M-Uf0W7A23lI8Bw5132LaUsDZA-ROOAOLLdTHWJQTlKxRgFWqysYBfORPe3Y0Cme7XXOWf7Eoa_xxLSGJgsE33_RL4yzUDSPdnous7Rj1NuM/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-123.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicTH-_ThYQHy4Eu0dKru0uABDJfc-PQfx6sqZOwLWzoIDYKlUwdfKDuXZJlkqTOeLn6y5CrIK3iQ_dZ-SWdKPZ8rHcXUMJFCM2hEHYrDgc3pZzD2LauZVUNvVDU1ME6ezr4vtKaaVGivKJCp6YPFx4XlQPUpj137EOTgnwdoFZgXydMOkIMJROeF-XdqjK/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-128.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhk3hKThdh-unbRjn0AKHZiwnxYFvIBSzFFa0zc4Ttkw-y6i9m6zX3MZKFF-L6mVl1KhXEA2JmLfYurjG7-97aUfRyHNtteqXvQJ2sHnfR6Y3248evap_4TISXcicx4RSXa_dQypxN3kKRE76Eg8JUewHrbBXrnMb6iwuaiqV7MM2otwAiAl8tLzPzmNPb2/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-130.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivCIiBAk6RkweqOX5TabfK8bHb-fNKKEZBx3TmOFqdjt2LmFTnJFyQzEmRH2dK0xnfBmIWF7_d5roXxESe9NTfAVv7d-yBtwjyrHuyl5FEn2RXcEF94Dd35FDdRBTWVyDw_McHG6gMn6zbreSiI6ZcfvRmYcAGshOVuEOqa488d-ospyHrGWGDqPYg4Rb2/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-132.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizigtu3u8WdqBe0AZz7Cl5W1RVT0h69LWg7oWr_Cn5V0JyrAxnUGNyDYTMoHpOUehiPUYhJIX2yJu29imDfAzJcUjzKB4FfDz0q3Jkw0TwDer2YLnIY0LgWsJFkOaUKWzavLVIskf4ivcXGSVlCneUNvZqdBItFW_HvfN_9ETPr6T7ZmSHFhqLAuUw3SEK/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-133.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCTVSRlHKIpEspVN_2KLwfz0BgE7ed2sCOWOcBtqU7WfnPNQnQVKru70LXloM6k0lhaqxKP-5IMs-F-Hiufcu_OAwKYrPf0Lax2WR9UgHN4-puhH3TqmPRj7tH5rk8vLE6GbwEZDZaChhWxo9Wnj2h7osMC435H1X1x7JtNyh6fe53fjuFdAXVYmWBJFoM/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-155.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhR-2IFEugl6JAahKS-TAnLUqMZ1QelG-UPoEbby4j3smT_etECVdpZOGS6tnjGOWRkHaLPMz8hVtdbZdzblvSX8oFJKTmXv5H-1okbzkg02Q_ZimyJZkab_5AeMmbBOtqTUWKe1v8ZlQJyoljD8SersN4UXcmhVDVc5a6rD5yoTvGQUs2xLtSZlFZRpKyJ/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-156.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE9EvhKhpk-oxID_69dPAKaW1MLSut1LerKbiyiPUNQNOZulp6BZ8SPTKMcZEnD1vW5mvRKtsHWG3tFu1KI9QE_I4rTI1sFjzqvyIrdU405C3xv55ht8IPR3Bc82lm7E3I6Dqz6l9X36DvgOF_ng26GL0cogd-9jmCrlvF70xoLLLpUtYvqqUFMQvXZ-6a/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-159.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmge_GnfgfnpSWT7mQHacn470InfMN_tete9nldkP1qW197H8dHZK4TSpR9v504SDdWuhLUm5a0A9NAvLFDWfWVBSKSi6h-DKrCAu9wQo5EWV-IE03b-98Td1YNrKeVT7iB1rGiLyvzHXYyDwyzJZZUfAH0f6FUMCHYZlQjH41RqIJHz0axHITcIzJud-J/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-161.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhL2WmiSoyeIr2O9ncV5gZLRrRMIT13Ygl6TdbnG54Aa4nEJEsZzx-WnpyGjrrMTFXLZWZLbs0L51HkCtlOXuVSdFuexFzcBoZRP8gvtFIvOOWJ0hgscoomS-YsHfAyPZ1gVnL3Rx31NkuENz_QhHPkCJUjBwSywjK4wiffYC_35HIJzpL3NW7OSnfx-vCH/h1000-e7/Cosplayer-PuyPuy-Fate-Karen-71-4kUp-298.webp)

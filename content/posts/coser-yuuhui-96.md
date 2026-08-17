@@ -1,0 +1,79 @@
+---
+title: "Coser@yuuhui玉汇 入职考核"
+date: "2026-04-30T21:15:49"
+slug: "coser-yuuhui-96"
+wp_id: 50884
+source: "https://4kup.net/coser-yuuhui-96/"
+categories:
+  - "Asian"
+  - "Coser"
+models:
+  - "yuuhui玉汇"
+photos: 47
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeclzbo8mGuMB91xBrvH9SvCCylA7MDe05VSooCVIlSmY9mp2hIGbLLbkbgMb3bKdgUplkNzvZl3LGFRQOtsDsnCPXQmrzWCKR4KfHbjn6H2nT3vIgTnyKVkhnsddcyrk3ZnPe4zzI05bUMIGDpdzFpZpfJvpqTPo45EHFmCsTBy2SaYkJ6JoMkXZ7lpFa/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-007.webp"
+---
+
+**Album:** Coser@yuuhui玉汇 入职考核  
+**Photos:** 47
+
+{{< download "https://1024terabox.com/s/1my37S2FmCXkRb3mPwpzQZA" "Download from 1024terabox.com" >}}
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeclzbo8mGuMB91xBrvH9SvCCylA7MDe05VSooCVIlSmY9mp2hIGbLLbkbgMb3bKdgUplkNzvZl3LGFRQOtsDsnCPXQmrzWCKR4KfHbjn6H2nT3vIgTnyKVkhnsddcyrk3ZnPe4zzI05bUMIGDpdzFpZpfJvpqTPo45EHFmCsTBy2SaYkJ6JoMkXZ7lpFa/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-007.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTZ1N5mpungoEgHvEZAelA975vCu4wFDTMz8aGZjIyfucSbKySzWMYXIpkDbn4qwvvRZKFdpmX6V7LEvfjmIeCVbqLXoa7d3RFVkLk9gZQ_StqcY4yfUhvNYml3uc_ZFZdES8v6vWbBcu4Un4HnrGoMKuIUz4xQBW99Z3WxoNwHNxPgxNRIs_ASq2bVN8k/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-009.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTb37V60cJTRcrkgAxNX7dlNwMzpclqhK2X5eCVXnzUsXzP22baEfHnpaWpU7lxK_BWkLAa1wlhz1_zCThP9vJjcl8VlIZJCxfitRSLNUaZUQqvEukuETwEJCRql0Y7_aV7rvuNVM0qbuMggGFTP3Trz0peUO9FWt87A0gxNYREQobKAwMSaWw5Yib_wHV/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-011.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4bF5rxm1GCiaev08l0KsOQsD2vynArvEhnJAPzliytZ4Kh2cZhHuYVEuVCNiTI26D9UNBozjOx_ByhQPdv9tot3vswH6nUBLyPoUEKFHH5kL6FSjlUTOVcMdxXH2F5mwfjpJIb1jfcnb46SXzQyUYbC0xfEakZVVtXW1qIX1BGaK-VxPhPewruZb_Wx9u/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-013.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjf2VHmayj2iiDKrPaZJHtUB5YG8dQpKkszjc1-MIh3g3qeNHECq1tPOHe__R7KMq7VAqkr2KVTBuoQ15H8Edv2g6mibFn8NDl1Lx-Uhjk3wo6XdR1pSApv6380EC_TIpR0NwDPazc5Ml87MibxDD8F33G-POdBYcEqJ6SSCOUJzT_JJYCqRQOO6K7xYwSD/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-015.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyGhpI0DsuuE34xMvtcxoFn-QRZHesFScvmxWerpHHuX8KagaSBGhhl5sCh8vXni7fI4-S6PM5kq0315wDsz_O9btEjW01gPlSg3xey7LrU6Jg55St1z8nORL085H_eA9d0Re1WIWHmyN2gW7kNuaR3LzXzS-GdO8Qjymsd1FS3HyTSA-4cbRRq5nNLWOx/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-016.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjolFCPYLimut3ekeqQ6RrhRC-fDNeQd_9p62tkL3EzfXv-jAk-grcPPUKM7KRfl8RqZQ2UhMYJj_kTZVJGpGEMG2U6_iC9rP5EAA0a535mFN_gP5lVGtsWMtO9sGDkil549lfuIlvLR-hdMEabzpXlTPEUEGL9aRd8ayH_GxWQL5m26TpzwbyfKKhGVTlF/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-026.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhRLFOh4PnsSHbxABo-rpPFMKAZ2g846VlUKkEqc31Mc84UlT1c_FYWgXAAmjymbb8Ptu7lkcKBYy6XXwAezAyvGiOqU0kLUwrhcPuAHmdjdq3SBgKTS1xkVxozTC0ODxlm4SH0R-Pb6eRLe_31KniJgAWnJ2m76Rh2q7rasVDGf1kDmPFyjLtOjENEcg5/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-038.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvS8SsYTEYf9VB4_ejTkpri14ahoX0NYdOJynDKuPOS5r1tWzgl_7Wgl-9MTUZY0GYoLJghMb9y4tk8_CtKO0ijqkI8l6YBcELDS-Ehlip6WSbH2Wxae-gdnqCo4JkcNsLizhqry9nVG3muHt1I8JYXXc-8Ob-ONV7H6tQ3DNJk5EWqYbOqgKcDXO9uvvY/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-041.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBNHlf44zwLkOdgpSaq744gP-Z5I3Vup4cm7KYPGt4QvkYh88vV4bgeaw92rhAjzRnsqH9inW95H-YdmX3KzbIIGIwauo5RxH9OGuR2qeKUOVGxTA3c1iYqTsgtbrMF02aIabNdxLG3g9hDZeSguuRfu97hGMIOoGZLJbiPuWiUWDwlBpMcnR6kirnlkrE/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-042.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYrJaRmSHhYSCmVy936xz412c4a51-nJOVtS_aCtpVJtuxViMv0NhVcQTXwzyEMTqxeTLjSYZQ3jTDFcu0m7nOaQz8LQfS6uhNfWh462Ou3I2ZWX1cIoITLErAZVuD48qLzrg218_RjX_Fq6WcLZnupscGte-hrc_TT2ydMhnUeFuNRHpKGZH1AgNIr110/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-046.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5uawZLLZqGn1nB_M9DYGgVSrF1ZVWBv3SqmljZrVTy_hLeiY6fpJXBpZf6s9LLQojnt2gF5TtEn2IJ8LZYHxxF14M2fkFTyfEu_e8X8OTNyZB_7WgRTjII8dFiASh6ZIdmYzW8SRkMlMcmHi90yQsz3thBn_Pl6NOyFnjJwI-TL5acjygogmjVkqoR3Vi/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-056.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilzTA7xuKFMQ0KqoCynbWcGHjye30KV9RdEKJ-D8ekTAs_T-X9PfDJk4tBU7H8DeCbO44drPaLw3NCylV6AMDhkRi8jaZpN9EzbSwZ1wHuVvtPhc0o0z_anMVor_dqX1GCsyagXddKlEy-1bdJCN-tTDC91fb5aWCIEYxFrHp1i1PzaRv6se_eilx8zVMk/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-057.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOAPgy48xO3CV62TvrPa3muQ1wW_jDMyLbScKPw_dXOLbo0BIbm53WzL_21ZZtP1gS4mAd7XhoxbVqBnUkbj-zNrmSbWqYZ1eHR0EIROSMOBjW3LAPltu7_kmRsCk92Ye7vqJ3WXvQQ86VKOL_uEcoOPEk7U1m_mgL1KFJlHrsTthrfPMDDP0ya7WgQRmf/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-058.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggfbvGBn_6gZC38ZLqA2TODYQ5yYplRiwIvdbxGVgHrWheMnsfdiwbrBFFRZwVzdxx65NbRhUeaL5zHv-nITI_omz2ky_SBziHHsMunqAtXTcbPrDFfiDXXu9euhy4bYozsVam_WTS08X78pWkI97x8rWgkwewVc_Zv5EhTJil68RxQ9gjXx8TcWcQ7Ryf/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-060.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOLu1xzBI36bACXF3kIRZPDo_NDZ92xesSMLnDqWCKf-zXNljxXVW8A4NccwQHpnc8SXzLBzUYOxJriRyQICxQ3iKGorzsMeM2G6V2iVHjpZ7xYR7H6V2mybfGPiHVtnx6x025nsGgpqCDRGF1-qfQnBdGL9UVoaxoaRTOnjzlVKY09kP_GfIFQwHlPFAV/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-067.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgw36QIl4cv2XtIxSGagJ11bQ-7GpMqnjGo_bU09-Nmvaw1uvNPuiB1BAEzaorYJ3HIcp0LXlzUWaS_ifnkEoHpgoS9H6yJX_VWBOUxFKyTUEPusNaEImAiPz1BkhGtooVrWHyaE3S2tXA3HOGKCn4yulw7nR_M8FiI-ATVBQ3BTmHJXFG-t643wsG1AmJ5/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-072.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoQfOViJNOL3CkgCgF60uBgbZUFYgDYqgTgoLuCMOtFycOghxTDt074UEqnuKQamj2wxnGky2XUeQAJ0MPf6V-1VuNX9Et7CjQXGN89-7B4MNRxqGkmxTf6wCslIw6Qyl4UreU03tT02easi5IV1eYHNlPBypLjJI4BXsoxeKoyvf-1BF_5T_YlH2BYXm3/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-084.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDJjVPP42lL0U6E7xIrmyIPGhBl8ScZDsAvSfbMEx2ajx5ia-vrLTUW1WHywcFBcGZjVQDnhifVPgc7IZvTRqtCYANQXYynyKeQ6a9ApmBv-Rde5pr5XE29Gd0YNx3dd2G7_XK623nSiyzqpCWoqP2Us95foMMFKl9MUvoeGpFa16b6yf9Ye0gBJ93MmSj/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-086.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLeJbbxzi-xOeU1oymbJ4x6tWTgE_T3ffLACvRnmff-YwcDefQu9lfMaKEyew2doTkzJoMlmapOqRrpwU2kYI53-TQ27yHVGpXWf1W4qAiI4RHFyS5-B599NxctXxkh2781q2WSsbgqz8KCDQcFdWUm3lL9_IdGphCgEPltW0Aa66yUbLtOKhmnMZMpfGa/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-087.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg06oHDxfaTs7qPuDb8ohyphenhyphenmvr7K6qbFcLWSNWWiXyMnDyMqtnkZtlfhhrpnZQ-phbnFvSybrsukoQethy4lkcv5CBs_AfZlIdo7rsPx9a8Ct_gPtULaQKfCNbX_7k6c3qPPHi_AdTgjEvdxB9negen8XGItdz2WT0Iip1GxQbDXwj178r2jewsND1T4BRrH/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-089.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGWVd9FZ-czbDeBkhN0tyJBsHgk_pUz0-bt8z3boy79GQXfeA2kUse3ND6-aip3N9X4Bf1eWnq9ynblhF47g991e17zmU9i1fdZvi_CDsRAnFJ_dzJTNTqBWoffM7ZWYJrktB-IqA-4LwbS34XasR4TlJWjVdap3_XgZax-mvVT_NcpzfTW4bOQ0BdITU2/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-093.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD9ExvF1oKmXb_4Fhy3Sb4Z4XH6GEkCCd65auWQshAivrsMB6tknBvlyl2MtuYvXlcbLp7lmrqMoYntpST5DP2H4IvSgbbgRU_Yw4naa1mMU0fkz_L1n9EybcUFovhikbrlgcD8hfReVo7Ode0t62fh-4Swjhdm3BfWE1_OfCxGQXsmvVJdNLq_oWCbITb/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-094.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTVhrJ3gjPMrLpxJOHLOJJBDTEF6vi3eDNvrXTP_JroaIPUJwB4e1bPVrz8Dl0RUBurIbbSCgmkBBqgQ6oYaoXYxLi78RoelyRfQqkP2baOy5S_IzMDAPkts8KmgI5LCow4pZfRf1Oq53leK3MTs7qaZyolDA_S1fhPxob5kUgXSMZWTE8UdLyD_TwBXtJ/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-095.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLxFyH86LKpQdSFzMOk1vdRPXyqpmvqNB8T5r3TMOEfhAYSjH2KtnH0__kVFVeGPejsdR9cK03VvinG8w9o_b0P68Y9T__A3-WlqXzWUM04kW4sVyAvMvRgvwwGC4rKgQUIs588XmoQFJHYOMhAeFpt1DTt_kS3jKeqTJMSwDvF48-rec8EQHPqsOM6TyG/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-099.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf08sGR2Oy3j46BuvJM8Z45HbDVNBu32CMw4IlXQaumijP0zE_dH2vDrFKkbx7ab3ASRLPB1EvVenWotyk9_OjjvTVwwW-TuXZ5IQiFVzE37ZLd0j9lCnIlyZqaIsRoE-0EShQJEVpEux-Nxt6IQAhFgvKtq5pPue70QSKGBHDPdFPsyuGWZ8F8gJ6ZgbS/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-100.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdwHcb-W3_XoOExryAjZPJMj9XY6BJCuvTDNHOl09bm3vfZkdzZQKz7NXsQct_QKhDtowz1zM1tmaLJv6aZBdnJz6qfoOfJhmuZGGSKqaNb57Dc5mQw2lg8LEHUuGKFeAVlOo_14HIBh8_jIyk8UUN4x21_qmpb27djjsTg9QrtrbDjpmuX1jujjXkp4M8/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-103.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwBFVCvYnEHBcjR9RbX6eAONxYO90KXv4Js8x2-TSQzUiHOSpghNRikhopkgOR2-jvu10EgpWX7QTVt4lnCsHDF3Br7LI8ldg21taHuqtYqJnuALijGmkBwYgzhKC3a5mT07HIiJmjpr16c8Ie8mCrox7L4zG-mA66CC1IM1m27ZgvI8AnuBJKBKyaIAIC/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-105.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfVWYPLBA-Za6sdQO1Aqc2omS7lwbs-M68twlRgNbcivDcBDp9f7qlq_ke1Nkz-p892-7DBWNlr7t0_vHc8Pbhors-g8vhEdnOhevkMUM02WeiGYRlAdoLHbFucSS-cfgi1NEUdp68BmirXxdJQQmx7UZNTHOMGhNNSSDtaeq-5UxHsMzwJ1-pBq1jtoLo/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-120.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyaVqPIWnc3gZyPHU2vfwNieP4MSe4ey4O6z34g3XhyphenhyphenNKD55TlIqjnmxZ36a05uLzdnS5s6H8VYN0CABsxAwTj8pqChOD5rbva7kz-MyYvQd_Gw22Ysispcy_v8Q0DuHa-aEKANN_74vCzwyW0N5fLWRZxlbjAj9v6_yJYxbKbBM0ey4KZtL0fUUnnfAMH/h1000-e7/Cosplayer-yuuhui-Yuhui-Entry-assessment-47-4kUp-206.webp)
