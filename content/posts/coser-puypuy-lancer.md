@@ -1,0 +1,101 @@
+---
+title: "Coser@PuyPuy 阿尔托莉雅·潘德拉贡(Lancer)"
+date: "2024-11-17T07:02:49"
+slug: "coser-puypuy-lancer"
+wp_id: 34061
+source: "https://4kup.net/coser-puypuy-lancer/"
+categories:
+  - "Asian"
+  - "Coser"
+models:
+  - "PuyPuy"
+photos: 180
+image: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoJBkUYXFBpYOL5XRXkcCNIRmu9g_e7kfdBs886ggjSyQJ3o2CjTnZlcPm743UFdPfOXad8_pCB5cvn4T7Vqgjm8w1v_lhxu_6eMvuSJoM_7900Xyr2sNXqbsilKIvdm3QPjOlmGNwNBFzHfzc7e_MGWgb-zNy6UHEJbRn4BdbErD1Ye8M1UUsm4kpDdE/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-001.webp"
+---
+
+**Album:** Coser@PuyPuy 阿尔托莉雅·潘德拉贡(Lancer)  
+**Photos:** 180
+
+{{< download "https://terabox.com/s/1W_RxVn0_gwyMMj6q5enaNg" "Download from terabox.com" >}}
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoJBkUYXFBpYOL5XRXkcCNIRmu9g_e7kfdBs886ggjSyQJ3o2CjTnZlcPm743UFdPfOXad8_pCB5cvn4T7Vqgjm8w1v_lhxu_6eMvuSJoM_7900Xyr2sNXqbsilKIvdm3QPjOlmGNwNBFzHfzc7e_MGWgb-zNy6UHEJbRn4BdbErD1Ye8M1UUsm4kpDdE/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-001.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJXIJQAfS1fcrI40qJvbN7vCuSXjiBy9Z5T2dq69O5_SpUovXGZ4IxBrl2sDJ3Rb3UhrblXe9_LGBXUs7IDfxTWZmJVJwYHHc8S_lD2Wxktt1j5xcYjz2F8qo45LCrUGCtJvyh5I1ExLc6mVjV7ArJibUKuDO7CpwhQh2wy86DADNmeCOKDc9iIlTWx4I/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-013.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjccjd4gmpzloc1oMDglNS3ijxtriFXyCkPTdVWuj4-n4nK-RCEEoDxzZBANZ_d9wW64SH3Rh8_K1hyRTgnreMyAuyhlVPWk9WaaFE6WW_abhCBNKlYuRLP0zxYyoHSe1NHXQ7p_KP9PfDrmbJ4S2J_e8WTfufYpbFA75zNM1ZLumqS3hKgSWI6p20XFfw/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-020.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjypmhAXOmneGUBGzlrDI8-0HKCK_EJxRioTSeeaneOBh-XWxOSNv5CxhNm0SfqqmyKYAScZMdjrMvZCrdyzFBKHowFwaWfRDBzbbeJbYCOVjH2ZFb9m_aWR47D6TGyRHiYma7kF7hzgv82D7jVcsjy1h8YAFz_5XQBqmAttl5mYET44U19nO-ZD2rIW7g/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-024.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2qQm5_8SqXVuTNj-K1VVbyJiDSvnhRY3Bv4ui950dnpeWsDw76_6lNMdHMqmgUC3McmqrPI3r9jo8EEDsC32AQzJCEM05GLox17mbqhPGoU2zDLhoIOetdnUuPMteh1hXVuqx4s-F2nIHIPmxYJ4zLfg_uyZlXDL_htRrAF3mKRcrRESgt-7XicZLm-8/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-046.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgi-OXiPEDMaEQQ87MjSmUgpc0q41gzsplDX2z2qOK7oN7V_BuksxQ9NMAyIbs1b6MliqifBjuAyTuQWiS422iTOm4egWV3vkr1f_UsakENWLqICR8N1Lk0-S8zUyF5529B0-WbHa2duz00pW4fPpcDu1zyuod_kBDVwmED5vmrc2QhNsyFbtTBZ9KhpwY/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-067.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdGxgOgHKflP57sBVn3wW_nV6UQvePf1s49GYsjQOoCMXeF66rbxJKlWCCPEFAqEGGJa6YMbiiyJc-2Qj70KPU_iHmzwdv-o-QNSy8NmAijG6uqQ88HHOFVworZMXBmz-cn7x3PwzBLz0pt8r0x3qSB3K_bNJN5VpJzfQ-daArmkqXX__iUltbydCmna0/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-072.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdeOf_qq58XcwvtbGD7lD3IuuFA4LwusOT3RzLSFXphtSFaqGiRqY0O4MOqZhDhH3USzBxMlUrKpbYALA-X_dKPVrCWIJP6WgD5U_XyT9EBLCkMaGIA_8dYdOoT2Di6_0ItlQNMKjneGIaw3arsqQyDAkMOPRA6HqnHlH6npdrsArCp0Xx4wiRFQzXW1k/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-084.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizqpCu8KFJcM8Y_HlODpeb2GcYs-mvXRWOISJ6TcRjsM4PTxn8JlHHKtCEbFlxd9leamfxML50wbaKaTxNRYY-cYSDdEIt__Is29EODlwb1-Oy_nsCsSngUkaJHCc-24tmohwur-cwdA53Hd_2jAEwg7Wnq2nxZHA43C0JeUzZctZrxFlr-d25jr_YBic/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-092.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5-SFg2UJAzD3rX_7IzenTZhEITdq9TxnqzQ2cKJRNdVeq2ihw4CyxmNAlVZXzfW-HrV8C7Fmp0HPGSOCIcEsDIvOkqLvHi_vG7iClMmvNuPERNFtBOL-UOl_Pi5gNeEkZzGJl5WkZMb4rfk92-q12y8ho4tHsUD0L4f14FEmCPaafft-vFVbxOVifEwc/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-094.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD_5nAa-4oDVCPcBaCAIb0EdWScpeYx6vYwlKngH3RrbUUEXRuCCm4YhgnmYpanF4kTl8lBIZDdJiz1XAp8AeLF3GwQmvRiHuHzo5c0Uv4E6LSgMaRFULJ19g41kUg2447SoseRjM7vjgowB-tIKbpU498uUccFCvYmkUvms1ydE7uhgnIxvpXug-bl8M/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-095.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdfYFgnjRyBIEzUdUfinGV852LDxjavsQxPeN5ZWLsUSjLmoZmGYJQ7phyphenhyphenxw1YPHAcly_l_gPczuWmZJ4VLL5r7wFcEl_Odz1Kd9tA_5oFNhh3FxDVg3GujkHy0nT9Zy1aLBzkmnwe0pD-C1W1s3oiXPEGgwobpDCtzrvC2A2UQ6JWJTRRQTXc_rzbiDo/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-097.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgT2OerNeqIEEGLmYgI1exCkCB7PM5LWM3l2xa7oI7FW3zCHF7Q0Xalu9z4pP06P5hq03sxj-JvGeg6SGASQBujAZXCGjwelGphucuzHKVED1hVY8VoIOoWUAC5FK5MuDgyXfn5efASW8mq20lkq6rFACGscb0bBqDyIcgUr5pekUcZ2jKnjQdHFF4_S3I/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-101.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbRc9nco0jsakGqQAZh0fzCcqd74Xw4xQgx3IlvgFBdeFfNROhPRLDPCKNdcsxQ319gPercZgENiU_zZzFNQ8PlSjdrD3sGB-tRYImW-cnDo6xoVv7Cj9XZuz3YtfG9LKZwtiZCwOCkV4_okHew3yS6XKxBPfr2gBIopFtH78M5_ZVDxo7PywltCZ2HDc/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-102.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhplz7IGi_qcRHDACSFtv-NH_qqS44YhzxFAcEQbx1MhDMOq7caOrtBX2z6k83zjAwNy6q0YPnqP9SlDKFNktuEbq5sb4nsRJKNUeRJOmyc_2WJfgF0Qpjqwe1xw38zJQcQAXeel9vaqiMv-vLVCo0JPHADSorX3vLRZVWD_E594ZdTJCeDEuV3e87KnbE/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-107.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaDBk4jWuJYj7DqjJrWntipGIjMzXhWLbuiUxpb1rO3Qz9SYtUYDufvGV6W_bNQ15KvqhLRTWGuHc7-30KQfL__MRPnMGJp-pPldYChaZ6OeT75Dr1fQdBTloeXB-W7i2Wh4kFhxlALFVA7CRuTr5u1lVFfPFRW9Jb5gEbyi5M20Jq68Ig2Y0Ik5n_6w/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-108.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimwqXQEhVrpGwbhXdTo4BiHAJtr64M5aqiASAWRvLbhM1WJnFT4OMq6y0j6FH4PnrrE3YeGWeIMtjcP4Joll4egZr68qXjqYzQQ_ylDNyY4RcX14Up58SqOO4YOotBB-ASog6ic9jwdi4WZkFTb0LQze3N1cQ4l75Qs2OaBVexUlwvDTptiDXdJ2F0ZoY/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-111.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWOm26iMZR0aBC6BjCETkc-aSBVkvK8h9U9DBOfQCLvoT5VDFKh1gvDDGbBinLUqcr6Y9QUOlNDgKVLD43RUup12dT1mvNF2p6zee1FwTFJj_YLn4mJvEPXDLVgw5fhQYxza116l7_h3XuMZf6PyQiSCmY-iyo3A-gXFb-VAQauf3UQFbqwe77IWBbZuc/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-113.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDmiPuhBxwHWxdUTNn2gdPuY_qTRR09o0y9luj80bXCaV6sKYynTBPIY-q9LWFmIrZSnJJp4JFKMg2L2w4_qkl4LSkTGNF1DyzPs5lKvbUKlp00vhAFoo0EeGY2sL7WMqpN-HjIe1w2KBtSt6TZ3JKJsWaVnJBbwzPyYsvfzpR8Vp20BAI6NFTjg9YLo8/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-118.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6IBMo8Z73Z2xgsriAunKj0TJmcjgX4s-feOwffxliaZzEbLRJLN1qbYabAOi2GQfw9SV2rNbJSb2_jP-oAWGMVpD_x6LqnCdMFsEQhGnhHrCTHyI-nFwv5TztazRR0LPBEBPM7ja2SSAquYYe9IYz_aZ8CNhfhhfCdzByIGnbuw2DauE-ht8mkEFQTKk/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-119.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-nMPVOebjcvxLlQpjvtrOdQMpMOoeHZtCa7CLMsnqHNst9JTvVay2Yt01XqPnIX2ATu3cS3qTKoyI09udGcSQ4NUyNuJ-ZW0L99PGXil6_PXGmjYKkJEUB73OOVnILb8C07dasXl0uOg9TPy_3UlpnUzUdVdLPhnsLDwTZqUFYcBVLSAliUwExizOAJs/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-122.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil7ojYk1tIO2NjzAeJV72HyyU24xNFLk7iF4IFUtaR-01gy5vywDGYY5D7yShJq-KXtvrCG2_P1_2dfmemVoJqaW4prViCfs23qxQh0X_LQ-yAw1IAplPlFoCtsupxDbzSM4Z4L7nVmDaM6MCbAnJgffjNgT9CkqmWN5lxVduTE4BuM_bWbjCHeYDzepA/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-123.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg03naRVlo_ERJLi-F0V7RLj-4sR0lDi73ZDEkInfHIAMRAshwh4Gs2S1EcumKzQCSRTg1dmiQ2KnADpwLIQ9fAua9wqgp1n9ggDlSacSp8GnWbnKRB99YlEkgkgiUwuro99DhO09BLqRdzXUEPHl2h3f_SxosrIHhUZvoTQUkOG-5BlsCEICPdDp5jPMk/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-125.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiykDejOqLkhZfJERT6FTxIBV31XcfdSdYV9q7Ftj0kFVTUyiYYZcjuNY38dijmH8Zmqa63I1Kgka2xK4E9CbPSMLSOhiw0fhqTPmsAB-fyBdGlLsWVuq2kVKtgPXNrMH6lmOFa8Is_IhAlSN7pVueWiuZ-G7lZkhm-GujTZ1DPQwMfn5T3zawR3ACziJI/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-126.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEFPspU-Fk4UbosANysL-P4u52L8Oe5ivihJV7QCWWoGAnK7Fxik1Kqkmll-iDzVW3ku_kjTMTpo_NB72JuW5mgOHeOO58bQR3EiTlaiZU8Tf270CCf2QEdbBUrzPhSNMDTWXdlYYHHkBPUMqQd_5CllF0qESm3tRZ_LyMeYoFMkJTHUlGSoD7lC5GyXU/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-132.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN_-n0Bi77n8r4duPGiqyskiDukIlWeWJcrQcJt3aOtBSTRayM10sBJiAAkq4z-OZgYDcYCd7mjihnEsnoO9j_O5iEIwTdIMI0_M6XL0tPsr74REUAsE9LMc3AmwEcuCt47DQKRq5HwLlDAoRFfHszKSocjHB4NoLU6swk0IpZZEObJTeCf5Js1ifqAPQ/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-134.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjW9VYxHCeiukR3-6ZtJCNISY6wpZ5CppwLmrlkROeCwXjkDEPe675o08LNGrgWqyT5dG_0XpsiTf4QN9QmdYJKzMHPZVvZF3SvYCk7lgk5UnbMGaR_i1KJdYIiqvTeng2SKPcq0bPaXmUIGXKTCzYp_FRTGcEbEe72NDAmGShPTAY9v9Wb7f-Gu2iq1tE/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-135.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGs3J6Hd7Glyy9vi1W5pt7xavYMrWfyWmxt6o4XW1fVTJoXvPupA3wh9IzKVsmo5piIQwPEjkO_XBvJ76PEbNBNG292Fy97xbUYKT-TE2IJvzq2mFArDBkT3qRziG560xcyWj0s9ojxyTvq3X2Sn1V7of_O95YuSzh-a6jVdgG89NZ_Oim_Rm16-tKPuk/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-137.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijJDSvwm3XocVJoQHkPpd8v73WT1XVlkmkfwkI5eEjlC2bel8upOq8ePAz1feV8CR6RdoPrwoH18ks_xilVSO0Pz4DvpeJs8bR_H4bYh8SCt8UbuCYHecwyF7Auyk3qsKZPTdOaNG5742FgmMS9IJflc7J_rTlQmtb4tylK-N_v1Jl5urJP_TRhrOemaM/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-141.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRyW9z_6JFheNsj6CuxqKyOtYPHaHQmM-8xOUuAIP1q2kJEnUbTX-SvO3jeBk99BTq1bxKKu3gwYSiUP-S8qE9u8tw0xS2qPUAlp7RiMoReiR9CjhJDwEV5o_iwot1PnzwVzkGxGCxoq-NzJ23ruZ3KPIzlfIukdb2W1X0YicsOZLRY4mm69TLUsAY3x0/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-143.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOVVFwQGREBXo72E5GiPTiORUkTlgrhRIjiej_RhChCh-peHDoF8MRzE5LDuObl-aM6Ji3zxFREPIMwZBtLEXcxq3_fdkYOhKUfG0WIFaRhFdPx1Yru9zyZDxMhs4rZ2pAKmgoOCHhYdI6AV8z2sltogyUDxQwcUsLYKR5RJo9iW-RGCSb7S_z8kK97jU/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-145.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzKzwswSteLgd3nlzJWQRBk5ms10HlEaSSfpB6S8KgXUA4giLYL1Bm14bNrusYjCU7bkojRj8fDhpGBc52ppIeMjTHVPfE6eQhBDcnaQ_sOVqGRP59xBtiNC5BhEdh-PCscskApM6v33bJbH6iPghfQR0StBOVy9C4Gr9idx1WtaVG696Q52AF0yXPyiE/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-151.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6e62LuiNtRbp0tlAkbVHYCy4Z6lmoUvGVAWubAKnG_y0uyoPuqtAu1P5YDCBVBG3ZMOS3SqnfEPDLsehgrmwDSwP6l-b1lQYD9eGkv5km1muOF63_-0HSjdyWR1I2upNp5oqzNn1CEU9n2A2lqoojkBNGQAJ9ljWZ9Vsi7d2OGpSv1LCPLlL9WDKTQwE/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-154.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg59HMRfl3OWeqUNlY4itCFwmAGDwZ2hO9t2OJXewZzzaDPZzIPQ6MLTU8O6B2Pl3u-LHLp1OKN2HJ3K2O8e98mHS_zos6yUfeNNxEljPO5JCNZ6Aut9CxTEn18pZ7lDpSC6-_imuXq8jJjM-sCPnOKkUZx_41KqZQNG243itcjjNzC5_M3358ImxyReTc/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-155.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDBgezedEsCOQYKOAtIva4_4WMOiVrgilG_DOtCNsUPA6Mbg8QxOHzgYSfKRHlBiFQIa6vE137K-AUfSnE5rKYn5FKEFqi4RgFFcFpgXVdtrCWhaIheapGDqZD89SAU0B3l59JioWpWqNFrhdGlU9H2QqTXb17RPcfhP7DZqOjxRQj2Y8Ut48jkcH1BWk/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-158.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoSRCwzgA2pd1kn5tDQeF6iwyhT1Xvp5aTO3G2ueYAy3t66CBU6z3699rm8-HZhnT9KDJlhwatvW-SoaipbzBEK1WR5rkjQxujX6Bnj_g3GFHkW1eLB9GGdMivTZW0A8af9H9rn0xkdegwO5oAY0_UJLi3wITrihKDg75aRtUCj45x7v_hZr6xm23SqYE/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-160.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSoVWRpi_1ZIF792mAt5-5vVqICqvt1fpGxoXdVT9IhlC8T5dphH14M077GzpEUL1gTYhog5CW7fLgDri7IzOUiLuWtvVy4VV5xUQ6b9yzuwViuNObxTyQRRfT20zF4unzK_pn_rQe7zSggju_QqfGkCK-d9ZGIlWsp98TLK-wNmMqPb4aYYlSmMoqxtI/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-164.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK7qqV6SI_qvkaGN0xQQ0OHP6qiukS0jZvREOvOpJnFn1mJkIxY4S2wPIeQ0saIaEQ3uuzArk28m5WAfu0q4uNg6S_yGR6pmg_4omzWwRj8jQb9alydQ2ONstQlqGPlwt5W4nAs8UZlaiWgK15zf_iLm6rszLOzglzHVrKr_J1wm1O2VcB1UFT1EEet2E/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-166.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgOg-GOT6Kyun9lMvnRx3_pbW-gsndfsi112rdu5XFP1P86cwIH7dg3IhLPRF65lnH-jUVSEHjlaj0QE0IcHHEbLfjS7EfO99r5byg4zpkr78kcAh7DyBpmz4F77YIR_2WZMwo2FA0_B7H8JJJkfUDg9u2Op9BzTUOuZNRbkcFBj-bTSXDvWkfgDD2Qyk/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-167.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkx-uxKax_0RviYI6jTeWiRIEjVnWE19Kw9yjRmGimqQCjnMmwqJPENjDcifU-RfPCwhMo-LsgrlxYYVD3-L0H0gfJarxMSqil6EnSo18GBpvMcwugjQs_qQFI6uaT_UxJ6P7P8SyDaYCiKkpiBkSwhi8d226rbKXddFpWjcekfZ3w7w-AiFg_R7Me2Xs/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-169.webp)
+
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1dd2wS-eGeGkuL5E__F57M-SVHbY0sH0XrDIbHOSLAwfB942k5HkHvz5IdK0qIYpd2djsYEPjABXmhMfwA4w-vewk0pru3ThiGODbcaOeAGk_uuUb0Q3qtCN2zBTG_mXgf-8zekV0RUCzGzFnnHnrDSTjnUp7Y0Of0k4-OTvOEnrtS7pBXPsXSVh5PYw/h1000-e7/Coser-PuyPuy-Lancer-202-4kUp-220.webp)
