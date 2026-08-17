@@ -39,12 +39,15 @@ jobs:
       - name: Backfill posts
         run: python scripts/backfill.py --start-page "${{ inputs.start_page }}" --end-page "${{ inputs.end_page }}" --delay "${{ inputs.delay }}"
 
+      - name: Generate models data
+        run: python scripts/gen_models_data.py
+
       - name: Commit changes
         id: commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add content/ scripts/cache/
+          git add content/ scripts/cache/ data/
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
           else
@@ -67,7 +70,9 @@ jobs:
 
       - name: Build
         if: steps.commit.outputs.changed == 'true'
-        run: hugo --minify
+        run: |
+          hugo --minify
+          rm -rf public/categories/coser/page  # 模特墙无分页，删除自动生成的重复副本
 
       - name: Deploy to Cloudflare Pages
         if: steps.commit.outputs.changed == 'true'

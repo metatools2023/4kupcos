@@ -1,0 +1,60 @@
+{{ define "main" }}
+{{ $models := hugo.Data.models }}
+<div class="models-wall">
+    <div class="models-head">
+        <h1 class="models-title">{{ .Title }}</h1>
+        <div class="models-sort" role="group" aria-label="排序方式">
+            <button type="button" class="sort-btn active" data-sort="latest">最近更新</button>
+            <button type="button" class="sort-btn" data-sort="count">文章数</button>
+        </div>
+    </div>
+    {{ with .Page.Description }}
+    <p class="models-desc">{{ . }}</p>
+    {{ end }}
+    <div class="models-grid" id="models-grid">
+        {{ range $models }}
+            {{ $target := printf "/tags/%s/" (urlize .name) }}
+            {{ with site.GetPage (printf "/tags/%s" .name) }}
+                {{ $target = .RelPermalink }}
+            {{ end }}
+            <a class="model-card" href="{{ $target }}" data-count="{{ .count }}"
+               data-latest="{{ .latest }}">
+                <div class="model-card-img">
+                    {{ if .image }}
+                    <img src="{{ .image }}" loading="lazy" decoding="async"
+                         alt="{{ .name }}" onerror="this.parentNode.classList.add('noimg')" />
+                    {{ end }}
+                </div>
+                <div class="model-card-info">
+                    <span class="model-card-name" title="{{ .name }}">{{ .name }}</span>
+                    <span class="model-card-count">{{ .count }} 套</span>
+                </div>
+            </a>
+        {{ end }}
+    </div>
+</div>
+<script>
+(function () {
+    var grid = document.getElementById('models-grid');
+    if (!grid) return;
+    var cards = Array.prototype.slice.call(grid.children);
+    var btns = document.querySelectorAll('.sort-btn');
+    btns.forEach(function (btn) {
+        btn.addEventListener('click', function () {
+            btns.forEach(function (b) { b.classList.remove('active'); });
+            btn.classList.add('active');
+            var key = btn.getAttribute('data-sort');
+            cards.sort(function (a, b) {
+                if (key === 'count') {
+                    return parseInt(b.getAttribute('data-count'), 10) -
+                           parseInt(a.getAttribute('data-count'), 10);
+                }
+                return (b.getAttribute('data-latest') || '').localeCompare(
+                       a.getAttribute('data-latest') || '');
+            });
+            cards.forEach(function (c) { grid.appendChild(c); });
+        });
+    });
+})();
+</script>
+{{ end }}

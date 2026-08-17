@@ -30,3 +30,121 @@
     margin: 1.6rem 0;
     text-align: center;
 }
+
+// ---------- 模特卡片墙 (/categories/coser/) ----------
+.models-wall {
+    background-color: transparent;
+}
+
+.models-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 0.8rem;
+
+    .models-title {
+        margin: 0;
+        font-size: 2.4rem;
+    }
+}
+
+.models-sort {
+    display: inline-flex;
+    border: 1px solid var(--card-separator-color);
+    border-radius: 999px;
+    overflow: hidden;
+
+    .sort-btn {
+        appearance: none;
+        border: none;
+        background: transparent;
+        color: var(--card-text-color-secondary);
+        font-size: 1.4rem;
+        padding: 0.6rem 1.4rem;
+        cursor: pointer;
+        transition: background 0.15s ease, color 0.15s ease;
+
+        &.active {
+            background: var(--accent-color);
+            color: var(--accent-color-text);
+        }
+
+        &:hover:not(.active) {
+            background: var(--card-background-selected);
+        }
+    }
+}
+
+.models-desc {
+    color: var(--card-text-color-secondary);
+    font-size: 1.5rem;
+    margin: 0 0 1.6rem;
+}
+
+.models-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+    gap: 1.4rem;
+}
+
+.model-card {
+    display: flex;
+    flex-direction: column;
+    border-radius: var(--card-border-radius);
+    overflow: hidden;
+    background: var(--card-background);
+    text-decoration: none;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+
+    &:hover {
+        transform: translateY(-3px);
+        box-shadow: 0 10px 24px rgba(0, 0, 0, 0.18);
+    }
+
+    .model-card-img {
+        aspect-ratio: 3 / 4;
+        background: var(--card-background-selected);
+        overflow: hidden;
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
+            transition: transform 0.2s ease;
+        }
+
+        &.noimg img {
+            display: none;
+        }
+    }
+
+    &:hover .model-card-img img {
+        transform: scale(1.04);
+    }
+
+    .model-card-info {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.6rem;
+        padding: 0.9rem 1rem;
+
+        .model-card-name {
+            font-weight: 600;
+            font-size: 1.4rem;
+            color: var(--card-text-color-main);
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .model-card-count {
+            flex-shrink: 0;
+            font-size: 1.2rem;
+            color: var(--card-text-color-secondary);
+        }
+    }
+}
