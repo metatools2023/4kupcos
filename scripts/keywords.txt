@@ -1,5 +1,6 @@
 # 4kupcos 关键词白名单（出现>=10次，人工审定）
 # 每行一词；# 开头为注释。sync 时新文章自动按此打 tags。
+# 位置：scripts/keywords.txt（data/ 目录被 Hugo 保留，不可放）
 # 维护：调整后运行 scripts/retag.py --apply 全量重刷
 碧蓝航线
 NIKKE

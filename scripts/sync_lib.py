@@ -15,7 +15,7 @@ PER_PAGE = 100
 ROOT = Path(__file__).resolve().parent.parent
 CONTENT_DIR = ROOT / "content" / "posts"
 CACHE_FILE = Path(__file__).resolve().parent / "cache" / "taxonomies.json"
-WHITELIST_FILE = ROOT / "data" / "keywords.txt"
+WHITELIST_FILE = Path(__file__).resolve().parent / "keywords.txt"
 
 UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
