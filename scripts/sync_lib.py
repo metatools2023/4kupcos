@@ -180,7 +180,8 @@ def fetch_pages(cache, pages, delay=1.0):
     for page in pages:
         data, headers = get_json(
             f"{API}/posts",
-            {"categories": CATEGORY_ID, "per_page": PER_PAGE, "page": page},
+            {"categories": CATEGORY_ID, "per_page": PER_PAGE, "page": page,
+             "orderby": "id", "order": "asc"},
         )
         if not data:
             print(f"page {page}: out of range, stop")
@@ -208,7 +209,8 @@ def sync(cache, max_pages):
     for page in range(1, max_pages + 1):
         data, headers = get_json(
             f"{API}/posts",
-            {"categories": CATEGORY_ID, "per_page": PER_PAGE, "page": page},
+            {"categories": CATEGORY_ID, "per_page": PER_PAGE, "page": page,
+             "orderby": "id", "order": "desc"},
         )
         if not data:
             break
