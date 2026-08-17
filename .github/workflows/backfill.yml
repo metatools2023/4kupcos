@@ -9,6 +9,10 @@ on:
       end_page:
         description: "End list page (inclusive)"
         required: true
+      delay:
+        description: "Seconds between page fetches (default 1)"
+        required: false
+        default: "1"
 
 concurrency:
   group: pages-deploy
@@ -33,7 +37,7 @@ jobs:
         run: pip install requests beautifulsoup4
 
       - name: Backfill posts
-        run: python scripts/backfill.py --start-page "${{ inputs.start_page }}" --end-page "${{ inputs.end_page }}"
+        run: python scripts/backfill.py --start-page "${{ inputs.start_page }}" --end-page "${{ inputs.end_page }}" --delay "${{ inputs.delay }}"
 
       - name: Commit changes
         id: commit

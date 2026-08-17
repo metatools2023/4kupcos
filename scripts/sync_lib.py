@@ -173,7 +173,7 @@ def known_slugs():
     return {p.stem for p in CONTENT_DIR.glob("*.md")}
 
 
-def fetch_pages(cache, pages):
+def fetch_pages(cache, pages, delay=1.0):
     """抓取指定页码列表，跳过已存在文章。返回 (新增数, 跳过数)。"""
     known = known_slugs()
     added = skipped = 0
@@ -197,7 +197,7 @@ def fetch_pages(cache, pages):
             added += 1
         print(f"page {page}/{total_pages}: {len(data)} posts "
               f"(added {added}, skipped {skipped})")
-        throttle()
+        time.sleep(delay)
     return added, skipped
 
 
