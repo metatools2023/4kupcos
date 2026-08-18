@@ -4,6 +4,7 @@ date: "2023-02-14T03:36:00"
 slug: "coser-chunmomo-red-box"
 wp_id: 17533
 source: "https://4kup.net/coser-chunmomo-red-box/"
+dl_short: "https://shrtslug.biz/935wh"
 categories:
   - "Asian"
   - "Coser"

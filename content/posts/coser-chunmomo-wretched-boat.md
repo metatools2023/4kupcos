@@ -4,6 +4,7 @@ date: "2023-04-02T00:00:00"
 slug: "coser-chunmomo-wretched-boat"
 wp_id: 18535
 source: "https://4kup.net/coser-chunmomo-wretched-boat/"
+dl_short: "https://shrtslug.biz/935C3"
 categories:
   - "Asian"
   - "Coser"

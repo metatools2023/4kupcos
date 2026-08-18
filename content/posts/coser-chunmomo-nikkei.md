@@ -4,6 +4,7 @@ date: "2025-08-05T21:54:13"
 slug: "coser-chunmomo-nikkei"
 wp_id: 45923
 source: "https://4kup.net/coser-chunmomo-nikkei/"
+dl_short: "https://shrtslug.biz/935wd"
 categories:
   - "Asian"
   - "Coser"

@@ -4,6 +4,7 @@ date: "2022-10-02T20:24:00"
 slug: "coser-vol-032"
 wp_id: 14887
 source: "https://4kup.net/coser-vol-032/"
+dl_short: "https://shrtslug.biz/935C7"
 categories:
   - "Asian"
   - "Coser"

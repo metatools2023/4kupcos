@@ -4,6 +4,7 @@ date: "2024-08-05T08:14:49"
 slug: "coser-chunmomo-boss"
 wp_id: 30724
 source: "https://4kup.net/coser-chunmomo-boss/"
+dl_short: "https://shrtslug.biz/935vX"
 categories:
   - "Asian"
   - "Coser"

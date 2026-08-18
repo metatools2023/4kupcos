@@ -4,6 +4,7 @@ date: "2026-04-14T03:30:13"
 slug: "coser-chunmomo-jk"
 wp_id: 50685
 source: "https://4kup.net/coser-chunmomo-jk/"
+dl_short: "https://shrtslug.biz/935w9"
 categories:
   - "Asian"
   - "Coser"

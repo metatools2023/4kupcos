@@ -4,6 +4,7 @@ date: "2023-07-09T14:09:36"
 slug: "coser-chunmomo-white-elf"
 wp_id: 23189
 source: "https://4kup.net/coser-chunmomo-white-elf/"
+dl_short: "https://shrtslug.biz/935C2"
 categories:
   - "Asian"
   - "Coser"

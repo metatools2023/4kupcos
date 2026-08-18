@@ -4,6 +4,7 @@ date: "2023-01-05T10:48:00"
 slug: "coser-chunmomo-the-story-of-cornfield"
 wp_id: 16739
 source: "https://4kup.net/coser-chunmomo-the-story-of-cornfield/"
+dl_short: "https://shrtslug.biz/935wv"
 categories:
   - "Asian"
   - "Coser"

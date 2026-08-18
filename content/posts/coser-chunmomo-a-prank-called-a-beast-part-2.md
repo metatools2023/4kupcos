@@ -4,6 +4,7 @@ date: "2023-06-30T00:43:12"
 slug: "coser-chunmomo-a-prank-called-a-beast-part-2"
 wp_id: 22950
 source: "https://4kup.net/coser-chunmomo-a-prank-called-a-beast-part-2/"
+dl_short: "https://shrtslug.biz/935vN"
 categories:
   - "Asian"
   - "Coser"

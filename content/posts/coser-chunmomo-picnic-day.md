@@ -4,6 +4,7 @@ date: "2023-04-05T00:00:00"
 slug: "coser-chunmomo-picnic-day"
 wp_id: 18614
 source: "https://4kup.net/coser-chunmomo-picnic-day/"
+dl_short: "https://shrtslug.biz/935wf"
 categories:
   - "Asian"
   - "Coser"

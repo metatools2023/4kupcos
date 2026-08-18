@@ -4,6 +4,7 @@ date: "2023-03-04T12:00:00"
 slug: "coser-chunmomo-mian-mian-rabbit"
 wp_id: 17900
 source: "https://4kup.net/coser-chunmomo-mian-mian-rabbit/"
+dl_short: "https://shrtslug.biz/935wc"
 categories:
   - "Asian"
   - "Coser"

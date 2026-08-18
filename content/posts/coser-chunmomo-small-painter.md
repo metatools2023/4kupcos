@@ -4,6 +4,7 @@ date: "2023-02-12T01:12:00"
 slug: "coser-chunmomo-small-painter"
 wp_id: 17491
 source: "https://4kup.net/coser-chunmomo-small-painter/"
+dl_short: "https://shrtslug.biz/935wn"
 categories:
   - "Asian"
   - "Coser"

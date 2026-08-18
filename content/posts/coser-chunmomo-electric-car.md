@@ -4,6 +4,7 @@ date: "2023-04-18T00:00:00"
 slug: "coser-chunmomo-electric-car"
 wp_id: 18936
 source: "https://4kup.net/coser-chunmomo-electric-car/"
+dl_short: "https://shrtslug.biz/935w1"
 categories:
   - "Asian"
   - "Coser"

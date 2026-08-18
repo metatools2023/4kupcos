@@ -4,6 +4,7 @@ date: "2023-03-30T00:00:00"
 slug: "coser-chunmomo-grocery-meow"
 wp_id: 18464
 source: "https://4kup.net/coser-chunmomo-grocery-meow/"
+dl_short: "https://shrtslug.biz/935w6"
 categories:
   - "Asian"
   - "Coser"

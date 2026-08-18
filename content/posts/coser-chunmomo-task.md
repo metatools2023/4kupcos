@@ -4,6 +4,7 @@ date: "2023-03-27T00:00:00"
 slug: "coser-chunmomo-task"
 wp_id: 18374
 source: "https://4kup.net/coser-chunmomo-task/"
+dl_short: "https://shrtslug.biz/935wt"
 categories:
   - "Asian"
   - "Coser"

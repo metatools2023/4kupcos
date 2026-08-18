@@ -4,6 +4,7 @@ date: "2023-03-26T00:00:00"
 slug: "coser-chunmomo-in-inspection"
 wp_id: 18363
 source: "https://4kup.net/coser-chunmomo-in-inspection/"
+dl_short: "https://shrtslug.biz/935w8"
 categories:
   - "Asian"
   - "Coser"

@@ -4,6 +4,7 @@ date: "2023-03-15T20:24:00"
 slug: "coser-chunmomo-baseball-girl"
 wp_id: 18127
 source: "https://4kup.net/coser-chunmomo-baseball-girl/"
+dl_short: "https://shrtslug.biz/935vV"
 categories:
   - "Asian"
   - "Coser"

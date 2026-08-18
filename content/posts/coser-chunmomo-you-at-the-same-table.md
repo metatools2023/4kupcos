@@ -4,6 +4,7 @@ date: "2023-03-28T00:00:00"
 slug: "coser-chunmomo-you-at-the-same-table"
 wp_id: 18397
 source: "https://4kup.net/coser-chunmomo-you-at-the-same-table/"
+dl_short: "https://shrtslug.biz/935C5"
 categories:
   - "Asian"
   - "Coser"

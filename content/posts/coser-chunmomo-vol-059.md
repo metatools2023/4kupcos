@@ -4,6 +4,7 @@ date: "2022-12-19T15:36:00"
 slug: "coser-chunmomo-vol-059"
 wp_id: 16403
 source: "https://4kup.net/coser-chunmomo-vol-059/"
+dl_short: "https://shrtslug.biz/935y4"
 categories:
   - "Asian"
   - "Coser"

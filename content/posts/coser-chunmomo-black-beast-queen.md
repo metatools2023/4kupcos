@@ -4,6 +4,7 @@ date: "2023-07-04T15:07:12"
 slug: "coser-chunmomo-black-beast-queen"
 wp_id: 23065
 source: "https://4kup.net/coser-chunmomo-black-beast-queen/"
+dl_short: "https://shrtslug.biz/935vW"
 categories:
   - "Asian"
   - "Coser"

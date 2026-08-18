@@ -4,6 +4,7 @@ date: "2023-03-23T00:00:00"
 slug: "coser-chunmomo-sailor-s-diary"
 wp_id: 18276
 source: "https://4kup.net/coser-chunmomo-sailor-s-diary/"
+dl_short: "https://shrtslug.biz/935wk"
 categories:
   - "Asian"
   - "Coser"

@@ -4,6 +4,7 @@ date: "2023-04-13T00:00:00"
 slug: "coser-chunmomo-12"
 wp_id: 18814
 source: "https://4kup.net/coser-chunmomo-12/"
+dl_short: "https://shrtslug.biz/935qT"
 categories:
   - "Asian"
   - "Coser"
