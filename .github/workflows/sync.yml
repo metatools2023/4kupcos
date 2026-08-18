@@ -37,7 +37,7 @@ jobs:
       - name: Sync new posts
         run: python scripts/sync.py --max-pages "${{ inputs.max_pages || '3' }}"
 
-      - name: Add short links (test batch: 蠢沫沫)
+      - name: "Add short links (test batch: chunmomo)"
         env:
           SHRTFLY_API_KEY: ${{ secrets.SHRTFLY_API_KEY }}
         run: python scripts/add_shortlinks.py --model 蠢沫沫
