@@ -61,8 +61,18 @@ jobs:
       - name: Push
         if: steps.commit.outputs.changed == 'true'
         run: |
-          git pull --rebase
-          git push
+          for i in 1 2 3; do
+            if git pull --rebase && git push; then
+              echo "push ok on attempt $i"
+              exit 0
+            fi
+            if [ "$i" -lt 3 ]; then
+              echo "push attempt $i failed, retry in 60s..."
+              sleep 60
+            fi
+          done
+          echo "::error::push failed after 3 attempts"
+          exit 1
 
       - name: Setup Hugo
         if: steps.commit.outputs.changed == 'true' || github.event_name == 'push'

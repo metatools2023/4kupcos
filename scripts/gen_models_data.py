@@ -18,7 +18,7 @@ OUT = ROOT / "data" / "models.json"
 
 def main():
     models = {}
-    for p in CONTENT_DIR.glob("*.md"):
+    for p in sorted(CONTENT_DIR.glob("*.md")):
         text = p.read_text(encoding="utf-8")
         m = TAGS_BLOCK_RE.search(text)
         if not m:
@@ -42,6 +42,7 @@ def main():
 
     data = [{"name": n, "count": r["count"], "latest": r["latest"], "image": r["image"]}
             for n, r in models.items()]
+    data.sort(key=lambda x: x["name"])      # tiebreaker：latest 相同时按名字决胜，保证输出确定
     data.sort(key=lambda x: x["latest"], reverse=True)
     OUT.parent.mkdir(parents=True, exist_ok=True)
     OUT.write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
