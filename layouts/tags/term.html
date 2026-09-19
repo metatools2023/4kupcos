@@ -1,0 +1,42 @@
+{{/* 标签 term 页：文章列表改为与 /categories/coser/ 一致的网格卡片 */}}
+{{ define "main" }}
+{{ $paginator := partial "helper/paginator.html" . }}
+<div class="albums-wall">
+    <header class="albums-head">
+        <h1 class="models-title">{{ .Title }}</h1>
+        <span class="albums-count">共 {{ $paginator.TotalNumberOfElements }} 套</span>
+    </header>
+
+    <div class="models-grid">
+        {{ range $paginator.Pages }}
+        {{ $title := .Title }}
+        {{ $cover := "" }}
+        {{ with .Params.image }}
+            {{ $cover = replace . "/h1000-e7/" "/s400-e35/" }}
+        {{ end }}
+        <a class="model-card album-card" href="{{ .RelPermalink }}">
+            <div class="model-card-img{{ if not $cover }} noimg{{ end }}">
+                {{ with $cover }}
+                <img src="{{ . }}" loading="lazy" decoding="async" alt="{{ $title }}"
+                     onerror="this.parentNode.classList.add('noimg')" />
+                {{ end }}
+            </div>
+            <div class="model-card-info">
+                <span class="model-card-name" title="{{ $title }}">{{ $title }}</span>
+                {{ with .Params.photos }}
+                <span class="model-card-count">{{ . }}P</span>
+                {{ end }}
+            </div>
+        </a>
+        {{ end }}
+    </div>
+
+    {{ partial "pagination.html" . }}
+
+    {{ partialCached "footer/footer" . }}
+</div>
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
