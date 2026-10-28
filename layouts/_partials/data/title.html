@@ -1,0 +1,18 @@
+{{- $pageTitle := .Title -}}
+{{- $siteTitle := .Site.Title -}}
+{{- $skipPagination := and (eq .Kind "term") (eq .Data.Plural "tags") -}}
+{{- $paginator := false -}}
+{{- if not $skipPagination -}}
+    {{- $paginator = partial "helper/paginator.html" . -}}
+{{- end -}}
+
+{{- $title := slice -}}
+
+{{- if and $paginator $paginator.HasPrev -}}
+    <!-- Add page number-->
+    {{ $title = $title | append (printf "Page %d" $paginator.PageNumber) }}
+{{- end -}}
+
+{{- $title = $title | append (default $siteTitle $pageTitle) -}}
+
+{{ return delimit $title " - " }}

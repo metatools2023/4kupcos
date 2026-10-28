@@ -73,6 +73,7 @@ jobs:
         run: |
           hugo --minify
           rm -rf public/categories/coser/page  # 模特墙无分页，删除自动生成的重复副本
+          rm -rf public/tags/*/page  # 标签详情页改为滚动加载，清理分页残留
 
       - name: Deploy to Cloudflare Pages
         if: steps.commit.outputs.changed == 'true'

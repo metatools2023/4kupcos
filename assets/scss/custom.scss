@@ -273,3 +273,19 @@
         flex: 1;
     }
 }
+
+// 滚动加载：隐藏未加载卡片、底部哨兵与加载提示
+.model-card[hidden] {
+    display: none;
+}
+
+.albums-sentinel {
+    height: 1px;
+}
+
+.albums-loading {
+    padding: 1.6rem 0;
+    text-align: center;
+    font-size: 1.4rem;
+    color: var(--card-text-color-tertiary);
+}

@@ -1,20 +1,21 @@
-{{/* 标签 term 页：文章列表改为与 /categories/coser/ 一致的网格卡片 */}}
+{{/* 标签 term 页：文章列表改为与 /categories/coser/ 一致的网格卡片，滚动加载 */}}
 {{ define "main" }}
-{{ $paginator := partial "helper/paginator.html" . }}
+{{ $pages := partial "helper/pages.html" . }}
+{{ $batch := 24 }}
 <div class="albums-wall">
     <header class="albums-head">
         <h1 class="models-title">{{ .Title }}</h1>
-        <span class="albums-count">共 {{ $paginator.TotalNumberOfElements }} 套</span>
+        <span class="albums-count">共 {{ len $pages }} 套</span>
     </header>
 
-    <div class="models-grid">
-        {{ range $paginator.Pages }}
+    <div class="models-grid" id="albums-grid" data-batch="{{ $batch }}">
+        {{ range $index, $page := $pages }}
         {{ $title := .Title }}
         {{ $cover := "" }}
         {{ with .Params.image }}
             {{ $cover = replace . "/h1000-e7/" "/s400-e35/" }}
         {{ end }}
-        <a class="model-card album-card" href="{{ .RelPermalink }}">
+        <a class="model-card album-card" href="{{ .RelPermalink }}"{{ if ge $index $batch }} hidden{{ end }}>
             <div class="model-card-img{{ if not $cover }} noimg{{ end }}">
                 {{ with $cover }}
                 <img src="{{ . }}" loading="lazy" decoding="async" alt="{{ $title }}"
@@ -31,10 +32,64 @@
         {{ end }}
     </div>
 
-    {{ partial "pagination.html" . }}
+    {{ if gt (len $pages) $batch }}
+    <div class="albums-sentinel" id="albums-sentinel" aria-hidden="true"></div>
+    <div class="albums-loading" id="albums-loading" hidden>加载中…</div>
+    <noscript>
+        <style>
+            #albums-grid .model-card[hidden] { display: flex !important; }
+            #albums-sentinel, #albums-loading { display: none !important; }
+        </style>
+    </noscript>
+    {{ end }}
 
     {{ partialCached "footer/footer" . }}
 </div>
+<script>
+(function () {
+    var grid = document.getElementById('albums-grid');
+    if (!grid) return;
+    var cards = Array.prototype.slice.call(grid.children);
+    var batch = parseInt(grid.getAttribute('data-batch'), 10) || 24;
+    var sentinel = document.getElementById('albums-sentinel');
+    var loading = document.getElementById('albums-loading');
+    var shown = Math.min(batch, cards.length);
+
+    if (!sentinel || !('IntersectionObserver' in window) || cards.length <= batch) {
+        cards.forEach(function (card) { card.hidden = false; });
+        if (sentinel) sentinel.hidden = true;
+        if (loading) loading.hidden = true;
+        return;
+    }
+
+    function reveal() {
+        var end = Math.min(shown + batch, cards.length);
+        for (; shown < end; shown++) {
+            cards[shown].hidden = false;
+        }
+        if (shown >= cards.length) {
+            observer.disconnect();
+            sentinel.hidden = true;
+            loading.hidden = true;
+            return;
+        }
+        loading.hidden = false;
+        requestAnimationFrame(function () {
+            if (sentinel.getBoundingClientRect().top < window.innerHeight + 400) {
+                observer.unobserve(sentinel);
+                observer.observe(sentinel);
+            }
+        });
+    }
+
+    var observer = new IntersectionObserver(function (entries) {
+        if (!entries.some(function (entry) { return entry.isIntersecting; })) return;
+        reveal();
+    }, { rootMargin: '400px' });
+
+    observer.observe(sentinel);
+})();
+</script>
 {{ end }}
 
 {{ define "right-sidebar" }}
